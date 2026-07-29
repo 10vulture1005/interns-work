@@ -1,25 +1,13 @@
 [
   {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
-    "company": "Deutsche Bank",
-    "title": "ICOO Apprentice role 2026",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Fall 2026",
-    "posted_at": "Posted Yesterday",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0438236",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Jaipur",
+    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Noida BPTP Capital City",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Yesterday",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0438236",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
     "salary": null,
     "source": "workday"
   },
@@ -48,30 +36,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-160205",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Mumbai.Embassy 247 Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-160205",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-789220",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-789220",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:leidos:job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
     "company": "Leidos",
     "title": "Application Developer Intern",
@@ -80,6 +44,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "company": "Deutsche Bank",
+    "title": "ICOO Apprentice role 2026",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Fall 2026",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Pune - Business Bay",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
     "salary": null,
     "source": "workday"
   },
@@ -96,14 +84,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:autodesk:job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
-    "company": "Autodesk",
-    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
-    "location": "Quebec, CAN - Remote",
-    "category": "Software",
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-792995",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted 8 Days Ago",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792995",
     "salary": null,
     "source": "workday"
   },
@@ -180,14 +168,26 @@
     "source": "workday"
   },
   {
-    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041709",
-    "company": "Gevernova",
-    "title": "Grid Automation & Software Intern",
-    "location": "Remote",
-    "category": "Software",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
     "salary": null,
     "source": "workday"
   },
@@ -276,6 +276,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041706-3",
+    "company": "Gevernova",
+    "title": "Grid Automation & Software Intern",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:globalfoundries:job/IND---Karnataka---Bengaluru---North/Intern---SOI-LDMOS-Compact--SPICE--Modeling_JR-2501258",
     "company": "GlobalFoundries",
     "title": "Intern - Compact Modeling Flow using AI/ML/Automation",
@@ -320,18 +332,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_atleos_us/job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
     "salary": null,
     "source": "workday"
   },
@@ -384,18 +384,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -416,18 +404,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:autodesk:job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
-    "company": "Autodesk",
-    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
-    "location": "Quebec, CAN - Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
     "salary": null,
     "source": "workday"
   },
@@ -634,18 +610,6 @@
     "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10013",
     "salary": null,
     "source": "oracle"
-  },
-  {
-    "id": "workable:innovaccer-analytics:47C4AD89C2",
-    "company": "Innovaccer",
-    "title": "Apprentice - HR (Employee Engagement)",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-28T00:00:00.000Z",
-    "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
-    "salary": null,
-    "source": "workable"
   },
   {
     "id": "lever:dnb:ddce86a8-1d41-41a1-b183-55b7391955ab",
