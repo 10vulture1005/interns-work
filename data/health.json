@@ -1,7 +1,7 @@
 {
   "amazon:amazon": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for amazon"
   },
   "ashby:1kosmos": {
@@ -65,8 +65,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/checkout?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:circle": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/circle?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "ashby:conductorone": {
@@ -270,88 +270,88 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/whatnot?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
   "breezy:census": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "breezy:hmt-tank": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "breezy:jnd-inc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "breezy:navaide": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "breezy:north-wind-group": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "breezy:nucleusteq": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "breezy:onyx-insight": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "breezy:transact-campus": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "breezy:vantage-point-solutions-inc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "breezy:vetsez": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "breezy:wavetronix": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for breezy"
   },
   "custom:meesho-custom": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for custom"
   },
   "custom:paytm-custom": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for custom"
   },
   "custom:phonepe-custom": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for custom"
   },
   "custom:swiggy-custom": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for custom"
   },
   "custom:zomato-custom": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for custom"
   },
   "eightfold:netflix": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for eightfold"
   },
   "greenhouse:alma": {
@@ -360,13 +360,13 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/alma/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:amagi": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amagi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:apna": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/apna/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:appliedintuition": {
@@ -375,8 +375,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/appliedintuition/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "greenhouse:arcellx": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/arcellx/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:arine": {
@@ -385,8 +385,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/arine/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:atlassian": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/atlassian/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:barkley": {
@@ -400,18 +400,18 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/bitgointernships/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "greenhouse:boards": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/boards/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:browserstack": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/browserstack/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "greenhouse:byjus": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/byjus/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:campusopportunities": {
@@ -425,18 +425,18 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/capitalrx/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:chargebee": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/chargebee/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:clevertap": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clevertap/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:cred-club": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/cred-club/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:cti": {
@@ -445,13 +445,13 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/cti/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:darwinbox": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/darwinbox/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:dream11": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/dream11/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:dustyrobotics": {
@@ -480,8 +480,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/google/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:hasura": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/hasura/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:ibkr": {
@@ -490,23 +490,23 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/ibkr/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:icertis": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/icertis/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:innovaccer": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/innovaccer/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:job-boards": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/job-boards/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:locus": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/locus/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:loop": {
@@ -535,13 +535,13 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/modernizingmedicineinc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "greenhouse:ola": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/ola/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:olaelectric": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/olaelectric/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "greenhouse:omguk": {
@@ -555,8 +555,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/optirtc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:oyo": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/oyo/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:qualifiedhealth": {
@@ -565,13 +565,13 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/qualifiedhealth/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:razorpay": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/razorpay/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "greenhouse:rebelfoods": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/rebelfoods/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:redis": {
@@ -590,8 +590,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/spotonproduct/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "greenhouse:summit": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/summit/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:thumbtack": {
@@ -610,8 +610,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/uber/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:udaan": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/udaan/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:uplifter": {
@@ -620,18 +620,18 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/uplifter/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "greenhouse:urbancompany": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/urbancompany/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "greenhouse:vymo": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/vymo/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:whatfix": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/whatfix/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:withumsmithbrown": {
@@ -640,93 +640,93 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/withumsmithbrown/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "greenhouse:zepto": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/zepto/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:zerodha": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/zerodha/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "indeed:ai+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for indeed"
   },
   "indeed:backend+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for indeed"
   },
   "indeed:devops+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for indeed"
   },
   "indeed:frontend+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for indeed"
   },
   "indeed:java+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for indeed"
   },
   "indeed:python+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for indeed"
   },
   "indeed:react+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for indeed"
   },
   "indeed:sde+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for indeed"
   },
   "indeed:software+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for indeed"
   },
   "internshala:computer-science-internship": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for internshala"
   },
   "internshala:data-science-internship": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for internshala"
   },
   "internshala:machine-learning-internship": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for internshala"
   },
   "internshala:mobile-app-development-internship": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for internshala"
   },
   "internshala:python-development-internship": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for internshala"
   },
   "internshala:web-development-internship": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for internshala"
   },
   "lever:acko": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/acko?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:aifund": {
@@ -750,8 +750,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/arcteryx?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:atlan": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/atlan?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:attentive": {
@@ -765,8 +765,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/bestegg?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:cardekho": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/cardekho?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:catbird": {
@@ -795,23 +795,23 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/cordtechnologies?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "lever:cultfit": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/cultfit?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:dealshare": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/dealshare?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:digit": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/digit?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:elasticrun": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/elasticrun?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:energyvault": {
@@ -825,13 +825,13 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/envedabio?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:firstcry": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/firstcry?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:flipkart": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/flipkart?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:grid": {
@@ -845,28 +845,28 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/istaridigital?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "lever:jar-app": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/jar-app?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:khatabook": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/khatabook?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:leadschool": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/leadschool?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:lenskart": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/lenskart?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:livspace": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/livspace?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:lumindigital": {
@@ -875,8 +875,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/lumindigital?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:machinalabs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/machinalabs?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:mbrdna": {
@@ -885,8 +885,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/mbrdna?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:navi-technologies": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/navi-technologies?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "lever:nimbleai": {
@@ -905,18 +905,18 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/oaknorth?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:olacabs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/olacabs?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:pharmeasy": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/pharmeasy?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:pinelabs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/pinelabs?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:quantumworkplace": {
@@ -930,8 +930,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/regalvoice?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sharechat": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/sharechat?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:simberobotics": {
@@ -945,8 +945,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/southwestwater?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "lever:spinny": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/spinny?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sprinterhealth": {
@@ -960,8 +960,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/sprucesystems?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "lever:swiggy": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/swiggy?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:symmetrysystems": {
@@ -980,18 +980,18 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/trend-health-partners?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "lever:unacademy": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/unacademy?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:upgrad": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/upgrad?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:upstox": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/upstox?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:welocalize": {
@@ -1005,1433 +1005,163 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:zenoti": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/zenoti?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:zomato": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/zomato?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "linkedin:ai+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:backend+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:data+science+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:devops+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:frontend+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:java+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:machine+learning+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:python+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:react+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:sde+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:software+engineer+intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "linkedin:swe+intern+india": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for linkedin"
   },
   "naukri:ai-intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for naukri"
   },
   "naukri:backend-developer-internship": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for naukri"
   },
   "naukri:backend-intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for naukri"
   },
   "naukri:devops-intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for naukri"
   },
   "naukri:frontend-intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for naukri"
   },
   "naukri:java-intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for naukri"
   },
   "naukri:python-intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for naukri"
   },
   "naukri:react-intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for naukri"
   },
   "naukri:sde-intern": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for naukri"
   },
   "naukri:software-internship": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for naukri"
   },
-  "oracle:cva.fa.us1.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ebcs.fa.em2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ebgj.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ebwh.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ebxr.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ebxs.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ecge.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ecsr.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ecvz.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ecyq.fa.em2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eczd.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eczy.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:edbz.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:edel.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:edix.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:edmn.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:edxn.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:edyy.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eedu.fa.em3.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eeho.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eeik.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eevd.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:efds.fa.em5.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:egay.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:egua.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:egud.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:egug.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ehac.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ehif.fa.em2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ehpv.fa.em2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ehtc.fa.ca2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ehth.fa.em2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ehtl.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ehtv.fa.em2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ehzq.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eimy.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ejcu.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ejhp.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ejia.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ejko.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ejrz.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ejta.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ekbq.fa.em2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ekcf.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ekgn.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ekkh.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ekmu.fa.em3.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ekug.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:elar.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:elvp.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:elxw.fa.em3.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:emdz.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:emit.fa.ca3.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:emje.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:emqz.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:emsl.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:encd.fa.em3.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eoce.fa.em3.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eofd.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eofe.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eoff.fa.em1.ukg.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eoje.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:eppr.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:epyc.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:erhk.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:erqh.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ertr.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:etgi.fa.us8.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:etyy.fa.ap2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ewij.fa.us8.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ewvl.fa.us8.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-eomj-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-epzg-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-eqpz-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-eqsg-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-eqto-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-erjf-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-etgw-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-etnb-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-etqo-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-euxc-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-evcg-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-evdq-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-evxo-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-ewca-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-ewgu-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-exbd-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-exby-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-exew-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-exki-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-exkk-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-extu-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:fa-eygo-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hbbq.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hcal.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hcbo.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hccz.fa.em3.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hcgn.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hcjy.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hckd.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hckz.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hcog.fa.em2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hcor.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hctz.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hcut.fa.ap2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hcwp.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hcxs.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hczw.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hdhl.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hdid.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hdjq.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hdks.fa.ca2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hdow.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hdpc.fa.us2.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hdpn.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:hdsn.fa.us6.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ibnjjb.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ibqbjb.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:ibwujb.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:jpmc.fa.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
-  "oracle:tulane-ibqejb.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for oracle"
-  },
   "recruitee:1x": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for recruitee"
   },
   "recruitee:hardrockdigital": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for recruitee"
   },
-  "rippling:aapd-jobs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:acretrader-jobs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:adelaide": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:agilitypr": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:amika-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:ampersand-biomedicines": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:ampliwork-inc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:apexanalytix-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:ascentt": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:bloomgrowth": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:blue-robotics": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:boom-supersonic": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:bornprimitive-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:buxtoncocareers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:camlin-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:citylogix": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:closinglock": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:cloud-synapps-inc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:colheli": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:conceptplus": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:core-sound-imaging": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:critical-response-group": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:democratic-national-committee": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:denari": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:dgrsystems": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:dlsengineering": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:duku-ai": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:edgehog-trading": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:ega-job-board": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:electrosonic-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:elevationcapital": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:encore-auctions": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:energycap-external-career-page": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:enludio-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:etg": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:external-job-board": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:facereality": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:flexai": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:fluidai-medical-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:forterra": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:foundation-robotics": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:free-market-health": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:gaiias-open-positions": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:general": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:genlogs-corporation": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:gitar-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:glass-roots-construction-llc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:gofishdigital": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:greengas": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:harness-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:intersection": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:jobs-at-tuesday-health": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:journaltech": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:kielo": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:kraken-robotics-inc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:legitscript-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:les-olson-it": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:lightguide": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:linenmaster": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:longevity-holdings": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:loop-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:lynx-software-technologies": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:mei-employment": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:memryx": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:mikata": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:momentumcareers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:moon": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:msm": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:mytra": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:neosigma": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:nerdio-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:netwrix-corporation": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:north-cloud": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:noviam": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:nws": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:omnis-corporation": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:onware": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:open-roles": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:orderco": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:pathos": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:patientnow": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:peakhealth-ai": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:pendulum-intelligence-jobs": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:perle": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:power-takeoff-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:proper-voltage": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:redesigncareers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:riot-platforms-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:rippling": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:routeware-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:rugsusa": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:sennos": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:sibros-technologies": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:skytrac": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:spreeai": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:supernova-technology": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:supper": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:t1d-exchange-career-center": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:talent-101-inc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:tavernresearch": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:teamworks-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:theguarantors-open-positions": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:tive-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:topdoglaw": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:truepointcareers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:turntide-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:uhin-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:unily": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:usare": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:veryable-careers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:vortex-companies-llc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:wdscareers": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:whc": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
-  "rippling:zededa": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "no connector for rippling"
-  },
   "unstop:cybersecurity": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for unstop"
   },
   "unstop:data-science": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for unstop"
   },
   "unstop:machine-learning": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for unstop"
   },
   "unstop:software-engineering": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for unstop"
   },
   "unstop:web-development": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for unstop"
   },
   "wellfound:wellfound-india": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-29T19:38:45Z",
     "last_error": "no connector for wellfound"
   }
 }

@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Noida BPTP Capital City",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -24,14 +36,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:alcon:job/Bangalore-India/Phaco-Development-Apprentice_R-2026-46416",
-    "company": "Alcon",
-    "title": "Phaco Development Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
+    "id": "workday:leidos:job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
+    "company": "Leidos",
+    "title": "Application Developer Intern",
+    "location": "Indianapolis, IN",
+    "category": "Software",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Bangalore-India/Phaco-Development-Apprentice_R-2026-46416",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
     "salary": null,
     "source": "workday"
   },
@@ -84,78 +96,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:autodesk:job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
-    "company": "Autodesk",
-    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
-    "location": "Quebec, CAN - Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 8 Days Ago",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Gurgaon, Haryana, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 7 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Finance---FPNA-_JR-203480-1",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Finance - FPNA)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Finance---FPNA-_JR-203480-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Finance Business Intelligence)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Learning Management System)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bmc:job/Remote/Cybersecurity---AI-Data-Governance-Intern_50294",
-    "company": "Boston Medical Center",
-    "title": "Cybersecurity & AI/Data Governance Intern",
-    "location": "Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://bmc.wd1.myworkdayjobs.com/en-US/BMC/job/Remote/Cybersecurity---AI-Data-Governance-Intern_50294",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -180,14 +120,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:jll:job/Mumbai-MH/Technology-Support---Apprentice-India_REQ519819",
-    "company": "Jones Lang LaSalle (JLL)",
-    "title": "Technology Support - Apprentice India",
-    "location": "Mumbai, MH",
+    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Bangalore , Karnataka, India",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 6 Days Ago",
-    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Mumbai-MH/Technology-Support---Apprentice-India_REQ519819",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
     "salary": null,
     "source": "workday"
   },
@@ -204,14 +144,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
-    "company": "Campbellsoup",
-    "title": "Agentic AI Engineer Co-Op",
-    "location": "USA - Remote",
-    "category": "Data & ML/AI",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -240,14 +180,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
+    "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
+    "company": "Campbellsoup",
+    "title": "Agentic AI Engineer Co-Op",
+    "location": "USA - Remote",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "salary": null,
     "source": "workday"
   },
@@ -420,18 +360,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -452,18 +380,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:autodesk:job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
-    "company": "Autodesk",
-    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
-    "location": "Quebec, CAN - Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
     "salary": null,
     "source": "workday"
   },
@@ -512,18 +428,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 21 Days Ago",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Gurgaon-India/EIC-Apprentice---Valuations-and-Advisory-Gurugram_R327452",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-158594-1",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "AtkinsRéalis - Corporate Office Bangalore",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 2 Days Ago",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-158594-1",
     "salary": null,
     "source": "workday"
   },
@@ -670,6 +574,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "oracle:ibwujb.fa.ocs.oraclecloud.com:10013",
+    "company": "Ralliant",
+    "title": "DevOps - Intern",
+    "location": "Ahmedabad, Gujarat, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-07-29",
+    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10013",
+    "salary": null,
+    "source": "oracle"
   },
   {
     "id": "workable:innovaccer-analytics:47C4AD89C2",
@@ -850,6 +766,30 @@
     "url": "https://apply.workable.com/altom-transport/j/8536165C7B/",
     "salary": null,
     "source": "workable"
+  },
+  {
+    "id": "rippling:spreeai:aa087086-dd4b-42be-a499-051546655e97",
+    "company": "SPREEAI",
+    "title": "Machine Learning Engineer Intern (Computer Vision/Multimodal/Generative AI)",
+    "location": "Hybrid (San Francisco, California, US)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://ats.rippling.com/spreeai/jobs/aa087086-dd4b-42be-a499-051546655e97",
+    "salary": null,
+    "source": "rippling"
+  },
+  {
+    "id": "rippling:spreeai:c52472cb-2671-45d7-b666-17196dc3df25",
+    "company": "SPREEAI",
+    "title": "Mobile Software Engineer Intern — Flagship Apps (iOS / Android / Web)",
+    "location": "Hybrid (San Francisco, California, US)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://ats.rippling.com/spreeai/jobs/c52472cb-2671-45d7-b666-17196dc3df25",
+    "salary": null,
+    "source": "rippling"
   },
   {
     "id": "workday:criteo:job/Gurgaon/Data-Analyst--Intern_r20878",
