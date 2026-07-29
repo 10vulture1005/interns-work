@@ -111,16 +111,24 @@ async def fetch(company: dict, net: Net) -> list[Job]:
 
     _parse_page(first_page)
 
-    # Fetch remaining pages
-    for page in range(1, _MAX_PAGES):
-        offset = page * _PAGE_SIZE
+    import asyncio
+
+    # Fetch remaining pages concurrently
+    pages_to_fetch = min((total + _PAGE_SIZE - 1) // _PAGE_SIZE, 200)  # Max 4000 jobs
+    
+    async def fetch_page(page_num: int):
+        offset = page_num * _PAGE_SIZE
         if offset >= total:
-            break
+            return
         url = _URL_TEMPLATE.format(tenant=tenant, dc=working_dc, site=site)
         try:
             data = await net.post_json(url, json=_build_body(offset))
             _parse_page(data)
-        except Exception:
-            break
+        except Exception as e:
+            pass
+
+    tasks = [fetch_page(p) for p in range(1, pages_to_fetch)]
+    if tasks:
+        await asyncio.gather(*tasks)
 
     return jobs

@@ -25,7 +25,7 @@ _INCLUDE_RE = re.compile(
     r"machine learning|ml|deep learning|ai|artificial intelligence|nlp|computer vision|"
     r"research scientist|applied scientist|research engineer|ml engineer|ai engineer|"
     r"quantitative developer|quant developer|computer science|programming|"
-    r"technology|tech|cybersecurity|security"
+    r"technology|tech|cybersecurity|security|analyst|apprentice"
     r")\b",
     re.IGNORECASE,
 )
