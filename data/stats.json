@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T12:34:01Z",
-  "duration_seconds": 792.1,
-  "companies_total": 4491,
+  "generated_at": "2026-07-29T13:35:13Z",
+  "duration_seconds": 1281.1,
+  "companies_total": 4492,
   "companies_by_source": {
-    "greenhouse": 1020,
+    "greenhouse": 1019,
     "lever": 380,
-    "smartrecruiters": 718,
+    "smartrecruiters": 717,
     "ashby": 587,
     "recruitee": 2,
     "workday": 1423,
@@ -13,6 +13,8 @@
     "rippling": 114,
     "workable": 43,
     "amazon": 1,
+    "bloomberg": 1,
+    "bytedance": 1,
     "breezy": 11,
     "google": 1,
     "indeed": 9,
@@ -22,50 +24,39 @@
     "custom": 5,
     "naukri": 10,
     "eightfold": 1,
+    "uber": 1,
     "unstop": 5,
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 105,
-  "fetched_ok": 4006,
-  "fetch_errors": 378,
+  "quarantined": 479,
+  "fetched_ok": 3988,
+  "fetch_errors": 23,
   "errors_by_source": {
-    "recruitee": 2,
-    "lever": 29,
-    "oracle": 140,
-    "rippling": 114,
-    "greenhouse": 30,
-    "amazon": 1,
-    "breezy": 11,
-    "ashby": 2,
-    "indeed": 9,
-    "internshala": 6,
-    "linkedin": 12,
-    "custom": 5,
-    "naukri": 10,
-    "eightfold": 1,
-    "unstop": 5,
-    "wellfound": 1
-  },
-  "fetch_success_rate": 0.913,
-  "roles_matched": 18,
-  "roles_by_source": {
-    "workable": 2,
-    "workday": 7,
     "ashby": 1,
-    "lever": 2,
+    "workable": 6,
+    "smartrecruiters": 16
+  },
+  "fetch_success_rate": 0.994,
+  "roles_matched": 72,
+  "roles_by_source": {
+    "workday": 58,
+    "workable": 2,
+    "ashby": 1,
+    "lever": 4,
     "smartrecruiters": 1,
-    "greenhouse": 5
+    "greenhouse": 6
   },
   "roles_by_cycle": {
-    "Fall 2026": 1,
-    "Summer 2027": 17
+    "Summer 2027": 69,
+    "Term Unconfirmed": 2,
+    "Fall 2026": 1
   },
   "roles_by_region": {
-    "India": 10,
-    "Remote": 8
+    "India": 48,
+    "Remote": 24
   },
   "purged_this_run": 0,
-  "new_this_run": 3,
-  "open_total": 18
+  "new_this_run": 55,
+  "open_total": 72
 }

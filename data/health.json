@@ -105,8 +105,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/flashpoint?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:fractional-ai": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/fractional-ai?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/e"
   },
   "ashby:genesis-therapeutics": {
@@ -838,16 +838,6 @@
     "consecutive_failures": 3,
     "last_attempt_at": "2026-07-29T11:21:02Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/grid?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
-  },
-  "lever:hotstar": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "ConnectTimeout: "
-  },
-  "lever:houzz": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-07-29T12:34:01Z",
-    "last_error": "ConnectTimeout: "
   },
   "lever:istaridigital": {
     "consecutive_failures": 3,
@@ -2414,6 +2404,86 @@
     "last_attempt_at": "2026-07-29T12:34:01Z",
     "last_error": "no connector for rippling"
   },
+  "smartrecruiters:HarvardUniversity": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/HarvardUniversity/postings?limit=100&offset=0&q=intern'\nFor more information check: https://develo"
+  },
+  "smartrecruiters:ImplifyInc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/ImplifyInc/postings?limit=100&offset=0&q=intern'\nFor more information check: https://developer.moz"
+  },
+  "smartrecruiters:InfiniteQuant": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/InfiniteQuant/postings?limit=100&offset=0&q=intern'\nFor more information check: https://developer."
+  },
+  "smartrecruiters:InfojiniInc1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/InfojiniInc1/postings?limit=100&offset=0&q=intern'\nFor more information check: https://developer.m"
+  },
+  "smartrecruiters:InformaGroupPlc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/InformaGroupPlc/postings?limit=100&offset=0&q=intern'\nFor more information check: https://develope"
+  },
+  "smartrecruiters:InsilicoLogix": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/InsilicoLogix/postings?limit=100&offset=0&q=intern'\nFor more information check: https://developer."
+  },
+  "smartrecruiters:IntegratedResourcesINC": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/IntegratedResourcesINC/postings?limit=100&offset=0&q=intern'\nFor more information check: https://d"
+  },
+  "smartrecruiters:careers-at-impetus": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/careers-at-impetus/postings?limit=100&offset=0&q=intern'\nFor more information check: https://devel"
+  },
+  "smartrecruiters:impact-analytics-india": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/impact-analytics-india/postings?limit=100&offset=0&q=intern'\nFor more information check: https://d"
+  },
+  "smartrecruiters:increff-engineering": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/increff-engineering/postings?limit=100&offset=0&q=intern'\nFor more information check: https://deve"
+  },
+  "smartrecruiters:indexexchange": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/indexexchange/postings?limit=100&offset=0&q=intern'\nFor more information check: https://developer."
+  },
+  "smartrecruiters:indmoney": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/indmoney/postings?limit=100&offset=0&q=intern'\nFor more information check: https://developer.mozil"
+  },
+  "smartrecruiters:indusvalleypartners": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/indusvalleypartners/postings?limit=100&offset=0&q=intern'\nFor more information check: https://deve"
+  },
+  "smartrecruiters:infoedge": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/infoedge/postings?limit=100&offset=0&q=intern'\nFor more information check: https://developer.mozil"
+  },
+  "smartrecruiters:informatica": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/informatica/postings?limit=100&offset=0&q=intern'\nFor more information check: https://developer.mo"
+  },
+  "smartrecruiters:inframarket": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '400 Bad Request' for url 'https://api.smartrecruiters.com/v1/companies/inframarket/postings?limit=100&offset=0&q=intern'\nFor more information check: https://developer.mo"
+  },
   "unstop:cybersecurity": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-07-29T12:34:01Z",
@@ -2444,9 +2514,39 @@
     "last_attempt_at": "2026-07-29T12:34:01Z",
     "last_error": "no connector for wellfound"
   },
+  "workable:coldquanta": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/coldquanta/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
+  },
   "workable:enfos-inc": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-07-29T11:21:02Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/enfos-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
+  "workable:halo-industries": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/halo-industries/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "workable:hyperlight": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/hyperlight/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
+  },
+  "workable:innovaccer-analytics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/innovaccer-analytics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+  },
+  "workable:kestra-medical-technologies-inc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/kestra-medical-technologies-inc/jobs'\nFor more information check: https://developer.mozilla.or"
+  },
+  "workable:twocircles": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-29T13:35:13Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/twocircles/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP"
   }
 }
