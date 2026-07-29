@@ -227,7 +227,9 @@ garena
 garmin
 gartner
 ge-digital
-ge-healthcare
+gehc
+gehealthcare
+ge-healthcare-india
 geico
 general-electric
 general-motors
@@ -656,3 +658,8 @@ zs-associates
 zscaler
 zulily
 zynga
+ancestry
+globalfoundries
+scopely
+valeo
+ibwujb.fa.ocs.oraclecloud.com
