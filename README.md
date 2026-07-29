@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-19-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Jul 29, 2026 at 13:35 UTC</em></p>
+  <p><em>Last updated: Jul 29, 2026 at 18:50 UTC</em></p>
 </div>
 
 ---
@@ -44,16 +44,22 @@
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Quebec, CAN - Remote | Posted 30+ | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
-| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Remote | Posted 19  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043128-1) |
+| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043509) |
 
 _~ = the title doesn't state a year; bucketed here from its posting date (18 of 19)._
 
 <details>
-<summary><strong>Recently closed</strong> — 1 roles taken down</summary>
+<summary><strong>Recently closed</strong> — 7 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-07-29 |
+| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-29 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-29 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-07-29 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-29 |
+| S&P Global | Apprentice, Software Development/Engineering | Summer 2027 | 2026-07-29 |
 | Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-07-29 |
 
 </details>
