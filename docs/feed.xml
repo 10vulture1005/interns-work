@@ -1,23 +1,53 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Intern Engine India — New Internships</title>
-  <link href="https://your-username.github.io/intern-engine-india/feed.xml" rel="self"/>
-  <link href="https://your-username.github.io/intern-engine-india/" rel="alternate"/>
-  <id>https://your-username.github.io/intern-engine-india/</id>
-  <updated>2026-07-28T20:22:03Z</updated>
+  <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
+  <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
+  <id>https://10vulture1005.github.io/interns-work/</id>
+  <updated>2026-07-29T12:34:01Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Altom Transport — Fall Software Development Intern</title>
-    <link href="https://apply.workable.com/altom-transport/j/9FC654F05E/" rel="alternate"/>
-    <id>workable:altom-transport:9FC654F05E</id>
-    <updated>2026-07-28T20:22:03Z</updated>
-    <summary>Hammond, Indiana, United States · Software · Fall 2026</summary>
+    <title>Member Solutions — Cybersecurity GRC Intern</title>
+    <link href="https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560" rel="alternate"/>
+    <id>workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560</id>
+    <updated>2026-07-29T12:34:01Z</updated>
+    <summary>India (Jonas Collections and Recovery Inc) · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>ConnectPrep — Data Analyst Internship</title>
-    <link href="https://apply.workable.com/connectprep/j/C0CA13664F/" rel="alternate"/>
-    <id>workable:connectprep:C0CA13664F</id>
-    <updated>2026-07-28T20:22:03Z</updated>
-    <summary>Washington, District of Columbia, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Member Solutions — Security Operations Intern</title>
+    <link href="https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658" rel="alternate"/>
+    <id>workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658</id>
+    <updated>2026-07-29T12:34:01Z</updated>
+    <summary>India (Jonas Collections and Recovery Inc) · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>S&amp;P Global — Apprentice, Software Development/Engineering</title>
+    <link href="https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Hyderabad-Telangana/Apprentice--Software-Development-Engineering_329522-1" rel="alternate"/>
+    <id>workday:spgi:job/Hyderabad-Telangana/Apprentice--Software-Development-Engineering_329522-1</id>
+    <updated>2026-07-29T12:34:01Z</updated>
+    <summary>Hyderabad, Telangana · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Autodesk — Intern Software Developer, Stagiaire en Développement Logiciel</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1" rel="alternate"/>
+    <id>workday:autodesk:job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1</id>
+    <updated>2026-07-29T11:21:02Z</updated>
+    <summary>Quebec, CAN - Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Autodesk — Stagiaire en Développement Cloud, Intern Cloud Developer</title>
+    <link href="https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1" rel="alternate"/>
+    <id>workday:autodesk:job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1</id>
+    <updated>2026-07-29T11:21:02Z</updated>
+    <summary>Quebec, CAN - Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Criteo — Data Analyst- Intern</title>
+    <link href="https://criteo.wd3.myworkdayjobs.com/en-US/Criteo_Career_Site/job/Gurgaon/Data-Analyst--Intern_r20878" rel="alternate"/>
+    <id>workday:criteo:job/Gurgaon/Data-Analyst--Intern_r20878</id>
+    <updated>2026-07-29T11:21:02Z</updated>
+    <summary>Gurgaon · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Sony — Research Intern on Generative and Protective AI for Content Creation</title>
+    <link href="https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335" rel="alternate"/>
+    <id>workday:sonyglobal:job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335</id>
+    <updated>2026-07-29T11:21:02Z</updated>
+    <summary>Remote - New York · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Deepgram — Software Engineering- Internship (Fall 2026/Summer 2027)</title>
     <link href="https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1" rel="alternate"/>
@@ -25,31 +55,13 @@
     <updated>2026-07-28T20:22:03Z</updated>
     <summary>USA | Remote · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Epifi — Ai Engg Intern</title>
-    <link href="https://jobs.lever.co/epifi/08c743e8-2b29-4f78-827e-5bd90476ed86" rel="alternate"/>
-    <id>lever:epifi:08c743e8-2b29-4f78-827e-5bd90476ed86</id>
-    <updated>2026-07-28T20:22:03Z</updated>
-    <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Epifi — DS/ML Intern</title>
-    <link href="https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37" rel="alternate"/>
-    <id>lever:epifi:08fc1577-4593-4b94-b66b-08e638d29f37</id>
-    <updated>2026-07-28T20:22:03Z</updated>
-    <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Hirevue Inc — Data Science Intern | Fully Remote US</title>
-    <link href="https://jobs.smartrecruiters.com/HireVue/744000138728139" rel="alternate"/>
-    <id>smartrecruiters:HireVue:744000138728139</id>
-    <updated>2026-07-28T20:22:03Z</updated>
-    <summary>Sandy, UT, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>iHerb — Software Development Intern</title>
+    <title>Iherb — Software Development Intern</title>
     <link href="https://job-boards.greenhouse.io/iherb/jobs/7776154003" rel="alternate"/>
     <id>greenhouse:iherb:7776154003</id>
     <updated>2026-07-28T20:22:03Z</updated>
     <summary>United States of America - Remote / Home Office · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Imc — 2027 - Software Engineering Intern - BITS Pilani</title>
+    <title>IMC Trading — 2027 - Software Engineering Intern - BITS Pilani</title>
     <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4917549101" rel="alternate"/>
     <id>greenhouse:imc:4917549101</id>
     <updated>2026-07-28T20:22:03Z</updated>
@@ -72,5 +84,35 @@
     <id>greenhouse:stripe:8031833</id>
     <updated>2026-07-28T20:22:03Z</updated>
     <summary>Bengaluru · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Epifi — Ai Engg Intern</title>
+    <link href="https://jobs.lever.co/epifi/08c743e8-2b29-4f78-827e-5bd90476ed86" rel="alternate"/>
+    <id>lever:epifi:08c743e8-2b29-4f78-827e-5bd90476ed86</id>
+    <updated>2026-07-28T20:22:03Z</updated>
+    <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Epifi — DS/ML Intern</title>
+    <link href="https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37" rel="alternate"/>
+    <id>lever:epifi:08fc1577-4593-4b94-b66b-08e638d29f37</id>
+    <updated>2026-07-28T20:22:03Z</updated>
+    <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>HireVue — Data Science Intern | Fully Remote US</title>
+    <link href="https://jobs.smartrecruiters.com/HireVue/744000138728139" rel="alternate"/>
+    <id>smartrecruiters:HireVue:744000138728139</id>
+    <updated>2026-07-28T20:22:03Z</updated>
+    <summary>Sandy, UT, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Altom Transport — Fall Software Development Intern</title>
+    <link href="https://apply.workable.com/altom-transport/j/9FC654F05E/" rel="alternate"/>
+    <id>workable:altom-transport:9FC654F05E</id>
+    <updated>2026-07-28T20:22:03Z</updated>
+    <summary>Hammond, Indiana, United States · Software · Fall 2026</summary>
+  </entry>  <entry>
+    <title>ConnectPrep — Data Analyst Internship</title>
+    <link href="https://apply.workable.com/connectprep/j/C0CA13664F/" rel="alternate"/>
+    <id>workable:connectprep:C0CA13664F</id>
+    <updated>2026-07-28T20:22:03Z</updated>
+    <summary>Washington, District of Columbia, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

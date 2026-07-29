@@ -76,3 +76,36 @@ class Net:
             return response.json()
 
         raise last_error or httpx.HTTPError(f"request to {url} failed after retries")
+
+    async def fetch_html(self, url: str, *, needs_interaction: bool = False, check_robots: bool = False):
+        """Fetch HTML, escalating from Tier 1 (httpx/Fetcher) to Tier 2/3 (Scrapling)."""
+        host = httpx.URL(url).host
+        sem = await self._limiter.acquire(host)
+
+        def _do_fetch():
+            from scrapling.fetchers import Fetcher, StealthyFetcher, DynamicFetcher
+            
+            if needs_interaction:
+                try:
+                    return DynamicFetcher.fetch(url, headless=True)
+                except Exception as e:
+                    print(f"Tier 3 fetch failed for {url}: {e}")
+                    return None
+                
+            try:
+                page = Fetcher.get(url, timeout=15)
+                if page.status == 200:
+                    return page
+            except Exception as e:
+                print(f"Tier 1 fetch failed for {url}: {e}")
+
+            # Tier 1 failed — escalate
+            try:
+                print(f"Escalating to Tier 2 for {url}")
+                return StealthyFetcher.fetch(url, headless=True)
+            except Exception as e:
+                print(f"Tier 2 fetch failed for {url}: {e}")
+                return None
+                
+        async with sem:
+            return await asyncio.to_thread(_do_fetch)

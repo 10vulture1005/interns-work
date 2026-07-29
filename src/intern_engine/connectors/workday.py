@@ -55,7 +55,7 @@ async def fetch(company: dict, net: Net) -> list[Job]:
     Requires ``company["tenant"]`` and ``company["site"]`` to be set.
     Optionally ``company["dc"]`` to skip data center discovery.
     """
-    tenant = company.get("tenant")
+    tenant = company.get("tenant") or company.get("slug")
     site = company.get("site")
     if not tenant or not site:
         raise ValueError(

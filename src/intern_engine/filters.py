@@ -8,7 +8,7 @@ import re
 from datetime import UTC, datetime
 
 # --- internship detection ---
-_INTERN_RE = re.compile(r"\b(intern|interns|internship|co[\s-]?op)\b", re.IGNORECASE)
+_INTERN_RE = re.compile(r"\b(intern|interns|internship|co[\s-]?op|summer analyst|off-cycle analyst|apprentice|apprenticeship|trainee)\b", re.IGNORECASE)
 _SENIOR_RE = re.compile(
     r"\b(senior|sr|staff|principal|manager|director|\blead\b|vp|head)\b",
     re.IGNORECASE,
@@ -24,7 +24,8 @@ _INCLUDE_RE = re.compile(
     r"data science|data scientist|data engineer|data analyst|analytics engineer|"
     r"machine learning|ml|deep learning|ai|artificial intelligence|nlp|computer vision|"
     r"research scientist|applied scientist|research engineer|ml engineer|ai engineer|"
-    r"quantitative developer|quant developer|computer science|programming"
+    r"quantitative developer|quant developer|computer science|programming|"
+    r"technology|tech|cybersecurity|security"
     r")\b",
     re.IGNORECASE,
 )

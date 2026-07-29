@@ -1,7 +1,79 @@
 [
   {
+    "id": "workday:spgi:job/Hyderabad-Telangana/Apprentice--Software-Development-Engineering_329522-1",
+    "company": "S&P Global",
+    "title": "Apprentice, Software Development/Engineering",
+    "location": "Hyderabad, Telangana",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Hyderabad-Telangana/Apprentice--Software-Development-Engineering_329522-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:autodesk:job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
+    "company": "Autodesk",
+    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
+    "location": "Quebec, CAN - Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 8 Days Ago",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
+    "company": "Member Solutions",
+    "title": "Cybersecurity GRC Intern",
+    "location": "India (Jonas Collections and Recovery Inc)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658",
+    "company": "Member Solutions",
+    "title": "Security Operations Intern",
+    "location": "India (Jonas Collections and Recovery Inc)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:autodesk:job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
+    "company": "Autodesk",
+    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
+    "location": "Quebec, CAN - Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:sonyglobal:job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "company": "Sony",
+    "title": "Research Intern on Generative and Protective AI for Content Creation",
+    "location": "Remote - New York",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 29 Days Ago",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "smartrecruiters:HireVue:744000138728139",
-    "company": "Hirevue Inc",
+    "company": "HireVue",
     "title": "Data Science Intern | Fully Remote US",
     "location": "Sandy, UT, United States (Remote)",
     "category": "Data & ML/AI",
@@ -49,7 +121,7 @@
   },
   {
     "id": "greenhouse:imc:4917549101",
-    "company": "Imc",
+    "company": "IMC Trading",
     "title": "2027 - Software Engineering Intern - BITS Pilani",
     "location": "Mumbai, India",
     "category": "Software",
@@ -72,18 +144,6 @@
     "source": "lever"
   },
   {
-    "id": "workable:connectprep:C0CA13664F",
-    "company": "ConnectPrep",
-    "title": "Data Analyst Internship",
-    "location": "Washington, District of Columbia, United States (Remote)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-02T00:00:00.000Z",
-    "url": "https://apply.workable.com/connectprep/j/C0CA13664F/",
-    "salary": null,
-    "source": "workable"
-  },
-  {
     "id": "lever:epifi:08fc1577-4593-4b94-b66b-08e638d29f37",
     "company": "Epifi",
     "title": "DS/ML Intern",
@@ -94,6 +154,18 @@
     "url": "https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37",
     "salary": null,
     "source": "lever"
+  },
+  {
+    "id": "workable:connectprep:C0CA13664F",
+    "company": "ConnectPrep",
+    "title": "Data Analyst Internship",
+    "location": "Washington, District of Columbia, United States (Remote)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-07-02T00:00:00.000Z",
+    "url": "https://apply.workable.com/connectprep/j/C0CA13664F/",
+    "salary": null,
+    "source": "workable"
   },
   {
     "id": "greenhouse:pointc:5282753008",
@@ -121,7 +193,7 @@
   },
   {
     "id": "greenhouse:iherb:7776154003",
-    "company": "iHerb",
+    "company": "Iherb",
     "title": "Software Development Intern",
     "location": "United States of America - Remote / Home Office",
     "category": "Software",
@@ -130,5 +202,17 @@
     "url": "https://job-boards.greenhouse.io/iherb/jobs/7776154003",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "workday:criteo:job/Gurgaon/Data-Analyst--Intern_r20878",
+    "company": "Criteo",
+    "title": "Data Analyst- Intern",
+    "location": "Gurgaon",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://criteo.wd3.myworkdayjobs.com/en-US/Criteo_Career_Site/job/Gurgaon/Data-Analyst--Intern_r20878",
+    "salary": null,
+    "source": "workday"
   }
 ]

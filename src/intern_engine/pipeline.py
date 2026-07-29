@@ -20,9 +20,10 @@ from datetime import UTC, datetime, timedelta
 import httpx
 
 from . import config, filters, health, models, paths, quality, store
-from .connectors import (ashby, greenhouse, icims, instahyre, lever,
-                         smartrecruiters, successfactors, workable, workday,
-                         yc_waas)
+from .connectors import (ashby, bloomberg, bytedance, google, greenhouse, 
+                         icims, instahyre, lever, oracle, rippling, 
+                         smartrecruiters, successfactors, uber, workable, 
+                         workday, yc_waas)
 from .net import HostLimiter, Net
 
 CONNECTORS = {
@@ -36,6 +37,12 @@ CONNECTORS = {
     "workday": workday.fetch,
     "icims": icims.fetch,
     "successfactors": successfactors.fetch,
+    "google": google.fetch,
+    "oracle": oracle.fetch,
+    "rippling": rippling.fetch,
+    "bloomberg": bloomberg.fetch,
+    "bytedance": bytedance.fetch,
+    "uber": uber.fetch,
 }
 
 GLOBAL_CONCURRENCY = 32
