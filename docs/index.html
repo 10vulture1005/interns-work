@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en"><head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Intern Engine India — Live Dashboard</title>
+<meta name="description" content="India tech internships, auto-refreshed. Search, filter, apply.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+<style>
+  :root { --bg:#0a0a0f; --card:#12121a; --line:#1e1e2e; --txt:#e4e4ef;
+           --muted:#6c6c8a; --accent:#6366f1; --green:#22c55e;
+           --glow:0 0 20px rgba(99,102,241,.15); }
+  * { box-sizing:border-box; }
+  body { margin:0; background:var(--bg); color:var(--txt);
+          font:15px/1.6 'Inter',-apple-system,sans-serif; }
+  .wrap { max-width:1140px; margin:0 auto; padding:36px 20px 80px; }
+  h1 { font-size:28px; margin:0 0 4px; background:linear-gradient(135deg,#6366f1,#a855f7);
+        -webkit-background-clip:text; -webkit-text-fill-color:transparent; }
+  .sub { color:var(--muted); margin:0 0 28px; font-size:14px; }
+  .sub a { color:var(--accent); }
+  .grid { display:grid; grid-template-columns:repeat(auto-fit,minmax(140px,1fr));
+           gap:12px; margin-bottom:32px; }
+  .card { background:var(--card); border:1px solid var(--line); border-radius:12px;
+           padding:18px; box-shadow:var(--glow); transition:transform .15s; }
+  .card:hover { transform:translateY(-2px); }
+  .num { font-size:26px; font-weight:700; }
+  .lbl { color:var(--muted); font-size:12px; margin-top:2px; text-transform:uppercase;
+           letter-spacing:.5px; }
+  h2 { font-size:16px; margin:28px 0 10px; }
+  .panels { display:grid; grid-template-columns:1fr 1fr; gap:20px; }
+  @media(max-width:680px) { .panels { grid-template-columns:1fr; } }
+  .bar { display:flex; align-items:center; gap:10px; margin:6px 0; font-size:13px; }
+  .bname { width:120px; color:var(--muted); }
+  .btrack { flex:1; height:6px; background:#1a1a2e; border-radius:6px; overflow:hidden; }
+  .bfill { display:block; height:100%; background:linear-gradient(90deg,#6366f1,#a855f7);
+            border-radius:6px; }
+  .bval { width:36px; text-align:right; }
+  .spark { width:100%; height:80px; display:block; background:var(--card);
+            border:1px solid var(--line); border-radius:12px; }
+  .filters { display:flex; flex-wrap:wrap; gap:10px; margin:10px 0 4px; align-items:center; }
+  .filters input[type=search], .filters select {
+      background:var(--card); color:var(--txt); border:1px solid var(--line);
+      border-radius:10px; padding:8px 12px; font-size:13.5px; font-family:inherit; }
+  .filters input[type=search] { flex:1; min-width:200px; }
+  .filters input[type=search]:focus { outline:none; border-color:var(--accent);
+      box-shadow:0 0 0 3px rgba(99,102,241,.2); }
+  table { width:100%; border-collapse:collapse; margin-top:8px; font-size:13.5px; }
+  th,td { text-align:left; padding:10px 12px; border-bottom:1px solid var(--line);
+           vertical-align:top; }
+  th { color:var(--muted); font-weight:600; font-size:11px; text-transform:uppercase;
+        letter-spacing:.5px; }
+  a { color:var(--accent); text-decoration:none; }
+  a:hover { text-decoration:underline; }
+  .tag { background:#6366f122; color:#a5b4fc; padding:2px 8px; border-radius:20px;
+          font-size:11px; white-space:nowrap; }
+  .muted { color:var(--muted); }
+  footer { color:var(--muted); font-size:12px; margin-top:40px; border-top:1px solid var(--line);
+            padding-top:20px; }
+</style></head><body><div class="wrap">
+  <h1>🇮🇳 Intern Engine India</h1>
+  <p class="sub">India tech internships, refreshed automatically. Updated Jul 28, 2026 at 20:22 UTC.
+  <a href="api/jobs.json">JSON API</a> ·
+  <a href="feed.xml">RSS</a> ·
+  <a href="https://github.com/your-username/intern-engine-india">GitHub</a></p>
+  <div class="grid"><div class="card"><div class="num">11</div><div class="lbl">Open roles</div></div><div class="card"><div class="num">2,051</div><div class="lbl">Companies tracked</div></div><div class="card"><div class="num">5</div><div class="lbl">ATS sources</div></div><div class="card"><div class="num">94%</div><div class="lbl">Fetch success</div></div><div class="card"><div class="num">0</div><div class="lbl">Quarantined boards</div></div><div class="card"><div class="num">11</div><div class="lbl">New this run</div></div><div class="card"><div class="num">146.0s</div><div class="lbl">Last run</div></div></div>
+  <svg viewBox="0 0 640 80" preserveAspectRatio="none" class="spark"><polyline fill="none" stroke="var(--accent)" stroke-width="2" points="4.0,76.0 636.0,4.0"/></svg><p class="muted" style="font-size:12px;margin:6px 0 0">Open roles per run — now 11, peak 11.</p>
+  <div class="panels">
+    <div><h2>Roles by source</h2><div class="bar"><span class="bname">greenhouse</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">5</span></div><div class="bar"><span class="bname">workable</span><span class="btrack"><span class="bfill" style="width:40%"></span></span><span class="bval">2</span></div><div class="bar"><span class="bname">lever</span><span class="btrack"><span class="bfill" style="width:40%"></span></span><span class="bval">2</span></div><div class="bar"><span class="bname">ashby</span><span class="btrack"><span class="bfill" style="width:20%"></span></span><span class="bval">1</span></div><div class="bar"><span class="bname">smartrecruiters</span><span class="btrack"><span class="bfill" style="width:20%"></span></span><span class="bval">1</span></div></div>
+    <div><h2>Roles by cycle</h2><div class="bar"><span class="bname">Summer 2027</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">10</span></div><div class="bar"><span class="bname">Fall 2026</span><span class="btrack"><span class="bfill" style="width:10%"></span></span><span class="bval">1</span></div></div>
+    <div><h2>Roles by category</h2><div class="bar"><span class="bname">Data &amp; ML/AI</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">6</span></div><div class="bar"><span class="bname">Software</span><span class="btrack"><span class="bfill" style="width:83%"></span></span><span class="bval">5</span></div></div>
+    <div><h2>Roles by region</h2><div class="bar"><span class="bname">India</span><span class="btrack"><span class="bfill" style="width:100%"></span></span><span class="bval">6</span></div><div class="bar"><span class="bname">Remote</span><span class="btrack"><span class="bfill" style="width:83%"></span></span><span class="bval">5</span></div></div>
+  </div>
+  <h2>Open roles (<span id="count">11</span>)</h2>
+  <div class="filters">
+    <input id="q" type="search" placeholder="Search company, role, location, or skill…" autocomplete="off">
+    <select id="cycle"><option value="">All cycles</option><option value="Fall 2026">Fall 2026</option><option value="Summer 2027">Summer 2027</option></select>
+    <select id="cat"><option value="">All categories</option><option value="Data &amp; ML/AI">Data &amp; ML/AI</option><option value="Software">Software</option></select>
+    <select id="age">
+      <option value="">Posted anytime</option>
+      <option value="2">Last 48 hours</option>
+      <option value="7">Last 7 days</option>
+      <option value="30">Last 30 days</option>
+    </select>
+  </div>
+  <table><thead><tr><th>Company</th><th>Role</th><th>Cycle</th><th>Category</th>
+  <th>Location</th><th>Salary</th><th>Posted</th><th></th></tr></thead>
+  <tbody id="rows"><tr data-cycle="Summer 2027" data-category="Data &amp; ML/AI" data-posted="2026-07-20" data-inferred="1" data-text="hirevue inc data science intern | fully remote us sandy, ut, united states (remote) data &amp; ml/ai summer 2027 "><td>Hirevue Inc</td><td>Data Science Intern | Fully Remote US</td><td><span class='tag' title='cycle inferred from posting date'>Summer 2027 ~</span></td><td>Data &amp; ML/AI</td><td>Sandy, UT, United States (Remote)</td><td class='muted'></td><td>2026-07-20</td><td><a href="https://jobs.smartrecruiters.com/HireVue/744000138728139" target="_blank" rel="noopener">Apply</a></td></tr><tr data-cycle="Summer 2027" data-category="Software" data-posted="2026-07-17" data-inferred="0" data-text="deepgram software engineering- internship (fall 2026/summer 2027) usa | remote software summer 2027 $55 – $65 per hour"><td>Deepgram</td><td>Software Engineering- Internship (Fall 2026/Summer 2027)</td><td><span class='tag'>Summer 2027</span></td><td>Software</td><td>USA | Remote</td><td class='muted'>$55 – $65 per hour</td><td>2026-07-17</td><td><a href="https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1" target="_blank" rel="noopener">Apply</a></td></tr><tr data-cycle="Summer 2027" data-category="Data &amp; ML/AI" data-posted="2026-07-14" data-inferred="1" data-text="scopely intern - gen. ai art in - bangalore, india data &amp; ml/ai summer 2027 "><td>Scopely</td><td>Intern - Gen. AI Art</td><td><span class='tag' title='cycle inferred from posting date'>Summer 2027 ~</span></td><td>Data &amp; ML/AI</td><td>IN - Bangalore, India</td><td class='muted'></td><td>2026-07-14</td><td><a href="https://job-boards.greenhouse.io/scopely/jobs/5341537008?gh_jid=5341537008" target="_blank" rel="noopener">Apply</a></td></tr><tr data-cycle="Summer 2027" data-category="Software" data-posted="2026-07-10" data-inferred="1" data-text="stripe software engineer, intern bengaluru software summer 2027 "><td>Stripe</td><td>Software Engineer, Intern</td><td><span class='tag' title='cycle inferred from posting date'>Summer 2027 ~</span></td><td>Software</td><td>Bengaluru</td><td class='muted'></td><td>2026-07-10</td><td><a href="https://stripe.com/jobs/search?gh_jid=8031833" target="_blank" rel="noopener">Apply</a></td></tr><tr data-cycle="Summer 2027" data-category="Software" data-posted="2026-07-06" data-inferred="0" data-text="imc 2027 - software engineering intern - bits pilani mumbai, india software summer 2027 "><td>Imc</td><td>2027 - Software Engineering Intern - BITS Pilani</td><td><span class='tag'>Summer 2027</span></td><td>Software</td><td>Mumbai, India</td><td class='muted'></td><td>2026-07-06</td><td><a href="https://job-boards.eu.greenhouse.io/imc/jobs/4917549101" target="_blank" rel="noopener">Apply</a></td></tr><tr data-cycle="Summer 2027" data-category="Data &amp; ML/AI" data-posted="2026-07-03" data-inferred="1" data-text="epifi ai engg intern bangalore data &amp; ml/ai summer 2027 "><td>Epifi</td><td>Ai Engg Intern</td><td><span class='tag' title='cycle inferred from posting date'>Summer 2027 ~</span></td><td>Data &amp; ML/AI</td><td>Bangalore</td><td class='muted'></td><td>2026-07-03</td><td><a href="https://jobs.lever.co/epifi/08c743e8-2b29-4f78-827e-5bd90476ed86" target="_blank" rel="noopener">Apply</a></td></tr><tr data-cycle="Summer 2027" data-category="Data &amp; ML/AI" data-posted="2026-07-02" data-inferred="1" data-text="connectprep data analyst internship washington, district of columbia, united states (remote) data &amp; ml/ai summer 2027 "><td>ConnectPrep</td><td>Data Analyst Internship</td><td><span class='tag' title='cycle inferred from posting date'>Summer 2027 ~</span></td><td>Data &amp; ML/AI</td><td>Washington, District of Columbia, United States </td><td class='muted'></td><td>2026-07-02</td><td><a href="https://apply.workable.com/connectprep/j/C0CA13664F/" target="_blank" rel="noopener">Apply</a></td></tr><tr data-cycle="Summer 2027" data-category="Data &amp; ML/AI" data-posted="2026-07-02" data-inferred="1" data-text="epifi ds/ml intern bangalore data &amp; ml/ai summer 2027 "><td>Epifi</td><td>DS/ML Intern</td><td><span class='tag' title='cycle inferred from posting date'>Summer 2027 ~</span></td><td>Data &amp; ML/AI</td><td>Bangalore</td><td class='muted'></td><td>2026-07-02</td><td><a href="https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37" target="_blank" rel="noopener">Apply</a></td></tr><tr data-cycle="Summer 2027" data-category="Data &amp; ML/AI" data-posted="2026-06-25" data-inferred="1" data-text="point c account management ai intern united states - remote data &amp; ml/ai summer 2027 "><td>Point C</td><td>Account Management AI Intern</td><td><span class='tag' title='cycle inferred from posting date'>Summer 2027 ~</span></td><td>Data &amp; ML/AI</td><td>United States - Remote</td><td class='muted'></td><td>2026-06-25</td><td><a href="https://job-boards.greenhouse.io/pointc/jobs/5282753008" target="_blank" rel="noopener">Apply</a></td></tr><tr data-cycle="Fall 2026" data-category="Software" data-posted="2026-06-23" data-inferred="1" data-text="altom transport fall software development intern hammond, indiana, united states software fall 2026 "><td>Altom Transport</td><td>Fall Software Development Intern</td><td><span class='tag' title='cycle inferred from posting date'>Fall 2026 ~</span></td><td>Software</td><td>Hammond, Indiana, United States</td><td class='muted'></td><td>2026-06-23</td><td><a href="https://apply.workable.com/altom-transport/j/9FC654F05E/" target="_blank" rel="noopener">Apply</a></td></tr><tr data-cycle="Summer 2027" data-category="Software" data-posted="2026-06-17" data-inferred="1" data-text="iherb software development intern united states of america - remote / home office software summer 2027 "><td>iHerb</td><td>Software Development Intern</td><td><span class='tag' title='cycle inferred from posting date'>Summer 2027 ~</span></td><td>Software</td><td>United States of America - Remote / Home Office</td><td class='muted'></td><td>2026-06-17</td><td><a href="https://job-boards.greenhouse.io/iherb/jobs/7776154003" target="_blank" rel="noopener">Apply</a></td></tr></tbody></table>
+  <footer>Generated by the engine on each run. Companies polled across
+  5 ATS platforms.</footer>
+</div>
+<script>
+(function () {
+  var q = document.getElementById('q'), cycle = document.getElementById('cycle'),
+      cat = document.getElementById('cat'), age = document.getElementById('age'),
+      rows = Array.prototype.slice.call(document.getElementById('rows').rows),
+      count = document.getElementById('count');
+  function cutoffISO(days) {
+    var d = new Date(Date.now() - days * 86400000);
+    return d.toISOString().slice(0, 10);
+  }
+  function apply() {
+    var text = q.value.trim().toLowerCase(), cy = cycle.value, ca = cat.value, shown = 0,
+        minPosted = age.value ? cutoffISO(parseInt(age.value, 10)) : '';
+    rows.forEach(function (tr) {
+      var ok = (!text || tr.dataset.text.indexOf(text) !== -1)
+        && (!cy || tr.dataset.cycle === cy)
+        && (!ca || tr.dataset.category === ca)
+        && (!minPosted || (tr.dataset.posted && tr.dataset.posted >= minPosted));
+      tr.style.display = ok ? '' : 'none';
+      if (ok) shown++;
+    });
+    count.textContent = shown;
+  }
+  [q, cycle, cat, age].forEach(function (el) {
+    el.addEventListener('input', apply); el.addEventListener('change', apply);
+  });
+})();
+</script>
+</body></html>

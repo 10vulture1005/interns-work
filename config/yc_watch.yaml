@@ -1,0 +1,6 @@
+enabled: true
+locations:
+  - India
+  - Remote
+target_term: "Summer 2027"
+role_category: tech

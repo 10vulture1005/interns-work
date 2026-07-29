@@ -1,0 +1,48 @@
+name: Discover companies
+
+on:
+  schedule:
+    - cron: "30 8 * * *"    # daily 08:30 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: discover-companies
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Discover + harvest
+        run: |
+          python run.py discover
+          python run.py harvest
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/companies.json tracked_companies.txt untracked_companies.txt
+          if git diff --staged --quiet; then
+            echo "No new companies."
+          else
+            git commit -m "chore: discover new companies ($(date -u +'%Y-%m-%d'))"
+            for attempt in 1 2 3; do
+              git pull --rebase --autostash origin main && git push && break
+              echo "push race, retrying ($attempt)…"; sleep 5
+            done
+          fi

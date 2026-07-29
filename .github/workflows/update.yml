@@ -1,0 +1,49 @@
+name: Update internships
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"    # every 2 hours (UTC)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-internships
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the engine
+        run: python run.py update
+
+      - name: Commit & push if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md data/jobs.json data/internships.csv data/stats.json \
+                  data/health.json data/history.jsonl \
+                  docs/index.html docs/feed.xml \
+                  docs/api/jobs.json docs/api/stats.json
+          if git diff --staged --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update internships ($(date -u +'%Y-%m-%d %H:%M UTC'))"
+            for attempt in 1 2 3; do
+              git pull --rebase --autostash origin main && git push && break
+              echo "push race, retrying ($attempt)…"; sleep 5
+            done
+          fi

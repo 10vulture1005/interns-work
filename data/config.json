@@ -1,0 +1,19 @@
+{
+  "cycles": [
+    "Summer 2027",
+    "Fall 2026"
+  ],
+  "regions": [
+    "India",
+    "Remote"
+  ],
+  "role_scope": "tech",
+  "max_age_days": 60,
+  "max_per_company": 5,
+  "infer_undated": true,
+  "infer_max_age_days": 45,
+  "section_limits": {
+    "Summer 2027": 300,
+    "Fall 2026": 150
+  }
+}

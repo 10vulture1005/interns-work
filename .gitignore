@@ -1,0 +1,17 @@
+# Intern Engine India
+
+Python >= 3.12, auto-updated by GitHub Actions.
+
+## Files
+temp_repos/
+venv/
+__pycache__/
+*.pyc
+data/health.json
+data/history.jsonl
+data/jobs.json
+data/stats.json
+data/internships.csv
+logs/
+scratch*
+waas_initial.png
