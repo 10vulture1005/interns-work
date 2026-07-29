@@ -25,7 +25,6 @@ aqr-capital-management
 argo-ai
 ascend
 athenahealth
-atlassian
 audible
 auriga
 aurora
@@ -303,8 +302,6 @@ redfin
 reliance-retails
 remitly
 retailmenot
-revolut
-rippling
 rivian
 salesforce
 sambanova
@@ -343,7 +340,6 @@ target
 tech-mahindra
 tencent
 teradata
-tesco
 tesla
 texas-instruments
 thomson-reuters

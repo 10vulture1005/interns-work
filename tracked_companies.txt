@@ -21,6 +21,7 @@ applied-intuition
 arcesium
 arista-networks
 asana
+atlassian
 att
 attentive
 axon
@@ -166,8 +167,10 @@ quince
 quora
 ramp-2
 reddit
+revolut
 riot-games
 ripple
+rippling
 robinhood
 roblox
 rokt
@@ -202,6 +205,7 @@ swiggy
 tanium
 tcs
 tekion
+tesco
 the-trade-desk
 thoughtworks
 thumbtack
