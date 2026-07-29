@@ -75,44 +75,47 @@ def generate(store_data: dict) -> dict:
     open_jobs = filtered_jobs
 
     lines = [
-        f"# 🇮🇳 India Tech Internships — Summer 2027",
-        "",
-        f"![Open roles](https://img.shields.io/badge/open%20roles-{len(open_jobs)}-6366f1) "
-        f"![Updates](https://img.shields.io/badge/updates-every%20hour-22c55e)",
-        "",
-        "A self-updating engine that tracks tech internships in India so you don't have to. "
-        "It reads company hiring feeds directly and keeps one live list, newest roles on top.",
-        "",
-        f"**{len(open_jobs)} open roles · "
-        f"updated {datetime.now(UTC).strftime('%b %d, %Y at %H:%M UTC')}**",
-        "",
-        f"**Live:** [dashboard](https://{repo.split('/')[0].lower()}.github.io/{repo.split('/')[1]}/) "
-        f"· [JSON API](https://{repo.split('/')[0].lower()}.github.io/{repo.split('/')[1]}/api/jobs.json) "
-        f"· [RSS feed](https://{repo.split('/')[0].lower()}.github.io/{repo.split('/')[1]}/feed.xml)",
-        "",
-        "---",
-        "",
+        '<div align="center">',
+        '  <h1>🇮🇳 India Tech Internships</h1>',
+        '  <p><strong>A self-updating engine tracking top tech internships in India so you don\'t have to.</strong></p>',
+        '  <p>',
+        f'    <a href="https://{repo.split("/")[0].lower()}.github.io/{repo.split("/")[1]}/">',
+        '      <img src="https://img.shields.io/badge/Live_Dashboard-000000?style=for-the-badge&logo=github&logoColor=white" alt="Live Dashboard" />',
+        '    </a>',
+        f'    <a href="https://{repo.split("/")[0].lower()}.github.io/{repo.split("/")[1]}/api/jobs.json">',
+        '      <img src="https://img.shields.io/badge/JSON_API-007ACC?style=for-the-badge&logo=json&logoColor=white" alt="JSON API" />',
+        '    </a>',
+        '  </p>',
+        '  <p>',
+        f'    <img src="https://img.shields.io/badge/Open%20Roles-{len(open_jobs)}-6366f1?style=for-the-badge" alt="Open Roles" />',
+        '    <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />',
+        '  </p>',
+        f'  <p><em>Last updated: {datetime.now(UTC).strftime("%b %d, %Y at %H:%M UTC")}</em></p>',
+        '</div>',
+        '',
+        '---',
+        '',
     ]
 
     inferred_count = 0
     for label, jobs in sections.items():
         if not jobs:
             continue
-        lines.append(f"## {label} ({len(jobs)} open)")
+        lines.append(f"## {label} <kbd>{len(jobs)} open</kbd>")
         lines.append("")
-        lines.append("| Company | Role | Category | Location | Posted | Apply |")
-        lines.append("|---|---|---|---|---|---|")
+        lines.append("| 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |")
+        lines.append("|---|---|---|---|---|:---:|")
         for job in jobs:
             posted = (job.get("posted_at") or "")[:10] or "—"
             url = job.get("url") or ""
-            apply_link = f"[Apply]({url})" if url else "—"
-            tilde = " ~" if job.get("season_inferred") else ""
-            flag = _flag(job)
+            apply_link = f"[Apply ↗]({url})" if url else "—"
+            tilde = " <sup>~</sup>" if job.get("season_inferred") else ""
+            flag = " <span title='New within 48h'>✨</span>" if _flag(job) else ""
             if job.get("season_inferred"):
                 inferred_count += 1
             lines.append(
-                f"| {job.get('company', '')} | {job.get('title', '')}{tilde}{flag} "
-                f"| {job.get('category', '')} "
+                f"| **{job.get('company', '')}** | {job.get('title', '')}{tilde}{flag} "
+                f"| `{job.get('category', '')}` "
                 f"| {(job.get('location') or '')[:40]} | {posted} | {apply_link} |"
             )
         lines.append("")

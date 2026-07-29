@@ -60,7 +60,7 @@ avito
 axis-bank
 axon
 baidu
-bank-of-america
+bankofamerica-in
 barclays
 bcg
 bending-spoons
@@ -231,6 +231,7 @@ ge-healthcare
 geico
 general-electric
 general-motors
+ghr
 gilt-groupe
 github
 glassdoor
