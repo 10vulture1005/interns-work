@@ -30,6 +30,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "1Kosmos",
+    "slug": "1kosmos",
+    "ats": "workable"
+  },
+  {
     "name": "1Password",
     "slug": "1password",
     "ats": "ashby"
@@ -560,6 +565,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "AffirmedRx",
+    "slug": "affirmedrxpbc",
+    "ats": "greenhouse"
+  },
+  {
     "name": "AfterQuery",
     "slug": "afterquery",
     "ats": "ashby"
@@ -1045,6 +1055,11 @@
     "site": "ExternalCareer"
   },
   {
+    "name": "Alta Ares",
+    "slug": "alta-ares",
+    "ats": "ashby"
+  },
+  {
     "name": "Alta Resource Technologies",
     "slug": "altaresourcetechnologiesinc",
     "ats": "greenhouse"
@@ -1078,6 +1093,11 @@
   {
     "name": "Alten",
     "slug": "alten-in",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Alten",
+    "slug": "alten",
     "ats": "smartrecruiters"
   },
   {
@@ -1873,6 +1893,11 @@
   {
     "name": "Arista Networks",
     "slug": "careers-at-arista-networks",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Arista Networks",
+    "slug": "aristanetworks",
     "ats": "smartrecruiters"
   },
   {
@@ -2885,6 +2910,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Bcg",
+    "slug": "bcg",
+    "ats": "greenhouse"
+  },
+  {
     "name": "BDO Canada",
     "slug": "bdo",
     "ats": "workday",
@@ -3095,6 +3125,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Bill Com",
+    "slug": "billcom",
+    "ats": "greenhouse"
+  },
+  {
     "name": "BillionToOne",
     "slug": "billiontoone",
     "ats": "greenhouse"
@@ -3300,16 +3335,16 @@
     "ats": "rippling"
   },
   {
-    "name": "Bloomberg L.P.",
-    "slug": "bloomberg",
-    "ats": "bloomberg"
-  },
-  {
     "name": "Bloomberg Industry Group",
     "slug": "bloomberg",
     "ats": "workday",
     "wd": "wd1",
     "site": "Bloombergindustrygroup_External_Career_Site"
+  },
+  {
+    "name": "Bloomberg L.P.",
+    "slug": "bloomberg",
+    "ats": "bloomberg"
   },
   {
     "name": "Bloomberg Philanthropies",
@@ -3774,6 +3809,11 @@
   {
     "name": "Brillio",
     "slug": "brillio-global",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Brillio",
+    "slug": "brillioinc",
     "ats": "smartrecruiters"
   },
   {
@@ -4378,6 +4418,11 @@
   {
     "name": "Cars24",
     "slug": "cars24-global",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Cars24",
+    "slug": "cars24",
     "ats": "smartrecruiters"
   },
   {
@@ -5438,6 +5483,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Coditas",
+    "slug": "coditastechnologies",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Cogeco",
     "slug": "cogeco",
     "ats": "workday",
@@ -6014,6 +6064,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Couchbase",
+    "slug": "couchbaseinc",
+    "ats": "greenhouse"
+  },
+  {
     "name": "COUNTRY Financial",
     "slug": "countryfinancial",
     "ats": "workday",
@@ -6408,6 +6463,11 @@
     "name": "Cyware",
     "slug": "cyware-in",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Cyware",
+    "slug": "cyware",
+    "ats": "greenhouse"
   },
   {
     "name": "D E Shaw",
@@ -7605,6 +7665,11 @@
     "ats": "lever"
   },
   {
+    "name": "Eliza",
+    "slug": "eliza",
+    "ats": "ashby"
+  },
+  {
     "name": "Ellipsislabs",
     "slug": "ellipsislabs",
     "ats": "ashby"
@@ -7668,18 +7733,9 @@
     "ats": "lever"
   },
   {
-    "name": "Empower",
-    "slug": "empower",
-    "ats": "workday",
-    "wd": "wd12",
-    "site": "empower"
-  },
-  {
-    "name": "Enbridge",
-    "slug": "enbridge",
-    "ats": "workday",
-    "wd": "wd3",
-    "site": "enbridge_careers"
+    "name": "Employ",
+    "slug": "employ",
+    "ats": "lever"
   },
   {
     "name": "Empower",
@@ -7900,6 +7956,11 @@
     "name": "Envoy",
     "slug": "envoy-in",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Envoy",
+    "slug": "envoy",
+    "ats": "ashby"
   },
   {
     "name": "Eos Energy Storage",
@@ -8399,6 +8460,11 @@
     "name": "Fanatics",
     "slug": "fanatics-careers",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Fanatics",
+    "slug": "fanaticscollectibles",
+    "ats": "greenhouse"
   },
   {
     "name": "Fannie Mae",
@@ -9246,6 +9312,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Freshworks",
+    "slug": "freshworks",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Freudenberg Group",
     "slug": "freudenberg",
     "ats": "workday",
@@ -9801,6 +9872,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Glassdoor",
+    "slug": "glassdoorinc",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Glean",
     "slug": "gleanwork",
     "ats": "greenhouse"
@@ -10199,6 +10275,11 @@
   {
     "name": "Graviton",
     "slug": "graviton-global",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Graviton",
+    "slug": "graviton",
     "ats": "smartrecruiters"
   },
   {
@@ -12815,6 +12896,11 @@
   {
     "name": "Kla Tencor",
     "slug": "life-at-kla-tencor",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Kla Tencor",
+    "slug": "kla-tencor",
     "ats": "smartrecruiters"
   },
   {
@@ -19041,6 +19127,11 @@
     "site": "ReliaQuest_Careers"
   },
   {
+    "name": "Reltio",
+    "slug": "reltio",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Remarcable",
     "slug": "remarcable-inc",
     "ats": "ashby"
@@ -19076,6 +19167,11 @@
     "name": "Render",
     "slug": "render",
     "ats": "ashby"
+  },
+  {
+    "name": "Rendezvous Robotics",
+    "slug": "rendezvousrobotics",
+    "ats": "greenhouse"
   },
   {
     "name": "Replit",
@@ -20262,6 +20358,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Servicenow",
+    "slug": "servicenow",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Seurat Technologies",
     "slug": "seurat",
     "ats": "greenhouse"
@@ -20420,6 +20521,11 @@
   {
     "name": "Shopup",
     "slug": "team-shopup",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Shopup",
+    "slug": "shopup",
     "ats": "smartrecruiters"
   },
   {
@@ -22320,6 +22426,11 @@
     "site": "Rangers"
   },
   {
+    "name": "Texas Sports Academy",
+    "slug": "texas-sports-academy-main",
+    "ats": "workable"
+  },
+  {
     "name": "Texas Water Development Board",
     "slug": "TexasWaterDevelopmentBoardTWDB",
     "ats": "smartrecruiters"
@@ -23500,6 +23611,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Unbxd",
+    "slug": "unbxdinc",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Uncountable",
     "slug": "uncountable",
     "ats": "ashby"
@@ -23880,6 +23996,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Usul",
+    "slug": "usul",
+    "ats": "ashby"
+  },
+  {
     "name": "UTHealth Houston",
     "slug": "fa-eomf-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oracle",
@@ -24125,6 +24246,11 @@
   {
     "name": "Veritas",
     "slug": "veritas-jobs",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Veritas",
+    "slug": "veritasinc",
     "ats": "smartrecruiters"
   },
   {
@@ -24614,6 +24740,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Wayfair",
+    "slug": "wayfair",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Wayground",
     "slug": "wayground",
     "ats": "smartrecruiters"
@@ -24796,6 +24927,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Western Digital",
+    "slug": "westerndigital",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Western Governors University",
     "slug": "wgu",
     "ats": "workday",
@@ -24952,6 +25088,11 @@
   {
     "name": "Wise",
     "slug": "Wise",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Wise",
+    "slug": "wise",
     "ats": "smartrecruiters"
   },
   {
@@ -25251,6 +25392,11 @@
     "ats": "lever"
   },
   {
+    "name": "XTX Markets",
+    "slug": "xtxmarketstechnologies",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Xylem",
     "slug": "xylem",
     "ats": "workday",
@@ -25403,6 +25549,11 @@
   {
     "name": "Zenefits",
     "slug": "zenefits-jobs",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Zenefits",
+    "slug": "zenefits",
     "ats": "smartrecruiters"
   },
   {
