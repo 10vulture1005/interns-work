@@ -1,17 +1,5 @@
 [
   {
-    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Noida BPTP Capital City",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -32,6 +20,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted Yesterday",
     "url": "https://otis.wd5.myworkdayjobs.com/en-US/rec_ext_gateway/job/Swaraj-Bhakti-CSNo1590Shop-NoS-12Groung-Floor-E-ward-Rajaramputi5th-Lane-Castel-Road-Kolhapur-Maharashtra-India/Apprentice_20164717",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-160205",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Mumbai.Embassy 247 Park",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-160205",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-789220",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-789220",
     "salary": null,
     "source": "workday"
   },
@@ -84,14 +96,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-792995",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
+    "id": "workday:autodesk:job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
+    "company": "Autodesk",
+    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
+    "location": "Quebec, CAN - Remote",
+    "category": "Software",
     "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792995",
+    "posted_at": "Posted 8 Days Ago",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
     "salary": null,
     "source": "workday"
   },
@@ -156,6 +168,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
@@ -164,6 +188,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041709",
+    "company": "Gevernova",
+    "title": "Grid Automation & Software Intern",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
     "salary": null,
     "source": "workday"
   },
@@ -188,18 +224,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "salary": null,
     "source": "workday"
   },
@@ -272,18 +296,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041706-3",
-    "company": "Gevernova",
-    "title": "Grid Automation & Software Intern",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
     "salary": null,
     "source": "workday"
   },
@@ -408,6 +420,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:autodesk:job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
+    "company": "Autodesk",
+    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
+    "location": "Quebec, CAN - Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:target:job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370",
     "company": "Target",
     "title": "Apprentice - Retail Ops",
@@ -504,18 +528,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043128-1",
-    "company": "GE Healthcare",
-    "title": "Biomedical Technician Apprentice",
-    "location": "Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 19 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043128-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:jll:job/Pune-MH/Apprentice-India_REQ513787",
     "company": "Jones Lang LaSalle (JLL)",
     "title": "Apprentice India",
@@ -524,6 +536,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 16 Days Ago",
     "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Pune-MH/Apprentice-India_REQ513787",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
+    "company": "GE Healthcare",
+    "title": "Biomedical Technician Apprentice",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 15 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
     "salary": null,
     "source": "workday"
   },
@@ -610,6 +634,18 @@
     "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10013",
     "salary": null,
     "source": "oracle"
+  },
+  {
+    "id": "workable:innovaccer-analytics:47C4AD89C2",
+    "company": "Innovaccer",
+    "title": "Apprentice - HR (Employee Engagement)",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-07-28T00:00:00.000Z",
+    "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
+    "salary": null,
+    "source": "workable"
   },
   {
     "id": "lever:dnb:ddce86a8-1d41-41a1-b183-55b7391955ab",
