@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-20-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Jul 30, 2026 at 02:02 UTC</em></p>
+  <p><em>Last updated: Jul 30, 2026 at 05:31 UTC</em></p>
 </div>
 
 ---
@@ -55,10 +55,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (19 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-07-30 |
-| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-30 |
 | Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-30 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-30 |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-07-30 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-07-30 |
+| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-30 |
 | State Street | Apprentice | Summer 2027 | 2026-07-30 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-29 |
 | Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-29 |
@@ -74,7 +75,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (19 of 
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-29 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-29 |
 | S&P Global | Apprentice, Software Development/Engineering | Summer 2027 | 2026-07-29 |
-| Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-07-29 |
 
 </details>
 

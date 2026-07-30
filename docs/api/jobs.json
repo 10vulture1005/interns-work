@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Noida BPTP Capital City",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -20,18 +32,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Yesterday",
     "url": "https://otis.wd5.myworkdayjobs.com/en-US/rec_ext_gateway/job/Swaraj-Bhakti-CSNo1590Shop-NoS-12Groung-Floor-E-ward-Rajaramputi5th-Lane-Castel-Road-Kolhapur-Maharashtra-India/Apprentice_20164717",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-160205",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Mumbai.Embassy 247 Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-160205",
     "salary": null,
     "source": "workday"
   },
@@ -168,6 +168,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:sonyglobal:job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
+    "company": "Sony",
+    "title": "Research Intern on Generative and Protective AI for Content Creation",
+    "location": "Remote - Michigan",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -188,18 +200,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041709",
-    "company": "Gevernova",
-    "title": "Grid Automation & Software Intern",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
     "salary": null,
     "source": "workday"
   },
@@ -296,6 +296,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041706-3",
+    "company": "Gevernova",
+    "title": "Grid Automation & Software Intern",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
     "salary": null,
     "source": "workday"
   },
@@ -452,18 +464,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30 Days Ago",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:sonyglobal:job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-    "company": "Sony",
-    "title": "Research Intern on Generative and Protective AI for Content Creation",
-    "location": "Remote - New York",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 29 Days Ago",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
     "salary": null,
     "source": "workday"
   },
