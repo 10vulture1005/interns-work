@@ -10,18 +10,19 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-20-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-21-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Jul 30, 2026 at 05:31 UTC</em></p>
+  <p><em>Last updated: Jul 30, 2026 at 08:45 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>12 open</kbd>
+## Summer 2027 (India) <kbd>13 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
+| **Philips** | Apprentice Trainee (Software Developer) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bangalore | Posted Tod | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-_588827) |
 | **GlobalFoundries** | Intern - Compact Modeling Flow using AI/ML/Automation <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | IND - Karnataka - Bengaluru - North | Posted 30+ | [Apply ↗](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/IND---Karnataka---Bengaluru---North/Intern---SOI-LDMOS-Compact--SPICE--Modeling_JR-2501258) |
 | **Valeo** | Intern - AI <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
@@ -48,21 +49,23 @@
 | **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043509) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (19 of 20)._
+_~ = the title doesn't state a year; bucketed here from its posting date (20 of 21)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-07-30 |
+| Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-30 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-30 |
 | Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-30 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-30 |
+| State Street | Apprentice | Summer 2027 | 2026-07-30 |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-07-30 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-07-30 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-30 |
 | State Street | Apprentice | Summer 2027 | 2026-07-30 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-29 |
-| Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-29 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-07-29 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-07-29 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-07-29 |
@@ -73,8 +76,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (19 of 
 | Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-07-29 |
 | Jones Lang LaSalle (JLL) | Technology Support - Apprentice India | Summer 2027 | 2026-07-29 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-29 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-29 |
-| S&P Global | Apprentice, Software Development/Engineering | Summer 2027 | 2026-07-29 |
 
 </details>
 

@@ -1,13 +1,13 @@
 [
   {
-    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Noida BPTP Capital City",
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
+    "company": "Deutsche Bank",
+    "title": "ICOO Apprentice role 2026",
+    "location": "Mumbai Nirlon Know. Pk B7",
     "category": "Other",
-    "season": "Summer 2027",
+    "season": "Fall 2026",
     "posted_at": "Posted Yesterday",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
     "salary": null,
     "source": "workday"
   },
@@ -36,14 +36,50 @@
     "source": "workday"
   },
   {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-789220",
+    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-160205",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Mumbai.Embassy 247 Park",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-160205",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Mumbai-Nirlon-Knowledge-Pk-B1/Apprentice-Hiring-for-2026-2027_R0442779",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026-2027",
+    "location": "Mumbai Nirlon Knowledge Pk B1",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Knowledge-Pk-B1/Apprentice-Hiring-for-2026-2027_R0442779",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:philips:job/Bangalore/Apprentice-Trainee--Software-Developer-_588827",
+    "company": "Philips",
+    "title": "Apprentice Trainee (Software Developer)",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-_588827",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-792592-1",
     "company": "State Street",
     "title": "Apprentice",
     "location": "Bangalore, India",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-789220",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792592-1",
     "salary": null,
     "source": "workday"
   },
@@ -56,30 +92,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
-    "company": "Deutsche Bank",
-    "title": "ICOO Apprentice role 2026",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Fall 2026",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Pune - Business Bay",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
     "salary": null,
     "source": "workday"
   },
@@ -180,18 +192,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
@@ -200,6 +200,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041709",
+    "company": "Gevernova",
+    "title": "Grid Automation & Software Intern",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
     "salary": null,
     "source": "workday"
   },
@@ -224,6 +236,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "salary": null,
     "source": "workday"
   },
@@ -296,18 +320,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041706-3",
-    "company": "Gevernova",
-    "title": "Grid Automation & Software Intern",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
     "salary": null,
     "source": "workday"
   },
@@ -622,6 +634,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "oracle:egug.fa.us2.oraclecloud.com:26010893",
+    "company": "American Express",
+    "title": "Apprentice",
+    "location": "Gurugram, HR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-07-30",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010893",
+    "salary": null,
+    "source": "oracle"
   },
   {
     "id": "oracle:ibwujb.fa.ocs.oraclecloud.com:10013",
