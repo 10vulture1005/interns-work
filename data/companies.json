@@ -1852,6 +1852,11 @@
     "site": "External"
   },
   {
+    "name": "Arevon",
+    "slug": "arevonenergyimpltest",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Argmax",
     "slug": "argmax",
     "ats": "greenhouse"
@@ -9154,6 +9159,11 @@
     "site": "Fortrea"
   },
   {
+    "name": "Forus",
+    "slug": "forus",
+    "ats": "ashby"
+  },
+  {
     "name": "Forusall",
     "slug": "team-forusall",
     "ats": "smartrecruiters"
@@ -16268,6 +16278,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Nooks",
+    "slug": "nooks",
+    "ats": "ashby"
+  },
+  {
     "name": "Noon",
     "slug": "noon",
     "ats": "smartrecruiters"
@@ -18000,6 +18015,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Planet Technologies",
+    "slug": "planettechnologies",
+    "ats": "lever"
+  },
+  {
     "name": "PlanetScale",
     "slug": "planetscale",
     "ats": "greenhouse"
@@ -18892,6 +18912,11 @@
     "name": "Randstad",
     "slug": "Randstad4",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "RapDev",
+    "slug": "rapdev",
+    "ats": "ashby"
   },
   {
     "name": "RAPP",
@@ -22381,6 +22406,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Tevora",
+    "slug": "tevora",
+    "ats": "lever"
+  },
+  {
     "name": "Texas A&M International University",
     "slug": "tamus",
     "ats": "workday",
@@ -23832,6 +23862,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "uvastudentjobs"
+  },
+  {
+    "name": "University of Virginia Investment Management Company (UVIMCO)",
+    "slug": "uvimco",
+    "ats": "greenhouse"
   },
   {
     "name": "University of Wisconsin-Madison",
