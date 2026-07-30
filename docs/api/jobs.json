@@ -1,13 +1,13 @@
 [
   {
-    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0438236",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Jaipur",
+    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Noida BPTP Capital City",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Yesterday",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0438236",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
     "salary": null,
     "source": "workday"
   },
@@ -36,14 +36,26 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-160205",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Mumbai.Embassy 247 Park",
+    "id": "workday:citi:job/Gurugram-Haryana-India/Young-Apprentice---C00---GURUGRAM_26974533",
+    "company": "Citi",
+    "title": "Young Apprentice - C00 - GURUGRAM",
+    "location": "Gurugram Haryana India",
     "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-160205",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Gurugram-Haryana-India/Young-Apprentice---C00---GURUGRAM_26974533",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:epicorsoftware:job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
+    "company": "Epicor",
+    "title": "Interns - Content Developer /Technical Writing/ Instructional Designer",
+    "location": "India, Bangalore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
     "salary": null,
     "source": "workday"
   },
@@ -84,30 +96,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:philips:job/Bangalore/Apprentice-Trainee--Software-Developer-_588827",
-    "company": "Philips",
-    "title": "Apprentice Trainee (Software Developer)",
-    "location": "Bangalore",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-_588827",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-789220",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-789220",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:leidos:job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1",
     "company": "Leidos",
     "title": "Application Developer Intern",
@@ -132,6 +120,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Pune - Business Bay",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:statestreet:job/Bangalore-India/Apprentice--Fixed-Term---Trainee-_R-795175",
     "company": "State Street",
     "title": "Apprentice (Fixed Term) (Trainee)",
@@ -140,6 +140,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice--Fixed-Term---Trainee-_R-795175",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-792995",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792995",
     "salary": null,
     "source": "workday"
   },
@@ -216,30 +228,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041709",
-    "company": "Gevernova",
-    "title": "Grid Automation & Software Intern",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -312,18 +300,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/Bengaluru-India/EIC-Apprentice---Leasing-Tenant-Representation-Bangalore_R321429",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Leasing Tenant Representation_Bangalore",
-    "location": "Bengaluru, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/EIC-Apprentice---Leasing-Tenant-Representation-Bangalore_R321429",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cw:job/Bengaluru-India/EIC-Apprentice---Valuations--Bangalore_R325120",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice - Valuations, Bangalore",
@@ -344,6 +320,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041706-3",
+    "company": "Gevernova",
+    "title": "Grid Automation & Software Intern",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
     "salary": null,
     "source": "workday"
   },
@@ -440,6 +428,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
@@ -576,18 +576,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043128-1",
-    "company": "GE Healthcare",
-    "title": "Biomedical Technician Apprentice",
-    "location": "Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 19 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043128-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:jll:job/Pune-MH/Apprentice-India_REQ513787",
     "company": "Jones Lang LaSalle (JLL)",
     "title": "Apprentice India",
@@ -596,6 +584,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 16 Days Ago",
     "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Pune-MH/Apprentice-India_REQ513787",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
+    "company": "GE Healthcare",
+    "title": "Biomedical Technician Apprentice",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 15 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
     "salary": null,
     "source": "workday"
   },
