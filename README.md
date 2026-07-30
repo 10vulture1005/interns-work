@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-19-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Jul 30, 2026 at 21:34 UTC</em></p>
+  <p><em>Last updated: Jul 30, 2026 at 23:36 UTC</em></p>
 </div>
 
 ---
@@ -54,24 +54,24 @@ _~ = the title doesn't state a year; bucketed here from its posting date (18 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Altom Transport | Fall Software Development Intern | Term Unconfirmed | 2026-07-30 |
+| Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-07-30 |
+| Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-30 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-30 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-30 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-30 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-07-30 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-07-30 |
 | Boston Medical Center | Cybersecurity & AI/Data Governance Intern | Summer 2027 | 2026-07-30 |
-| Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-30 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-30 |
 | Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-30 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-30 |
 | Alcon | Apprentice Optometrist | Summer 2027 | 2026-07-30 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-07-30 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Gurugram | Summer 2027 | 2026-07-30 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-30 |
 | Jones Lang LaSalle (JLL) | Apprentice India | Summer 2027 | 2026-07-30 |
 | Otis Worldwide | Apprentice | Summer 2027 | 2026-07-30 |
 | State Street | Apprentice (Fixed Term) (Trainee) | Summer 2027 | 2026-07-30 |
 | Target | Apprentice - Retail Ops | Summer 2027 | 2026-07-30 |
 | Target | Apprentice - Technology | Summer 2027 | 2026-07-30 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-30 |
 | State Street | Apprentice | Summer 2027 | 2026-07-30 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-07-30 |
 
