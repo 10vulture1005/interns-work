@@ -10,22 +10,21 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-20-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-19-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Jul 30, 2026 at 17:57 UTC</em></p>
+  <p><em>Last updated: Jul 30, 2026 at 19:58 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>12 open</kbd>
+## Summer 2027 (India) <kbd>11 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
+| **Citi** | Young Apprentice - C00 - GURUGRAM <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Gurugram Haryana India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Gurugram-Haryana-India/Young-Apprentice---C00---GURUGRAM_26974533) |
 | **GlobalFoundries** | Intern - Compact Modeling Flow using AI/ML/Automation <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | IND - Karnataka - Bengaluru - North | Posted 30+ | [Apply ↗](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/IND---Karnataka---Bengaluru---North/Intern---SOI-LDMOS-Compact--SPICE--Modeling_JR-2501258) |
 | **Valeo** | Intern - AI <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
-| **Target** | Apprentice - Retail Ops <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
-| **Target** | Apprentice - Technology <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Ralliant** | DevOps - Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Ahmedabad, Gujarat, India | 2026-07-29 | [Apply ↗](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10013) |
 | **Scopely** | Intern - Gen. AI Art <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | IN - Bangalore, India | 2026-07-14 | [Apply ↗](https://job-boards.greenhouse.io/scopely/jobs/5341537008?gh_jid=5341537008) |
@@ -48,33 +47,33 @@
 | **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043509) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (19 of 20)._
+_~ = the title doesn't state a year; bucketed here from its posting date (18 of 19)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Altom Transport | Fall Software Development Intern | Term Unconfirmed | 2026-07-30 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-07-30 |
+| Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-07-30 |
+| Innovaccer | Apprentice - HR (Employee Engagement) | Summer 2027 | 2026-07-30 |
+| Alcon | Apprentice Optometrist | Summer 2027 | 2026-07-30 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-07-30 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-07-30 |
-| Citi | Young Apprentice - C00 - GURUGRAM | Summer 2027 | 2026-07-30 |
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Gurugram | Summer 2027 | 2026-07-30 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-30 |
+| Jones Lang LaSalle (JLL) | Apprentice India | Summer 2027 | 2026-07-30 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-30 |
+| Otis Worldwide | Apprentice | Summer 2027 | 2026-07-30 |
+| State Street | Apprentice (Fixed Term) (Trainee) | Summer 2027 | 2026-07-30 |
+| Target | Apprentice - Retail Ops | Summer 2027 | 2026-07-30 |
+| Target | Apprentice - Technology | Summer 2027 | 2026-07-30 |
 | Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-30 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-30 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-30 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-30 |
 | State Street | Apprentice | Summer 2027 | 2026-07-30 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-07-30 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-30 |
 | Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-30 |
-| Philips | Apprentice Trainee (Software Developer) | Summer 2027 | 2026-07-30 |
-| State Street | Apprentice | Summer 2027 | 2026-07-30 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-07-30 |
-| Deutsche Bank | Apprentice Hiring for 2026-2027 | Summer 2027 | 2026-07-30 |
-| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-07-30 |
-| Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-30 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-07-29 |
-| Alcon | Phaco Development Apprentice | Summer 2027 | 2026-07-29 |
 
 </details>
 

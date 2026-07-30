@@ -270,8 +270,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/whatnot?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
   "ashby:zeromark": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-07-30T17:57:06Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-07-30T19:58:11Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/zeromark?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "breezy:census": {
@@ -538,11 +538,6 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-07-30T08:45:02Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/modernizingmedicineinc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
-  },
-  "greenhouse:natera": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-07-30T17:57:06Z",
-    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/natera/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:ola": {
     "consecutive_failures": 5,
