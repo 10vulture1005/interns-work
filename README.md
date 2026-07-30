@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-19-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Jul 30, 2026 at 19:58 UTC</em></p>
+  <p><em>Last updated: Jul 30, 2026 at 21:34 UTC</em></p>
 </div>
 
 ---
@@ -27,11 +27,11 @@
 | **Valeo** | Intern - AI <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Ralliant** | DevOps - Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Ahmedabad, Gujarat, India | 2026-07-29 | [Apply ↗](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10013) |
-| **Scopely** | Intern - Gen. AI Art <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | IN - Bangalore, India | 2026-07-14 | [Apply ↗](https://job-boards.greenhouse.io/scopely/jobs/5341537008?gh_jid=5341537008) |
-| **Stripe** | Software Engineer, Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bengaluru | 2026-07-10 | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8031833) |
-| **IMC Trading** | 2027 - Software Engineering Intern - BITS Pilani <span title='New within 48h'>✨</span> | `Software` | Mumbai, India | 2026-07-06 | [Apply ↗](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) |
-| **Epifi** | Ai Engg Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Bangalore | 2026-07-03 | [Apply ↗](https://jobs.lever.co/epifi/08c743e8-2b29-4f78-827e-5bd90476ed86) |
-| **Epifi** | DS/ML Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Bangalore | 2026-07-02 | [Apply ↗](https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37) |
+| **Scopely** | Intern - Gen. AI Art <sup>~</sup> | `Data & ML/AI` | IN - Bangalore, India | 2026-07-14 | [Apply ↗](https://job-boards.greenhouse.io/scopely/jobs/5341537008?gh_jid=5341537008) |
+| **Stripe** | Software Engineer, Intern <sup>~</sup> | `Software` | Bengaluru | 2026-07-10 | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8031833) |
+| **IMC Trading** | 2027 - Software Engineering Intern - BITS Pilani | `Software` | Mumbai, India | 2026-07-06 | [Apply ↗](https://job-boards.eu.greenhouse.io/imc/jobs/4917549101) |
+| **Epifi** | Ai Engg Intern <sup>~</sup> | `Data & ML/AI` | Bangalore | 2026-07-03 | [Apply ↗](https://jobs.lever.co/epifi/08c743e8-2b29-4f78-827e-5bd90476ed86) |
+| **Epifi** | DS/ML Intern <sup>~</sup> | `Data & ML/AI` | Bangalore | 2026-07-02 | [Apply ↗](https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37) |
 | **Criteo** | Data Analyst- Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Gurgaon | — | [Apply ↗](https://criteo.wd3.myworkdayjobs.com/en-US/Criteo_Career_Site/job/Gurgaon/Data-Analyst--Intern_r20878) |
 
 ## Summer 2027 (Remote) <kbd>8 open</kbd>
@@ -54,26 +54,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (18 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-07-30 |
-| Innovaccer | Apprentice - HR (Employee Engagement) | Summer 2027 | 2026-07-30 |
-| Alcon | Apprentice Optometrist | Summer 2027 | 2026-07-30 |
+| Altom Transport | Fall Software Development Intern | Term Unconfirmed | 2026-07-30 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-07-30 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-07-30 |
+| Boston Medical Center | Cybersecurity & AI/Data Governance Intern | Summer 2027 | 2026-07-30 |
+| Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-30 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-30 |
+| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-30 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-30 |
+| Alcon | Apprentice Optometrist | Summer 2027 | 2026-07-30 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-07-30 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Gurugram | Summer 2027 | 2026-07-30 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-30 |
 | Jones Lang LaSalle (JLL) | Apprentice India | Summer 2027 | 2026-07-30 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-30 |
 | Otis Worldwide | Apprentice | Summer 2027 | 2026-07-30 |
 | State Street | Apprentice (Fixed Term) (Trainee) | Summer 2027 | 2026-07-30 |
 | Target | Apprentice - Retail Ops | Summer 2027 | 2026-07-30 |
 | Target | Apprentice - Technology | Summer 2027 | 2026-07-30 |
-| Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-30 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-30 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-30 |
 | State Street | Apprentice | Summer 2027 | 2026-07-30 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-07-30 |
-| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-30 |
-| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-30 |
 
 </details>
 
