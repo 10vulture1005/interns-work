@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Jul 31, 2026 at 19:48 UTC</em></p>
+  <p><em>Last updated: Jul 31, 2026 at 21:32 UTC</em></p>
 </div>
 
 ---
@@ -51,26 +51,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Altom Transport | Fall Software Development Intern | Term Unconfirmed | 2026-07-31 |
+| Baxter International | Apprentice, Trainee | Summer 2027 | 2026-07-31 |
+| Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-07-31 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-07-31 |
+| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-31 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-31 |
 | Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | Summer 2027 | 2026-07-31 |
 | Autodesk | Stagiaire en Développement Cloud, Intern Cloud Developer | Summer 2027 | 2026-07-31 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-07-31 |
 | Boston Medical Center | Cybersecurity & AI/Data Governance Intern | Summer 2027 | 2026-07-31 |
 | Citi | Young Apprentice - C00 - GURUGRAM | Summer 2027 | 2026-07-31 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-31 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-31 |
-| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-31 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-31 |
 | S&P Global | Apprentice | Summer 2027 | 2026-07-31 |
 | State Street | Apprentice | Summer 2027 | 2026-07-31 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-07-31 |
 | Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-07-31 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-31 |
-| Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-07-31 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-31 |
 | Fiserv | Technology Analyst Trainee (Apprentice) | Summer 2027 | 2026-07-31 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-07-31 |
-| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-07-31 |
-| American Express | Apprentice | Summer 2027 | 2026-07-31 |
 
 </details>
 

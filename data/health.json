@@ -440,8 +440,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clevertap/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:climateai": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-31T14:12:28Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-31T21:32:50Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/climateai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:coursera": {
@@ -473,6 +473,11 @@
     "consecutive_failures": 6,
     "last_attempt_at": "2026-07-31T12:35:36Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/dustyrobotics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
+  },
+  "greenhouse:fireworksai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-31T21:32:50Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/fireworksai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "greenhouse:forerunner": {
     "consecutive_failures": 6,
