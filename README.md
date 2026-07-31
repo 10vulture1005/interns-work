@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-19-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Jul 31, 2026 at 02:30 UTC</em></p>
+  <p><em>Last updated: Jul 31, 2026 at 06:09 UTC</em></p>
 </div>
 
 ---
@@ -54,12 +54,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (18 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Altom Transport | Fall Software Development Intern | Term Unconfirmed | 2026-07-31 |
-| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-31 |
+| Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-07-31 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-31 |
+| Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-31 |
 | Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-31 |
+| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-31 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-07-31 |
 | Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-30 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-30 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-30 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-30 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-07-30 |
@@ -73,7 +74,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (18 of 
 | Target | Apprentice - Retail Ops | Summer 2027 | 2026-07-30 |
 | Target | Apprentice - Technology | Summer 2027 | 2026-07-30 |
 | State Street | Apprentice | Summer 2027 | 2026-07-30 |
-| Philips | Apprentice Trainee (Software Developer) | Summer 2027 | 2026-07-30 |
 
 </details>
 

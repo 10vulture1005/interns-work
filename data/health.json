@@ -270,8 +270,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/whatnot?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
   "ashby:zeromark": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-30T21:34:09Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-07-31T06:09:48Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/zeromark?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "breezy:census": {

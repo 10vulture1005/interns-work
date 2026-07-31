@@ -1,17 +1,5 @@
 [
   {
-    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0438236",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Jaipur",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0438236",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-160281-1",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
@@ -120,6 +108,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Pune - Business Bay",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:autodesk:job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
     "company": "Autodesk",
     "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
@@ -188,6 +188,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041709",
+    "company": "Gevernova",
+    "title": "Grid Automation & Software Intern",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
     "salary": null,
     "source": "workday"
   },
@@ -296,18 +308,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041706-3",
-    "company": "Gevernova",
-    "title": "Grid Automation & Software Intern",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
     "salary": null,
     "source": "workday"
   },
@@ -464,18 +464,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 29 Days Ago",
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
-    "company": "Deutsche Bank",
-    "title": "ICOO Apprentice role 2026",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Fall 2026",
-    "posted_at": "Posted 2 Days Ago",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
     "salary": null,
     "source": "workday"
   },
@@ -780,18 +768,6 @@
     "source": "greenhouse"
   },
   {
-    "id": "workable:altom-transport:9FC654F05E",
-    "company": "Altom Transport",
-    "title": "Fall Software Development Intern",
-    "location": "Hammond, Indiana, United States",
-    "category": "Software",
-    "season": "Fall 2026",
-    "posted_at": "2026-06-23T00:00:00.000Z",
-    "url": "https://apply.workable.com/altom-transport/j/9FC654F05E/",
-    "salary": null,
-    "source": "workable"
-  },
-  {
     "id": "greenhouse:iherb:7776154003",
     "company": "Iherb",
     "title": "Software Development Intern",
@@ -814,6 +790,18 @@
     "url": "https://job-boards.greenhouse.io/instawork/jobs/4689262006",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "workable:altom-transport:8536165C7B",
+    "company": "Altom Transport",
+    "title": "Fall Software Development Intern",
+    "location": "Hammond, Indiana, United States",
+    "category": "Software",
+    "season": "Term Unconfirmed",
+    "posted_at": "2026-06-03T00:00:00.000Z",
+    "url": "https://apply.workable.com/altom-transport/j/8536165C7B/",
+    "salary": null,
+    "source": "workable"
   },
   {
     "id": "rippling:spreeai:aa087086-dd4b-42be-a499-051546655e97",
