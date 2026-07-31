@@ -439,6 +439,11 @@
     "last_attempt_at": "2026-07-30T08:45:02Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clevertap/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
+  "greenhouse:climateai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-07-31T09:13:35Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/climateai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
+  },
   "greenhouse:cred-club": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-07-30T08:45:02Z",
