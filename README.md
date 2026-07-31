@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-19-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Jul 31, 2026 at 16:39 UTC</em></p>
+  <p><em>Last updated: Jul 31, 2026 at 17:57 UTC</em></p>
 </div>
 
 ---
@@ -54,16 +54,18 @@ _~ = the title doesn't state a year; bucketed here from its posting date (18 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-07-31 |
+| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-07-31 |
+| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-31 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-31 |
 | Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-07-31 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-31 |
 | Fiserv | Technology Analyst Trainee (Apprentice) | Summer 2027 | 2026-07-31 |
-| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-31 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-07-31 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-31 |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-07-31 |
 | American Express | Apprentice | Summer 2027 | 2026-07-31 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-07-31 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-07-31 |
 | Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-07-31 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-07-31 |
 | American Express | Apprentice | Summer 2027 | 2026-07-31 |
@@ -72,8 +74,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (18 of 
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-31 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-31 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-31 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-31 |
-| Deutsche Bank | ICOO Apprentice role 2026 | Fall 2026 | 2026-07-31 |
 
 </details>
 

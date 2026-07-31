@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T16:39:51Z",
-  "duration_seconds": 2720.0,
+  "generated_at": "2026-07-31T17:57:24Z",
+  "duration_seconds": 2295.5,
   "companies_total": 4538,
   "companies_by_source": {
     "greenhouse": 1031,
@@ -29,11 +29,12 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 227,
+  "quarantined": 226,
   "fetched_ok": 4310,
-  "fetch_errors": 1,
+  "fetch_errors": 2,
   "errors_by_source": {
-    "greenhouse": 1
+    "greenhouse": 1,
+    "ashby": 1
   },
   "fetch_success_rate": 1.0,
   "roles_matched": 73,
@@ -56,6 +57,6 @@
     "Remote": 27
   },
   "purged_this_run": 0,
-  "new_this_run": 3,
+  "new_this_run": 1,
   "open_total": 73
 }
