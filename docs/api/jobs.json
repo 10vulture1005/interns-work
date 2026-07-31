@@ -12,26 +12,38 @@
     "source": "workday"
   },
   {
-    "id": "workday:fiserv:job/Pune---Trion-Business-Park-India/Technology-Analyst-Trainee--Apprentice-_R-10399186",
-    "company": "Fiserv",
-    "title": "Technology Analyst Trainee (Apprentice)",
-    "location": "Pune - Trion Business Park, India",
+    "id": "workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-156915-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "AtkinsRéalis - Corporate Office Bangalore",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://fiserv.wd5.myworkdayjobs.com/en-US/ext/job/Pune---Trion-Business-Park-India/Technology-Analyst-Trainee--Apprentice-_R-10399186",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-156915-1",
     "salary": null,
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-160415",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Noida BPTP Capital City",
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee-2_JR-206145",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee",
+    "location": "Gurgaon, Haryana",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-160415",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee-2_JR-206145",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Pune---Business-Bay/Apprentice-hiring-for-2026---2027_R0443029",
+    "company": "Deutsche Bank",
+    "title": "Apprentice hiring for 2026 – 2027",
+    "location": "Pune - Business Bay",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-hiring-for-2026---2027_R0443029",
     "salary": null,
     "source": "workday"
   },
@@ -144,14 +156,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Pune - Business Bay",
-    "category": "Other",
+    "id": "workday:autodesk:job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
+    "company": "Autodesk",
+    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
+    "location": "Quebec, CAN - Remote",
+    "category": "Software",
     "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
+    "posted_at": "Posted 8 Days Ago",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
     "salary": null,
     "source": "workday"
   },
@@ -164,6 +176,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 7 Days Ago",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bmc:job/Remote/Cybersecurity---AI-Data-Governance-Intern_50294",
+    "company": "Boston Medical Center",
+    "title": "Cybersecurity & AI/Data Governance Intern",
+    "location": "Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://bmc.wd1.myworkdayjobs.com/en-US/BMC/job/Remote/Cybersecurity---AI-Data-Governance-Intern_50294",
     "salary": null,
     "source": "workday"
   },
@@ -204,18 +228,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:sonyglobal:job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
-    "company": "Sony",
-    "title": "Research Intern on Generative and Protective AI for Content Creation",
-    "location": "Remote - Michigan",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
@@ -224,6 +236,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041709",
+    "company": "Gevernova",
+    "title": "Grid Automation & Software Intern",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
     "salary": null,
     "source": "workday"
   },
@@ -312,18 +348,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041706-3",
-    "company": "Gevernova",
-    "title": "Grid Automation & Software Intern",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:globalfoundries:job/IND---Karnataka---Bengaluru---North/Intern---SOI-LDMOS-Compact--SPICE--Modeling_JR-2501258",
     "company": "GlobalFoundries",
     "title": "Intern - Compact Modeling Flow using AI/ML/Automation",
@@ -368,18 +392,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_atleos_us/job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
     "salary": null,
     "source": "workday"
   },
@@ -464,6 +476,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:autodesk:job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
+    "company": "Autodesk",
+    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
+    "location": "Quebec, CAN - Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:sonyglobal:job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "company": "Sony",
+    "title": "Research Intern on Generative and Protective AI for Content Creation",
+    "location": "Remote - New York",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 29 Days Ago",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
     "salary": null,
     "source": "workday"
   },
@@ -768,18 +804,6 @@
     "source": "greenhouse"
   },
   {
-    "id": "workable:altom-transport:9FC654F05E",
-    "company": "Altom Transport",
-    "title": "Fall Software Development Intern",
-    "location": "Hammond, Indiana, United States",
-    "category": "Software",
-    "season": "Fall 2026",
-    "posted_at": "2026-06-23T00:00:00.000Z",
-    "url": "https://apply.workable.com/altom-transport/j/9FC654F05E/",
-    "salary": null,
-    "source": "workable"
-  },
-  {
     "id": "greenhouse:iherb:7776154003",
     "company": "Iherb",
     "title": "Software Development Intern",
@@ -802,6 +826,18 @@
     "url": "https://job-boards.greenhouse.io/instawork/jobs/4689262006",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "workable:altom-transport:8536165C7B",
+    "company": "Altom Transport",
+    "title": "Fall Software Development Intern",
+    "location": "Hammond, Indiana, United States",
+    "category": "Software",
+    "season": "Term Unconfirmed",
+    "posted_at": "2026-06-03T00:00:00.000Z",
+    "url": "https://apply.workable.com/altom-transport/j/8536165C7B/",
+    "salary": null,
+    "source": "workable"
   },
   {
     "id": "rippling:spreeai:aa087086-dd4b-42be-a499-051546655e97",
