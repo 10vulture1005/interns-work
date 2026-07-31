@@ -2030,6 +2030,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Artera",
+    "slug": "artera-2",
+    "ats": "lever"
+  },
+  {
     "name": "ArteraAI",
     "slug": "artera",
     "ats": "lever"
@@ -4152,6 +4157,11 @@
     "name": "Calm",
     "slug": "calm",
     "ats": "greenhouse"
+  },
+  {
+    "name": "CALSTART",
+    "slug": "calstart",
+    "ats": "lever"
   },
   {
     "name": "Calyxo",
@@ -10851,6 +10861,11 @@
     "site": "Main_HoT"
   },
   {
+    "name": "Heliux",
+    "slug": "heliux",
+    "ats": "ashby"
+  },
+  {
     "name": "Helix",
     "slug": "life-at-helix",
     "ats": "smartrecruiters"
@@ -10873,6 +10888,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External_Careers"
+  },
+  {
+    "name": "Herald",
+    "slug": "heraldapi",
+    "ats": "greenhouse"
   },
   {
     "name": "Hermeus",
@@ -14676,6 +14696,11 @@
     "name": "Mejuri",
     "slug": "mejuri",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Melius",
+    "slug": "melius",
+    "ats": "ashby"
   },
   {
     "name": "Melotech",
@@ -19610,6 +19635,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Rollout",
+    "slug": "rollout",
+    "ats": "ashby"
+  },
+  {
     "name": "Rolls-Royce",
     "slug": "rollsroyce",
     "ats": "workday",
@@ -21760,6 +21790,11 @@
     "site": "CX_1004"
   },
   {
+    "name": "SugarCRM",
+    "slug": "sugarcrm",
+    "ats": "lever"
+  },
+  {
     "name": "Suki",
     "slug": "suki",
     "ats": "greenhouse"
@@ -23548,6 +23583,11 @@
   {
     "name": "Ubisoft",
     "slug": "life-at-ubisoft",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Ubisoft",
+    "slug": "Ubisoft2",
     "ats": "smartrecruiters"
   },
   {
