@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-18-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 01, 2026 at 21:17 UTC</em></p>
+  <p><em>Last updated: Aug 01, 2026 at 23:30 UTC</em></p>
 </div>
 
 ---
@@ -43,7 +43,7 @@
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel <sup>~</sup> | `Software` | Quebec, CAN - Remote | Posted 30+ | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
-| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 19  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043128-1) |
+| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice_R4043509) |
 
 _~ = the title doesn't state a year; bucketed here from its posting date (17 of 18)._
@@ -53,17 +53,17 @@ _~ = the title doesn't state a year; bucketed here from its posting date (17 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-08-01 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-01 |
-| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-01 |
-| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-08-01 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-01 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-01 |
-| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-08-01 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-01 |
 | Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-01 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-01 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-01 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-01 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-01 |
+| Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-08-01 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-01 |
+| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-08-01 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-01 |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-08-01 |
+| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-01 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-01 |
 | eBay | Software Engineer Intern | Summer 2027 | 2026-08-01 |
 | Philips | Software Development Engineer- intern | Summer 2027 | 2026-08-01 |
