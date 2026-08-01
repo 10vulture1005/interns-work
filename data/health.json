@@ -269,11 +269,6 @@
     "last_attempt_at": "2026-07-31T12:35:37Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/whatnot?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
-  "ashby:zeromark": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-07-31T19:48:48Z",
-    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/zeromark?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
-  },
   "bloomberg:bloomberg": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-08-01T15:34:21Z",
@@ -600,8 +595,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/razorpay/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "greenhouse:reach": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-08-01T13:36:15Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-08-01T21:17:32Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/reach/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:rebelfoods": {
