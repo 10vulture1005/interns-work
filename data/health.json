@@ -275,8 +275,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/zeromark?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "bloomberg:bloomberg": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-01T05:58:20Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-01T08:46:30Z",
     "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "breezy:census": {
@@ -335,8 +335,8 @@
     "last_error": "no connector for breezy"
   },
   "bytedance:bytedance": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-01T05:58:20Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-01T08:46:30Z",
     "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "custom:meesho-custom": {
@@ -598,6 +598,11 @@
     "consecutive_failures": 6,
     "last_attempt_at": "2026-07-31T12:35:37Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/razorpay/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
+  },
+  "greenhouse:reach": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-01T08:46:31Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/reach/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:rebelfoods": {
     "consecutive_failures": 6,
@@ -1154,6 +1159,11 @@
     "last_attempt_at": "2026-07-31T12:35:37Z",
     "last_error": "no connector for naukri"
   },
+  "oracle:ertr.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-01T08:46:30Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ertr.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
   "recruitee:1x": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-07-31T12:35:36Z",
@@ -1165,8 +1175,8 @@
     "last_error": "no connector for recruitee"
   },
   "uber:uber": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-01T05:58:20Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-01T08:46:31Z",
     "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "unstop:cybersecurity": {

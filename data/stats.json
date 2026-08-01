@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T05:58:20Z",
-  "duration_seconds": 2380.8,
+  "generated_at": "2026-08-01T08:46:31Z",
+  "duration_seconds": 2581.9,
   "companies_total": 4538,
   "companies_by_source": {
     "greenhouse": 1031,
@@ -30,17 +30,19 @@
     "yc_waas": 1
   },
   "quarantined": 229,
-  "fetched_ok": 4306,
-  "fetch_errors": 3,
+  "fetched_ok": 4304,
+  "fetch_errors": 5,
   "errors_by_source": {
     "bloomberg": 1,
     "bytedance": 1,
+    "oracle": 1,
+    "greenhouse": 1,
     "uber": 1
   },
   "fetch_success_rate": 0.999,
-  "roles_matched": 68,
+  "roles_matched": 69,
   "roles_by_source": {
-    "workday": 49,
+    "workday": 50,
     "workable": 3,
     "ashby": 1,
     "lever": 4,
@@ -50,14 +52,14 @@
     "rippling": 2
   },
   "roles_by_cycle": {
-    "Summer 2027": 66,
+    "Summer 2027": 67,
     "Term Unconfirmed": 2
   },
   "roles_by_region": {
     "India": 42,
-    "Remote": 26
+    "Remote": 27
   },
   "purged_this_run": 0,
   "new_this_run": 1,
-  "open_total": 68
+  "open_total": 69
 }
