@@ -5653,6 +5653,11 @@
     "site": "Search"
   },
   {
+    "name": "Colonist",
+    "slug": "colonist",
+    "ats": "ashby"
+  },
+  {
     "name": "Color",
     "slug": "color",
     "ats": "lever"
@@ -7715,6 +7720,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Ema",
+    "slug": "ema",
+    "ats": "ashby"
+  },
+  {
     "name": "Embry-Riddle Aeronautical University",
     "slug": "embryriddle",
     "ats": "workday",
@@ -9678,6 +9688,11 @@
     "name": "General Electric",
     "slug": "generalelectric-global",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "General Intuition &amp; Medal",
+    "slug": "generalintuition-medal",
+    "ats": "ashby"
   },
   {
     "name": "General Matter",
@@ -18309,6 +18324,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Prelim",
+    "slug": "prelim",
+    "ats": "ashby"
+  },
+  {
     "name": "Premera Blue Cross",
     "slug": "premera",
     "ats": "workday",
@@ -20171,6 +20191,11 @@
     "site": "ScientificGamesExternalCareers"
   },
   {
+    "name": "Sciforium",
+    "slug": "sciforium",
+    "ats": "ashby"
+  },
+  {
     "name": "SciTec",
     "slug": "scitec",
     "ats": "workable"
@@ -21891,6 +21916,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "swbccareers"
+  },
+  {
+    "name": "Sweatpals",
+    "slug": "sweatpals",
+    "ats": "ashby"
   },
   {
     "name": "Swift",
@@ -23995,6 +24025,11 @@
     "name": "Uplifter",
     "slug": "uplifter",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Upscale AI",
+    "slug": "upscale-ai",
+    "ats": "lever"
   },
   {
     "name": "Upstart",
