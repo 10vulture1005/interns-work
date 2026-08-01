@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-18-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 01, 2026 at 02:30 UTC</em></p>
+  <p><em>Last updated: Aug 01, 2026 at 05:58 UTC</em></p>
 </div>
 
 ---
@@ -53,15 +53,18 @@ _~ = the title doesn't state a year; bucketed here from its posting date (17 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-01 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-01 |
+| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-01 |
+| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-08-01 |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-08-01 |
+| S&P Global | Apprentice, Index Management | Summer 2027 | 2026-08-01 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-01 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-01 |
 | Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-07-31 |
 | Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-07-31 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-07-31 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-07-31 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-31 |
-| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-07-31 |
 | Boston Medical Center | Cybersecurity & AI/Data Governance Intern | Summer 2027 | 2026-07-31 |
 | Citi | Young Apprentice - C00 - GURUGRAM | Summer 2027 | 2026-07-31 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-31 |
@@ -70,9 +73,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (17 of 
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-07-31 |
 | Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-07-31 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-07-31 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-07-31 |
-| Fiserv | Technology Analyst Trainee (Apprentice) | Summer 2027 | 2026-07-31 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-07-31 |
 
 </details>
 
