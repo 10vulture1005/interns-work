@@ -274,6 +274,11 @@
     "last_attempt_at": "2026-07-31T19:48:48Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/zeromark?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
+  "bloomberg:bloomberg": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-01T02:30:01Z",
+    "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
+  },
   "breezy:census": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-07-31T12:35:36Z",
@@ -328,6 +333,11 @@
     "consecutive_failures": 6,
     "last_attempt_at": "2026-07-31T12:35:37Z",
     "last_error": "no connector for breezy"
+  },
+  "bytedance:bytedance": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-01T02:30:01Z",
+    "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "custom:meesho-custom": {
     "consecutive_failures": 6,
@@ -445,8 +455,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/climateai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:coursera": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-07-31T19:48:48Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-08-01T02:30:01Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/coursera/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "greenhouse:cred-club": {
@@ -475,8 +485,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/dustyrobotics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "greenhouse:fireworksai": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-07-31T23:29:34Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-01T02:30:01Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/fireworksai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "greenhouse:forerunner": {
@@ -1144,6 +1154,16 @@
     "last_attempt_at": "2026-07-31T12:35:37Z",
     "last_error": "no connector for naukri"
   },
+  "oracle:eeho.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-01T02:30:01Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://eeho.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
+  },
+  "oracle:etgi.fa.us8.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-01T02:30:01Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://etgi.fa.us8.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
+  },
   "recruitee:1x": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-07-31T12:35:36Z",
@@ -1153,6 +1173,11 @@
     "consecutive_failures": 6,
     "last_attempt_at": "2026-07-31T12:35:37Z",
     "last_error": "no connector for recruitee"
+  },
+  "uber:uber": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-01T02:30:01Z",
+    "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "unstop:cybersecurity": {
     "consecutive_failures": 6,
