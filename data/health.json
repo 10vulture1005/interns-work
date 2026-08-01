@@ -275,8 +275,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/zeromark?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "bloomberg:bloomberg": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-08-01T08:46:30Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-08-01T15:34:21Z",
     "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "breezy:census": {
@@ -335,8 +335,8 @@
     "last_error": "no connector for breezy"
   },
   "bytedance:bytedance": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-08-01T08:46:30Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-08-01T15:34:21Z",
     "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "custom:meesho-custom": {
@@ -455,8 +455,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/climateai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:coursera": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-01T02:30:01Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-08-01T15:34:21Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/coursera/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "greenhouse:cred-club": {
@@ -1170,8 +1170,8 @@
     "last_error": "no connector for recruitee"
   },
   "uber:uber": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-08-01T08:46:31Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-08-01T15:34:21Z",
     "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "unstop:cybersecurity": {
