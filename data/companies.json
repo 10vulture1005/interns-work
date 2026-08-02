@@ -291,6 +291,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Accordion",
+    "slug": "accordion",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Accuray",
     "slug": "accuray",
     "ats": "workday",
@@ -648,6 +653,11 @@
     "ats": "lever"
   },
   {
+    "name": "Ai Dash",
+    "slug": "aidashinc",
+    "ats": "greenhouse"
+  },
+  {
     "name": "AI Fund",
     "slug": "aifund",
     "ats": "lever"
@@ -728,6 +738,11 @@
   {
     "name": "Airtel",
     "slug": "airtel",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Airtel Payment Bank",
+    "slug": "airtelpaymentbank",
     "ats": "smartrecruiters"
   },
   {
@@ -1721,6 +1736,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Appviewx",
+    "slug": "appviewx",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Aprio",
     "slug": "aprio",
     "ats": "lever"
@@ -2158,6 +2178,11 @@
     "site": "aspentech"
   },
   {
+    "name": "Aspora",
+    "slug": "aspora",
+    "ats": "ashby"
+  },
+  {
     "name": "Assembled",
     "slug": "assembledhq",
     "ats": "ashby"
@@ -2319,6 +2344,11 @@
     "site": "CX_1001"
   },
   {
+    "name": "Atlas",
+    "slug": "atlas",
+    "ats": "ashby"
+  },
+  {
     "name": "Atlas Energy Solutions",
     "slug": "atlassand",
     "ats": "greenhouse"
@@ -2332,6 +2362,11 @@
     "name": "Atlassian India",
     "slug": "atlassian",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Atlys",
+    "slug": "atlys",
+    "ats": "ashby"
   },
   {
     "name": "Atomic Invest (AtomicVest)",
@@ -3219,6 +3254,11 @@
     "name": "Birdy Grey",
     "slug": "birdygrey",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Bis",
+    "slug": "bis",
+    "ats": "lever"
   },
   {
     "name": "Bisnow",
@@ -4449,6 +4489,11 @@
     "site": "cmu"
   },
   {
+    "name": "Carousell Group",
+    "slug": "carousellgroup",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Carpenter Technology",
     "slug": "cartech",
     "ats": "workday",
@@ -5233,6 +5278,11 @@
     "site": "clarioscareers"
   },
   {
+    "name": "Clarity",
+    "slug": "clarity",
+    "ats": "ashby"
+  },
+  {
     "name": "Clarity Innovations",
     "slug": "clarityinnovates",
     "ats": "greenhouse"
@@ -5528,6 +5578,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Coforge",
+    "slug": "coforgetech",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Cogeco",
     "slug": "cogeco",
     "ats": "workday",
@@ -5818,6 +5873,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Careers_US"
+  },
+  {
+    "name": "Concentric Ai",
+    "slug": "concentric",
+    "ats": "greenhouse"
   },
   {
     "name": "Concept Plus",
@@ -7566,6 +7626,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Edra Labs",
+    "slug": "edra",
+    "ats": "ashby"
+  },
+  {
     "name": "Edwards Lifesciences",
     "slug": "edwards",
     "ats": "workday",
@@ -8219,6 +8284,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Eurofins",
+    "slug": "eurofins",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Euronext",
     "slug": "hrhub",
     "ats": "workday",
@@ -8510,6 +8580,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Fampay",
+    "slug": "fampay",
+    "ats": "lever"
+  },
+  {
     "name": "Fanatics",
     "slug": "fa-exki-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oracle",
@@ -8669,6 +8744,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "FHLBT"
+  },
+  {
+    "name": "Fibe.India",
+    "slug": "fi",
+    "ats": "lever"
   },
   {
     "name": "FICO",
@@ -8901,6 +8981,11 @@
     "name": "FiscalNote",
     "slug": "fiscalnote",
     "ats": "lever"
+  },
+  {
+    "name": "Fischer Jordan",
+    "slug": "fj",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Fiserv",
@@ -9518,6 +9603,11 @@
   {
     "name": "Galaxy",
     "slug": "galaxydigitalservices",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Galaxy.Ai",
+    "slug": "galaxy",
     "ats": "greenhouse"
   },
   {
@@ -10847,6 +10937,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Headout",
+    "slug": "headoutcareers",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Headway",
     "slug": "headway",
     "ats": "ashby"
@@ -10968,6 +11063,11 @@
     "name": "Heron Power",
     "slug": "heron-power",
     "ats": "ashby"
+  },
+  {
+    "name": "Hevodata",
+    "slug": "hevodata",
+    "ats": "lever"
   },
   {
     "name": "Hewlett Packard (HP)",
@@ -12237,6 +12337,11 @@
     "site": "CX_1"
   },
   {
+    "name": "Intervue.Io",
+    "slug": "intervue",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Interwell Health",
     "slug": "interwellhealth",
     "ats": "greenhouse"
@@ -13351,6 +13456,11 @@
     "name": "League",
     "slug": "leagueinc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Leap",
+    "slug": "leap",
+    "ats": "ashby"
   },
   {
     "name": "LEAP Legal Software",
@@ -16065,6 +16175,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Netomi",
+    "slug": "netomi",
+    "ats": "lever"
+  },
+  {
     "name": "Netskope",
     "slug": "netskope",
     "ats": "greenhouse"
@@ -18461,6 +18576,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Procdna",
+    "slug": "procdna",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Procom",
     "slug": "ProcomConsultantsGroup",
     "ats": "smartrecruiters"
@@ -18505,6 +18625,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "progyny"
+  },
+  {
+    "name": "Project44",
+    "slug": "project44",
+    "ats": "greenhouse"
   },
   {
     "name": "Prolaio",
@@ -18718,6 +18843,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Q2"
+  },
+  {
+    "name": "Q3 Technologies",
+    "slug": "qt",
+    "ats": "greenhouse"
   },
   {
     "name": "QBE Insurance",
@@ -19022,6 +19152,11 @@
     "name": "RapDev",
     "slug": "rapdev",
     "ats": "ashby"
+  },
+  {
+    "name": "Rapidfort",
+    "slug": "rapidfortinc",
+    "ats": "greenhouse"
   },
   {
     "name": "RAPP",
@@ -20847,6 +20982,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Simpplr",
+    "slug": "simpplr",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Simpro",
     "slug": "simpro",
     "ats": "workday",
@@ -21426,6 +21566,11 @@
   {
     "name": "SpotOn",
     "slug": "spotonproduct",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Spotonix Inc.",
+    "slug": "si",
     "ats": "greenhouse"
   },
   {
@@ -23022,6 +23167,11 @@
   {
     "name": "Titan",
     "slug": "titan-msp",
+    "ats": "ashby"
+  },
+  {
+    "name": "Titan",
+    "slug": "titan",
     "ats": "ashby"
   },
   {
@@ -24801,6 +24951,11 @@
   {
     "name": "Wabtec",
     "slug": "Wabtec",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Wabtec",
+    "slug": "wabtec",
     "ats": "smartrecruiters"
   },
   {

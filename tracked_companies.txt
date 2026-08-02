@@ -3,6 +3,7 @@
 accelya
 accenture
 accolite
+accordion
 acko
 acorns
 activision
@@ -12,21 +13,27 @@ aetion
 affinity
 affirm
 agoda
+ai dash
+aidash
 airbnb
 airbus
 airtel
+airtel payment bank
 airwallex
 akamai
+akamai technologies
 akuna-capital
 alibaba
 allincall
 alphonso
 alten
+alteryx
 altimetrik
 amadeus
 amazon
 amd
 amdocs
+american express
 american-airlines
 american-express
 amplitude
@@ -42,14 +49,20 @@ appdynamics
 appfolio
 apple
 applied-intuition
+appviewx
 aqr-capital-management
+arcana
 arcesium
 argo-ai
 arista-networks
+armorcode
 asana
 ascend
+aspora
 athenahealth
+atlas
 atlassian
+atlys
 att
 attentive
 audible
@@ -58,6 +71,7 @@ aurora
 autodesk
 avalara
 avito
+axis bank
 axis-bank
 axon
 baidu
@@ -66,6 +80,7 @@ barclays
 bcg
 bending-spoons
 bill-com
+bis
 bitgo
 blackbuck
 blackrock
@@ -76,6 +91,7 @@ bloomberg
 bloomreach
 blue-origin
 bnp-paribas
+bny
 bny-mellon
 boeing
 bolt
@@ -92,11 +108,14 @@ buyhatke
 bytedance
 c3-ai
 cadence
+cadence design systems
 canonical
 canva
 capgemini
+capital one
 capital-one
 careem
+carousell group
 cars24
 carwale
 cashfree
@@ -105,6 +124,7 @@ cerner
 chalo
 chargebee
 checkpoint
+chegg inc
 chewy
 chime
 chubb
@@ -115,6 +135,8 @@ citadel
 citi
 citrix
 clari
+clarity
+clear
 cleartrip
 clevertap
 cloudera
@@ -124,14 +146,18 @@ cme-group
 cockroach-labs
 code-studio
 coditas
+coforge
 cognizant
 cohesity
 coinbase
 coindcx
+coinswitch
 coinswitch-kuber
 comcast
 commvault
 compass
+concentric ai
+conduent
 confluent
 couchbase
 coupa
@@ -139,10 +165,12 @@ coupang
 coursera
 coveo
 cred
+credgenics
 criteo
 crowdstrike
 cruise-automation
 ctc
+cummins
 curefit
 cvent
 cyntexa
@@ -154,6 +182,7 @@ dataart
 databricks
 datadog
 dataminr
+de shaw
 de-shaw
 deepmind
 delhivery
@@ -161,6 +190,7 @@ deliveroo
 dell
 deloitte
 deltax
+deutsche bank
 deutsche-bank
 devrev
 dialpad
@@ -171,6 +201,8 @@ disney
 dji
 docusign
 doordash
+dotpe
+dp world
 dp-world
 drawbridge
 dream11
@@ -183,6 +215,7 @@ duolingo
 earnin
 ebay
 edelweiss
+edra labs
 electronic-arts
 elitmus
 envoy
@@ -193,20 +226,26 @@ epifi
 equinix
 ericsson
 etsy
+eurofins
 exl
 expedia
+expedia group
 ey
 f5-networks
 factset
 faire
 fallible
+fampay
 fanatics
 fast
 fastenal
+fastenal india
+fibe.india
 fico
 fidelity
 fidessa
 figma
+fischer jordan
 fiverr
 fivetran
 flatiron-health
@@ -214,6 +253,7 @@ fleetx
 flexera
 flexport
 flipkart
+forsys inc
 fortinet
 forusall
 fourkites
@@ -222,7 +262,9 @@ fractal-analytics
 freecharge
 freshworks
 fynd
+gail india
 gainsight
+galaxy.ai
 gameskraft
 garena
 garmin
@@ -243,6 +285,7 @@ globallogic
 glovo
 godaddy
 gojek
+goldman sachs
 goldman-sachs
 google
 gopuff
@@ -255,13 +298,18 @@ groww
 grubhub
 gsa-capital
 gsn-games
+guidepoint
 guidewire
 gusto
 harness
 hashedin
 hbo
 hcl
+hcl tech
+headout
 helix
+hevodata
+highradius
 highspot
 hilabs
 hive
@@ -281,10 +329,12 @@ hulu
 ibm
 iit-bombay
 imc
+impact analystics
 impact-analytics
 impetus
 increff
 indeed
+indika ai
 info-edge
 informatica
 infosys
@@ -295,7 +345,9 @@ instacart
 intel
 interactive-brokers
 intercom
+intervue.io
 intuit
+inventic.ai
 ivp
 ixigo
 ixl
@@ -305,6 +357,7 @@ jeavio
 jingchi
 jio
 josh-technology
+jp morgan
 jpmorgan
 jtg
 jump-trading
@@ -314,9 +367,14 @@ karat
 kickdrum
 kla
 kla-tencor
+kong
+kong inc
 kotak-mahindra-bank
 kpmg
+kpmg india
+larsen & toubro
 larsen-toubro
+leap
 leap-motion
 lendingkart
 lenskart
@@ -328,7 +386,9 @@ line
 linkedin
 liveramp
 livspace
+logward
 lowe
+lowe's india
 lti
 lucid
 luxoft
@@ -336,20 +396,26 @@ lyft
 machine-zone
 machinezone
 maersk
+make my trip
 makemytrip
 mapbox
+maq software
 maq-software
 marqeta
+mars
 mastercard
 mathworks
 mcafee
 mcdonalds
 mckinsey
+media.net
 medianet
+medtronic
 meesho
 meituan
 mercari
 meta
+metroguild
 micro1
 microsoft
 microstrategy
@@ -367,12 +433,14 @@ moneylion
 mongodb
 morgan-stanley
 motive
+moveinsync
 moveworks
 mphasis
 msci
 murex
 mykaarma
 myntra
+nableit consultancy
 nagarro
 nasdaq
 national-instruments
@@ -387,6 +455,7 @@ netapp
 netcracker-technology
 netease
 netflix
+netomi
 netskope
 netsuite
 newsbreak
@@ -403,7 +472,10 @@ npci
 nuro
 nutanix
 nvidia
+nxp semiconductors
 nykaa
+o9 solutions
+observe.ai
 observeai
 odoo
 okta
@@ -423,6 +495,7 @@ ozon
 palantir
 palo-alto-networks
 park
+parspec
 patreon
 paycom
 paypal
@@ -430,9 +503,12 @@ paypay
 paytm
 payu
 peak6
+pearson
+peepalco
 pega
 peloton
 persistent-systems
+pharmeasy
 philips
 phonepe
 pickrr
@@ -450,12 +526,16 @@ postman
 postmates
 poynt
 practo
+procdna
+project44
+publicis sapient
 publicis-sapient
 pubmatic
 pure
 pure-storage
 purplle
 pwc
+q3 technologies
 qualcomm
 qualtrics
 qualys
@@ -468,11 +548,13 @@ radius
 rakuten
 rally-health
 ramp-2
+rapidfort
 razorpay
 rbc
 redbus
 reddit
 redfin
+reliance
 reliance-retails
 remitly
 retailmenot
@@ -486,11 +568,14 @@ roblox
 rokt
 roku
 rubrik
+sabre
 salesforce
 sambanova
 samsara
 samsung
+sandisk
 sap
+sap labs
 scale-ai
 scaler
 schlumberger
@@ -498,6 +583,7 @@ schneider-electric
 schrodinger
 scopely
 sentry
+service now
 servicenow
 sharechat
 shift-technology
@@ -509,9 +595,12 @@ shopup
 siemens
 sig
 sigmoid
+simpplr
 singlestore
+siterecon
 sixt
 slice
+smallcase
 smartnews
 smartsheet
 snapchat
@@ -522,12 +611,14 @@ sofi
 softwire
 sonatus
 sony
+sophos
 soti
 soundhound
 spacex
 spinny
 splunk
 spotify
+spotonix inc.
 sprinklr
 square
 squarepoint-capital
@@ -537,24 +628,28 @@ stackadapt
 stackline
 starbucks
 state-farm
+stmicroelectronics
 strava
 stripe
 sumologic
 swiggy
 syfe
 symantec
+synopsis inc
 synopsys
 ta-digital
 tableau
 tanium
 target
 tcs
+tech mahindra
 tech-mahindra
 tekion
 tencent
 teradata
 tesco
 tesla
+texas instruments
 texas-instruments
 the-trade-desk
 thomson-reuters
@@ -567,16 +662,19 @@ tiger-analytics
 tiktok
 tinder
 tinkoff
+titan
 toast
 tokopedia
 tomtom
 toptal
+tower research capital
 tower-research
 tracxn
 traveloka
 trend-micro
 trexquant
 trilogy
+trinet
 tripactions
 tripadvisor
 triplebyte
@@ -587,9 +685,11 @@ twilio
 twitch
 twitter
 two-sigma
+typeface
 uber
 ubisoft
 ubs
+udaan
 udemy
 uipath
 ukg
@@ -600,6 +700,7 @@ upstart
 urban-company
 ust
 valeo
+valuefy
 valve
 veeva
 verily
@@ -613,12 +714,15 @@ virtusa
 visa
 vk
 vmware
+wabtec
+walmart
 walmart-labs
 warnermedia
 wayfair
 waymo
 wayve
 wealthfront
+wells fargo
 wells-fargo
 weride
 western-digital
@@ -654,6 +758,7 @@ ziprecruiter
 zluri
 zocdoc
 zoho
+zoho corp
 zomato
 zoom
 zoox
