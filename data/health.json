@@ -614,6 +614,11 @@
     "last_attempt_at": "2026-07-31T12:35:37Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/seamlessai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
+  "greenhouse:shyftsolutionsllc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-02T08:44:39Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/shyftsolutionsllc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
   "greenhouse:spotonproduct": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-07-31T12:35:37Z",
