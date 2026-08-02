@@ -12,18 +12,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0442912",
-    "company": "Deutsche Bank",
-    "title": "Apprentice hiring for 2026 – 2027",
-    "location": "Bangalore, Velankani Tech Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0442912",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -56,6 +44,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-160415",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0443047",
+    "company": "Deutsche Bank",
+    "title": "Apprentice hiring for 2026 – 2027",
+    "location": "Bangalore, Velankani Tech Park",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0443047",
     "salary": null,
     "source": "workday"
   },
@@ -144,6 +144,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Bangalore , Karnataka, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -164,6 +176,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041709",
+    "company": "Gevernova",
+    "title": "Grid Automation & Software Intern",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041709",
     "salary": null,
     "source": "workday"
   },
@@ -200,18 +224,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -284,18 +296,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5041706-3",
-    "company": "Gevernova",
-    "title": "Grid Automation & Software Intern",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5041706-3",
     "salary": null,
     "source": "workday"
   },
@@ -468,14 +468,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043128-1",
+    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
     "company": "GE Healthcare",
     "title": "Biomedical Technician Apprentice",
     "location": "Remote",
     "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted 19 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043128-1",
+    "posted_at": "Posted 15 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
     "salary": null,
     "source": "workday"
   },
@@ -548,18 +548,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 12 Days Ago",
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67185",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Gurgaon, Haryana, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 11 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67185",
     "salary": null,
     "source": "workday"
   },
