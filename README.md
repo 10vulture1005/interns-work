@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 02, 2026 at 17:25 UTC</em></p>
+  <p><em>Last updated: Aug 02, 2026 at 19:35 UTC</em></p>
 </div>
 
 ---
@@ -51,26 +51,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Baxter International | Apprentice, Trainee | Summer 2027 | 2026-08-02 |
+| Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-08-02 |
+| Alcon | FRA Apprentice | Summer 2027 | 2026-08-02 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-02 |
 | Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-02 |
-| eBay | Software Engineer Intern | Summer 2027 | 2026-08-02 |
 | Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-08-02 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-02 |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-08-02 |
-| Altom Transport | Fall Software Development Intern | Term Unconfirmed | 2026-08-02 |
+| State Street | Apprentice | Summer 2027 | 2026-08-02 |
+| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-02 |
+| eBay | Software Engineer Intern | Summer 2027 | 2026-08-02 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-02 |
 | Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | Summer 2027 | 2026-08-02 |
 | Autodesk | Stagiaire en Développement Cloud, Intern Cloud Developer | Summer 2027 | 2026-08-02 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-02 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-02 |
 | IMC Trading | 2027 - Software Engineering Intern - BITS Pilani | Summer 2027 | 2026-08-02 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-02 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-02 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-02 |
-| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-01 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-01 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-01 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-01 |
 
 </details>
 
