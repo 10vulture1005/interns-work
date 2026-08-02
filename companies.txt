@@ -1,38 +1,60 @@
 1kosmos
+26 miles capital
 6sense
 accelya
 accenture
+accenture japan
 accolite
+accordian
+accordion
 acko
+acko general insurance
+acmegrade
 acorns
 activision
 adobe
 adp
+advantage club.ai
 aetion
 affinity
 affirm
 agoda
+ai dash
+aidash
 airbnb
 airbus
 airtel
+airtel payment bank
 airwallex
+akal information systems ltd
 akamai
+akamai technologies
 akuna-capital
+algosec
 alibaba
 allincall
+alphawave semi
 alphonso
 alten
+alteryx
 altimetrik
+alvarez & marsal
 amadeus
 amazon
 amd
 amdocs
+amenify
+american chase
+american express
 american-airlines
 american-express
 amplitude
 analytics-quotient
+ancestry
 andela
 anduril
+angel one
+angelone
 anthropic
 anyscale
 aon
@@ -41,14 +63,24 @@ appdynamics
 appfolio
 apple
 applied-intuition
+appviewx
 aqr-capital-management
+arcana
 arcesium
+arctan
 argo-ai
 arista-networks
+arm
+armorcode
 asana
 ascend
+ascendion
+aspire
+aspora
 athenahealth
+atlas
 atlassian
+atlys
 att
 attentive
 audible
@@ -57,15 +89,29 @@ aurora
 autodesk
 avalara
 avito
+avtaar skincare
+axa xl
+axis bank
 axis-bank
 axon
+axtria
+axxela
+bachhat
 baidu
+bain and co.
+bajaj life
 bankofamerica-in
 barclays
+barco
+battery smart
 bcg
+beatroute
 bending-spoons
 bill-com
+binocs
+bis
 bitgo
+bizango
 blackbuck
 blackrock
 blackstone
@@ -74,48 +120,69 @@ blinkit
 bloomberg
 bloomreach
 blue-origin
+bluno
 bnp-paribas
+bny
 bny-mellon
 boeing
 bolt
 bookingcom
+bosch -
+bot consulting
 box
 bp
+bpcl
 braze
 bridgewater-associates
+bright money
 brillio
 broadcom
 browserstack
 bt-group
 buyhatke
 bytedance
+byteridge
 c3-ai
 cadence
+cadence design systems
 canonical
 canva
 capgemini
+capillary tech
+capital one
 capital-one
+care health insurance
+care insurance
 careem
+carousell group
 cars24
 carwale
 cashfree
+cashfree payments
 caterpillar
+cbx1
 cerner
 chalo
 chargebee
 checkpoint
+chegg inc
 chewy
 chime
 chubb
 ciena
+cimpress
 circle
 cisco
 citadel
 citi
 citrix
 clari
+clarity
+clear
 cleartrip
 clevertap
+clickpost
+clinisys
 cloudera
 cloudflare
 clutter
@@ -123,54 +190,79 @@ cme-group
 cockroach-labs
 code-studio
 coditas
+coforge
+cognam
 cognizant
 cohesity
 coinbase
 coindcx
+coinswitch
 coinswitch-kuber
+collegedunia
 comcast
 commvault
 compass
+concentric ai
+conduent
 confluent
+connectheor
 couchbase
 coupa
 coupang
 coursera
+couture.ai
+coutureai
+coututre.ai
 coveo
+coverfox insurance
 cred
+credgenics
 criteo
 crowdstrike
 cruise-automation
 ctc
+cummins
 curefit
 cvent
+cyfuture
 cyntexa
 cyware
 dailyhunt
 darwinbox
+darwix ai
 dassault-sysetmes
 dataart
 databricks
 datadog
 dataminr
+de shaw
+de-shaw
+deccan ai
+decoverai
 deepmind
 delhivery
 deliveroo
 dell
 deloitte
 deltax
-de-shaw
+deutsche bank
 deutsche-bank
 devrev
 dialpad
+digio
 directi
 discord
 discovery
 disney
 dji
+docquity
 docusign
+dolby
 doordash
+dotpe
+dp world
 dp-world
+dr. reddy
 drawbridge
 dream11
 dropbox
@@ -179,89 +271,138 @@ drw
 dtcc
 dunzo
 duolingo
+ea games
 earnin
+ease mytrip
+easemytrip
 ebay
 edelweiss
+edra labs
+effiya technologies
 electronic-arts
+electronics art
 elitmus
+engaze
 envoy
+epam
 epam-systems
 epic-games
 epic-systems
 epifi
 equinix
 ericsson
+ethos
 etsy
+eurofins
+exavalu
 exl
 expedia
+expedia group
 ey
 f5-networks
 factset
 faire
 fallible
+fampay
 fanatics
+fareportal
+farmart
 fast
 fastenal
+fastenal india
+fibe.india
 fico
 fidelity
 fidessa
 figma
+first citizen
+first citizen india
+first citizens india
+fischer jordan
 fiverr
 fivetran
 flatiron-health
 fleetx
+flexcar
 flexera
 flexport
 flipkart
+forsys
+forsys inc
 fortinet
 forusall
 fourkites
 fpt
+fractal
 fractal-analytics
 freecharge
 freshworks
+future first
+futures first
 fynd
+gail india
 gainsight
+galaxy.ai
+game theory
 gameskraft
 garena
 garmin
 gartner
 ge-digital
+ge-healthcare-india
 gehc
 gehealthcare
-ge-healthcare-india
 geico
 general-electric
 general-motors
+genpact
 ghr
 gilt-groupe
 github
 glassdoor
+globalfoundries
 globallogic
 glovo
+gocomet
 godaddy
 gojek
+gokwik
+goldman sachs
+goldman sacs
 goldman-sachs
 google
 gopuff
 goto
 grab
 grammarly
+grapevine tal
 graviton
 groupon
 groww
 grubhub
 gsa-capital
 gsn-games
+gudiepoint
+guidepoint
 guidewire
 gusto
+haber
 harness
 hashedin
 hbo
+hbwsl
 hcl
+hcl tech
+headcount
+headout
+health access intiative
+heizen
 helix
+hevodata
+highradius
 highspot
 hilabs
+hirepro
 hive
 honey
 honeywell
@@ -269,6 +410,7 @@ hopper
 hotstar
 houzz
 hp
+hpcl
 hpe
 hrt
 hsbc
@@ -277,12 +419,19 @@ huawei
 hubspot
 hulu
 ibm
+ibwujb.fa.ocs.oraclecloud.com
+icici
+icici bank
 iit-bombay
 imc
+impact analystics
 impact-analytics
 impetus
+incedo inc
 increff
 indeed
+indiamart (associate software en
+indika ai
 info-edge
 informatica
 infosys
@@ -290,31 +439,55 @@ inmobi
 innovaccer
 instabase
 instacart
+instamart
 intel
+intellipat (business development
 interactive-brokers
 intercom
+intervue.io
 intuit
+inventic.ai
+irage
 ivp
 ixigo
 ixl
+jakson group
 jane-street
 jd
 jeavio
 jingchi
 jio
 josh-technology
+joulestowatts pvt ltd
+jp morgan
 jpmorgan
+jsw
 jtg
 jump-trading
+jurin ai
 juspay
+k12 techno services pvt. ltd.
+kai nest
 kakao
 karat
 kickdrum
+kickdrumtech
+kivi capital
+kivi captials
 kla
 kla-tencor
+kong
+kong inc
 kotak-mahindra-bank
 kpmg
+kpmg india
+kpmg us
+l & t
+l&t
+larsen & toubro
 larsen-toubro
+launched (business developme
+leap
 leap-motion
 lendingkart
 lenskart
@@ -326,28 +499,50 @@ line
 linkedin
 liveramp
 livspace
+logic fruit technologies
+logward
 lowe
+lowe's india
 lti
+ltimindtree
 lucid
+lucidity
+lumber
+lumenci- technical consultant
 luxoft
 lyft
 machine-zone
 machinezone
 maersk
+make my trip
 makemytrip
+manthaan h&w
 mapbox
+maq software
+maq software 2.0
 maq-software
 marqeta
+mars
+marut air systems pvt. ltd.
 mastercard
+material plus
 mathworks
+mavenir
 mcafee
 mcdonalds
 mckinsey
+mckinsey & company
+media.net
 medianet
+medpace
+medtronic
 meesho
+meesho backend
 meituan
+merai
 mercari
 meta
+metroguild
 micro1
 microsoft
 microstrategy
@@ -362,20 +557,29 @@ mobisy
 moengage
 moloco
 moneylion
+moneyview
 mongodb
 morgan-stanley
 motive
+moveinsync
 moveworks
 mphasis
 msci
+multiplier
 murex
+mycareernet
+myhq
 mykaarma
 myntra
+mysivi
+nableit consultancy
 nagarro
 nasdaq
+nation with namo
 national-instruments
 national-payments-coorperation-india
 natwest
+nava
 navan
 naver
 navi
@@ -385,14 +589,20 @@ netapp
 netcracker-technology
 netease
 netflix
+netomi
 netskope
 netsuite
+neuralix.ai (full stack, data scien
 newsbreak
 nextdoor
 nextjump
+nexturn
+nextwave
+nference labs
 niantic
 nielsen
 nike
+nisg
 nokia
 noon
 nordstrom
@@ -401,13 +611,24 @@ npci
 nuro
 nutanix
 nvidia
+nxp semiconductors
+nxtwave
 nykaa
+o9 solutions
+observe.ai
 observeai
+octagos
 odoo
+ofbusiness
 okta
 okx
 ola
 olx
+olyv smartcoin
+omnicard (associate software e
+omnissa
+ondc
+onsurity
 openai
 opentext
 oppo
@@ -416,11 +637,15 @@ optum
 oracle
 oscar-health
 otterai
+out systems
 oyo
 ozon
+pace stock
 palantir
+palo alto
 palo-alto-networks
 park
+parspec
 patreon
 paycom
 paypal
@@ -428,18 +653,30 @@ paypay
 paytm
 payu
 peak6
+pearson
+peepalco
 pega
 peloton
+people interactive
+perceptive analytics
+perfios software solution
 persistent-systems
+pharmeasy
 philips
 phonepe
+phonon
 pickrr
+pinnacle infotech
 pinterest
 plaid
 playsimple
+plum
+pocket fm
 pocket-gems
+pocketful
 point72
 polar
+policybazaar
 ponyai
 pornhub
 porter
@@ -448,17 +685,25 @@ postman
 postmates
 poynt
 practo
+probo
+procdna
+project44
+prosperr . io
+publicis sapient
 publicis-sapient
 pubmatic
 pure
 pure-storage
 purplle
 pwc
+q3 technologies
 qualcomm
 qualtrics
 qualys
 quantcast
 quantiphi
+quicksell
+quicksell & doubletick
 quince
 quora
 rackspace
@@ -466,11 +711,15 @@ radius
 rakuten
 rally-health
 ramp-2
+rapidfort
+rapido
 razorpay
 rbc
+recrivio
 redbus
 reddit
 redfin
+reliance
 reliance-retails
 remitly
 retailmenot
@@ -484,31 +733,48 @@ roblox
 rokt
 roku
 rubrik
+rumik
+sabre
+salecode.ai
 salesforce
 sambanova
 samsara
 samsung
+samsung r&d
+sandisk
 sap
+sap labs
 scale-ai
 scaler
 schlumberger
 schneider-electric
 schrodinger
+scopely
+sendx
+senitalone
 sentry
+service now
 servicenow
+shaadi.com
 sharechat
 shift-technology
 shipsy
 shopback
+shopdeck
 shopee
 shopify
 shopup
+siemen
 siemens
 sig
 sigmoid
+simpplr
 singlestore
+siterecon
 sixt
+skillscapital
 slice
+smallcase
 smartnews
 smartsheet
 snapchat
@@ -519,40 +785,61 @@ sofi
 softwire
 sonatus
 sony
+sophos
 soti
 soundhound
+sowparnika
 spacex
 spinny
 splunk
 spotify
+spotonix inc.
 sprinklr
+squadstack
 square
 squarepoint-capital
 squarespace
 src
 stackadapt
 stackline
+staples
 starbucks
 state-farm
+stmicroelectronics
+straive
 strava
 stripe
+success numbers
 sumologic
+sunstone
+super money
+supermoney
 swiggy
 syfe
 symantec
+synopsis inc
 synopsys
-tableau
+syook
 ta-digital
+tableau
+talview
 tanium
 target
+tata 1mg
+tata steel
+tavant
 tcs
+tech mahindra
 tech-mahindra
 tekion
 tencent
 teradata
 tesco
 tesla
+texas instruments
+texas instruments - fae sales
 texas-instruments
+the adecco group
 the-trade-desk
 thomson-reuters
 thoughtspot
@@ -564,16 +851,23 @@ tiger-analytics
 tiktok
 tinder
 tinkoff
+titan
 toast
 tokopedia
 tomtom
 toptal
+tower research capital
 tower-research
+traceable ai
 tracxn
 traveloka
+tredence analytics
+tredence inc.
 trend-micro
 trexquant
 trilogy
+trilogy innovations
+trinet
 tripactions
 tripadvisor
 triplebyte
@@ -584,24 +878,34 @@ twilio
 twitch
 twitter
 two-sigma
+typeface
 uber
 ubisoft
 ubs
+udaan
 udemy
 uipath
 ukg
 unbxd
+unify apps
+unifyapps
+united breweries ltd.
 unity
 unstop
 upstart
 urban-company
 ust
+v-shesh
+valeo
+valuefy
 valve
 veeva
+veradigm
 verily
 veritas
 verizon
 verkada
+versa networks
 viasat
 vimeo
 virtu
@@ -609,17 +913,26 @@ virtusa
 visa
 vk
 vmware
+vyapar apps
+vyaparapp
+wabtec
+wabtech
+walmart
 walmart-labs
+warner bros discovery
 warnermedia
 wayfair
 waymo
 wayve
 wealthfront
+wells fargo
 wells-fargo
 weride
 western-digital
 whatfix
 whatnot
+wheelseye
+willings
 winzo
 wipro
 wise
@@ -627,17 +940,23 @@ wish
 wissen
 wix
 workday
+workindia
 works-applications
+workspan
 worldquant
+woven by toyota, japan
 woven-by-toyota
 xing
+xperteez technology
 yahoo
 yandex
 yatra
 yelp
 yugabyte
+zadara
 zalando
 zappos
+zelthy
 zemoso
 zendesk
 zenefits
@@ -650,6 +969,7 @@ ziprecruiter
 zluri
 zocdoc
 zoho
+zoho corp
 zomato
 zoom
 zoox
@@ -657,9 +977,5 @@ zopsmart
 zs-associates
 zscaler
 zulily
+zycus
 zynga
-ancestry
-globalfoundries
-scopely
-valeo
-ibwujb.fa.ocs.oraclecloud.com
