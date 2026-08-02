@@ -156,6 +156,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Gurgaon, Haryana, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 7 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -176,18 +188,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 6 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Bangalore , Karnataka, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
     "salary": null,
     "source": "workday"
   },
@@ -768,6 +768,18 @@
     "source": "greenhouse"
   },
   {
+    "id": "workable:altom-transport:9FC654F05E",
+    "company": "Altom Transport",
+    "title": "Fall Software Development Intern",
+    "location": "Hammond, Indiana, United States",
+    "category": "Software",
+    "season": "Fall 2026",
+    "posted_at": "2026-06-23T00:00:00.000Z",
+    "url": "https://apply.workable.com/altom-transport/j/9FC654F05E/",
+    "salary": null,
+    "source": "workable"
+  },
+  {
     "id": "greenhouse:iherb:7776154003",
     "company": "Iherb",
     "title": "Software Development Intern",
@@ -790,18 +802,6 @@
     "url": "https://job-boards.greenhouse.io/instawork/jobs/4689262006",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "workable:altom-transport:8536165C7B",
-    "company": "Altom Transport",
-    "title": "Fall Software Development Intern",
-    "location": "Hammond, Indiana, United States",
-    "category": "Software",
-    "season": "Term Unconfirmed",
-    "posted_at": "2026-06-03T00:00:00.000Z",
-    "url": "https://apply.workable.com/altom-transport/j/8536165C7B/",
-    "salary": null,
-    "source": "workable"
   },
   {
     "id": "rippling:spreeai:aa087086-dd4b-42be-a499-051546655e97",

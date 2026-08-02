@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-01T23:30:51Z</updated>
+  <updated>2026-08-02T02:31:43Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Liberty University — Quality Analyst Engineer Apprentice</title>
@@ -109,6 +109,12 @@
     <updated>2026-07-29T18:50:34Z</updated>
     <summary>Remote · Other · Summer 2027</summary>
   </entry>  <entry>
+    <title>Medtronic — Co-op/Apprentice (Non-Tech)</title>
+    <link href="https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779" rel="alternate"/>
+    <id>workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779</id>
+    <updated>2026-07-29T18:50:34Z</updated>
+    <summary>Gurgaon, Haryana, India · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>R1 RCM — Apprentice</title>
     <link href="https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967" rel="alternate"/>
     <id>workday:r1rcm:job/Noida-India/Apprentice_R250000011967</id>
@@ -132,12 +138,6 @@
     <id>lever:dnb:ddce86a8-1d41-41a1-b183-55b7391955ab</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Mumbai - India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Altom Transport — Fall Software Development Intern</title>
-    <link href="https://apply.workable.com/altom-transport/j/8536165C7B/" rel="alternate"/>
-    <id>workable:altom-transport:8536165C7B</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Hammond, Indiana, United States · Software · Term Unconfirmed</summary>
   </entry>  <entry>
     <title>Astreya — AI Infrastructure DC Design Intern</title>
     <link href="https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746" rel="alternate"/>
@@ -259,12 +259,6 @@
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Hybrid · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Medtronic — Co-op/Apprentice (Non-Tech)</title>
-    <link href="https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610" rel="alternate"/>
-    <id>workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Bangalore , Karnataka, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Medtronic — Co-op/Apprentice (Tech)</title>
     <link href="https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Tech-_R66680" rel="alternate"/>
     <id>workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Tech-_R66680</id>
@@ -306,5 +300,11 @@
     <id>workday:trumpf:job/Pune/Apprentice-Customer-Care_R00027539</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Pune · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Valeo — Intern - AI</title>
+    <link href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319" rel="alternate"/>
+    <id>workday:valeo:job/Chennai/Intern---AI_REQ2025061319</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Chennai · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
