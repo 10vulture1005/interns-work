@@ -36,30 +36,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-160415",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Noida BPTP Capital City",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-160415",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0443047",
-    "company": "Deutsche Bank",
-    "title": "Apprentice hiring for 2026 – 2027",
-    "location": "Bangalore, Velankani Tech Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0443047",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:micron:job/Sanand---303A---ATSSDMOD-India/Technician-Apprentice_JR107694",
     "company": "Micron Technology",
     "title": "Technician Apprentice",
@@ -68,6 +44,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Technician-Apprentice_JR107694",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice---BTech-in-Civil-MTech-in-Water-Resource--Environment---Batch-2025-2024_R-158003-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Mumbai.Embassy 247 Park",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice---BTech-in-Civil-MTech-in-Water-Resource--Environment---Batch-2025-2024_R-158003-1",
     "salary": null,
     "source": "workday"
   },
@@ -144,26 +132,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:autodesk:job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
-    "company": "Autodesk",
-    "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
-    "location": "Quebec, CAN - Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 8 Days Ago",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD99464-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Gurgaon, Haryana, India",
+    "id": "workday:db:job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Pune - Business Bay",
     "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted 7 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring-2026---2027_R0443211",
     "salary": null,
     "source": "workday"
   },
@@ -192,6 +168,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Bangalore , Karnataka, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -200,6 +188,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:sonyglobal:job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
+    "company": "Sony",
+    "title": "Research Intern on Generative and Protective AI for Content Creation",
+    "location": "Remote - Michigan",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
     "salary": null,
     "source": "workday"
   },
@@ -452,30 +452,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/JonasSoftwareUSA/job/India-Jonas-Collections-and-Recovery-Inc/Security-Operations-Intern_R47658",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:autodesk:job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
-    "company": "Autodesk",
-    "title": "Intern Software Developer, Stagiaire en Développement Logiciel",
-    "location": "Quebec, CAN - Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:sonyglobal:job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-    "company": "Sony",
-    "title": "Research Intern on Generative and Protective AI for Content Creation",
-    "location": "Remote - New York",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 29 Days Ago",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
     "salary": null,
     "source": "workday"
   },
