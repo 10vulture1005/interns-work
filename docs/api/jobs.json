@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:ebay:job/Bengaluru-India/Software-Engineer-Intern_R0069699",
+    "company": "eBay",
+    "title": "Software Engineer Intern",
+    "location": "Bengaluru, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Software-Engineer-Intern_R0069699",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -36,14 +48,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0443047",
-    "company": "Deutsche Bank",
-    "title": "Apprentice hiring for 2026 – 2027",
-    "location": "Bangalore, Velankani Tech Park",
+    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-160415",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Noida BPTP Capital City",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0443047",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-160415",
     "salary": null,
     "source": "workday"
   },
@@ -56,18 +68,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Technician-Apprentice_JR107694",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice---BTech-in-Civil-MTech-in-Water-Resource--Environment---Batch-2025-2024_R-158003-1",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Mumbai.Embassy 247 Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice---BTech-in-Civil-MTech-in-Water-Resource--Environment---Batch-2025-2024_R-158003-1",
     "salary": null,
     "source": "workday"
   },
@@ -156,6 +156,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Gurgaon, Haryana, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 7 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -180,18 +192,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Bangalore , Karnataka, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -200,6 +200,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:sonyglobal:job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
+    "company": "Sony",
+    "title": "Research Intern on Generative and Protective AI for Content Creation",
+    "location": "Remote - Michigan",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
     "salary": null,
     "source": "workday"
   },
@@ -248,6 +260,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -468,14 +492,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:sonyglobal:job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-    "company": "Sony",
-    "title": "Research Intern on Generative and Protective AI for Content Creation",
-    "location": "Remote - New York",
-    "category": "Data & ML/AI",
+    "id": "workday:db:job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0442924",
+    "company": "Deutsche Bank",
+    "title": "Apprentice hiring for 2026 – 2027",
+    "location": "Bangalore, Velankani Tech Park",
+    "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted 29 Days Ago",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "posted_at": "Posted 2 Days Ago",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0442924",
     "salary": null,
     "source": "workday"
   },
@@ -706,18 +730,6 @@
     "url": "https://jobs.lever.co/dnb/2a3ca4a9-7ed8-4b02-a006-ce1069eb423f",
     "salary": null,
     "source": "lever"
-  },
-  {
-    "id": "greenhouse:imc:4917549101",
-    "company": "IMC Trading",
-    "title": "2027 - Software Engineering Intern - BITS Pilani",
-    "location": "Mumbai, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-06T10:51:11-04:00",
-    "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4917549101",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "lever:epifi:08c743e8-2b29-4f78-827e-5bd90476ed86",
