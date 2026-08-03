@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-20-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 02, 2026 at 23:26 UTC</em></p>
+  <p><em>Last updated: Aug 03, 2026 at 02:34 UTC</em></p>
 </div>
 
 ---
@@ -22,7 +22,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted 7 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Bangalore , Karnataka, India | Posted 6 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610) |
 | **GlobalFoundries** | Intern - Compact Modeling Flow using AI/ML/Automation <sup>~</sup> | `Data & ML/AI` | IND - Karnataka - Bengaluru - North | Posted 30+ | [Apply ↗](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/IND---Karnataka---Bengaluru---North/Intern---SOI-LDMOS-Compact--SPICE--Modeling_JR-2501258) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
@@ -55,9 +55,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-03 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-03 |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-08-03 |
 | Altom Transport | Fall Software Development Intern | Term Unconfirmed | 2026-08-02 |
 | Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-08-02 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-02 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-02 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-02 |
 | Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-02 |
@@ -66,11 +68,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | Alcon | FRA Apprentice | Summer 2027 | 2026-08-02 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-02 |
 | Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-02 |
-| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-08-02 |
 | State Street | Apprentice | Summer 2027 | 2026-08-02 |
 | eBay | Software Engineer Intern | Summer 2027 | 2026-08-02 |
 | IMC Trading | 2027 - Software Engineering Intern - BITS Pilani | Summer 2027 | 2026-08-02 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-02 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-01 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-01 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-01 |
