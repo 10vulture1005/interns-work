@@ -10,10 +10,10 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-17-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-18-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 03, 2026 at 21:36 UTC</em></p>
+  <p><em>Last updated: Aug 03, 2026 at 23:31 UTC</em></p>
 </div>
 
 ---
@@ -34,7 +34,7 @@
 | **Epifi** | Ai Engg Intern <sup>~</sup> | `Data & ML/AI` | Bangalore | 2026-07-03 | [Apply ↗](https://jobs.lever.co/epifi/08c743e8-2b29-4f78-827e-5bd90476ed86) |
 | **Epifi** | DS/ML Intern <sup>~</sup> | `Data & ML/AI` | Bangalore | 2026-07-02 | [Apply ↗](https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37) |
 
-## Summer 2027 (Remote) <kbd>6 open</kbd>
+## Summer 2027 (Remote) <kbd>7 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
@@ -42,10 +42,11 @@
 | **Intel** | AI Software Engineer Graduate Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Virtual US | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) |
 | **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 6 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
+| **Autodesk** | Intern Software Developer, Stagiaire en Développement Logiciel <sup>~</sup> | `Software` | Quebec, CAN - Remote | Posted 30+ | [Apply ↗](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Quebec-CAN---Remote/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD98603-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
-| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
+| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 19  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043128-1) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (17 of 17)._
+_~ = the title doesn't state a year; bucketed here from its posting date (18 of 18)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
@@ -53,13 +54,15 @@ _~ = the title doesn't state a year; bucketed here from its posting date (17 of 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-03 |
+| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-03 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-03 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-03 |
+| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-03 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-03 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-03 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-03 |
 | American Express | Apprentice | Summer 2027 | 2026-08-03 |
-| Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | Summer 2027 | 2026-08-03 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-03 |
 | GE Healthcare | Research Intern - AI | Summer 2027 | 2026-08-03 |
-| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-03 |
 | SouthState Bank | Correspondent Analyst Intern | Summer 2027 | 2026-08-03 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-03 |
 | HireVue | Data Science Intern | Fully Remote US | Summer 2027 | 2026-08-03 |
@@ -70,8 +73,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (17 of 
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-08-03 |
 | Cushman & Wakefield | EIC Apprentice - Leasing Tenant Representation_Bangalore | Summer 2027 | 2026-08-03 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-03 |
-| Caterpillar Inc. | India Production Apprentice-2 | Summer 2027 | 2026-08-03 |
-| Criteo | Data Analyst- Intern | Summer 2027 | 2026-08-03 |
 
 </details>
 
