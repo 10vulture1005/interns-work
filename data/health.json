@@ -595,8 +595,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/razorpay/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "greenhouse:reach": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-08-02T11:48:44Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-08-03T13:29:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/reach/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:rebelfoods": {
@@ -615,8 +615,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/seamlessai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:shyftsolutionsllc": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-02T21:24:16Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-08-03T13:29:05Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/shyftsolutionsllc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "greenhouse:spotonproduct": {
@@ -1158,6 +1158,16 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "no connector for naukri"
+  },
+  "oracle:egug.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-03T13:29:05Z",
+    "last_error": "ReadTimeout: "
+  },
+  "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-03T13:29:05Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://www.oracle.com/splash/rpls/embargoed.html'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "recruitee:1x": {
     "consecutive_failures": 7,
