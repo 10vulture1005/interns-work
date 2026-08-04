@@ -84,18 +84,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cat:job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-12_R0000386034",
-    "company": "Caterpillar Inc.",
-    "title": "India Production Apprentice-12",
-    "location": "Thiruvallur, Tamil Nadu",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-12_R0000386034",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cat:job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-5_R0000385237",
     "company": "Caterpillar Inc.",
     "title": "India Production Apprentice-5",
@@ -104,18 +92,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-5_R0000385237",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cat:job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice_R0000386043",
-    "company": "Caterpillar Inc.",
-    "title": "India Production Apprentice",
-    "location": "Thiruvallur, Tamil Nadu",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice_R0000386043",
     "salary": null,
     "source": "workday"
   },
@@ -192,6 +168,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Bangalore , Karnataka, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 8 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -216,18 +204,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Bangalore , Karnataka, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -236,18 +212,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:sonyglobal:job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
-    "company": "Sony",
-    "title": "Research Intern on Generative and Protective AI for Content Creation",
-    "location": "Remote - Michigan",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Michigan/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-118961",
     "salary": null,
     "source": "workday"
   },
@@ -500,6 +464,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30 Days Ago",
     "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:target:job/BangaloreIndia/Apprentice---Technology_R0000348368",
+    "company": "Target",
+    "title": "Apprentice - Technology",
+    "location": "Bangalore,India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30 Days Ago",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:sonyglobal:job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
+    "company": "Sony",
+    "title": "Research Intern on Generative and Protective AI for Content Creation",
+    "location": "Remote - New York",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 29 Days Ago",
+    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
     "salary": null,
     "source": "workday"
   },
