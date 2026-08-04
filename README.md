@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 04, 2026 at 21:42 UTC</em></p>
+  <p><em>Last updated: Aug 04, 2026 at 23:30 UTC</em></p>
 </div>
 
 ---
@@ -51,10 +51,15 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| American Express | Apprentice | Summer 2027 | 2026-08-04 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-04 |
+| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-04 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-04 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-04 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-04 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-04 |
+| TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-08-04 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-04 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-04 |
 | Alcon | Apprentice- Repair Center Operations | Summer 2027 | 2026-08-04 |
 | Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | Summer 2027 | 2026-08-04 |
 | Citi | Young Apprentice - C00 - GURUGRAM | Summer 2027 | 2026-08-04 |
@@ -64,13 +69,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-04 |
 | Leidos | Application Developer Intern | Summer 2027 | 2026-08-04 |
 | State Street | Apprentice | Summer 2027 | 2026-08-04 |
-| TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-08-04 |
 | Unisys | AI Engineering Intern | Summer 2027 | 2026-08-04 |
 | Ralliant | DevOps - Intern | Summer 2027 | 2026-08-04 |
-| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-04 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-08-04 |
-| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-04 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-04 |
 
 </details>
 
