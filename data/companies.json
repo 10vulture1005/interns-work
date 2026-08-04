@@ -585,6 +585,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Agate Software",
+    "slug": "agatesoftware",
+    "ats": "lever"
+  },
+  {
     "name": "Age of Learning",
     "slug": "aofl",
     "ats": "lever"
@@ -7522,6 +7527,11 @@
     "ats": "ashby"
   },
   {
+    "name": "e-Careers",
+    "slug": "ecareers",
+    "ats": "workable"
+  },
+  {
     "name": "E.ON Next",
     "slug": "eonnext",
     "ats": "workday",
@@ -9859,6 +9869,11 @@
     "site": "Genesys"
   },
   {
+    "name": "Genetec",
+    "slug": "genetec-inc",
+    "ats": "workable"
+  },
+  {
     "name": "Geneva Trading",
     "slug": "genevatrading",
     "ats": "greenhouse"
@@ -11869,6 +11884,16 @@
     "name": "Imprint",
     "slug": "imprint",
     "ats": "ashby"
+  },
+  {
+    "name": "Incedo Inc",
+    "slug": "ii",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Incident IQ",
+    "slug": "incidentiq",
+    "ats": "greenhouse"
   },
   {
     "name": "Inclined Technologies",
@@ -16695,6 +16720,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "NTT DATA AIVista",
+    "slug": "ntt-data-aivista",
+    "ats": "ashby"
+  },
+  {
     "name": "Nubank",
     "slug": "nubank",
     "ats": "greenhouse"
@@ -17945,6 +17975,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Perry Homes",
+    "slug": "perryhomes",
+    "ats": "workable"
+  },
+  {
     "name": "Persistent Systems",
     "slug": "persistent-systems",
     "ats": "smartrecruiters"
@@ -18669,6 +18704,11 @@
     "name": "Prophecy AI",
     "slug": "prophecyai",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Prophet",
+    "slug": "prophet",
+    "ats": "greenhouse"
   },
   {
     "name": "PropTiger",
