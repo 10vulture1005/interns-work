@@ -764,30 +764,170 @@
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "no connector for internshala"
   },
+  "lever:15five": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:2os": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:3pillarglobal": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:acceldata": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:achievers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:acko": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/acko?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:actian": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:aeratechnology": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:agile-defense": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:agtonomy": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:aifund": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/aifund?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:aircall": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:aisafety": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:aledade": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:alertus": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:allegiantair": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:alltrails": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:altaml": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:analyticpartners": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:anchorage": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:anomali": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:anticapital": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/anticapital?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:anyscale": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:aofl": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:appen": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:appen-2": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:aprio": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/aprio?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:aquabyte": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:arable": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:arcteryx": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/arcteryx?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:arrivelogistics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:artera": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:artera-2": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:atlan": {
     "consecutive_failures": 7,
@@ -799,135 +939,970 @@
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/attentive?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:autoroboto": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:auxia": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:aviahealth": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:beghouconsulting": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:bellese": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:bellwetheram-2": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:belvederetrading": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:benchsci": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:bestegg": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/bestegg?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:beta": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:bhvr": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:bioagilytix": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:bis": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:bisnow": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:bluerocktx": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:bosonai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:brightmachines": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:brooksrunning": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:bumbleinc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:butcherbox": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:calstart": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:canvasww": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:capricor": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:cardekho": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/cardekho?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:cascademgt": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:catalist": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:catbird": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/catbird?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:cef": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:certik": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:cesiumastro": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/cesiumastro?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:cgsfederal": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:cirquedusoleil": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:civitech": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:cleanspark": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:clearer": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/clearer?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:clovirtualfashion": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:colibrigroup": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:color": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/color?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:commercearchitects": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:compassx": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:conversica": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:cordtechnologies": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/cordtechnologies?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+  },
+  "lever:coupa": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:cred": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:crestoperations": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:crumbl": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:cultfit": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/cultfit?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:cx2": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:daniels-sharpsmart": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:datalabusa": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:dealshare": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/dealshare?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:dga": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:digit": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/digit?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:diversified-automation": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:dnagenotek": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:dnb": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:dodmg": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:doxel": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:drivemode": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:dutch": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:eastern-communications": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:easystreetcap": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:economicmodeling": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:ekimetrics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:elasticrun": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/elasticrun?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:elfbeauty": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:eliyan": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:employ": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:endpointclinical": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:energyvault": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/energyvault?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:entrata": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:envedabio": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/envedabio?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:epifi": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:eqbank": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:equativ": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:erg": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:esrtreit": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:ethena": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:evrealty-us": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:exowatt": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:extremenetworks": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:fampay": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:farfetch": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:fehrandpeers": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:fi": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:field-ai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:filevine": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:finix": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:finquery": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:firemon": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:firstcry": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/firstcry?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:fiscalnote": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:flipkart": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/flipkart?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:fluxergy-2": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:foth": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:fullscript": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:genbio": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:geocomply-2": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:getwingapp": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:girlswhocode": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:glsllc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:go-cloudforce": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:gomaterials": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:goodamerican": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:gopuff": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:gr0": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:grailbio": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:gravie": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:great-gray-group": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:greenlight": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:grid": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/grid?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:gynger": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:h1": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:hannaandersson": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:hatchit": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:hermeus": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:hevodata": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:hhaexchange": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:highspot": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:hive": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:hotstar": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:houzz": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:ibility": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:ideasunited": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:ifm-us": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:imo-online": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:inductiveautomation": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:infstones": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:intropic": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:ion": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:ispace-inc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:istaridigital": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/istaridigital?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
+  },
+  "lever:ivo": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:jamcity": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:jar-app": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/jar-app?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:jiostar": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:kabam": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:kepler": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:kgroupcompanies": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:khatabook": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/khatabook?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:kitware": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:kpler": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:kpmg": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:larian": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:latitudeinc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:lcbcchurch": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:leadschool": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/leadschool?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:lendbuzz": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:lenskart": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/lenskart?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:levelai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:leverdemo": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:leverdemo-8": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:lexeotx": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:life": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:lightship": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:linkedin": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:linkllc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:livspace": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/livspace?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:logrocket": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:longwall": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:ltaresearch": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:lumafield": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:lumindigital": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/lumindigital?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:lumotive": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:luxurypresence": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:lyrahealth": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:machinalabs": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/machinalabs?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:magnetforensics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:make-rain": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:margo-group": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:massschoolbuildings": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:masterycharter": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:matchgroup": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:matillion": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:mbrdna": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/mbrdna?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:mcaconnect": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:meds": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:meesho": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:mendix": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:metergysolutions": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:mindtickle": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:modeln": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:moo": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:moonpig": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:mti-inc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:multiplylabs": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:navi-technologies": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/navi-technologies?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
+  },
+  "lever:neighbor": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:netomi": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:nevados": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:nextech": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:nextgenfed": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:nielsen": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:nimbleai": {
     "consecutive_failures": 7,
@@ -939,45 +1914,390 @@
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/njstateofficeofinnovation?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
+  "lever:nobullproject": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:nomihealth": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:npowermedicine": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:oaknorth": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/oaknorth?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:octoenergy": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:olacabs": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/olacabs?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:oleria-security": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:olo": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:omnidesigntech": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:openx": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:optionmetrics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:orbaerospace": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:outreach": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:palantir": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:parallelwireless": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:pditechnologies": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:penumbrainc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:perforce": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:pharmeasy": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/pharmeasy?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:pibenchmark": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:picklerobot": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:pigment": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:pinelabs": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/pinelabs?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:pingwind": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:pivotal": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:pivotenergy": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:planettechnologies": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:plus-2": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:plusgrade": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:porter": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:prizeout": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:prosper": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:protective": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:protolabs": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:q-ctrl": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:quandri": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:quantcast": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:quantco-": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:quantumworkplace": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/quantumworkplace?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
+  },
+  "lever:questanalytics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:rackspace": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:ravl_io": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:redhorsecorp": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:redsox": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:redwoodcu": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:regalvoice": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/regalvoice?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:reply": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:revefi": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:revenueanalytics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:rigetti": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:ro": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:robust-ai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:rover": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:rws": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:salesdemo-jr": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:salvohealth": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sambatv": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sanctuary": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:saronic": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:saviynt": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:schmidt-entities": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:scottlogic": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:secureframe": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:seerinteractive": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sensortower": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sfgiants": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sfmoma": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:sharechat": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/sharechat?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:shieldai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:shopreli": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:shyftlabs": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:simberobotics": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/simberobotics?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
+  },
+  "lever:simulmedia": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:skyways": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:solopulseco": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sonarsource": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sophos": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:southwestwater": {
     "consecutive_failures": 7,
@@ -989,6 +2309,11 @@
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/spinny?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:spotify": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:sprinterhealth": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
@@ -998,6 +2323,56 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/sprucesystems?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
+  },
+  "lever:sprymethods": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sprypointservices": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sqaservices": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:standtogether": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:starcompliance": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:steerbridge": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:stradaeducation": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sugarcrm": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sunsrce": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sunwatercapital": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:swiggy": {
     "consecutive_failures": 7,
@@ -1009,50 +2384,345 @@
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/symmetrysystems?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
+  "lever:synergyecp": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:syntax": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:synthego": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:sysdig": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:tahoebio-ai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:talentwerx": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/talentwerx?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:tandh": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:tangraminteriors": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:tekton": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:teleo": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:telesat": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:telligen": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:tevora": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:theinformationlab": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:theodo": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:thetrevorproject": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:thinkahead": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:thinkingbox": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:topanga": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:toptal": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:traackr": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:tracktik": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:trend-health-partners": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/trend-health-partners?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
+  "lever:trevipay": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:tri": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:trio": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:truetandem": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:tsmg": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:turvo": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:unacademy": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/unacademy?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:unisoninfra": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:until": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:upgrad": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/upgrad?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:upscale-ai": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:upstox": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/upstox?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:veeva": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:versapay": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:verygoodsecurity": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:vevo": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:vivenu": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:voleon": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:voltus": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:waabi": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:wachter": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:wadetrim": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:wealthfront": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:wealthsimple": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:webfx": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:welocalize": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/welocalize?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:weloglobal": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:weride": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:whoop": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:windfalldata": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:wintermute-trading": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:wmg": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:woven-by-toyota": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:wpromote": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:wwprosolutions": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:wyetechllc": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:xpansiv": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/xpansiv?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:xsolla": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:zaimler": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "lever:zenoti": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/zenoti?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "lever:zeta": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
   "lever:zomato": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-02T13:38:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/zomato?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
+  "lever:zoox": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:zopa": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "lever:zushealth": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-04T09:01:31Z",
+    "last_error": "ConnectTimeout: "
   },
   "linkedin:ai+intern": {
     "consecutive_failures": 7,
