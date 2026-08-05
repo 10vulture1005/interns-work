@@ -270,8 +270,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/whatnot?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
   "bloomberg:bloomberg": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-08-03T09:58:56Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-08-05T12:29:40Z",
     "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "breezy:census": {
@@ -330,8 +330,8 @@
     "last_error": "no connector for breezy"
   },
   "bytedance:bytedance": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-08-03T09:58:56Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-08-05T12:29:40Z",
     "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "custom:meesho-custom": {
@@ -1170,8 +1170,8 @@
     "last_error": "no connector for recruitee"
   },
   "uber:uber": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-08-03T09:58:56Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-08-05T12:29:40Z",
     "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "unstop:cybersecurity": {

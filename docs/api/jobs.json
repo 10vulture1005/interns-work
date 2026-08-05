@@ -12,14 +12,26 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262",
+    "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-159252",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
-    "location": "AtkinsRéalis - Corporate Office Bangalore",
+    "location": "IN.Gurgaon.DLF Cyber City",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-159252",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:jll:job/Gurugram-HR/Apprentice_REQ524907",
+    "company": "Jones Lang LaSalle (JLL)",
+    "title": "Apprentice",
+    "location": "Gurugram, HR",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ524907",
     "salary": null,
     "source": "workday"
   },
@@ -32,18 +44,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R328231",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:otis:job/Wester-Region---9th-Floor-Magnus-Tower-Mindspace-Link-Road-Malad-West-MUMBAI-400064-India/Apprentice_20165641",
-    "company": "Otis Worldwide",
-    "title": "Apprentice",
-    "location": "Wester Region - 9th Floor, Magnus Tower, Mindspace, Link Road, Malad (West), MUMBAI-400064, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://otis.wd5.myworkdayjobs.com/en-US/rec_ext_gateway/job/Wester-Region---9th-Floor-Magnus-Tower-Mindspace-Link-Road-Malad-West-MUMBAI-400064-India/Apprentice_20165641",
     "salary": null,
     "source": "workday"
   },
@@ -68,18 +68,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26983166",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Mumbai-Nirlon-Knowledge-Pk-B1/Apprentice-Hiring-for-2026--2027_R0443214",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Knowledge Pk B1",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Knowledge-Pk-B1/Apprentice-Hiring-for-2026--2027_R0443214",
     "salary": null,
     "source": "workday"
   },
@@ -132,18 +120,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:geaerospace:job/Remote/Applied-AI-Engineering-Intern--m-f-d-_R5033549-1",
-    "company": "GE Aerospace",
-    "title": "Applied AI Engineering Intern (m/f/d)",
-    "location": "Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Remote/Applied-AI-Engineering-Intern--m-f-d-_R5033549-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:intel:job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
     "company": "Intel",
     "title": "AI Software Engineer Graduate Intern",
@@ -164,6 +140,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://idexx.wd1.myworkdayjobs.com/en-US/IDEXX/job/Virtual-France/Data-Innovation---International-Strategy-Apprentice--m-f-d--Global-LIMS-Master-Data-Standardization_J-054203",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
+    "company": "Baxter International",
+    "title": "Apprentice Bangalore Ops",
+    "location": "Bangalore, Karnataka",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
     "salary": null,
     "source": "workday"
   },
@@ -228,6 +216,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:alcon:job/Bangalore-India/Apprentice-Optometrist_R-2026-48226",
+    "company": "Alcon",
+    "title": "Apprentice Optometrist",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Bangalore-India/Apprentice-Optometrist_R-2026-48226",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -252,18 +252,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Bangalore , Karnataka, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -272,6 +260,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914",
+    "company": "Campbellsoup",
+    "title": "Business Analyst (Co-op), DA&AI",
+    "location": "USA - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914",
     "salary": null,
     "source": "workday"
   },
@@ -312,6 +312,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "company": "Campbellsoup",
     "title": "Agentic AI Engineer Co-Op",
@@ -320,18 +332,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
-    "company": "Campbellsoup",
-    "title": "Business Analyst (Co-op), DA&AI",
-    "location": "USA - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
     "salary": null,
     "source": "workday"
   },
@@ -368,6 +368,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:globalfoundries:job/IND---Karnataka---Bengaluru---North/Intern---SOI-LDMOS-Compact--SPICE--Modeling_JR-2501258",
+    "company": "GlobalFoundries",
+    "title": "Intern - Compact Modeling Flow using AI/ML/Automation",
+    "location": "IND - Karnataka - Bengaluru - North",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/IND---Karnataka---Bengaluru---North/Intern---SOI-LDMOS-Compact--SPICE--Modeling_JR-2501258",
     "salary": null,
     "source": "workday"
   },
@@ -516,6 +528,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 2 Days Ago",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area)",
@@ -588,6 +612,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:medtronic:job/Mumbai-Maharashtra-India/Co-op-Apprentice--Non-Tech-_R66634-1",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 13 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Mumbai-Maharashtra-India/Co-op-Apprentice--Non-Tech-_R66634-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:viavisolutions:job/Chennai-IND/Apprentice---1_260004924",
     "company": "Viavi Solutions",
     "title": "Apprentice - 1",
@@ -646,30 +682,6 @@
     "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000141412814",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "oracle:hccz.fa.em3.oraclecloud.com:25087",
-    "company": "Pearson",
-    "title": "Apprentice, Quality Assurance",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-31",
-    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25087",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "workable:innovaccer-analytics:47C4AD89C2",
-    "company": "Innovaccer",
-    "title": "Apprentice - HR (Employee Engagement)",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-28T00:00:00.000Z",
-    "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
-    "salary": null,
-    "source": "workable"
   },
   {
     "id": "lever:dnb:ddce86a8-1d41-41a1-b183-55b7391955ab",
