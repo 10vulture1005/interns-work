@@ -10,20 +10,21 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-17-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 05, 2026 at 05:37 UTC</em></p>
+  <p><em>Last updated: Aug 05, 2026 at 08:57 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>10 open</kbd>
+## Summer 2027 (India) <kbd>11 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted 7 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779) |
-| **GlobalFoundries** | Intern - Compact Modeling Flow using AI/ML/Automation <sup>~</sup> | `Data & ML/AI` | IND - Karnataka - Bengaluru - North | Posted 30+ | [Apply ↗](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/IND---Karnataka---Bengaluru---North/Intern---SOI-LDMOS-Compact--SPICE--Modeling_JR-2501258) |
+| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26983166) |
+| **Citi** | Young Apprentice - C00 - GURUGRAM <sup>~</sup> | `Other` | Gurugram Haryana India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Gurugram-Haryana-India/Young-Apprentice---C00---GURUGRAM_26974533) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Bangalore , Karnataka, India | Posted 6 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66610) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
 | **Target** | Apprentice - Technology <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
@@ -44,33 +45,33 @@
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
 | **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (16 of 16)._
+_~ = the title doesn't state a year; bucketed here from its posting date (17 of 17)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-05 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-05 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-05 |
+| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-05 |
+| GlobalFoundries | Intern - Compact Modeling Flow using AI/ML/Automation | Summer 2027 | 2026-08-05 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-05 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-05 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-05 |
 | TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-08-05 |
+| Unisys | Intern/Student Tech | Summer 2027 | 2026-08-05 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-05 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-05 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-05 |
 | American Express | Apprentice | Summer 2027 | 2026-08-04 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-04 |
 | Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-04 |
 | Alcon | Apprentice- Repair Center Operations | Summer 2027 | 2026-08-04 |
 | Autodesk | Intern Software Developer, Stagiaire en Développement Logiciel | Summer 2027 | 2026-08-04 |
-| Citi | Young Apprentice - C00 - GURUGRAM | Summer 2027 | 2026-08-04 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-04 |
 | Hewlett Packard Enterprise | External Apprentice | Summer 2027 | 2026-08-04 |
 | State Street | Apprentice | Summer 2027 | 2026-08-04 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-04 |
 | Leidos | Application Developer Intern | Summer 2027 | 2026-08-04 |
-| State Street | Apprentice | Summer 2027 | 2026-08-04 |
-| Unisys | AI Engineering Intern | Summer 2027 | 2026-08-04 |
 
 </details>
 
