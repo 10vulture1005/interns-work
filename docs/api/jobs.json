@@ -12,14 +12,26 @@
     "source": "workday"
   },
   {
-    "id": "workday:barclays:job/Pune-Gera-Commerzone-SEZ/XMLNAME-2027-Compliance-Analyst-Summer-Internship-Programme-India_JR-0000126564",
-    "company": "Barclays",
-    "title": "2027 Compliance Analyst Summer Internship Programme India",
-    "location": "Pune, Gera Commerzone SEZ",
+    "id": "workday:epicorsoftware:job/India-Bangalore/AI-QA-Developer-Intern_JR105294-1",
+    "company": "Epicor",
+    "title": "AI QA Developer Intern",
+    "location": "India, Bangalore",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/India-Bangalore/AI-QA-Developer-Intern_JR105294-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:job/HINJEWADI-PUNE/Apprentice_R-792595-1",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "HINJEWADI PUNE",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Pune-Gera-Commerzone-SEZ/XMLNAME-2027-Compliance-Analyst-Summer-Internship-Programme-India_JR-0000126564",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/HINJEWADI-PUNE/Apprentice_R-792595-1",
     "salary": null,
     "source": "workday"
   },
@@ -180,18 +192,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0443047",
-    "company": "Deutsche Bank",
-    "title": "Apprentice hiring for 2026 – 2027",
-    "location": "Bangalore, Velankani Tech Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0443047",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:micron:job/Sanand---303A---ATSSDMOD-India/Technician-Apprentice_JR107694",
     "company": "Micron Technology",
     "title": "Technician Apprentice",
@@ -252,14 +252,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-792592-1",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
+    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Gurgaon, Haryana, India",
     "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792592-1",
+    "posted_at": "Posted 7 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
     "salary": null,
     "source": "workday"
   },
@@ -300,14 +300,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
+    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
     "location": "USA - Remote",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914",
     "salary": null,
     "source": "workday"
   },
@@ -564,6 +564,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 2 Days Ago",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area)",
@@ -596,18 +608,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 2 Days Ago",
     "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Mumbai-Maharastra/Intern--Index-Engineering_329804-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:medtronic:job/Chandigarh-Chandigarh-India/Co-op-Apprentice--Non-Tech-_R66771",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Chandigarh, Chandigarh, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 17 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Chandigarh-Chandigarh-India/Co-op-Apprentice--Non-Tech-_R66771",
     "salary": null,
     "source": "workday"
   },
@@ -706,6 +706,18 @@
     "url": "https://jobs.smartrecruiters.com/EnviriCorporation/744000141412814",
     "salary": null,
     "source": "smartrecruiters"
+  },
+  {
+    "id": "workable:innovaccer-analytics:47C4AD89C2",
+    "company": "Innovaccer",
+    "title": "Apprentice - HR (Employee Engagement)",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-07-28T00:00:00.000Z",
+    "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
+    "salary": null,
+    "source": "workable"
   },
   {
     "id": "lever:dnb:ddce86a8-1d41-41a1-b183-55b7391955ab",
