@@ -60,30 +60,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "AtkinsRéalis - Corporate Office Bangalore",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26983166",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - MUMBAI",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26983166",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:viavisolutions:job/Chennai-IND/Apprentice---4_260004931-1",
     "company": "Viavi Solutions",
     "title": "Apprentice - 4",
@@ -128,6 +104,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:slihrms:job/INBangaloreRMZ-Galleria/Apprentice_R-159053-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Bangalore.RMZ Galleria",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INBangaloreRMZ-Galleria/Apprentice_R-159053-1",
     "salary": null,
     "source": "workday"
   },
