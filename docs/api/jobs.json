@@ -36,18 +36,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:barclays:job/Gurugram-DLF-Downtown/XMLNAME-2027-BIIC-Analyst-Summer-Internship-India_JR-0000127015",
-    "company": "Barclays",
-    "title": "2027 BIIC Analyst Summer Internship India",
-    "location": "Gurugram, DLF Downtown",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/XMLNAME-2027-BIIC-Analyst-Summer-Internship-India_JR-0000127015",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:mufgub:job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
     "company": "Mitsubishi UFG",
     "title": "Apprentice",
@@ -56,42 +44,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26984617",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - PUNE",
-    "location": "Pune Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26984617",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-161586",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Noida BPTP Capital City",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-161586",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:pfizer:job/India---Vizag/Graduate-Apprentice_4956779",
-    "company": "Pfizer",
-    "title": "Graduate Apprentice",
-    "location": "India - Vizag",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Vizag/Graduate-Apprentice_4956779",
     "salary": null,
     "source": "workday"
   },
@@ -128,6 +80,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ524907",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "AtkinsRéalis - Corporate Office Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262",
     "salary": null,
     "source": "workday"
   },
@@ -240,18 +204,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Gurugram-Haryana-India/Young-Apprentice---C00---GURUGRAM_26974533",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - GURUGRAM",
-    "location": "Gurugram Haryana India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Gurugram-Haryana-India/Young-Apprentice---C00---GURUGRAM_26974533",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:epicorsoftware:job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
     "company": "Epicor",
     "title": "Interns - Content Developer /Technical Writing/ Instructional Designer",
@@ -260,18 +212,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:alcon:job/Bangalore-India/Apprentice-Optometrist_R-2026-48226",
-    "company": "Alcon",
-    "title": "Apprentice Optometrist",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Bangalore-India/Apprentice-Optometrist_R-2026-48226",
     "salary": null,
     "source": "workday"
   },
@@ -312,6 +252,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -320,18 +272,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
     "salary": null,
     "source": "workday"
   },
@@ -384,18 +324,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/Bengaluru-India/EIC-Apprentice---Valuations--Bangalore_R325120",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations, Bangalore",
-    "location": "Bengaluru, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/EIC-Apprentice---Valuations--Bangalore_R325120",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:equifax:job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586",
     "company": "Equifax",
     "title": "Trainee -Data Operations Analyst",
@@ -444,6 +372,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Associate-Analyst---Apprentice_R250000006505",
     "company": "R1 RCM",
     "title": "Associate Analyst - Apprentice",
@@ -488,18 +428,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
