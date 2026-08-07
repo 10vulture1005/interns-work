@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-07T00:20:27Z</updated>
+  <updated>2026-08-07T02:42:27Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
@@ -30,6 +30,12 @@
     <id>oracle:hccz.fa.em3.oraclecloud.com:25263</id>
     <updated>2026-08-05T19:43:43Z</updated>
     <summary>Noida, Uttar Pradesh, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Campbellsoup — Business Analyst (Co-op), DA&amp;AI</title>
+    <link href="https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914" rel="alternate"/>
+    <id>workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914</id>
+    <updated>2026-08-05T12:29:40Z</updated>
+    <summary>USA - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Jones Lang LaSalle (JLL) — Apprentice</title>
     <link href="https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ524907" rel="alternate"/>
@@ -84,6 +90,12 @@
     <id>workday:idexx:job/Virtual-France/Data-Innovation---International-Strategy-Apprentice--m-f-d--Global-LIMS-Master-Data-Standardization_J-054203</id>
     <updated>2026-08-03T13:29:05Z</updated>
     <summary>Virtual France · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Baxter International — Apprentice Bangalore Ops</title>
+    <link href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1" rel="alternate"/>
+    <id>workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1</id>
+    <updated>2026-08-03T09:58:56Z</updated>
+    <summary>Bangalore, Karnataka · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Medtronic — Co-op/Apprentice (Non-Tech)</title>
     <link href="https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Chandigarh-Chandigarh-India/Co-op-Apprentice--Non-Tech-_R66771" rel="alternate"/>
@@ -199,11 +211,11 @@
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>USA - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Campbellsoup — Business Analyst (Co-op), DA&amp;AI</title>
-    <link href="https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915" rel="alternate"/>
-    <id>workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915</id>
+    <title>Cox — Inspector Apprentice (Manheim)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202678648" rel="alternate"/>
+    <id>workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202678648</id>
     <updated>2026-07-29T13:35:13Z</updated>
-    <summary>USA - Remote · Data &amp; ML/AI · Summer 2027</summary>
+    <summary>Indianapolis IN · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Cushman &amp; Wakefield — EIC Apprentice - Valuations, Bangalore</title>
     <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/EIC-Apprentice---Valuations--Bangalore_R325120" rel="alternate"/>
@@ -294,17 +306,5 @@
     <id>workday:target:job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Bangalore,India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Target — Apprentice - Technology</title>
-    <link href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368" rel="alternate"/>
-    <id>workday:target:job/BangaloreIndia/Apprentice---Technology_R0000348368</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Bangalore,India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>TRUMPF — Apprentice Application</title>
-    <link href="https://trumpf.wd3.myworkdayjobs.com/en-US/TRUMPF_Students/job/Pune/Apprentice-Application_R00021891" rel="alternate"/>
-    <id>workday:trumpf:job/Pune/Apprentice-Application_R00021891</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Pune · Other · Summer 2027</summary>
   </entry>
 </feed>
