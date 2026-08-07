@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T02:42:27Z",
-  "duration_seconds": 2160.2,
+  "generated_at": "2026-08-07T06:07:33Z",
+  "duration_seconds": 2386.0,
   "companies_total": 4602,
   "companies_by_source": {
     "greenhouse": 1044,
@@ -59,6 +59,6 @@
     "Remote": 22
   },
   "purged_this_run": 0,
-  "new_this_run": 0,
+  "new_this_run": 2,
   "open_total": 67
 }
