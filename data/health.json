@@ -109,6 +109,11 @@
     "last_attempt_at": "2026-08-05T21:38:25Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/fractional-ai?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/e"
   },
+  "ashby:fundamentalresearchlabs": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-07T00:20:27Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/fundamentalresearchlabs?includeCompensation=true'\nFor more information check: https://developer.moz"
+  },
   "ashby:genesis-therapeutics": {
     "consecutive_failures": 8,
     "last_attempt_at": "2026-08-05T14:25:47Z",
@@ -248,6 +253,11 @@
     "consecutive_failures": 8,
     "last_attempt_at": "2026-08-05T14:25:47Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/tools?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+  },
+  "ashby:tracer": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-07T00:20:27Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/tracer?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "ashby:tuesday-lab": {
     "consecutive_failures": 8,
@@ -514,6 +524,11 @@
     "last_attempt_at": "2026-08-05T14:25:47Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/icertis/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "greenhouse:iherb": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-07T00:20:27Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/iherb/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
+  },
   "greenhouse:innovaccer": {
     "consecutive_failures": 8,
     "last_attempt_at": "2026-08-05T14:25:47Z",
@@ -585,8 +600,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/qualifiedhealth/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:radiantsecurity": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-08-06T02:08:17Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-08-07T00:20:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/radiantsecurity/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:razorpay": {
@@ -615,8 +630,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/seamlessai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:shyftsolutionsllc": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-08-04T14:27:05Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-08-07T00:20:27Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/shyftsolutionsllc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "greenhouse:spotonproduct": {
