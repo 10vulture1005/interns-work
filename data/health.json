@@ -389,11 +389,6 @@
     "last_attempt_at": "2026-08-05T14:25:47Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amagi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "greenhouse:andurilindustries": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-07T15:24:53Z",
-    "last_error": "ReadTimeout: "
-  },
   "greenhouse:apna": {
     "consecutive_failures": 8,
     "last_attempt_at": "2026-08-05T14:25:47Z",
