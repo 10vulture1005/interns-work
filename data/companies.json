@@ -146,6 +146,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "A-TEK",
+    "slug": "atek",
+    "ats": "greenhouse"
+  },
+  {
     "name": "AAA Club Alliance",
     "slug": "aaamidatlantic",
     "ats": "workday",
@@ -1034,6 +1039,11 @@
     "name": "Alpha FMC",
     "slug": "alphaawmnaearlycareers",
     "ats": "greenhouse"
+  },
+  {
+    "name": "AlphaHire",
+    "slug": "alphax",
+    "ats": "workable"
   },
   {
     "name": "AlphaLife Sciences",
@@ -2588,6 +2598,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Avalore",
+    "slug": "avalore",
+    "ats": "workable"
+  },
+  {
     "name": "Avance Consulting",
     "slug": "AvanceConsultingServices2",
     "ats": "smartrecruiters"
@@ -3568,6 +3583,11 @@
     "site": "BNACareers"
   },
   {
+    "name": "Bluesight",
+    "slug": "bluesight",
+    "ats": "lever"
+  },
+  {
     "name": "Bluestaq",
     "slug": "bluestaq",
     "ats": "greenhouse"
@@ -4337,6 +4357,11 @@
   {
     "name": "Canva",
     "slug": "canva",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Canva",
+    "slug": "Canva",
     "ats": "smartrecruiters"
   },
   {
@@ -5244,6 +5269,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Civica",
+    "slug": "civica-uk-ltd-1",
+    "ats": "workable"
+  },
+  {
     "name": "CivilGrid",
     "slug": "civilgrid",
     "ats": "ashby"
@@ -5478,6 +5508,11 @@
     "site": "external_career"
   },
   {
+    "name": "CloudFactory",
+    "slug": "cloudfactory",
+    "ats": "workable"
+  },
+  {
     "name": "Cloudflare",
     "slug": "cloudflare",
     "ats": "greenhouse"
@@ -5491,6 +5526,11 @@
     "name": "CloudKitchens",
     "slug": "css",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Cloudscaler",
+    "slug": "cloudscaler",
+    "ats": "ashby"
   },
   {
     "name": "Clutter",
@@ -7847,6 +7887,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "EMC_Careers"
+  },
+  {
+    "name": "Emerald AI",
+    "slug": "emerald-ai",
+    "ats": "ashby"
   },
   {
     "name": "Emergent Holdings",
@@ -10991,6 +11036,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "HealthCorps",
+    "slug": "healthcorpsorg",
+    "ats": "workable"
+  },
+  {
     "name": "Healthfirst",
     "slug": "healthfirst",
     "ats": "workday",
@@ -11978,6 +12028,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Indra Group UK & Ireland",
+    "slug": "indra-uk",
+    "ats": "workable"
+  },
+  {
     "name": "Inductive Automation",
     "slug": "inductiveautomation",
     "ats": "lever"
@@ -12285,6 +12340,11 @@
     "site": "InterDigital_Intern"
   },
   {
+    "name": "InterImage",
+    "slug": "interimage",
+    "ats": "workable"
+  },
+  {
     "name": "Intermountain Healthcare",
     "slug": "imh",
     "ats": "workday",
@@ -12358,6 +12418,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "interstatebatteries-careers"
+  },
+  {
+    "name": "InterSystems",
+    "slug": "intersystems",
+    "ats": "greenhouse"
   },
   {
     "name": "Intertek",
@@ -13944,6 +14009,11 @@
     "site": "LiveRampCareers"
   },
   {
+    "name": "LiveScore Group",
+    "slug": "livescore9",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Living Spaces",
     "slug": "livingspaces",
     "ats": "workday",
@@ -14171,6 +14241,11 @@
     "name": "Lumin Digital",
     "slug": "lumindigital",
     "ats": "lever"
+  },
+  {
+    "name": "Luminance",
+    "slug": "luminance-1",
+    "ats": "workable"
   },
   {
     "name": "Lumos",
@@ -15735,6 +15810,11 @@
     "ats": "rippling"
   },
   {
+    "name": "MSR-FSR",
+    "slug": "msr-fsr",
+    "ats": "workable"
+  },
+  {
     "name": "MSX International",
     "slug": "MSXInternational",
     "ats": "smartrecruiters"
@@ -16268,6 +16348,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "careers"
+  },
+  {
+    "name": "New Flyer",
+    "slug": "new-flyer",
+    "ats": "workable"
   },
   {
     "name": "New Jersey Innovation Authority",
@@ -18563,6 +18648,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Premium Merchant Funding",
+    "slug": "premium-merchant-funding-3",
+    "ats": "workable"
+  },
+  {
     "name": "Presence",
     "slug": "presencelearning",
     "ats": "greenhouse"
@@ -20064,6 +20154,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "saab_careers"
+  },
+  {
+    "name": "Saalex",
+    "slug": "saalex",
+    "ats": "workable"
   },
   {
     "name": "Sabre",
@@ -21749,6 +21844,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Stand Insurance",
+    "slug": "standinsurance",
+    "ats": "ashby"
+  },
+  {
     "name": "Stand Together",
     "slug": "standtogether",
     "ats": "lever"
@@ -22197,6 +22297,11 @@
     "job_link_pattern": "job"
   },
   {
+    "name": "Sword Group",
+    "slug": "sword-group",
+    "ats": "workable"
+  },
+  {
     "name": "Syfe",
     "slug": "careers-at-syfe",
     "ats": "smartrecruiters"
@@ -22420,6 +22525,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "targetcareers"
+  },
+  {
+    "name": "tarte cosmetics",
+    "slug": "tarte-inc",
+    "ats": "workable"
   },
   {
     "name": "Tastylive",
@@ -22696,6 +22806,11 @@
     "site": "terexcareers"
   },
   {
+    "name": "Terminal",
+    "slug": "terminal",
+    "ats": "ashby"
+  },
+  {
     "name": "Terran Orbital",
     "slug": "terranorbitalcorporation",
     "ats": "greenhouse"
@@ -22794,6 +22909,11 @@
     "name": "Texas Water Development Board",
     "slug": "TexasWaterDevelopmentBoardTWDB",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Teya",
+    "slug": "teya",
+    "ats": "ashby"
   },
   {
     "name": "Teza Technologies",
@@ -23396,6 +23516,11 @@
     "name": "Toyota Research Institute",
     "slug": "tri",
     "ats": "lever"
+  },
+  {
+    "name": "TP-Link Systems",
+    "slug": "tp-link-usa-corp",
+    "ats": "workable"
   },
   {
     "name": "Traackr",
@@ -25033,6 +25158,11 @@
   {
     "name": "Walleye Capital",
     "slug": "walleyecapital-external-students",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Walleye Capital",
+    "slug": "walleyecapital-external-fulltime",
     "ats": "greenhouse"
   },
   {
