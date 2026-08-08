@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 08, 2026 at 20:55 UTC</em></p>
+  <p><em>Last updated: Aug 08, 2026 at 22:56 UTC</em></p>
 </div>
 
 ---
@@ -50,13 +50,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Alcon | Apprentice Optometrist | Summer 2027 | 2026-08-08 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-08 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-08 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-08 |
+| Alcon | Apprentice Optometrist | Summer 2027 | 2026-08-08 |
 | Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-08 |
 | Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-08 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-08 |
-| Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-08-08 |
-| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-08 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-08 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-08 |
 | Barclays | 2027 BIIC Analyst Summer Internship India | Summer 2027 | 2026-08-08 |
@@ -64,12 +64,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-08 |
 | State Street | Apprentice | Summer 2027 | 2026-08-08 |
 | IDEXX | Data Innovation & International Strategy Apprentice (m/f/d) | Summer 2027 | 2026-08-08 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-08 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-08 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-08 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-07 |
 | Citi | Young Apprentice - C00 - GURUGRAM | Summer 2027 | 2026-08-07 |
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-08-07 |
+| Pfizer | Graduate Apprentice | Summer 2027 | 2026-08-07 |
 
 </details>
 
