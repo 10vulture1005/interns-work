@@ -36,6 +36,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-161586",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Noida BPTP Capital City",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-161586",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441985",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441985",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:viavisolutions:job/Chennai-IND/Apprentice---5_260004932",
     "company": "Viavi Solutions",
     "title": "Apprentice - 5",
@@ -240,14 +264,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -260,6 +284,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -396,18 +444,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -468,18 +504,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 2 Days Ago",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area)",
@@ -504,6 +528,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043128-1",
+    "company": "GE Healthcare",
+    "title": "Biomedical Technician Apprentice",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 19 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043128-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:medtronic:job/Chandigarh-Chandigarh-India/Co-op-Apprentice--Non-Tech-_R66771",
     "company": "Medtronic",
     "title": "Co-op/Apprentice (Non-Tech)",
@@ -512,18 +548,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 17 Days Ago",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Chandigarh-Chandigarh-India/Co-op-Apprentice--Non-Tech-_R66771",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
-    "company": "GE Healthcare",
-    "title": "Biomedical Technician Apprentice",
-    "location": "Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 15 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
     "salary": null,
     "source": "workday"
   },
@@ -728,6 +752,18 @@
     "season": "Fall 2026",
     "posted_at": "2026-06-23T00:00:00.000Z",
     "url": "https://apply.workable.com/altom-transport/j/9FC654F05E/",
+    "salary": null,
+    "source": "workable"
+  },
+  {
+    "id": "workable:pronexus-1:AF8C34AC6D",
+    "company": "ProNexus",
+    "title": "Software Engineer Intern",
+    "location": "United States (Remote)",
+    "category": "Software",
+    "season": "Term Unconfirmed",
+    "posted_at": "2026-06-17T00:00:00.000Z",
+    "url": "https://apply.workable.com/pronexus-1/j/AF8C34AC6D/",
     "salary": null,
     "source": "workable"
   },
