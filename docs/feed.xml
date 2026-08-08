@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-08T17:07:20Z</updated>
+  <updated>2026-08-08T18:58:22Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>ProNexus — Software Engineer Intern</title>
@@ -12,6 +12,12 @@
     <id>workable:pronexus-1:AF8C34AC6D</id>
     <updated>2026-08-08T11:00:09Z</updated>
     <summary>United States (Remote) · Software · Term Unconfirmed</summary>
+  </entry>  <entry>
+    <title>Vishay Intertechnology — Apprentice</title>
+    <link href="https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848" rel="alternate"/>
+    <id>workday:vishay:job/Mumbai-IN/Apprentice_JR-5848</id>
+    <updated>2026-08-07T19:18:33Z</updated>
+    <summary>Mumbai, IN · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Eastern Research Group — HVAC Technician Apprentice</title>
     <link href="https://jobs.lever.co/erg/7b39af0c-1f47-455b-ba4d-fd8e81a03c63" rel="alternate"/>
@@ -24,12 +30,6 @@
     <id>workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425</id>
     <updated>2026-08-07T15:24:53Z</updated>
     <summary>Bangalore, Velankani Tech Park · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Barclays — 2027 BIIC Analyst Summer Internship India</title>
-    <link href="https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Gurugram-DLF-Downtown/XMLNAME-2027-BIIC-Analyst-Summer-Internship-India_JR-0000127015" rel="alternate"/>
-    <id>workday:barclays:job/Gurugram-DLF-Downtown/XMLNAME-2027-BIIC-Analyst-Summer-Internship-India_JR-0000127015</id>
-    <updated>2026-08-07T13:19:27Z</updated>
-    <summary>Gurugram, DLF Downtown · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Mitsubishi UFG — Apprentice</title>
     <link href="https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD" rel="alternate"/>
@@ -49,17 +49,17 @@
     <updated>2026-08-07T00:20:27Z</updated>
     <summary>Chennai, IND · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>State Street — Apprentice</title>
-    <link href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/HINJEWADI-PUNE/Apprentice_R-792595-1" rel="alternate"/>
-    <id>workday:statestreet:job/HINJEWADI-PUNE/Apprentice_R-792595-1</id>
-    <updated>2026-08-05T16:32:06Z</updated>
-    <summary>HINJEWADI PUNE · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Jones Lang LaSalle (JLL) — Apprentice</title>
     <link href="https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ524907" rel="alternate"/>
     <id>workday:jll:job/Gurugram-HR/Apprentice_REQ524907</id>
     <updated>2026-08-05T12:29:40Z</updated>
     <summary>Gurugram, HR · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>AtkinsRéalis — Apprentice</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262" rel="alternate"/>
+    <id>workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262</id>
+    <updated>2026-08-05T08:57:41Z</updated>
+    <summary>AtkinsRéalis - Corporate Office Bangalore · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Viavi Solutions — Apprentice - 4</title>
     <link href="https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---4_260004931-1" rel="alternate"/>
@@ -90,12 +90,6 @@
     <id>smartrecruiters:EnviriCorporation:744000141412814</id>
     <updated>2026-08-04T09:01:31Z</updated>
     <summary>Hyderabad, Telangana, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>AtkinsRéalis — Apprentice</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-159254-1" rel="alternate"/>
-    <id>workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-159254-1</id>
-    <updated>2026-08-04T09:01:31Z</updated>
-    <summary>IN.Gurgaon.DLF Cyber City · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Intel — AI Software Engineer Graduate Intern</title>
     <link href="https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989" rel="alternate"/>
@@ -156,6 +150,12 @@
     <id>workable:innovaccer-analytics:47C4AD89C2</id>
     <updated>2026-07-29T18:50:34Z</updated>
     <summary>Noida, Uttar Pradesh, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>GE Healthcare — Biomedical Technician Apprentice</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1" rel="alternate"/>
+    <id>workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043495-1</id>
+    <updated>2026-07-29T18:50:34Z</updated>
+    <summary>Remote · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>R1 RCM — Apprentice</title>
     <link href="https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967" rel="alternate"/>
@@ -229,12 +229,6 @@
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>IND-Bangalore-Equifax Credit Information Services · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>GE Healthcare — Biomedical Technician Apprentice</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043128-1" rel="alternate"/>
-    <id>workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043128-1</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Remote · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>GE Healthcare — Client Service Technician Apprentice</title>
     <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1" rel="alternate"/>
     <id>workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1</id>
@@ -304,6 +298,12 @@
     <title>Target — Apprentice - Retail Ops</title>
     <link href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370" rel="alternate"/>
     <id>workday:target:job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Bangalore,India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Target — Apprentice - Technology</title>
+    <link href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368" rel="alternate"/>
+    <id>workday:target:job/BangaloreIndia/Apprentice---Technology_R0000348368</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Bangalore,India · Other · Summer 2027</summary>
   </entry>
