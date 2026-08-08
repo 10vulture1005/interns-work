@@ -284,11 +284,6 @@
     "last_attempt_at": "2026-08-05T14:25:47Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/whatnot?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/d"
   },
-  "bloomberg:bloomberg": {
-    "consecutive_failures": 7,
-    "last_attempt_at": "2026-08-05T12:29:40Z",
-    "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
-  },
   "breezy:census": {
     "consecutive_failures": 8,
     "last_attempt_at": "2026-08-05T14:25:47Z",
@@ -343,11 +338,6 @@
     "consecutive_failures": 8,
     "last_attempt_at": "2026-08-05T14:25:47Z",
     "last_error": "no connector for breezy"
-  },
-  "bytedance:bytedance": {
-    "consecutive_failures": 7,
-    "last_attempt_at": "2026-08-05T12:29:40Z",
-    "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "custom:meesho-custom": {
     "consecutive_failures": 8,
@@ -610,8 +600,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/qualifiedhealth/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:radiantsecurity": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-08-07T13:19:27Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-08-08T15:01:57Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/radiantsecurity/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:razorpay": {
@@ -1203,11 +1193,6 @@
     "consecutive_failures": 8,
     "last_attempt_at": "2026-08-05T14:25:47Z",
     "last_error": "no connector for recruitee"
-  },
-  "uber:uber": {
-    "consecutive_failures": 7,
-    "last_attempt_at": "2026-08-05T12:29:40Z",
-    "last_error": "ValueError: No headers based on this input can be generated. Please relax or change some of the requirements you specified."
   },
   "unstop:cybersecurity": {
     "consecutive_failures": 8,
