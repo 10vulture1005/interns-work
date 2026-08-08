@@ -1160,6 +1160,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Alto-Shaam",
+    "slug": "Alto-Shaam",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Altom Transport",
     "slug": "altom-transport",
     "ats": "workable"
@@ -1178,6 +1183,11 @@
     "name": "AMAROK Security",
     "slug": "amarok",
     "ats": "greenhouse"
+  },
+  {
+    "name": "AMAX",
+    "slug": "amax-1",
+    "ats": "workable"
   },
   {
     "name": "Amazon",
@@ -2034,6 +2044,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Arondite",
+    "slug": "arondite",
+    "ats": "workable"
+  },
+  {
     "name": "ARQ",
     "slug": "arq",
     "ats": "ashby"
@@ -2664,6 +2679,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External"
+  },
+  {
+    "name": "AVK",
+    "slug": "avk-seg-uk-ltd",
+    "ats": "workable"
   },
   {
     "name": "Avnet",
@@ -4455,6 +4475,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Capula",
+    "slug": "capula-investment-management-ltd",
+    "ats": "workable"
+  },
+  {
     "name": "Capy",
     "slug": "capy",
     "ats": "ashby"
@@ -5031,6 +5056,11 @@
     "name": "Chqbook",
     "slug": "chqbook",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Christie",
+    "slug": "christie-lites-3",
+    "ats": "workable"
   },
   {
     "name": "Chubb",
@@ -6174,6 +6204,11 @@
   {
     "name": "Cortex",
     "slug": "cortex",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Cortica",
+    "slug": "allcareers",
     "ats": "greenhouse"
   },
   {
@@ -8863,6 +8898,11 @@
     "site": "53careers"
   },
   {
+    "name": "Fifty-Five",
+    "slug": "fifty-five",
+    "ats": "workable"
+  },
+  {
     "name": "Figma",
     "slug": "figma",
     "ats": "greenhouse"
@@ -9132,6 +9172,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Flexcompute",
+    "slug": "flexcompute",
+    "ats": "workable"
+  },
+  {
     "name": "Flexera",
     "slug": "flexerasoftware",
     "ats": "workday",
@@ -9147,6 +9192,11 @@
     "name": "FlexGen",
     "slug": "external-job-board",
     "ats": "rippling"
+  },
+  {
+    "name": "Flexion Robotics",
+    "slug": "flexion-robotics",
+    "ats": "workable"
   },
   {
     "name": "Flexport",
@@ -9605,6 +9655,11 @@
     "name": "Fuse Energy",
     "slug": "fuse",
     "ats": "ashby"
+  },
+  {
+    "name": "Fuse Integration",
+    "slug": "fuse-integration",
+    "ats": "workable"
   },
   {
     "name": "Fussball Club Cincinnati LLC (“FC Cincinnati”)",
@@ -11363,6 +11418,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Homey",
+    "slug": "homey",
+    "ats": "workable"
+  },
+  {
     "name": "Hone Health",
     "slug": "honehealth",
     "ats": "greenhouse"
@@ -12340,6 +12400,11 @@
     "site": "InterDigital_Intern"
   },
   {
+    "name": "interface.ai",
+    "slug": "interface-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "InterImage",
     "slug": "interimage",
     "ats": "workable"
@@ -12510,6 +12575,11 @@
     "name": "ION Group",
     "slug": "ion",
     "ats": "lever"
+  },
+  {
+    "name": "IonQ",
+    "slug": "ionq",
+    "ats": "greenhouse"
   },
   {
     "name": "Iovance Biotherapeutics",
@@ -12990,6 +13060,11 @@
     "name": "Kakao",
     "slug": "kakao-engineering",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Kanbrick",
+    "slug": "kanbrick",
+    "ats": "workable"
   },
   {
     "name": "Kanshe Infotech",
@@ -15645,6 +15720,11 @@
     "name": "Monterey Technologies",
     "slug": "mti-inc",
     "ats": "lever"
+  },
+  {
+    "name": "Montreal Institute for Learning Algorithms",
+    "slug": "mila-2",
+    "ats": "workable"
   },
   {
     "name": "moo",
@@ -18772,6 +18852,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "ProNexus",
+    "slug": "pronexus-1",
+    "ats": "workable"
+  },
+  {
     "name": "Proofpoint",
     "slug": "proofpoint",
     "ats": "workday",
@@ -21276,6 +21361,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Slip Robotics",
+    "slug": "slip-robotics",
+    "ats": "workable"
+  },
+  {
     "name": "Small case",
     "slug": "smallcase",
     "ats": "smartrecruiters"
@@ -22667,6 +22757,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Teguar",
+    "slug": "teguar-corporation",
+    "ats": "workable"
+  },
+  {
     "name": "Tekion",
     "slug": "tekion",
     "ats": "greenhouse"
@@ -23769,6 +23864,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Trovy",
+    "slug": "trovy",
+    "ats": "ashby"
+  },
+  {
     "name": "TruBridge",
     "slug": "cpsi",
     "ats": "workday",
@@ -23864,6 +23964,11 @@
     "ats": "oracle",
     "host": "tulane-ibqejb.fa.ocs.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Turabify",
+    "slug": "turabify-co",
+    "ats": "workable"
   },
   {
     "name": "Turing",
@@ -23994,6 +24099,11 @@
     "name": "Uare.ai",
     "slug": "uareai",
     "ats": "greenhouse"
+  },
+  {
+    "name": "UBDS Group",
+    "slug": "ubds",
+    "ats": "workable"
   },
   {
     "name": "Uber Freight",
@@ -24604,6 +24714,11 @@
     "site": "contractors_restricted"
   },
   {
+    "name": "Vanguard EMS",
+    "slug": "vanguard-ems-inc",
+    "ats": "workable"
+  },
+  {
     "name": "Vanta",
     "slug": "vanta",
     "ats": "ashby"
@@ -24734,6 +24849,11 @@
   {
     "name": "Vercel",
     "slug": "vercel",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Verifone",
+    "slug": "verifone",
     "ats": "greenhouse"
   },
   {
@@ -25166,6 +25286,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "WallStreetQuants",
+    "slug": "wallstreetquants",
+    "ats": "workable"
+  },
+  {
     "name": "Walmart",
     "slug": "walmart",
     "ats": "workday",
@@ -25360,6 +25485,11 @@
   {
     "name": "Weiss Asset Management",
     "slug": "weissassetmanagement",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "WelbeHealth",
+    "slug": "welbehealth",
     "ats": "greenhouse"
   },
   {
@@ -25614,6 +25744,11 @@
     "name": "Wise",
     "slug": "wise",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "WISEcode",
+    "slug": "wisecode",
+    "ats": "lever"
   },
   {
     "name": "Wish",
@@ -26007,6 +26142,11 @@
     "name": "zaimler",
     "slug": "zaimler",
     "ats": "lever"
+  },
+  {
+    "name": "Zaizi",
+    "slug": "zaizi",
+    "ats": "workable"
   },
   {
     "name": "Zalando",
