@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 09, 2026 at 04:00 UTC</em></p>
+  <p><em>Last updated: Aug 09, 2026 at 05:36 UTC</em></p>
 </div>
 
 ---
@@ -51,9 +51,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-09 |
+| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-09 |
+| Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-09 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-09 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-09 |
 | Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-09 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-08 |
 | Alcon | Apprentice Optometrist | Summer 2027 | 2026-08-08 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-08 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-08 |
@@ -68,8 +70,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-08-07 |
 | Pfizer | Graduate Apprentice | Summer 2027 | 2026-08-07 |
 | Pearson | Apprentice, Financial Operations | Summer 2027 | 2026-08-07 |
-| Barclays | 2027 Internal Audit Analyst Summer Internship India | Summer 2027 | 2026-08-07 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-07 |
 
 </details>
 
