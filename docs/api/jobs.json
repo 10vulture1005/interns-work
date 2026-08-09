@@ -36,14 +36,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-161586",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Noida BPTP Capital City",
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441985",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INNoida-BPTP-Capital-City/Apprentice_R-161586",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441985",
     "salary": null,
     "source": "workday"
   },
@@ -120,6 +120,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:slihrms:job/INBangaloreRMZ-Galleria/Apprentice_R-159053-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Bangalore.RMZ Galleria",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INBangaloreRMZ-Galleria/Apprentice_R-159053-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:intel:job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
     "company": "Intel",
     "title": "AI Software Engineer Graduate Intern",
@@ -128,6 +140,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
+    "company": "Baxter International",
+    "title": "Apprentice Bangalore Ops",
+    "location": "Bangalore, Karnataka",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
     "salary": null,
     "source": "workday"
   },
@@ -168,6 +192,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Learning Management System)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
     "company": "GE Healthcare",
     "title": "Field Engineer Apprentice",
@@ -188,6 +224,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -372,18 +420,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -440,18 +476,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 29 Days Ago",
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 2 Days Ago",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
     "salary": null,
     "source": "workday"
   },

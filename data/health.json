@@ -584,6 +584,11 @@
     "last_attempt_at": "2026-08-08T17:07:20Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/optirtc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "greenhouse:ottoaviation": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-09T07:15:46Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/ottoaviation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
+  },
   "greenhouse:oyo": {
     "consecutive_failures": 9,
     "last_attempt_at": "2026-08-08T17:07:20Z",
@@ -980,8 +985,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/regalvoice?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sensortower": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-08-08T05:20:28Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-08-09T07:15:46Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/sensortower?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sharechat": {
