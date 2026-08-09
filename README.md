@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 09, 2026 at 21:00 UTC</em></p>
+  <p><em>Last updated: Aug 09, 2026 at 23:01 UTC</em></p>
 </div>
 
 ---
@@ -41,7 +41,7 @@
 | **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 6 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
-| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
+| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 19  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043128-1) |
 
 _~ = the title doesn't state a year; bucketed here from its posting date (15 of 15)._
 
@@ -51,13 +51,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-09 |
-| Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-09 |
-| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-09 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-09 |
+| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-09 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-09 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-09 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-09 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-09 |
-| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-09 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-09 |
 | Alcon | Apprentice Optometrist | Summer 2027 | 2026-08-08 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-08 |
@@ -70,6 +69,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Citi | Young Apprentice - C00 - GURUGRAM | Summer 2027 | 2026-08-07 |
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-08-07 |
 | Pfizer | Graduate Apprentice | Summer 2027 | 2026-08-07 |
+| Pearson | Apprentice, Financial Operations | Summer 2027 | 2026-08-07 |
 
 </details>
 
