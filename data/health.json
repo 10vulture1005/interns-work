@@ -649,6 +649,11 @@
     "last_attempt_at": "2026-08-07T23:08:19Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/tekion/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "greenhouse:thepharmacyhub": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-09T15:07:40Z",
+    "last_error": "ConnectTimeout: "
+  },
   "greenhouse:thumbtack": {
     "consecutive_failures": 9,
     "last_attempt_at": "2026-08-08T17:07:20Z",
