@@ -24,14 +24,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-160151-1",
+    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
-    "location": "IN.Gurgaon.DLF Cyber City",
+    "location": "IN.Mumbai.Embassy 247 Park",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-160151-1",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
     "salary": null,
     "source": "workday"
   },
@@ -168,18 +168,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
-    "company": "Baxter International",
-    "title": "Apprentice Bangalore Ops",
-    "location": "Bangalore, Karnataka",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -228,18 +216,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Learning Management System)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
     "company": "GE Healthcare",
     "title": "Field Engineer Apprentice",
@@ -264,6 +240,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
@@ -276,6 +264,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -284,18 +284,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "salary": null,
     "source": "workday"
   },
@@ -332,6 +320,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202678648",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Bengaluru-India/EIC-Apprentice---Valuations--Bangalore_R325120",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Valuations, Bangalore",
+    "location": "Bengaluru, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/EIC-Apprentice---Valuations--Bangalore_R325120",
     "salary": null,
     "source": "workday"
   },
@@ -428,18 +428,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
@@ -597,18 +585,6 @@
     "posted_at": "2026-08-07T16:00:05Z",
     "url": "https://jobs.lever.co/erg/7b39af0c-1f47-455b-ba4d-fd8e81a03c63",
     "salary": "34–36 USD / per hour wage",
-    "source": "lever"
-  },
-  {
-    "id": "lever:ekohealth:ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d",
-    "company": "Eko Health",
-    "title": "Product Intern, Clinical Technology",
-    "location": "Remote, US",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-04T13:26:01Z",
-    "url": "https://jobs.lever.co/ekohealth/ff0ee63d-4733-4c97-b3c5-0a6f1e303f1d",
-    "salary": "20–25 USD / per hour wage",
     "source": "lever"
   },
   {
