@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 10, 2026 at 11:38 UTC</em></p>
+  <p><em>Last updated: Aug 10, 2026 at 13:28 UTC</em></p>
 </div>
 
 ---
@@ -52,9 +52,10 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-10 |
-| S&P Global | Apprentice, Software Development/Engineering | Summer 2027 | 2026-08-10 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-10 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-10 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-10 |
-| Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-10 |
+| S&P Global | Apprentice, Software Development/Engineering | Summer 2027 | 2026-08-10 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-10 |
 | Caterpillar Inc. | India Production Apprentice-3 | Summer 2027 | 2026-08-10 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-10 |
@@ -70,7 +71,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-08 |
 | Barclays | 2027 BIIC Analyst Summer Internship India | Summer 2027 | 2026-08-08 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-08 |
-| State Street | Apprentice | Summer 2027 | 2026-08-08 |
 
 </details>
 
