@@ -1223,5 +1223,10 @@
     "consecutive_failures": 9,
     "last_attempt_at": "2026-08-08T17:07:20Z",
     "last_error": "no connector for wellfound"
+  },
+  "workable:avalore": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-10T19:21:02Z",
+    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://apply.workable.com/api/v3/accounts/avalore/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/520"
   }
 }
