@@ -4,9 +4,15 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-10T01:26:00Z</updated>
+  <updated>2026-08-10T04:24:26Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>GE Healthcare — Biomedical Technician Apprentice</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043142-1" rel="alternate"/>
+    <id>workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043142-1</id>
+    <updated>2026-08-10T04:24:25Z</updated>
+    <summary>Remote · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>AtkinsRéalis — Apprentice</title>
     <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1" rel="alternate"/>
     <id>workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1</id>
@@ -43,11 +49,11 @@
     <updated>2026-08-07T13:19:27Z</updated>
     <summary>MUFG Global Service Private Ltd. - Bengaluru (BCIT) · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
-    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441985" rel="alternate"/>
-    <id>workday:db:job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441985</id>
-    <updated>2026-08-07T00:20:27Z</updated>
-    <summary>Mumbai Nirlon Know. Pk B7 · Other · Summer 2027</summary>
+    <title>Deutsche Bank — Apprentice hiring for 2026 – 2027</title>
+    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-hiring-for-2026---2027_R0443022" rel="alternate"/>
+    <id>workday:db:job/Jaipur/Apprentice-hiring-for-2026---2027_R0443022</id>
+    <updated>2026-08-07T09:22:10Z</updated>
+    <summary>Jaipur · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Viavi Solutions — Apprentice - 5</title>
     <link href="https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---5_260004932" rel="alternate"/>
@@ -144,12 +150,6 @@
     <id>workable:innovaccer-analytics:47C4AD89C2</id>
     <updated>2026-07-29T18:50:34Z</updated>
     <summary>Noida, Uttar Pradesh, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>GE Healthcare — Biomedical Technician Apprentice</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1" rel="alternate"/>
-    <id>workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043495-1</id>
-    <updated>2026-07-29T18:50:34Z</updated>
-    <summary>Remote · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>R1 RCM — Apprentice</title>
     <link href="https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967" rel="alternate"/>
@@ -277,12 +277,6 @@
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Noida, India · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>S&amp;P Global — Apprentice, Index Management</title>
-    <link href="https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Mumbai-Maharastra/Intern--Index-Engineering_329804-1" rel="alternate"/>
-    <id>workday:spgi:job/Mumbai-Maharastra/Intern--Index-Engineering_329804-1</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Mumbai, Maharastra · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Target — Apprentice - Retail Ops</title>
     <link href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370" rel="alternate"/>
     <id>workday:target:job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370</id>
@@ -306,5 +300,11 @@
     <id>workday:trumpf:job/Pune/Apprentice-Customer-Care_R00027539</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Pune · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Valeo — Intern - AI</title>
+    <link href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319" rel="alternate"/>
+    <id>workday:valeo:job/Chennai/Intern---AI_REQ2025061319</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Chennai · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

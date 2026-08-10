@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:db:job/Jaipur/Apprentice-hiring-for-2026---2027_R0443022",
+    "company": "Deutsche Bank",
+    "title": "Apprentice hiring for 2026 – 2027",
+    "location": "Jaipur",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-hiring-for-2026---2027_R0443022",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -44,18 +56,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441985",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441985",
     "salary": null,
     "source": "workday"
   },
@@ -224,6 +224,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043142-1",
+    "company": "GE Healthcare",
+    "title": "Biomedical Technician Apprentice",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043142-1",
     "salary": null,
     "source": "workday"
   },
@@ -480,18 +492,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:spgi:job/Mumbai-Maharastra/Intern--Index-Engineering_329804-1",
-    "company": "S&P Global",
-    "title": "Apprentice, Index Management",
-    "location": "Mumbai, Maharastra",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 2 Days Ago",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Mumbai-Maharastra/Intern--Index-Engineering_329804-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:medtronic:job/Chandigarh-Chandigarh-India/Co-op-Apprentice--Non-Tech-_R66771",
     "company": "Medtronic",
     "title": "Co-op/Apprentice (Non-Tech)",
@@ -500,18 +500,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 17 Days Ago",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Chandigarh-Chandigarh-India/Co-op-Apprentice--Non-Tech-_R66771",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
-    "company": "GE Healthcare",
-    "title": "Biomedical Technician Apprentice",
-    "location": "Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 15 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
     "salary": null,
     "source": "workday"
   },
