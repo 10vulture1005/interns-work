@@ -24,18 +24,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Mumbai.Embassy 247 Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:rbs:job/Bengaluru/AI-ML-Intern--2026-Graduates--6-Month-Internship-_R-00283302-1",
     "company": "NatWest Group",
     "title": "AI ML Intern (2026 Graduates, 6-Month Internship)",
@@ -104,6 +92,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ524907",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "AtkinsRéalis - Corporate Office Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262",
     "salary": null,
     "source": "workday"
   },
@@ -240,42 +240,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
-    "company": "Campbellsoup",
-    "title": "Business Analyst (Co-op), DA&AI",
-    "location": "USA - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -288,14 +252,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "salary": null,
     "source": "workday"
   },
@@ -312,6 +276,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
+    "company": "Campbellsoup",
+    "title": "Business Analyst (Co-op), DA&AI",
+    "location": "USA - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202678648",
     "company": "Cox",
     "title": "Inspector Apprentice (Manheim)",
@@ -320,18 +296,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202678648",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Bengaluru-India/EIC-Apprentice---Valuations--Bangalore_R325120",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations, Bangalore",
-    "location": "Bengaluru, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/EIC-Apprentice---Valuations--Bangalore_R325120",
     "salary": null,
     "source": "workday"
   },
@@ -428,6 +392,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
