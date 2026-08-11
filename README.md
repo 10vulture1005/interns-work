@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 11, 2026 at 04:05 UTC</em></p>
+  <p><em>Last updated: Aug 11, 2026 at 05:34 UTC</em></p>
 </div>
 
 ---
@@ -50,19 +50,19 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-11 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-11 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-11 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-11 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-11 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-11 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-11 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-11 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-10 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-10 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-10 |
 | Philips | Apprentice Trainee (Software Developer) | Summer 2027 | 2026-08-10 |
 | NatWest Group | AI ML Intern (2026 Graduates, 6-Month Internship) | Fall 2026 | 2026-08-10 |
 | Cushman & Wakefield | EIC Apprentice - Valuations, Bangalore | Summer 2027 | 2026-08-10 |
 | Eko Health | Product Intern, Clinical Technology | Summer 2027 | 2026-08-10 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-10 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-10 |
 | S&P Global | Apprentice, Software Development/Engineering | Summer 2027 | 2026-08-10 |
 | Caterpillar Inc. | India Production Apprentice-3 | Summer 2027 | 2026-08-10 |
