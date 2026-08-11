@@ -1859,6 +1859,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Arch Aerial",
+    "slug": "arch-aerial-llc",
+    "ats": "workable"
+  },
+  {
     "name": "Arch Capital Group",
     "slug": "archgroup",
     "ats": "workday",
@@ -4198,6 +4203,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "external"
+  },
+  {
+    "name": "Caddi Workflow Automation",
+    "slug": "trycaddi",
+    "ats": "workable"
   },
   {
     "name": "Cadence Design Systems",
@@ -6616,6 +6626,11 @@
     "site": "Clearwater_Analytics_Careers"
   },
   {
+    "name": "CWILL",
+    "slug": "cwill-us",
+    "ats": "workable"
+  },
+  {
     "name": "CWS",
     "slug": "cws",
     "ats": "workday",
@@ -6849,6 +6864,11 @@
     "name": "DB E.C.O. North America",
     "slug": "dbeconorthamerica",
     "ats": "greenhouse"
+  },
+  {
+    "name": "DC Thomson",
+    "slug": "dcthomson",
+    "ats": "workable"
   },
   {
     "name": "De Shaw",
@@ -7614,6 +7634,11 @@
     "site": "EON_Next_Careers"
   },
   {
+    "name": "Eagle Seven",
+    "slug": "eagle-seven",
+    "ats": "workable"
+  },
+  {
     "name": "Early Warning",
     "slug": "earlywarning",
     "ats": "workday",
@@ -8323,6 +8348,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "esabcareers"
+  },
+  {
+    "name": "ESG - USA",
+    "slug": "esgusa",
+    "ats": "workable"
   },
   {
     "name": "Espa AI",
@@ -9618,6 +9648,11 @@
     "ats": "ashby"
   },
   {
+    "name": "FSH Technologies",
+    "slug": "fsh",
+    "ats": "ashby"
+  },
+  {
     "name": "Fugro",
     "slug": "fugro",
     "ats": "workday",
@@ -9970,6 +10005,11 @@
     "name": "Generalist",
     "slug": "generalist",
     "ats": "ashby"
+  },
+  {
+    "name": "Generation West Virginia",
+    "slug": "generation-west-virginia-1",
+    "ats": "workable"
   },
   {
     "name": "Genesis Therapeutics",
@@ -13755,6 +13795,11 @@
     "ats": "lever"
   },
   {
+    "name": "Levels Technologies",
+    "slug": "levels",
+    "ats": "ashby"
+  },
+  {
     "name": "Lever",
     "slug": "leverdemo",
     "ats": "lever"
@@ -14192,6 +14237,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Longshot Systems",
+    "slug": "longshot-systems-ltd",
+    "ats": "workable"
+  },
+  {
     "name": "Lonza",
     "slug": "lonza",
     "ats": "workday",
@@ -14234,6 +14284,16 @@
     "name": "loveholidays",
     "slug": "loveholidays",
     "ats": "ashby"
+  },
+  {
+    "name": "Lovey",
+    "slug": "lovey",
+    "ats": "workable"
+  },
+  {
+    "name": "Lovingly",
+    "slug": "lovingly",
+    "ats": "workable"
   },
   {
     "name": "Lowe",
@@ -15964,6 +16024,16 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Murphy Research",
+    "slug": "murphy-research",
+    "ats": "workable"
+  },
+  {
+    "name": "Mustard Systems",
+    "slug": "mustard-systems",
+    "ats": "workable"
+  },
+  {
     "name": "Mux",
     "slug": "mux",
     "ats": "ashby"
@@ -16849,6 +16919,11 @@
     "site": "CX_4001"
   },
   {
+    "name": "Nova Talent",
+    "slug": "nova-talent",
+    "ats": "ashby"
+  },
+  {
     "name": "Novanta",
     "slug": "novanta",
     "ats": "workday",
@@ -17053,6 +17128,11 @@
     "site": "halma"
   },
   {
+    "name": "OceanComm",
+    "slug": "oceancomm",
+    "ats": "workable"
+  },
+  {
     "name": "OceanX",
     "slug": "oceanx",
     "ats": "greenhouse"
@@ -17104,6 +17184,11 @@
   {
     "name": "OfferUp",
     "slug": "offerup",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "OH.io",
+    "slug": "ohio",
     "ats": "greenhouse"
   },
   {
@@ -17333,6 +17418,11 @@
     "name": "onXmaps",
     "slug": "onxmaps",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Onyx Capital Group",
+    "slug": "onyx-capital-group",
+    "ats": "workable"
   },
   {
     "name": "ONYX Insight",
@@ -19080,6 +19170,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Q5",
+    "slug": "q5-partners",
+    "ats": "workable"
+  },
+  {
     "name": "QBE Insurance",
     "slug": "qbe",
     "ats": "workday",
@@ -19392,6 +19487,11 @@
     "name": "RAPP",
     "slug": "rapp",
     "ats": "greenhouse"
+  },
+  {
+    "name": "RAVE Aerospace",
+    "slug": "raveaerospace",
+    "ats": "workable"
   },
   {
     "name": "RAVL",
@@ -19727,6 +19827,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "ResponsiveAds",
+    "slug": "responsiveads-inc",
+    "ats": "workable"
+  },
+  {
     "name": "ResultsCX",
     "slug": "resultscx",
     "ats": "smartrecruiters"
@@ -19873,6 +19978,11 @@
     "name": "Riot Platforms",
     "slug": "riot-platforms-careers",
     "ats": "rippling"
+  },
+  {
+    "name": "Ripjar",
+    "slug": "ripjar",
+    "ats": "workable"
   },
   {
     "name": "Ripple",
@@ -21329,6 +21439,11 @@
     "ats": "ashby"
   },
   {
+    "name": "SkyGig",
+    "slug": "skygig",
+    "ats": "workable"
+  },
+  {
     "name": "Skyryse",
     "slug": "skyryse",
     "ats": "greenhouse"
@@ -22122,6 +22237,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Stockholm Environment Institute - U.S.",
+    "slug": "sei",
+    "ats": "workable"
+  },
+  {
     "name": "StockX",
     "slug": "stockx",
     "ats": "greenhouse"
@@ -22397,6 +22517,11 @@
     "job_link_pattern": "job"
   },
   {
+    "name": "Swoon Editions",
+    "slug": "swoon-editions",
+    "ats": "workable"
+  },
+  {
     "name": "Sword Group",
     "slug": "sword-group",
     "ats": "workable"
@@ -22503,6 +22628,11 @@
     "name": "System Canada Technologies",
     "slug": "systemCanadaTechnologies",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "SZNS Solutions",
+    "slug": "szns",
+    "ats": "workable"
   },
   {
     "name": "T-Mobile",
@@ -22936,6 +23066,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Teserac",
+    "slug": "teserac-inc",
+    "ats": "workable"
+  },
+  {
     "name": "Tesla",
     "slug": "tesla-jobs",
     "ats": "smartrecruiters"
@@ -23057,6 +23192,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "TheAndersonsCareers"
+  },
+  {
+    "name": "The Anywhere",
+    "slug": "the-anywhere-company",
+    "ats": "workable"
   },
   {
     "name": "The Boeing Company",
@@ -23296,6 +23436,11 @@
     "name": "Thetradedesk",
     "slug": "thetradedesk",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Thingtrax",
+    "slug": "thingtrax",
+    "ats": "workable"
   },
   {
     "name": "Think Academy International Education",
@@ -25018,6 +25163,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "careers"
+  },
+  {
+    "name": "Viewline Ventures",
+    "slug": "viewline-ventures",
+    "ats": "workable"
   },
   {
     "name": "Viking Global",
