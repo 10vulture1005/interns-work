@@ -10,10 +10,10 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 11, 2026 at 15:29 UTC</em></p>
+  <p><em>Last updated: Aug 11, 2026 at 17:29 UTC</em></p>
 </div>
 
 ---
@@ -23,7 +23,7 @@
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Philips** | Apprentice Trainee (Software Developer) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bangalore | Posted Tod | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-_588828) |
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted 7 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Bangalore , Karnataka, India | Posted 8 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
 | **Target** | Apprentice - Technology <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
@@ -32,27 +32,34 @@
 | **Epifi** | Ai Engg Intern <sup>~</sup> | `Data & ML/AI` | Bangalore | 2026-07-03 | [Apply ↗](https://jobs.lever.co/epifi/08c743e8-2b29-4f78-827e-5bd90476ed86) |
 | **Epifi** | DS/ML Intern <sup>~</sup> | `Data & ML/AI` | Bangalore | 2026-07-02 | [Apply ↗](https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37) |
 
-## Summer 2027 (Remote) <kbd>6 open</kbd>
+## Summer 2027 (Remote) <kbd>5 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted Yes | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) |
-| **Intel** | AI Software Engineer Graduate Intern <sup>~</sup> | `Data & ML/AI` | Virtual US | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/AI-Software-Engineer-Graduate-Intern_JR0285989) |
 | **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 6 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
-| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
+| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 19  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043128-1) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (15 of 15)._
+_~ = the title doesn't state a year; bucketed here from its posting date (14 of 14)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-11 |
+| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-11 |
+| Baxter International | Apprentice, Trainee (Finance Business Intelligence) | Summer 2027 | 2026-08-11 |
+| Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-11 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-11 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-11 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-11 |
+| Intel | AI Software Engineer Graduate Intern | Summer 2027 | 2026-08-11 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-11 |
+| Motorola | Data Analyst Co-Op | Summer 2027 | 2026-08-11 |
+| Synchrony Financial | Apprentice - Customer Service | Summer 2027 | 2026-08-11 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-11 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-11 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-11 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-11 |
@@ -61,15 +68,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-11 |
 | Medtronic | Co-op/Apprentice (Tech) | Summer 2027 | 2026-08-11 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-11 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-11 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-11 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-11 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-11 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-10 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-10 |
-| NatWest Group | AI ML Intern (2026 Graduates, 6-Month Internship) | Fall 2026 | 2026-08-10 |
-| Cushman & Wakefield | EIC Apprentice - Valuations, Bangalore | Summer 2027 | 2026-08-10 |
-| Eko Health | Product Intern, Clinical Technology | Summer 2027 | 2026-08-10 |
 
 </details>
 
