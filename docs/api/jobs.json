@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0438236",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Jaipur",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0438236",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -36,18 +48,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Mumbai.Embassy 247 Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:philips:job/Bangalore/Apprentice-Trainee--Software-Developer-_588828",
     "company": "Philips",
     "title": "Apprentice Trainee (Software Developer)",
@@ -56,6 +56,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-_588828",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Gurgaon.DLF Cyber City",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
     "salary": null,
     "source": "workday"
   },
@@ -168,14 +180,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0442912",
-    "company": "Deutsche Bank",
-    "title": "Apprentice hiring for 2026 – 2027",
-    "location": "Bangalore, Velankani Tech Park",
+    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
+    "company": "Baxter International",
+    "title": "Apprentice Bangalore Ops",
+    "location": "Bangalore, Karnataka",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/Apprentice-hiring-for-2026---2027_R0442912",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
     "salary": null,
     "source": "workday"
   },
@@ -216,6 +228,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-792592-1",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792592-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
     "company": "Medtronic",
     "title": "Co-op/Apprentice (Non-Tech)",
@@ -252,6 +276,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -260,18 +296,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "salary": null,
     "source": "workday"
   },
