@@ -24,18 +24,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cat:job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-7_R0000387453",
-    "company": "Caterpillar Inc.",
-    "title": "India Production Apprentice-7",
-    "location": "Thiruvallur, Tamil Nadu",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-7_R0000387453",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cat:job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-5_R0000386491",
     "company": "Caterpillar Inc.",
     "title": "India Production Apprentice-5",
@@ -44,6 +32,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-5_R0000386491",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cat:job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-7_R0000387453",
+    "company": "Caterpillar Inc.",
+    "title": "India Production Apprentice-7",
+    "location": "Thiruvallur, Tamil Nadu",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-7_R0000387453",
     "salary": null,
     "source": "workday"
   },
@@ -264,6 +264,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -276,14 +288,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
+    "company": "R1 RCM",
     "title": "Apprentice",
-    "location": "Mumbai, IN",
+    "location": "Noida, India",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
     "salary": null,
     "source": "workday"
   },
@@ -380,18 +392,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_atleos_us/job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
     "salary": null,
     "source": "workday"
   },
@@ -528,18 +528,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Tech-_R66680",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Tech)",
-    "location": "Bangalore , Karnataka, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 15 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Tech-_R66680",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:motorolasolutions:job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918",
     "company": "Motorola",
     "title": "Data Analyst Co-Op",
@@ -586,6 +574,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "lever:dnb:1b89d18c-2b94-4dce-8ad2-d882502551e5",
+    "company": "Dun & Bradstreet",
+    "title": "R-19754 (Apprentice)",
+    "location": "Mumbai - India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-08-11T06:11:06Z",
+    "url": "https://jobs.lever.co/dnb/1b89d18c-2b94-4dce-8ad2-d882502551e5",
+    "salary": null,
+    "source": "lever"
   },
   {
     "id": "greenhouse:concentric:4703940006",
