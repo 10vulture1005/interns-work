@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T13:26:16Z",
-  "duration_seconds": 2764.7,
+  "generated_at": "2026-08-11T15:29:16Z",
+  "duration_seconds": 2340.7,
   "companies_total": 4689,
   "companies_by_source": {
     "greenhouse": 1054,
@@ -29,14 +29,11 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 234,
-  "fetched_ok": 4451,
-  "fetch_errors": 4,
-  "errors_by_source": {
-    "greenhouse": 2,
-    "ashby": 2
-  },
-  "fetch_success_rate": 0.999,
+  "quarantined": 237,
+  "fetched_ok": 4452,
+  "fetch_errors": 0,
+  "errors_by_source": {},
+  "fetch_success_rate": 1.0,
   "roles_matched": 70,
   "roles_by_source": {
     "workable": 4,
@@ -53,8 +50,8 @@
     "Term Unconfirmed": 2
   },
   "roles_by_region": {
-    "India": 47,
-    "Remote": 23
+    "India": 48,
+    "Remote": 22
   },
   "purged_this_run": 0,
   "new_this_run": 1,

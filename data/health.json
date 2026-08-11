@@ -264,11 +264,6 @@
     "last_attempt_at": "2026-08-08T17:07:20Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/tuesday-lab?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-"
   },
-  "ashby:uncountable": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-11T13:26:16Z",
-    "last_error": "ConnectTimeout: "
-  },
   "ashby:verne": {
     "consecutive_failures": 9,
     "last_attempt_at": "2026-08-08T17:07:20Z",
