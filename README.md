@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 12, 2026 at 19:20 UTC</em></p>
+  <p><em>Last updated: Aug 12, 2026 at 21:23 UTC</em></p>
 </div>
 
 ---
@@ -51,17 +51,18 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-12 |
-| Baxter International | Apprentice, Trainee (Finance Business Intelligence) | Summer 2027 | 2026-08-12 |
-| Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-12 |
-| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-12 |
-| Cox | Inspector Apprentice | Summer 2027 | 2026-08-12 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-12 |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-08-12 |
+| Viavi Solutions | Apprentice - 1 | Summer 2027 | 2026-08-12 |
+| Viavi Solutions | Apprentice - 2 | Summer 2027 | 2026-08-12 |
+| Viavi Solutions | Apprentice - 4 | Summer 2027 | 2026-08-12 |
+| Viavi Solutions | Apprentice - 5 | Summer 2027 | 2026-08-12 |
+| Viavi Solutions | Apprentice - 6 | Summer 2027 | 2026-08-12 |
+| Viavi Solutions | Apprentice - 7 | Summer 2027 | 2026-08-12 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-12 |
 | Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-08-12 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-12 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-12 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-12 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-12 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-12 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-12 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-12 |
@@ -70,7 +71,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-11 |
 | Caterpillar Inc. | India Production Apprentice-5 | Summer 2027 | 2026-08-11 |
 | Caterpillar Inc. | India Production Apprentice-7 | Summer 2027 | 2026-08-11 |
-| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-11 |
 
 </details>
 
