@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 11, 2026 at 23:09 UTC</em></p>
+  <p><em>Last updated: Aug 12, 2026 at 01:44 UTC</em></p>
 </div>
 
 ---
@@ -48,8 +48,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-12 |
 | American Express | Apprentice | Summer 2027 | 2026-08-11 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-11 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-11 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-11 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-11 |
