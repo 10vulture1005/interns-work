@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T11:20:19Z",
-  "duration_seconds": 1742.1,
+  "generated_at": "2026-08-12T13:18:56Z",
+  "duration_seconds": 2126.3,
   "companies_total": 4709,
   "companies_by_source": {
     "greenhouse": 1054,
@@ -34,10 +34,10 @@
   "fetch_errors": 0,
   "errors_by_source": {},
   "fetch_success_rate": 1.0,
-  "roles_matched": 61,
+  "roles_matched": 69,
   "roles_by_source": {
     "workable": 4,
-    "workday": 42,
+    "workday": 50,
     "ashby": 2,
     "greenhouse": 5,
     "lever": 5,
@@ -46,14 +46,14 @@
   },
   "roles_by_cycle": {
     "Fall 2026": 2,
-    "Summer 2027": 57,
+    "Summer 2027": 65,
     "Term Unconfirmed": 2
   },
   "roles_by_region": {
-    "India": 40,
-    "Remote": 21
+    "India": 47,
+    "Remote": 22
   },
   "purged_this_run": 0,
-  "new_this_run": 1,
-  "open_total": 61
+  "new_this_run": 3,
+  "open_total": 69
 }
