@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 12, 2026 at 04:36 UTC</em></p>
+  <p><em>Last updated: Aug 12, 2026 at 06:00 UTC</em></p>
 </div>
 
 ---
@@ -49,12 +49,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-12 |
-| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-12 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-12 |
-| Cambium Learning Group | Machine Learning Intern | Summer 2027 | 2026-08-12 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-12 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-12 |
+| Baxter International | Apprentice, Trainee (Finance Business Intelligence) | Summer 2027 | 2026-08-12 |
+| Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-12 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-12 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-12 |
+| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-12 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-12 |
 | American Express | Apprentice | Summer 2027 | 2026-08-11 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-11 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-11 |
