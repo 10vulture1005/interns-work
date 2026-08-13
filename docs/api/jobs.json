@@ -324,6 +324,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "company": "Campbellsoup",
     "title": "Agentic AI Engineer Co-Op",
@@ -610,18 +622,6 @@
     "url": "https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223",
     "salary": null,
     "source": "ashby"
-  },
-  {
-    "id": "lever:dnb:1b89d18c-2b94-4dce-8ad2-d882502551e5",
-    "company": "Dun & Bradstreet",
-    "title": "R-19754 (Apprentice)",
-    "location": "Mumbai - India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-11T06:11:06Z",
-    "url": "https://jobs.lever.co/dnb/1b89d18c-2b94-4dce-8ad2-d882502551e5",
-    "salary": null,
-    "source": "lever"
   },
   {
     "id": "greenhouse:concentric:4703940006",
