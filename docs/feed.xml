@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-12T23:08:12Z</updated>
+  <updated>2026-08-13T01:47:12Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Citi — Young Apprentice - C00 - PUNE</title>
@@ -199,12 +199,6 @@
     <updated>2026-07-29T18:50:34Z</updated>
     <summary>Noida, India · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Instawork — Data Operations Analyst Intern</title>
-    <link href="https://job-boards.greenhouse.io/instawork/jobs/4689262006" rel="alternate"/>
-    <id>greenhouse:instawork:4689262006</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Term Unconfirmed</summary>
-  </entry>  <entry>
     <title>Dun &amp; Bradstreet — R-19657 (Industrial Trainee - Apprentice)</title>
     <link href="https://jobs.lever.co/dnb/ddce86a8-1d41-41a1-b183-55b7391955ab" rel="alternate"/>
     <id>lever:dnb:ddce86a8-1d41-41a1-b183-55b7391955ab</id>
@@ -306,5 +300,11 @@
     <id>workday:r1rcm:job/Noida-India/Associate-Analyst---Apprentice_R250000006505</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Noida, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Target — Apprentice - Retail Ops</title>
+    <link href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370" rel="alternate"/>
+    <id>workday:target:job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Bangalore,India · Other · Summer 2027</summary>
   </entry>
 </feed>
