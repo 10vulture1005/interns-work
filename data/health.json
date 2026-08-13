@@ -1229,11 +1229,6 @@
     "last_attempt_at": "2026-08-13T04:31:51Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tmeic-corporation-americas/jobs'\nFor more information check: https://developer.mozilla.org/en-"
   },
-  "workable:tokamak-energy": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-13T04:31:51Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tokamak-energy/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
-  },
   "workable:tp-link-usa-corp": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-13T04:31:51Z",
