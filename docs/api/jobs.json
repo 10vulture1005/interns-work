@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-001",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-001",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gsk:job/Bengaluru-Luxor-North-Tower/Intern-Bios-Programming_446343",
     "company": "GSK",
     "title": "Intern Bios Programming",
@@ -56,6 +68,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice_R202681111-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:synchronyfinancial:job/Hyderabad-IN/Apprentice---Customer-Service_2602352",
+    "company": "Synchrony Financial",
+    "title": "Apprentice - Customer Service",
+    "location": "Hyderabad IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/careers/job/Hyderabad-IN/Apprentice---Customer-Service_2602352",
     "salary": null,
     "source": "workday"
   },
@@ -296,6 +320,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -612,6 +648,18 @@
     "source": "greenhouse"
   },
   {
+    "id": "smartrecruiters:RRSGroup:744000142513209",
+    "company": "RRS Group",
+    "title": "2027 Software Engineer Intern - Placement Year",
+    "location": "San Francisco, XX (Remote)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-08-09T14:55:15.629Z",
+    "url": "https://jobs.smartrecruiters.com/RRSGroup/744000142513209",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
     "id": "lever:erg:7b39af0c-1f47-455b-ba4d-fd8e81a03c63",
     "company": "Eastern Research Group",
     "title": "HVAC Technician Apprentice",
@@ -742,6 +790,18 @@
     "url": "https://job-boards.greenhouse.io/pointc/jobs/5282753008",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "smartrecruiters:RRSGroup:744000133857769",
+    "company": "RRS Group",
+    "title": "2027 Summer Investment Analyst Internship – Real Estate Development & Multifamily Investments",
+    "location": "San Francisco, XX (Remote)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-06-24T05:33:56.546Z",
+    "url": "https://jobs.smartrecruiters.com/RRSGroup/744000133857769",
+    "salary": null,
+    "source": "smartrecruiters"
   },
   {
     "id": "workable:altom-transport:9FC654F05E",
