@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 13, 2026 at 01:47 UTC</em></p>
+  <p><em>Last updated: Aug 13, 2026 at 04:31 UTC</em></p>
 </div>
 
 ---
@@ -51,8 +51,10 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| ConnectPrep | Data Analyst Internship | Summer 2027 | 2026-08-13 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-13 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-13 |
 | Instawork | Data Operations Analyst Intern | Term Unconfirmed | 2026-08-13 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-12 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-12 |
 | Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-08-12 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-12 |
@@ -69,8 +71,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-11 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-08-11 |
 | Philips | Apprentice Trainee (Software Developer) | Summer 2027 | 2026-08-11 |
-| State Street | Apprentice | Summer 2027 | 2026-08-11 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-11 |
 
 </details>
 

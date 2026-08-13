@@ -288,14 +288,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
     "company": "Vishay Intertechnology",
     "title": "Apprentice",
     "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -320,18 +320,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -588,6 +576,18 @@
     "source": "workday"
   },
   {
+    "id": "workable:connectprep:D1C67258C0",
+    "company": "ConnectPrep",
+    "title": "Data Analyst Internship",
+    "location": "Washington, District of Columbia, United States (Remote)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-08-13T00:00:00.000Z",
+    "url": "https://apply.workable.com/connectprep/j/D1C67258C0/",
+    "salary": null,
+    "source": "workable"
+  },
+  {
     "id": "ashby:atlys:1a34deb8-3d14-4b7b-b1eb-cd302ce97223",
     "company": "Atlys",
     "title": "Voice AI Intern",
@@ -730,18 +730,6 @@
     "url": "https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37",
     "salary": null,
     "source": "lever"
-  },
-  {
-    "id": "workable:connectprep:C0CA13664F",
-    "company": "ConnectPrep",
-    "title": "Data Analyst Internship",
-    "location": "Washington, District of Columbia, United States (Remote)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-02T00:00:00.000Z",
-    "url": "https://apply.workable.com/connectprep/j/C0CA13664F/",
-    "salary": null,
-    "source": "workable"
   },
   {
     "id": "greenhouse:pointc:5282753008",
