@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 13, 2026 at 07:47 UTC</em></p>
+  <p><em>Last updated: Aug 13, 2026 at 09:42 UTC</em></p>
 </div>
 
 ---
@@ -50,14 +50,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-13 |
-| Baxter International | Apprentice, Trainee (Finance Business Intelligence) | Summer 2027 | 2026-08-13 |
-| Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-13 |
-| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-13 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-13 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-13 |
 | Medtronic | Co-op/Apprentice (Tech) | Summer 2027 | 2026-08-13 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-13 |
 | S&P Global | Apprentice | Summer 2027 | 2026-08-13 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-13 |
 | ConnectPrep | Data Analyst Internship | Summer 2027 | 2026-08-13 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-13 |
 | Instawork | Data Operations Analyst Intern | Term Unconfirmed | 2026-08-13 |
@@ -70,6 +67,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-12 |
 | American Express | Apprentice | Summer 2027 | 2026-08-11 |
 | Caterpillar Inc. | India Production Apprentice-5 | Summer 2027 | 2026-08-11 |
+| Caterpillar Inc. | India Production Apprentice-7 | Summer 2027 | 2026-08-11 |
+| Deutsche Bank | Apprentice hiring for 2026 – 2027 | Summer 2027 | 2026-08-11 |
+| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-11 |
 
 </details>
 
