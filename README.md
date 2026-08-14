@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 14, 2026 at 01:41 UTC</em></p>
+  <p><em>Last updated: Aug 14, 2026 at 04:35 UTC</em></p>
 </div>
 
 ---
@@ -39,8 +39,8 @@
 | **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted Yes | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) |
 | **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 6 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
+| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 22  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043342-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
-| **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
 
 _~ = the title doesn't state a year; bucketed here from its posting date (14 of 14)._
 
@@ -49,14 +49,17 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-14 |
+| Cox | Inspector Apprentice | Summer 2027 | 2026-08-14 |
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-08-14 |
+| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-14 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-14 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-14 |
 | Dun & Bradstreet | R-19754 (Apprentice) | Summer 2027 | 2026-08-13 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-13 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-13 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-13 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-08-13 |
 | eBay | Software Engineer Intern | Summer 2027 | 2026-08-13 |
-| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-13 |
 | Synchrony Financial | Apprentice - Customer Service | Summer 2027 | 2026-08-13 |
 | Enviri | Trainee Analyst - Business Controls | Summer 2027 | 2026-08-13 |
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-08-13 |
@@ -66,9 +69,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | ConnectPrep | Data Analyst Internship | Summer 2027 | 2026-08-13 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-13 |
 | Instawork | Data Operations Analyst Intern | Term Unconfirmed | 2026-08-13 |
-| Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-08-12 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-12 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-12 |
 
 </details>
 
