@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-14T15:24:33Z</updated>
+  <updated>2026-08-14T17:20:25Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>GE Healthcare — Client Service Technician Apprentice</title>
@@ -24,6 +24,12 @@
     <id>workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1</id>
     <updated>2026-08-14T13:21:29Z</updated>
     <summary>USA - IL (Remote) · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>State Street — Apprentice</title>
+    <link href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/HINJEWADI-PUNE/Apprentice_R-796076" rel="alternate"/>
+    <id>workday:statestreet:job/HINJEWADI-PUNE/Apprentice_R-796076</id>
+    <updated>2026-08-14T11:29:38Z</updated>
+    <summary>HINJEWADI PUNE · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Emerson Electric — Intern-Technology</title>
     <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009192" rel="alternate"/>
@@ -211,12 +217,6 @@
     <updated>2026-07-30T17:57:06Z</updated>
     <summary>Mumbai Nirlon Know. Pk B7 · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Medtronic — Co-op/Apprentice (Non-Tech)</title>
-    <link href="https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904" rel="alternate"/>
-    <id>workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904</id>
-    <updated>2026-07-30T17:57:06Z</updated>
-    <summary>Bangalore , Karnataka, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Epicor — Interns - Content Developer /Technical Writing/ Instructional Designer</title>
     <link href="https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255" rel="alternate"/>
     <id>workday:epicorsoftware:job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255</id>
@@ -246,6 +246,12 @@
     <id>workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043495-1</id>
     <updated>2026-07-29T18:50:34Z</updated>
     <summary>Remote · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Medtronic — Co-op/Apprentice (Non-Tech)</title>
+    <link href="https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779" rel="alternate"/>
+    <id>workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779</id>
+    <updated>2026-07-29T18:50:34Z</updated>
+    <summary>Gurgaon, Haryana, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>R1 RCM — Apprentice</title>
     <link href="https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967" rel="alternate"/>
@@ -300,11 +306,5 @@
     <id>workday:ensemblehp:job/Remote---Nationwide/Data-Scientist--AI_R048077</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Remote - Nationwide · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Equifax — Trainee -Data Operations Analyst</title>
-    <link href="https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586" rel="alternate"/>
-    <id>workday:equifax:job/IND-Bangalore-Equifax-Credit-Information-Services/Trainee--Data-Operations-Analyst_J00170586</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>IND-Bangalore-Equifax Credit Information Services · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

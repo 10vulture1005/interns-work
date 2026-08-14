@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 14, 2026 at 15:24 UTC</em></p>
+  <p><em>Last updated: Aug 14, 2026 at 17:20 UTC</em></p>
 </div>
 
 ---
@@ -23,7 +23,7 @@
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Adobe** | Apprentice Tech <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Bangalore | Posted Tod | [Apply ↗](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171241) |
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Bangalore , Karnataka, India | Posted 8 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted 7 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
 | **Target** | Apprentice - Technology <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
@@ -50,10 +50,10 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-14 |
-| GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-08-14 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-14 |
 | State Street | Apprentice | Summer 2027 | 2026-08-14 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-14 |
+| GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-08-14 |
 | Unisys | AI Strategy Intern | Summer 2027 | 2026-08-14 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-14 |
 | eBay | Software Engineer Intern | Summer 2027 | 2026-08-14 |
