@@ -1,13 +1,13 @@
 [
   {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-796014",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
+    "id": "workday:southstatebank:job/Remote-Worker/Correspondent-Analyst-Intern_R-05943",
+    "company": "SouthState Bank",
+    "title": "Correspondent Analyst Intern",
+    "location": "Remote Worker",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796014",
+    "url": "https://southstatebank.wd5.myworkdayjobs.com/en-US/external/job/Remote-Worker/Correspondent-Analyst-Intern_R-05943",
     "salary": null,
     "source": "workday"
   },
@@ -48,6 +48,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:statestreet:job/HINJEWADI-PUNE/Apprentice_R-796076",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "HINJEWADI PUNE",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/HINJEWADI-PUNE/Apprentice_R-796076",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:unisys:job/Bangalore-KA-India/AI-Engineering-Intern_REQ574279",
     "company": "Unisys",
     "title": "AI Engineering Intern",
@@ -80,6 +92,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice_R202681111-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -180,6 +204,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
+    "company": "Baxter International",
+    "title": "Apprentice Bangalore Ops",
+    "location": "Bangalore, Karnataka",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -200,18 +236,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Technician-Apprentice_JR107694",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:southstatebank:job/Remote-Worker/Correspondent-Analyst-Intern_R-05785-1",
-    "company": "SouthState Bank",
-    "title": "Correspondent Analyst Intern",
-    "location": "Remote Worker",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://southstatebank.wd5.myworkdayjobs.com/en-US/external/job/Remote-Worker/Correspondent-Analyst-Intern_R-05785-1",
     "salary": null,
     "source": "workday"
   },
@@ -240,6 +264,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Finance Business Intelligence)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Learning Management System)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
     "company": "GE Healthcare",
     "title": "Field Engineer Apprentice",
@@ -260,6 +308,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
     "salary": null,
     "source": "workday"
   },
@@ -288,14 +348,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -480,6 +540,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043342-1",
+    "company": "GE Healthcare",
+    "title": "Biomedical Technician Apprentice",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 22 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043342-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
     "company": "Deutsche Bank",
     "title": "Apprentice Hiring for 2026- 2027",
@@ -500,18 +572,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 2 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
-    "company": "GE Healthcare",
-    "title": "Biomedical Technician Apprentice",
-    "location": "Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 15 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
     "salary": null,
     "source": "workday"
   },
