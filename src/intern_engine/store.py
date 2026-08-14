@@ -12,6 +12,8 @@ import json
 import os
 from datetime import UTC, datetime, timedelta
 
+from . import filters
+
 
 def now_iso() -> str:
     return datetime.now(UTC).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -36,14 +38,27 @@ def save(path: str, data: dict) -> None:
 _REFRESH_FIELDS = (
     "title",
     "location",
+    "region",
     "url",
     "season",
     "season_inferred",
     "category",
+    "salary",
     "company",
     "source",
     "company_slug",
 )
+
+
+def _normalize_region(location: str) -> str:
+    """Classify a raw location string into India / Remote / Other."""
+    if not location:
+        return "Other"
+    if filters.is_india(location):
+        return "India"
+    if filters.is_remote_or_hybrid(location):
+        return "Remote"
+    return "Other"
 
 
 def upsert(
@@ -63,6 +78,8 @@ def upsert(
     for job in jobs:
         jid = job["id"]
         seen_ids.add(jid)
+        # Always compute the normalized region from raw location
+        job["region"] = _normalize_region(job.get("location", ""))
         if jid in existing:
             record = existing[jid]
             for key in _REFRESH_FIELDS:
@@ -70,8 +87,6 @@ def upsert(
                     record[key] = job[key]
             if not record.get("posted_at") and job.get("posted_at"):
                 record["posted_at"] = job["posted_at"]
-            if job.get("salary"):
-                record["salary"] = job["salary"]
             if job.get("skills") is not None:
                 record["skills"] = job["skills"]
             if record.get("closed_at"):
