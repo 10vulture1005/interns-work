@@ -15,7 +15,6 @@ _SENIOR_RE = re.compile(
 )
 
 # --- tech-role detection ---
-# Primary tech keywords — if ANY of these match, role is considered tech.
 _INCLUDE_RE = re.compile(
     r"\b("
     r"software|developer|swe|full[\s-]?stack|front[\s-]?end|back[\s-]?end|"
@@ -26,24 +25,21 @@ _INCLUDE_RE = re.compile(
     r"machine learning|ml|deep learning|ai|artificial intelligence|nlp|computer vision|"
     r"research scientist|applied scientist|research engineer|ml engineer|ai engineer|"
     r"quantitative developer|quant developer|computer science|programming|"
-    r"technology|tech|cybersecurity|security|analyst|analytics|apprentice|"
-    r"business intelligence|\bbi\b|growth|people analytics|fintech|legaltech|"
-    r"semiconductor|silicon|chip|hardware security|vlsi|fpga|asic"
+    r"technology|tech|cybersecurity|security|analyst|apprentice"
     r")\b",
     re.IGNORECASE,
 )
-# Hard-exclude keywords — only block the role when NO tech keyword also fires.
-# This prevents 'silicon' in a location or 'hardware security' from being dropped.
 _EXCLUDE_RE = re.compile(
     r"\b("
     r"mechanical|aerospace|aeronautical|propulsion|avionics|"
     r"naval|civil engineer|chemical|chemistry|"
     r"biology|biological|materials|structural|thermal|manufacturing|"
-    r"industrial engineer|photonics|"
-    r"recruit|recruiting|recruiter|"
+    r"industrial engineer|electrical|fpga|asic|pcb|analog|photonics|"
+    r"hardware|physical design|silicon|semiconductor|vlsi|"
+    r"recruit|recruiting|recruiter|sales|account executive|"
     r"marketing|marketer|unpaid|"
-    r"legal|counsel|accounting|human resources|"
-    r"product design|product designer|"
+    r"legal|counsel|accounting|human resources|talent|"
+    r"supply chain|business development|product design|product designer|"
     r"product manager|product management|ux design|graphic design"
     r")\b",
     re.IGNORECASE,
@@ -65,14 +61,9 @@ def is_internship(title: str) -> bool:
 
 
 def is_tech(title: str) -> bool:
-    has_include = bool(_INCLUDE_RE.search(title))
-    has_exclude = bool(_EXCLUDE_RE.search(title))
-    # Exclude only wins when there is NO tech signal at all.
-    # e.g. "Hardware Security Intern" → include(security) fires → keep.
-    # e.g. "Mechanical Design Intern" → no include → exclude wins → drop.
-    if has_exclude and not has_include:
+    if _EXCLUDE_RE.search(title):
         return False
-    return has_include
+    return bool(_INCLUDE_RE.search(title))
 
 
 def is_cycle_label(value) -> bool:
