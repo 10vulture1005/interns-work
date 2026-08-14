@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 14, 2026 at 06:04 UTC</em></p>
+  <p><em>Last updated: Aug 14, 2026 at 07:47 UTC</em></p>
 </div>
 
 ---
@@ -24,7 +24,7 @@
 |---|---|---|---|---|:---:|
 | **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976561) |
 | **eBay** | Software Engineer Intern <sup>~</sup> | `Software` | Bengaluru, India | Posted Tod | [Apply ↗](https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Software-Engineer-Intern_R0069699) |
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Bangalore , Karnataka, India | Posted 8 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted 7 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
 | **Target** | Apprentice - Technology <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
@@ -51,8 +51,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-14 |
+| Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-14 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-14 |
+| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-14 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-14 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-14 |
 | Dun & Bradstreet | R-19754 (Apprentice) | Summer 2027 | 2026-08-13 |
@@ -70,7 +71,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 | Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-08-12 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-12 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-12 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-12 |
 
 </details>
 

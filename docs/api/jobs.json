@@ -12,6 +12,42 @@
     "source": "workday"
   },
   {
+    "id": "workday:novartis:job/Hyderabad-Office/Intern-AI---DS-Engineering_REQ-10085515",
+    "company": "Novartis",
+    "title": "Intern AI & DS Engineering",
+    "location": "Hyderabad (Office)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Intern-AI---DS-Engineering_REQ-10085515",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:novartis:job/Hyderabad-Office/Intern-QMS-AI---Automation_REQ-10085416-1",
+    "company": "Novartis",
+    "title": "Intern QMS AI & Automation",
+    "location": "Hyderabad (Office)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Intern-QMS-AI---Automation_REQ-10085416-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:spgi:job/Hyderabad-Telangana/Apprentice--Software-Development-Engineering_329521",
+    "company": "S&P Global",
+    "title": "Apprentice, Software Development/Engineering",
+    "location": "Hyderabad, Telangana",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Hyderabad-Telangana/Apprentice--Software-Development-Engineering_329521",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976561",
     "company": "Citi",
     "title": "Young Apprentice - C00 - MUMBAI",
@@ -252,14 +288,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
+    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
     "company": "Medtronic",
     "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Bangalore , Karnataka, India",
+    "location": "Gurgaon, Haryana, India",
     "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted 8 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
+    "posted_at": "Posted 7 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
     "salary": null,
     "source": "workday"
   },
@@ -272,18 +308,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 6 Days Ago",
     "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Learning Management System)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
     "salary": null,
     "source": "workday"
   },
