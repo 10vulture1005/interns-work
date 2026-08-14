@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 14, 2026 at 17:20 UTC</em></p>
+  <p><em>Last updated: Aug 14, 2026 at 19:20 UTC</em></p>
 </div>
 
 ---
@@ -50,26 +50,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Innovaccer | Apprentice - HR (Employee Engagement) | Summer 2027 | 2026-08-14 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-14 |
+| GSK | Intern Bios Programming | Summer 2027 | 2026-08-14 |
+| Novartis | Intern AI & DS Engineering | Summer 2027 | 2026-08-14 |
+| Novartis | Intern QMS AI & Automation | Summer 2027 | 2026-08-14 |
+| S&P Global | Apprentice, Software Development/Engineering | Summer 2027 | 2026-08-14 |
+| Unisys | AI Use Case Prototyping Intern | Summer 2027 | 2026-08-14 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-14 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-14 |
 | State Street | Apprentice | Summer 2027 | 2026-08-14 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-14 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-08-14 |
 | Unisys | AI Strategy Intern | Summer 2027 | 2026-08-14 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-14 |
 | eBay | Software Engineer Intern | Summer 2027 | 2026-08-14 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-14 |
 | State Street | Apprentice | Summer 2027 | 2026-08-14 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-14 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-14 |
 | Dun & Bradstreet | R-19754 (Apprentice) | Summer 2027 | 2026-08-13 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-08-13 |
 | Synchrony Financial | Apprentice - Customer Service | Summer 2027 | 2026-08-13 |
-| Enviri | Trainee Analyst - Business Controls | Summer 2027 | 2026-08-13 |
-| Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-08-13 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-08-13 |
-| Medtronic | Co-op/Apprentice (Tech) | Summer 2027 | 2026-08-13 |
-| S&P Global | Apprentice | Summer 2027 | 2026-08-13 |
-| ConnectPrep | Data Analyst Internship | Summer 2027 | 2026-08-13 |
 
 </details>
 

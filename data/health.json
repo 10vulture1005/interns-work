@@ -365,8 +365,8 @@
     "last_error": "no connector for eightfold"
   },
   "greenhouse:10xgenomics": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-08-14T11:29:38Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-08-14T19:20:13Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/10xgenomics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "greenhouse:alma": {
