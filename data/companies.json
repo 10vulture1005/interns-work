@@ -12513,6 +12513,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Interco",
+    "slug": "Interco",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Intercom",
     "slug": "intercom",
     "ats": "greenhouse"
@@ -14962,6 +14967,11 @@
     "name": "Matter",
     "slug": "matter",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Matternet",
+    "slug": "matternet",
+    "ats": "workable"
   },
   {
     "name": "Matterworks",
@@ -18143,6 +18153,11 @@
     "site": "PDCO"
   },
   {
+    "name": "Paxton Access",
+    "slug": "paxton-access",
+    "ats": "workable"
+  },
+  {
     "name": "Paycom",
     "slug": "paycom",
     "ats": "smartrecruiters"
@@ -18653,6 +18668,11 @@
     "name": "Planet Technologies",
     "slug": "planettechnologies",
     "ats": "lever"
+  },
+  {
+    "name": "PlanetArt",
+    "slug": "planetart",
+    "ats": "workable"
   },
   {
     "name": "PlanetScale",
@@ -19889,6 +19909,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Renesas Electronics",
+    "slug": "RenesasElectronics",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Replit",
     "slug": "replit",
     "ats": "ashby"
@@ -20820,6 +20845,11 @@
   {
     "name": "Schonfeld",
     "slug": "schonfeld",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "SchoolMint",
+    "slug": "schoolmint",
     "ats": "greenhouse"
   },
   {
