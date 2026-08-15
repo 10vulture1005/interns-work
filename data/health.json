@@ -1190,8 +1190,8 @@
     "last_error": "no connector for naukri"
   },
   "oracle:jpmc.fa.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-15T16:50:01Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-08-15T18:46:59Z",
     "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionLis"
   },
   "recruitee:1x": {
@@ -1285,8 +1285,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/ubds/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "workable:validus-risk-management": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-15T16:50:01Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-08-15T18:46:59Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/validus-risk-management/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "workable:valsoft-corp": {
