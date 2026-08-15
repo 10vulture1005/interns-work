@@ -754,11 +754,6 @@
     "last_attempt_at": "2026-08-14T21:05:45Z",
     "last_error": "no connector for indeed"
   },
-  "instahyre:india-internships": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-15T08:53:05Z",
-    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://www.instahyre.com/api/v1/job_search?search=internship&offset=0'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
-  },
   "internshala:computer-science-internship": {
     "consecutive_failures": 11,
     "last_attempt_at": "2026-08-14T21:05:45Z",
@@ -1283,6 +1278,11 @@
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-15T08:53:05Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/ubds/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
+  },
+  "workable:validus-risk-management": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-15T10:56:18Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/validus-risk-management/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "workable:valsoft-corp": {
     "consecutive_failures": 3,
