@@ -38,8 +38,8 @@ jobs:
 
       - name: Commit & push if changed
         run: |
-          git config user.name  "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name  "10vulture1005"
+          git config user.email "vaidiksaxena14@gmail.com"
           git add README.md data/jobs.json data/internships.csv data/stats.json \
                   data/health.json data/history.jsonl \
                   docs/index.html docs/feed.xml \
