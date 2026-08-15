@@ -36,18 +36,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:adobe:job/Bangalore/Apprentice-Tech_R171241",
-    "company": "Adobe",
-    "title": "Apprentice Tech",
-    "location": "Bangalore",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171241",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
     "company": "Allstate Insurance Company",
     "title": "Pricing Actuarial Analyst Intern",
@@ -92,6 +80,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice_R202681111-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -192,6 +192,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
+    "company": "Baxter International",
+    "title": "Apprentice Bangalore Ops",
+    "location": "Bangalore, Karnataka",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -224,6 +236,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Finance Business Intelligence)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Learning Management System)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
     "salary": null,
     "source": "workday"
   },
