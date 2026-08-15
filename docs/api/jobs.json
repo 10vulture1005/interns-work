@@ -108,18 +108,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Post Market Surveillance)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
@@ -204,30 +192,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
-    "company": "Baxter International",
-    "title": "Apprentice Bangalore Ops",
-    "location": "Bangalore, Karnataka",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -276,30 +240,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Finance Business Intelligence)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Learning Management System)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
     "company": "GE Healthcare",
     "title": "Field Engineer Apprentice",
@@ -336,18 +276,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
@@ -368,6 +296,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
