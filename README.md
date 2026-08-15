@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 15, 2026 at 03:21 UTC</em></p>
+  <p><em>Last updated: Aug 15, 2026 at 05:04 UTC</em></p>
 </div>
 
 ---
@@ -51,11 +51,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-15 |
-| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-15 |
-| Baxter International | Apprentice, Trainee (Finance Business Intelligence) | Summer 2027 | 2026-08-15 |
-| Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-15 |
-| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-15 |
-| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-08-15 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-15 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-15 |
 | SouthState Bank | Correspondent Analyst Intern | Summer 2027 | 2026-08-14 |
@@ -70,6 +65,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-14 |
 | State Street | Apprentice | Summer 2027 | 2026-08-14 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-08-14 |
+| Unisys | AI Strategy Intern | Summer 2027 | 2026-08-14 |
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-14 |
+| eBay | Software Engineer Intern | Summer 2027 | 2026-08-14 |
+| State Street | Apprentice | Summer 2027 | 2026-08-14 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-14 |
 
 </details>
 
