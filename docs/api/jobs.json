@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:statestreet:job/Chennai-India/Apprentice_R-796073",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Chennai-India/Apprentice_R-796073",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:southstatebank:job/Remote-Worker/Correspondent-Analyst-Intern_R-05943",
     "company": "SouthState Bank",
     "title": "Correspondent Analyst Intern",
@@ -36,18 +48,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:statestreet:job/HINJEWADI-PUNE/Apprentice_R-796076",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "HINJEWADI PUNE",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/HINJEWADI-PUNE/Apprentice_R-796076",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cambiumlearning:job/Remote/Machine-Learning-Intern_REQ-4561",
     "company": "Cambium Learning Group",
     "title": "Machine Learning Intern",
@@ -68,18 +68,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice_R202681111-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Post Market Surveillance)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -168,18 +156,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
     "company": "Baxter International",
     "title": "Apprentice Bangalore Ops",
@@ -236,30 +212,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 7 Days Ago",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Finance Business Intelligence)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Learning Management System)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
     "salary": null,
     "source": "workday"
   },

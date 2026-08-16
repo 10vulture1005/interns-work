@@ -1229,11 +1229,6 @@
     "last_attempt_at": "2026-08-14T21:05:45Z",
     "last_error": "no connector for wellfound"
   },
-  "workable:thingtrax": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-16T16:50:45Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thingtrax/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
   "workable:thorlabs": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-08-16T06:58:27Z",
@@ -1285,8 +1280,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/ubds/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "workable:validus-risk-management": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-16T05:02:04Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-08-16T18:53:06Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/validus-risk-management/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "workable:valsoft-corp": {
