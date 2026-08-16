@@ -84,14 +84,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
+    "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
-    "location": "IN.Mumbai.Embassy 247 Park",
+    "location": "IN.Gurgaon.DLF Cyber City",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
     "salary": null,
     "source": "workday"
   },
@@ -228,14 +228,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
+    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
     "company": "Medtronic",
     "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Bangalore , Karnataka, India",
+    "location": "Gurgaon, Haryana, India",
     "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted 8 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
+    "posted_at": "Posted 7 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
     "salary": null,
     "source": "workday"
   },
@@ -248,6 +248,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 6 Days Ago",
     "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Finance-Business-Intelligence-_JR-205005",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Learning Management System)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481",
     "salary": null,
     "source": "workday"
   },
@@ -288,18 +300,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
@@ -320,6 +320,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "salary": null,
     "source": "workday"
   },
