@@ -48,6 +48,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cambiumlearning:job/Remote/Machine-Learning-Intern_REQ-4561",
+    "company": "Cambium Learning Group",
+    "title": "Machine Learning Intern",
+    "location": "Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Machine-Learning-Intern_REQ-4561",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice_R202681111-1",
     "company": "Cox",
     "title": "Inspector Apprentice",
@@ -646,18 +658,6 @@
     "url": "https://jobs.lever.co/erg/7b39af0c-1f47-455b-ba4d-fd8e81a03c63",
     "salary": "34–36 USD / per hour wage",
     "source": "lever"
-  },
-  {
-    "id": "workable:innovaccer-analytics:47C4AD89C2",
-    "company": "Innovaccer",
-    "title": "Apprentice - HR (Employee Engagement)",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-28T00:00:00.000Z",
-    "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
-    "salary": null,
-    "source": "workable"
   },
   {
     "id": "lever:dnb:ddce86a8-1d41-41a1-b183-55b7391955ab",
