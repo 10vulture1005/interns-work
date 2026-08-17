@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-17T01:10:30Z</updated>
+  <updated>2026-08-17T03:26:50Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>State Street — Apprentice</title>
@@ -91,6 +91,12 @@
     <updated>2026-08-11T01:38:15Z</updated>
     <summary>Remote · Data &amp; ML/AI · Fall 2026</summary>
   </entry>  <entry>
+    <title>AtkinsRéalis — Apprentice</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-161779" rel="alternate"/>
+    <id>workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-161779</id>
+    <updated>2026-08-10T15:27:12Z</updated>
+    <summary>IN.Mumbai.Embassy 247 Park · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Eastern Research Group — HVAC Technician Apprentice</title>
     <link href="https://jobs.lever.co/erg/7b39af0c-1f47-455b-ba4d-fd8e81a03c63" rel="alternate"/>
     <id>lever:erg:7b39af0c-1f47-455b-ba4d-fd8e81a03c63</id>
@@ -114,12 +120,6 @@
     <id>workday:viavisolutions:job/Chennai-IND/Apprentice---5_260004932</id>
     <updated>2026-08-07T00:20:27Z</updated>
     <summary>Chennai, IND · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>AtkinsRéalis — Apprentice</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262" rel="alternate"/>
-    <id>workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160262</id>
-    <updated>2026-08-05T08:57:41Z</updated>
-    <summary>AtkinsRéalis - Corporate Office Bangalore · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Viavi Solutions — Apprentice - 4</title>
     <link href="https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---4_260004931-1" rel="alternate"/>
@@ -193,6 +193,12 @@
     <updated>2026-07-29T19:38:45Z</updated>
     <summary>Hybrid (San Francisco, California, US) · Software · Summer 2027</summary>
   </entry>  <entry>
+    <title>Vishay Intertechnology — Apprentice</title>
+    <link href="https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1" rel="alternate"/>
+    <id>workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1</id>
+    <updated>2026-07-29T19:38:45Z</updated>
+    <summary>Mumbai, IN · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Innovaccer — Apprentice - HR (Employee Engagement)</title>
     <link href="https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/" rel="alternate"/>
     <id>workable:innovaccer-analytics:47C4AD89C2</id>
@@ -240,6 +246,12 @@
     <id>workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Learning-Management-System-_JR-203481</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Gurgaon, Haryana · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Bloom Energy — Field Service Apprentice - Fixed Term</title>
+    <link href="https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069" rel="alternate"/>
+    <id>workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Remote - Santa Teresa, New Mexico · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Campbellsoup — Agentic AI Engineer Co-Op</title>
     <link href="https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015" rel="alternate"/>
@@ -294,17 +306,5 @@
     <id>workday:ncratleos:job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>COLOMBIA VIRTUAL, COL · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>R1 RCM — Associate Analyst - Apprentice</title>
-    <link href="https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Associate-Analyst---Apprentice_R250000006505" rel="alternate"/>
-    <id>workday:r1rcm:job/Noida-India/Associate-Analyst---Apprentice_R250000006505</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Noida, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Target — Apprentice - Retail Ops</title>
-    <link href="https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370" rel="alternate"/>
-    <id>workday:target:job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Bangalore,India · Other · Summer 2027</summary>
   </entry>
 </feed>
