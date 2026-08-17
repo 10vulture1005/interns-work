@@ -1,13 +1,13 @@
 [
   {
-    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice_JR-207967",
-    "company": "Baxter International",
-    "title": "Apprentice",
-    "location": "Bangalore, Karnataka",
+    "id": "workday:viavisolutions:job/Chennai-IND/Apprentice----3_260004929-1",
+    "company": "Viavi Solutions",
+    "title": "Apprentice  - 3",
+    "location": "Chennai, IND",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice_JR-207967",
+    "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice----3_260004929-1",
     "salary": null,
     "source": "workday"
   },
@@ -32,18 +32,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Services---Business-Enablement_329583-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:job/Chennai-India/Apprentice_R-796073",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Chennai, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Chennai-India/Apprentice_R-796073",
     "salary": null,
     "source": "workday"
   },
@@ -84,6 +72,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:statestreet:job/HINJEWADI-PUNE/Apprentice_R-796076",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "HINJEWADI PUNE",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/HINJEWADI-PUNE/Apprentice_R-796076",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:novartis:job/Hyderabad-Office/Intern-AI---DS-Engineering_REQ-10085515",
     "company": "Novartis",
     "title": "Intern AI & DS Engineering",
@@ -120,14 +120,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
+    "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
-    "location": "IN.Mumbai.Embassy 247 Park",
+    "location": "IN.Gurgaon.DLF Cyber City",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-161779",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
     "salary": null,
     "source": "workday"
   },
@@ -288,14 +288,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
     "company": "Vishay Intertechnology",
     "title": "Apprentice",
     "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -586,18 +586,6 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "oracle:hdjq.fa.us2.oraclecloud.com:26009192",
-    "company": "Emerson Electric",
-    "title": "Intern-Technology",
-    "location": "NOIDA, UTTAR PRADESH, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-14",
-    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009192",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "smartrecruiters:InfiniteQuant:744000143287594",

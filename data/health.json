@@ -105,8 +105,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/fractional-ai?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/e"
   },
   "ashby:fundamentalresearchlabs": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-08-14T09:40:21Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-08-17T10:50:53Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/fundamentalresearchlabs?includeCompensation=true'\nFor more information check: https://developer.moz"
   },
   "ashby:genesis-therapeutics": {
@@ -255,8 +255,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/tools?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:tracer": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-08-14T09:40:21Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-08-17T10:50:53Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/tracer?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "ashby:tuesday-lab": {
@@ -525,8 +525,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/icertis/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:iherb": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-08-14T09:40:21Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-08-17T10:50:53Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/iherb/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:innovaccer": {
@@ -1238,6 +1238,11 @@
     "consecutive_failures": 11,
     "last_attempt_at": "2026-08-14T21:05:45Z",
     "last_error": "no connector for wellfound"
+  },
+  "workable:thingtrax": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-17T10:50:53Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thingtrax/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:thorlabs": {
     "consecutive_failures": 6,

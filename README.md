@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 17, 2026 at 09:03 UTC</em></p>
+  <p><em>Last updated: Aug 17, 2026 at 10:50 UTC</em></p>
 </div>
 
 ---
@@ -49,6 +49,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Emerson Electric | Intern-Technology | Summer 2027 | 2026-08-17 |
+| Baxter International | Apprentice | Summer 2027 | 2026-08-17 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-17 |
+| State Street | Apprentice | Summer 2027 | 2026-08-17 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-17 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-17 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-17 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-17 |
@@ -56,19 +61,14 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | Baxter International | Apprentice, Trainee (Finance Business Intelligence) | Summer 2027 | 2026-08-17 |
 | Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-17 |
 | Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-17 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-17 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-17 |
 | ProNexus | Software Engineer Intern | Term Unconfirmed | 2026-08-17 |
-| State Street | Apprentice | Summer 2027 | 2026-08-16 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-16 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-16 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-16 |
 | Adobe | Apprentice Tech | Summer 2027 | 2026-08-15 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-15 |
 | First American | Software Engineering Intern | Summer 2027 | 2026-08-15 |
 | Unisys | AI Engineering Intern | Summer 2027 | 2026-08-15 |
-| Pearson | Apprentice, Assessment Quality Assurance | Summer 2027 | 2026-08-15 |
-| SouthState Bank | Correspondent Analyst Intern | Summer 2027 | 2026-08-14 |
 
 </details>
 
