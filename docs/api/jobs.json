@@ -24,42 +24,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:novartis:job/Hyderabad-Office/Intern-Data-Analyst_REQ-10085942",
-    "company": "Novartis",
-    "title": "Intern Data Analyst",
-    "location": "Hyderabad (Office)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Analyst_REQ-10085942",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:spgi:job/Gurugram-Haryana/Apprentice--Services---Business-Enablement_329583-1",
-    "company": "S&P Global",
-    "title": "Apprentice",
-    "location": "Gurugram, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Gurugram-Haryana/Apprentice--Services---Business-Enablement_329583-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:job/Chennai-India/Apprentice_R-796073",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Chennai, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Chennai-India/Apprentice_R-796073",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:southstatebank:job/Remote-Worker/Correspondent-Analyst-Intern_R-05943",
     "company": "SouthState Bank",
     "title": "Correspondent Analyst Intern",
@@ -96,14 +60,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:novartis:job/Hyderabad-Office/Intern-AI---DS-Engineering_REQ-10085515",
-    "company": "Novartis",
-    "title": "Intern AI & DS Engineering",
-    "location": "Hyderabad (Office)",
-    "category": "Data & ML/AI",
+    "id": "workday:statestreet:job/HINJEWADI-PUNE/Apprentice_R-796076",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "HINJEWADI PUNE",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Intern-AI---DS-Engineering_REQ-10085515",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/HINJEWADI-PUNE/Apprentice_R-796076",
     "salary": null,
     "source": "workday"
   },
@@ -300,6 +264,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
+    "company": "GE Healthcare",
+    "title": "Field Engineer Apprentice",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -312,14 +288,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043420-2",
-    "company": "GE Healthcare",
-    "title": "Field Engineer Apprentice",
-    "location": "Remote",
-    "category": "Software",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
     "salary": null,
     "source": "workday"
   },
@@ -476,18 +452,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
