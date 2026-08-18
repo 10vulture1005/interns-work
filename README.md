@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 18, 2026 at 03:30 UTC</em></p>
+  <p><em>Last updated: Aug 18, 2026 at 05:10 UTC</em></p>
 </div>
 
 ---
@@ -49,14 +49,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-18 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-18 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-18 |
-| State Street | Apprentice | Summer 2027 | 2026-08-18 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-18 |
-| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-18 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-18 |
+| State Street | Apprentice | Summer 2027 | 2026-08-18 |
 | Baxter International | Apprentice | Summer 2027 | 2026-08-18 |
 | Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-18 |
-| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-18 |
 | State Street | Apprentice | Summer 2027 | 2026-08-18 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-17 |
 | SouthState Bank | Correspondent Analyst Intern | Summer 2027 | 2026-08-17 |
@@ -69,6 +68,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | Cox | Inspector Apprentice | Summer 2027 | 2026-08-17 |
 | Emerson Electric | Intern-Technology | Summer 2027 | 2026-08-17 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-17 |
+| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-17 |
 
 </details>
 
