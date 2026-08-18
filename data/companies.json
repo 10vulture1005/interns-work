@@ -556,6 +556,11 @@
     "ats": "ashby"
   },
   {
+    "name": "AeroVect",
+    "slug": "AeroVect",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "AeroVironment",
     "slug": "avav",
     "ats": "workday",
@@ -1061,6 +1066,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Alpha Nexus Group",
+    "slug": "AlphaNexusGroup",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "AlphaHire",
     "slug": "alphax",
     "ats": "workable"
@@ -1220,6 +1230,11 @@
     "ats": "workday",
     "wd": "wd108",
     "site": "ambarella"
+  },
+  {
+    "name": "Ambral",
+    "slug": "ambral",
+    "ats": "ashby"
   },
   {
     "name": "AMC Networks",
@@ -2303,6 +2318,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "ASSYST",
+    "slug": "assystinc",
+    "ats": "greenhouse"
+  },
+  {
     "name": "ASSYSTEM",
     "slug": "ASSYSTEM",
     "ats": "smartrecruiters"
@@ -2521,6 +2541,11 @@
     "name": "Augmodo",
     "slug": "augmodo",
     "ats": "ashby"
+  },
+  {
+    "name": "Augsburg University",
+    "slug": "AugsburgUniversity-MinneapolisMN",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Aurelian",
@@ -4240,6 +4265,11 @@
     "site": "external"
   },
   {
+    "name": "CACI",
+    "slug": "NextCenturyCorporation",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Caddi Workflow Automation",
     "slug": "trycaddi",
     "ats": "workable"
@@ -4976,6 +5006,11 @@
     "ats": "workable"
   },
   {
+    "name": "Charta Health",
+    "slug": "chartahealth",
+    "ats": "ashby"
+  },
+  {
     "name": "Charter Manufacturing",
     "slug": "chartermfg",
     "ats": "workday",
@@ -5320,6 +5355,11 @@
     "site": "external"
   },
   {
+    "name": "City of Mission",
+    "slug": "CityOfMission",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "City of Oklahoma City",
     "slug": "fa-etyr-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oracle",
@@ -5530,6 +5570,11 @@
     "name": "Clinical Architecture",
     "slug": "clinicalarchitecture",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Clinical Ink",
+    "slug": "ClinicalInk",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Clio",
@@ -5842,6 +5887,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "Colliers-External-Career-Site"
+  },
+  {
+    "name": "Colliers",
+    "slug": "ColliersInternationalEMEA",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Collin College",
@@ -6476,6 +6526,11 @@
     "site": "CCMCareers"
   },
   {
+    "name": "CROSSMARK",
+    "slug": "CROSSMARK1",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "CrowdGen by Appen",
     "slug": "appen",
     "ats": "lever"
@@ -6901,6 +6956,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Dayshape",
+    "slug": "dayshape",
+    "ats": "workable"
+  },
+  {
     "name": "DB E.C.O. North America",
     "slug": "dbeconorthamerica",
     "ats": "greenhouse"
@@ -7196,6 +7256,11 @@
   {
     "name": "Diebold Nixdorf",
     "slug": "dieboldnixdorf",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Diesel Laptops",
+    "slug": "DieselLaptops",
     "ats": "smartrecruiters"
   },
   {
@@ -8052,6 +8117,11 @@
     "site": "enbridge_careers"
   },
   {
+    "name": "Encephalo Investments",
+    "slug": "EncephaloInvestments",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Encord",
     "slug": "encord",
     "ats": "ashby"
@@ -8802,6 +8872,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "FannieMaeCareers"
+  },
+  {
+    "name": "Fannie Mae",
+    "slug": "FannieMae1SB",
+    "ats": "smartrecruiters"
   },
   {
     "name": "FanThreeSixty",
@@ -11100,6 +11175,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Hasbro",
+    "slug": "hasbro",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Hashedin",
     "slug": "hashedin-global",
     "ats": "smartrecruiters"
@@ -11730,6 +11810,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Huck Adventures",
+    "slug": "HuckAdventures",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Hudl",
     "slug": "hudl",
     "ats": "greenhouse"
@@ -11999,6 +12084,11 @@
     "name": "IEQ Capital",
     "slug": "ieqcapital",
     "ats": "greenhouse"
+  },
+  {
+    "name": "iFLIP4",
+    "slug": "iFLIP4",
+    "ats": "smartrecruiters"
   },
   {
     "name": "IFS",
@@ -12782,6 +12872,11 @@
     "site": "iolcareers_allotherpositions"
   },
   {
+    "name": "ISAAC Instruments",
+    "slug": "ISAACInstruments",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "ispace",
     "slug": "ispace-inc",
     "ats": "lever"
@@ -12807,6 +12902,11 @@
     "name": "Iterable",
     "slug": "iterable",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Iteris",
+    "slug": "TrafficCast",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Itron",
@@ -13542,6 +13642,11 @@
     "name": "Kos",
     "slug": "kos",
     "ats": "ashby"
+  },
+  {
+    "name": "KOSTAL Group",
+    "slug": "KOSTALGroup",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Kotak Mahindra Bank",
@@ -14854,6 +14959,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Marlabs",
+    "slug": "MarlabsInc1",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Marmon Holdings",
     "slug": "marmon",
     "ats": "workday",
@@ -15424,6 +15534,11 @@
     "name": "Meshy",
     "slug": "meshy",
     "ats": "ashby"
+  },
+  {
+    "name": "Mesotech International",
+    "slug": "MesotechInternationalInc",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Meta",
@@ -18287,6 +18402,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Pelmorex",
+    "slug": "pelmorex",
+    "ats": "lever"
+  },
+  {
     "name": "Peloton",
     "slug": "peloton",
     "ats": "greenhouse"
@@ -18959,6 +19079,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Praytell",
+    "slug": "praytell",
+    "ats": "workable"
+  },
+  {
     "name": "Precision AQ",
     "slug": "precisionaq",
     "ats": "greenhouse"
@@ -19416,6 +19541,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "QualityAI",
+    "slug": "QANALYSTSLLC2",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Qualtrics",
     "slug": "qualtrics",
     "ats": "greenhouse"
@@ -19713,6 +19843,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Readystate Asset Management",
+    "slug": "readystate",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Real Chemistry",
     "slug": "realchemistry",
     "ats": "greenhouse"
@@ -19824,6 +19959,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "careers"
+  },
+  {
+    "name": "RegDesk",
+    "slug": "RegDeskInc",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Regeneron Pharmaceuticals",
@@ -20202,6 +20342,11 @@
     "ats": "workday",
     "wd": "wd12",
     "site": "RHH"
+  },
+  {
+    "name": "Riveron",
+    "slug": "riveron",
+    "ats": "ashby"
   },
   {
     "name": "Rivet Industries",
@@ -21254,6 +21399,11 @@
     "site": "External"
   },
   {
+    "name": "Shawbrook",
+    "slug": "Shawbrook",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "SHEIN",
     "slug": "shein",
     "ats": "greenhouse"
@@ -21417,6 +21567,11 @@
   {
     "name": "Sig",
     "slug": "sig-global",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "SightCall",
+    "slug": "SightCall",
     "ats": "smartrecruiters"
   },
   {
@@ -21709,6 +21864,11 @@
     "name": "Smarkets",
     "slug": "smarkets",
     "ats": "ashby"
+  },
+  {
+    "name": "Smarter Agent",
+    "slug": "SmarterAgent",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Smartly.io",
@@ -22420,6 +22580,11 @@
   {
     "name": "STCU",
     "slug": "STCU1",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "SteelEye",
+    "slug": "SteelEye",
     "ats": "smartrecruiters"
   },
   {
@@ -24354,6 +24519,11 @@
     "ats": "oracle",
     "host": "tulane-ibqejb.fa.ocs.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Tunnl",
+    "slug": "tunnl",
+    "ats": "ashby"
   },
   {
     "name": "Turabify",
@@ -26450,6 +26620,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Xantium",
+    "slug": "xantium",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Xcel Energy",
     "slug": "xcelenergy",
     "ats": "workday",
@@ -26791,6 +26966,11 @@
     "site": "zoom"
   },
   {
+    "name": "Zoomifier",
+    "slug": "CustomShow",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "ZoomInfo",
     "slug": "zoominfo",
     "ats": "greenhouse"
@@ -26808,6 +26988,11 @@
   {
     "name": "Zopsmart",
     "slug": "zopsmart-india",
+    "ats": "smartrecruiters"
+  },
+  {
+    "name": "Zoro",
+    "slug": "Zoro",
     "ats": "smartrecruiters"
   },
   {
