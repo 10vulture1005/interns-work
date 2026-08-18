@@ -560,8 +560,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/mara/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:matx": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-17T12:59:09Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-08-18T03:30:47Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/matx/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:memphismeats": {
@@ -995,8 +995,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/regalvoice?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sanctuary": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-17T12:59:09Z",
+    "consecutive_failures": 5,
+    "last_attempt_at": "2026-08-18T03:30:47Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/sanctuary?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sensortower": {
@@ -1198,11 +1198,6 @@
     "consecutive_failures": 12,
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "no connector for naukri"
-  },
-  "oracle:ibqbjb.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-18T01:16:11Z",
-    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://ibqbjb.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.s"
   },
   "recruitee:1x": {
     "consecutive_failures": 12,
