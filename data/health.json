@@ -365,8 +365,8 @@
     "last_error": "no connector for eightfold"
   },
   "greenhouse:10xgenomics": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-08-16T10:47:19Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-08-18T13:07:22Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/10xgenomics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "greenhouse:alma": {
@@ -1240,24 +1240,29 @@
     "last_error": "no connector for wellfound"
   },
   "workable:terabase-energy": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-18T11:02:49Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-08-18T13:07:22Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/terabase-energy/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
-  "workable:texas-sports-academy-main": {
+  "workable:teserac-inc": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-18T11:02:49Z",
+    "last_attempt_at": "2026-08-18T13:07:22Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "workable:texas-sports-academy-main": {
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-08-18T13:07:22Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/texas-sports-academy-main/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "workable:the-anywhere-company": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-18T11:02:49Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-08-18T13:07:22Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/the-anywhere-company/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "workable:thingtrax": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-18T11:02:49Z",
-    "last_error": "ConnectTimeout: "
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-18T13:07:22Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thingtrax/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:thorlabs": {
     "consecutive_failures": 6,

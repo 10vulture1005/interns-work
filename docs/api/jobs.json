@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:ag:job/Bangalore-Area/Apprentice---Governance---Operations_JR10409958",
+    "company": "Airbus",
+    "title": "Apprentice - Governance & Operations",
+    "location": "Bangalore Area",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Apprentice---Governance---Operations_JR10409958",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:fortrea:job/Bangalore/Apprentice---Proposals_264596",
     "company": "Fortrea",
     "title": "Apprentice - Proposals",
@@ -72,6 +84,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice_JR-207967",
+    "company": "Baxter International",
+    "title": "Apprentice",
+    "location": "Bangalore, Karnataka",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice_JR-207967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:statestreet:job/Chennai-India/Apprentice_R-796073",
     "company": "State Street",
     "title": "Apprentice",
@@ -116,6 +140,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Machine-Learning-Intern_REQ-4561",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -216,6 +252,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
+    "company": "Baxter International",
+    "title": "Apprentice Bangalore Ops",
+    "location": "Bangalore, Karnataka",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -288,6 +336,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
@@ -324,14 +384,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -504,6 +564,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043342-1",
+    "company": "GE Healthcare",
+    "title": "Biomedical Technician Apprentice",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 22 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043342-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441968",
     "company": "Deutsche Bank",
     "title": "Apprentice Hiring for 2026- 2027",
@@ -524,18 +596,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 2 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
-    "company": "GE Healthcare",
-    "title": "Biomedical Technician Apprentice",
-    "location": "Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 15 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1",
     "salary": null,
     "source": "workday"
   },
@@ -602,7 +662,7 @@
   {
     "id": "ashby:atlys:1a34deb8-3d14-4b7b-b1eb-cd302ce97223",
     "company": "Atlys",
-    "title": "Voice AI Intern",
+    "title": "AI Intern",
     "location": "Delhi HQ",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
@@ -694,18 +754,6 @@
     "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
     "salary": "$55 – $65 per hour",
     "source": "ashby"
-  },
-  {
-    "id": "greenhouse:scopely:5341537008",
-    "company": "Scopely",
-    "title": "Intern - Gen. AI Art",
-    "location": "IN - Bangalore, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-14T08:51:20-04:00",
-    "url": "https://job-boards.greenhouse.io/scopely/jobs/5341537008?gh_jid=5341537008",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "greenhouse:stripe:8031833",
