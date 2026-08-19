@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 19, 2026 at 20:50 UTC</em></p>
+  <p><em>Last updated: Aug 19, 2026 at 22:50 UTC</em></p>
 </div>
 
 ---
@@ -49,6 +49,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cambium Learning Group | Machine Learning Intern | Summer 2027 | 2026-08-19 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-08-19 |
 | Snorkel AI | AI Researcher —  Intern | Summer 2027 | 2026-08-19 |
 | State Street | Apprentice | Summer 2027 | 2026-08-19 |
 | State Street | Apprentice | Summer 2027 | 2026-08-19 |
@@ -62,13 +64,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-19 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-19 |
 | Airbus | Apprentice - Industrialisation | Summer 2027 | 2026-08-19 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-08-19 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-19 |
 | Point C | Account Management AI Intern | Summer 2027 | 2026-08-18 |
 | Eastern Research Group | HVAC Technician Apprentice | Summer 2027 | 2026-08-18 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-18 |
 | Fortrea | Apprentice - Proposals | Summer 2027 | 2026-08-18 |
-| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-18 |
 
 </details>
 

@@ -455,8 +455,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clevertap/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:climateai": {
-    "consecutive_failures": 11,
-    "last_attempt_at": "2026-08-16T20:50:32Z",
+    "consecutive_failures": 12,
+    "last_attempt_at": "2026-08-19T22:50:28Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/climateai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:cred-club": {
@@ -610,8 +610,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/qualifiedhealth/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:radiantsecurity": {
-    "consecutive_failures": 9,
-    "last_attempt_at": "2026-08-16T20:50:32Z",
+    "consecutive_failures": 10,
+    "last_attempt_at": "2026-08-19T22:50:28Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/radiantsecurity/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:razorpay": {
@@ -1244,16 +1244,6 @@
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "no connector for wellfound"
   },
-  "workable:texas-sports-academy-main": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-19T20:50:40Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/texas-sports-academy-main/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
-  },
-  "workable:the-anywhere-company": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-19T20:50:40Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/the-anywhere-company/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
-  },
   "workable:thingtrax": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-19T20:50:40Z",
@@ -1310,8 +1300,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/ubds/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "workable:validus-risk-management": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-08-17T20:49:45Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-08-19T22:50:28Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/validus-risk-management/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "workable:valsoft-corp": {

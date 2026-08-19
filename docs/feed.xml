@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-19T20:50:41Z</updated>
+  <updated>2026-08-19T22:50:28Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Citi — Young Apprentice - C00 - MUMBAI</title>
@@ -133,12 +133,6 @@
     <updated>2026-08-12T11:20:19Z</updated>
     <summary>Delhi HQ · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Cambium Learning Group — Machine Learning Intern</title>
-    <link href="https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Machine-Learning-Intern_REQ-4561" rel="alternate"/>
-    <id>workday:cambiumlearning:job/Remote/Machine-Learning-Intern_REQ-4561</id>
-    <updated>2026-08-11T23:09:03Z</updated>
-    <summary>Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
     <title>Baxter International — Apprentice, Trainee (Post Market Surveillance)</title>
     <link href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747" rel="alternate"/>
     <id>workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747</id>
@@ -253,12 +247,6 @@
     <updated>2026-07-29T18:50:34Z</updated>
     <summary>Remote · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>R1 RCM — Apprentice</title>
-    <link href="https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967" rel="alternate"/>
-    <id>workday:r1rcm:job/Noida-India/Apprentice_R250000011967</id>
-    <updated>2026-07-29T18:50:34Z</updated>
-    <summary>Noida, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Astreya — AI Infrastructure DC Design Intern</title>
     <link href="https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746" rel="alternate"/>
     <id>workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746</id>
@@ -306,5 +294,17 @@
     <id>workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>GE Healthcare — Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area)</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1" rel="alternate"/>
+    <id>workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Liberty University — ADS Apprentice</title>
+    <link href="https://liberty.wd5.myworkdayjobs.com/en-US/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1" rel="alternate"/>
+    <id>workday:liberty:job/Hybrid/ADS-Apprentice_R0010936-1</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Hybrid · Other · Summer 2027</summary>
   </entry>
 </feed>
