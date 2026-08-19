@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 19, 2026 at 13:06 UTC</em></p>
+  <p><em>Last updated: Aug 19, 2026 at 14:54 UTC</em></p>
 </div>
 
 ---
@@ -48,10 +48,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-19 |
+| Baxter International | Apprentice | Summer 2027 | 2026-08-19 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-19 |
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-08-19 |
 | Dun & Bradstreet | R-19657 (Industrial Trainee - Apprentice) | Summer 2027 | 2026-08-19 |
 | Pearson | Apprentice, Full Stack Engineer | Summer 2027 | 2026-08-19 |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-19 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-19 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-19 |
 | State Street | Apprentice | Summer 2027 | 2026-08-19 |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-19 |
@@ -65,9 +68,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | Point C | Account Management AI Intern | Summer 2027 | 2026-08-18 |
 | Eastern Research Group | HVAC Technician Apprentice | Summer 2027 | 2026-08-18 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-18 |
-| State Street | Apprentice | Summer 2027 | 2026-08-18 |
-| Fortrea | Apprentice - Proposals | Summer 2027 | 2026-08-18 |
-| GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-18 |
 
 </details>
 
