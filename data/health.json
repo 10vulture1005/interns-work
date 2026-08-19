@@ -1244,11 +1244,6 @@
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "no connector for wellfound"
   },
-  "workable:thingtrax": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-18T22:46:14Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thingtrax/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
   "workable:thorlabs": {
     "consecutive_failures": 6,
     "last_attempt_at": "2026-08-17T09:03:06Z",
