@@ -1244,9 +1244,14 @@
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "no connector for wellfound"
   },
-  "workable:thingtrax": {
+  "workable:the-anywhere-company": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-19T11:02:39Z",
+    "last_attempt_at": "2026-08-19T13:06:07Z",
+    "last_error": "ConnectTimeout: "
+  },
+  "workable:thingtrax": {
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-08-19T13:06:07Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thingtrax/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:thorlabs": {
@@ -1325,8 +1330,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/viewline-ventures/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workable:vortexa": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-19T11:02:39Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-08-19T13:06:07Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/vortexa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "workable:wallstreetquants": {
