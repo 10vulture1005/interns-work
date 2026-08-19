@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 19, 2026 at 01:17 UTC</em></p>
+  <p><em>Last updated: Aug 19, 2026 at 03:26 UTC</em></p>
 </div>
 
 ---
@@ -48,7 +48,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-19 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-19 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-18 |
 | Point C | Account Management AI Intern | Summer 2027 | 2026-08-18 |
@@ -68,6 +67,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | State Street | Apprentice | Summer 2027 | 2026-08-17 |
 | GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-08-17 |
 | Novartis | Intern AI & DS Engineering | Summer 2027 | 2026-08-17 |
+| Novartis | Intern Data Analyst | Summer 2027 | 2026-08-17 |
 
 </details>
 
