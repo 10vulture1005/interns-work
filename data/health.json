@@ -680,8 +680,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/udaan/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:underdogfantasy": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-08-18T22:46:14Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-08-19T07:03:19Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/underdogfantasy/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:uplifter": {
@@ -1204,6 +1204,11 @@
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "no connector for naukri"
   },
+  "oracle:ibqbjb.fa.ocs.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-19T07:03:19Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ibqbjb.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.seco"
+  },
   "recruitee:1x": {
     "consecutive_failures": 12,
     "last_attempt_at": "2026-08-17T22:45:36Z",
@@ -1245,8 +1250,8 @@
     "last_error": "no connector for wellfound"
   },
   "workable:thingtrax": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-19T05:05:55Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-08-19T07:03:19Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thingtrax/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:thorlabs": {
