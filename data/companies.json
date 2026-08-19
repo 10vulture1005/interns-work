@@ -7023,6 +7023,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Deeter Analytics",
+    "slug": "deeter-analytics",
+    "ats": "ashby"
+  },
+  {
     "name": "Defense Unicorns",
     "slug": "defenseunicorns",
     "ats": "greenhouse"
@@ -10493,6 +10498,11 @@
     "ats": "rippling"
   },
   {
+    "name": "GO Media",
+    "slug": "go-media",
+    "ats": "workable"
+  },
+  {
     "name": "GOAT",
     "slug": "goatgroup",
     "ats": "greenhouse"
@@ -13562,6 +13572,11 @@
     "name": "KnowBe4",
     "slug": "knowbe4",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Koah",
+    "slug": "koahlabs",
+    "ats": "ashby"
   },
   {
     "name": "Koalafi",
@@ -17062,6 +17077,11 @@
     "ats": "workday",
     "wd": "wd501",
     "site": "nordstrom_careers"
+  },
+  {
+    "name": "Normal Computing",
+    "slug": "normalcomputing",
+    "ats": "ashby"
   },
   {
     "name": "North Cloud",
@@ -21069,6 +21089,11 @@
     "site": "SEL"
   },
   {
+    "name": "Sciemo",
+    "slug": "sciemo",
+    "ats": "ashby"
+  },
+  {
     "name": "Scientific Games",
     "slug": "sglottery",
     "ats": "workday",
@@ -21193,6 +21218,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Sedgwick"
+  },
+  {
+    "name": "Seeq",
+    "slug": "seeq",
+    "ats": "workable"
   },
   {
     "name": "Seer Interactive",
@@ -23897,6 +23927,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Thrive Causemetics",
+    "slug": "thrivecausemetics",
+    "ats": "lever"
+  },
+  {
     "name": "Thumbtack",
     "slug": "thumbtack",
     "ats": "greenhouse"
@@ -25776,6 +25811,11 @@
     "name": "Vortex Companies, LLC",
     "slug": "vortex-companies-llc",
     "ats": "rippling"
+  },
+  {
+    "name": "Vortexa",
+    "slug": "vortexa",
+    "ats": "workable"
   },
   {
     "name": "Voxel",
