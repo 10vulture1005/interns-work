@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 19, 2026 at 07:03 UTC</em></p>
+  <p><em>Last updated: Aug 19, 2026 at 08:55 UTC</em></p>
 </div>
 
 ---
@@ -22,7 +22,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Bangalore , Karnataka, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R74723) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
 | **Target** | Apprentice - Technology <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
@@ -48,10 +48,14 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Baxter International | Apprentice | Summer 2027 | 2026-08-19 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-19 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-19 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-19 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-19 |
 | Airbus | Apprentice - Industrialisation | Summer 2027 | 2026-08-19 |
 | Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-19 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-19 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-19 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-19 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-19 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-18 |
@@ -64,10 +68,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | Scopely | Intern - Gen. AI Art | Summer 2027 | 2026-08-18 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-18 |
 | Unisys | Intern/Student Tech | Summer 2027 | 2026-08-18 |
-| State Street | Apprentice | Summer 2027 | 2026-08-18 |
-| Baxter International | Apprentice, Trainee (Learning Management System) | Summer 2027 | 2026-08-18 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-17 |
-| SouthState Bank | Correspondent Analyst Intern | Summer 2027 | 2026-08-17 |
 
 </details>
 
