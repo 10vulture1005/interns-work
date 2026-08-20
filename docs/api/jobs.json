@@ -60,18 +60,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:alcon:job/Bangalore-India/Apprentice-BPA_R-2026-48852",
-    "company": "Alcon",
-    "title": "Apprentice BPA",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Bangalore-India/Apprentice-BPA_R-2026-48852",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:jll:job/Bengaluru-KA/MTS---Apprentice_REQ523318",
     "company": "Jones Lang LaSalle (JLL)",
     "title": "MTS - Apprentice",
@@ -92,18 +80,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice----3_260004929-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice_JR-207967",
-    "company": "Baxter International",
-    "title": "Apprentice",
-    "location": "Bangalore, Karnataka",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice_JR-207967",
     "salary": null,
     "source": "workday"
   },
@@ -140,18 +116,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/HINJEWADI-PUNE/Apprentice_R-796076",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Post Market Surveillance)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -252,18 +216,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
-    "company": "Baxter International",
-    "title": "Apprentice Bangalore Ops",
-    "location": "Bangalore, Karnataka",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice-Bangalore-Ops_JR-206153-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -332,6 +284,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -488,18 +452,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
