@@ -1249,6 +1249,11 @@
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "no connector for wellfound"
   },
+  "workable:texas-sports-academy-main": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T10:57:42Z",
+    "last_error": "ConnectTimeout: "
+  },
   "workable:the-anywhere-company": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-08-20T08:56:43Z",
@@ -1348,6 +1353,11 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-19T11:02:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/we-are-social-1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "workable:western-magnetics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T10:57:42Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/western-magnetics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workable:zaizi": {
     "consecutive_failures": 7,
