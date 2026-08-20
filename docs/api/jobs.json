@@ -144,6 +144,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
@@ -324,6 +336,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-825-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-825-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+    "company": "Campbellsoup",
+    "title": "Agentic AI Engineer Co-Op",
+    "location": "USA - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -356,18 +392,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
-    "company": "Campbellsoup",
-    "title": "Agentic AI Engineer Co-Op",
-    "location": "USA - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "salary": null,
     "source": "workday"
   },
@@ -480,18 +504,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -598,6 +610,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:towerresearchcapital:8143756",
+    "company": "Tower Research Capital",
+    "title": "Intern - AI/ML",
+    "location": "gurgaon",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-08-20T08:57:42-04:00",
+    "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "oracle:egug.fa.us2.oraclecloud.com:26012470",

@@ -1010,8 +1010,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/sanctuary?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sensortower": {
-    "consecutive_failures": 9,
-    "last_attempt_at": "2026-08-17T12:59:09Z",
+    "consecutive_failures": 10,
+    "last_attempt_at": "2026-08-20T17:02:24Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/sensortower?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sharechat": {
@@ -1250,9 +1250,9 @@
     "last_error": "no connector for wellfound"
   },
   "workable:the-anywhere-company": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-08-20T08:56:43Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/the-anywhere-company/jobs'\nFor more information check: https://developer.mozilla.org/en-US/doc"
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-08-20T17:02:24Z",
+    "last_error": "ConnectTimeout: "
   },
   "workable:thingtrax": {
     "consecutive_failures": 4,
@@ -1348,6 +1348,11 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-19T11:02:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/we-are-social-1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "workable:western-magnetics": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T17:02:24Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/western-magnetics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
   },
   "workable:zaizi": {
     "consecutive_failures": 7,
