@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 20, 2026 at 21:01 UTC</em></p>
+  <p><em>Last updated: Aug 20, 2026 at 22:51 UTC</em></p>
 </div>
 
 ---
@@ -49,11 +49,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Alcon | Apprentice BPA | Summer 2027 | 2026-08-20 |
-| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-20 |
-| Baxter International | Apprentice | Summer 2027 | 2026-08-20 |
-| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-20 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-20 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-20 |
+| Alcon | Apprentice BPA | Summer 2027 | 2026-08-20 |
 | Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-08-20 |
 | State Street | Apprentice | Summer 2027 | 2026-08-20 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-20 |
@@ -68,7 +66,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | Cambium Learning Group | Machine Learning Intern | Summer 2027 | 2026-08-19 |
 | Snorkel AI | AI Researcher —  Intern | Summer 2027 | 2026-08-19 |
 | State Street | Apprentice | Summer 2027 | 2026-08-19 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-19 |
+| Dun & Bradstreet | R-19657 (Industrial Trainee - Apprentice) | Summer 2027 | 2026-08-19 |
+| Pearson | Apprentice, Full Stack Engineer | Summer 2027 | 2026-08-19 |
+| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-19 |
 
 </details>
 
