@@ -108,18 +108,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:statestreet:job/Chennai-India/Apprentice_R-796073",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Chennai, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Chennai-India/Apprentice_R-796073",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043136-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -140,6 +128,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:job/HINJEWADI-PUNE/Apprentice_R-796076",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "HINJEWADI PUNE",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/HINJEWADI-PUNE/Apprentice_R-796076",
     "salary": null,
     "source": "workday"
   },
@@ -336,30 +336,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-825-1",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-825-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
-    "company": "Campbellsoup",
-    "title": "Agentic AI Engineer Co-Op",
-    "location": "USA - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -392,6 +368,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
+    "company": "Campbellsoup",
+    "title": "Agentic AI Engineer Co-Op",
+    "location": "USA - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "salary": null,
     "source": "workday"
   },
@@ -500,6 +488,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
