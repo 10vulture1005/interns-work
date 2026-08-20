@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T01:14:04Z",
-  "duration_seconds": 2172.6,
+  "generated_at": "2026-08-20T03:33:49Z",
+  "duration_seconds": 2677.2,
   "companies_total": 4790,
   "companies_by_source": {
     "greenhouse": 1059,
@@ -52,10 +52,10 @@
     "Fall 2026": 2
   },
   "roles_by_region": {
-    "India": 43,
-    "Remote": 24
+    "India": 42,
+    "Remote": 25
   },
   "purged_this_run": 0,
-  "new_this_run": 1,
+  "new_this_run": 0,
   "open_total": 67
 }
