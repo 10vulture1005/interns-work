@@ -399,6 +399,11 @@
     "last_attempt_at": "2026-08-17T22:45:36Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/arine/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "greenhouse:artefactus": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-20T01:14:04Z",
+    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/artefactus/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
+  },
   "greenhouse:atlassian": {
     "consecutive_failures": 12,
     "last_attempt_at": "2026-08-17T22:45:36Z",
