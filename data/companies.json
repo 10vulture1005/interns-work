@@ -250,6 +250,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Abundant",
+    "slug": "abundant",
+    "ats": "ashby"
+  },
+  {
     "name": "Academy Sports + Outdoors",
     "slug": "academy",
     "ats": "workday",
@@ -3791,6 +3796,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Boston_Dynamics"
+  },
+  {
+    "name": "Boston Engineering",
+    "slug": "BostonEngineeringCorporation",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Boston Medical Center",
@@ -7649,6 +7659,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Duetto Research",
+    "slug": "duettoresearch",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Duke Energy",
     "slug": "dukeenergy",
     "ats": "workday",
@@ -7750,6 +7765,11 @@
     "name": "e-Careers",
     "slug": "ecareers",
     "ats": "workable"
+  },
+  {
+    "name": "E-Space",
+    "slug": "espace",
+    "ats": "lever"
   },
   {
     "name": "E.ON Next",
@@ -11675,6 +11695,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "HKEXCareerPage"
+  },
+  {
+    "name": "Hooglee",
+    "slug": "hooglee",
+    "ats": "ashby"
   },
   {
     "name": "Hopper",
@@ -16574,6 +16599,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Navi AI",
+    "slug": "navi",
+    "ats": "ashby"
+  },
+  {
     "name": "Navi Technologies",
     "slug": "navi-technologies",
     "ats": "lever"
@@ -18940,6 +18970,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "External"
+  },
+  {
+    "name": "Pocket Fm",
+    "slug": "pocketfm",
+    "ats": "lever"
   },
   {
     "name": "Pocket Gems",
@@ -26242,6 +26277,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "External"
+  },
+  {
+    "name": "Western Magnetics",
+    "slug": "western-magnetics",
+    "ats": "workable"
   },
   {
     "name": "Western Union",

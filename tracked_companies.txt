@@ -516,6 +516,7 @@ pickrr
 pinterest
 plaid
 playsimple
+pocket fm
 pocket-gems
 point72
 polar
