@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 20, 2026 at 10:57 UTC</em></p>
+  <p><em>Last updated: Aug 20, 2026 at 13:06 UTC</em></p>
 </div>
 
 ---
@@ -49,16 +49,14 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Viavi Solutions | Apprentice - 1 | Summer 2027 | 2026-08-20 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-20 |
 | Air Products | Graduate Trainee – Software Development | Summer 2027 | 2026-08-20 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-20 |
-| Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-20 |
-| Baxter International | Apprentice | Summer 2027 | 2026-08-20 |
 | Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-20 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-20 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-20 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-20 |
 | State Street | Apprentice | Summer 2027 | 2026-08-20 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-20 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-20 |
 | American Express | Apprentice | Summer 2027 | 2026-08-20 |
 | State Street | Apprentice | Summer 2027 | 2026-08-20 |
@@ -68,6 +66,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-19 |
 | Dun & Bradstreet | R-19657 (Industrial Trainee - Apprentice) | Summer 2027 | 2026-08-19 |
 | Pearson | Apprentice, Full Stack Engineer | Summer 2027 | 2026-08-19 |
+| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-19 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-19 |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-19 |
 
 </details>
