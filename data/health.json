@@ -1344,11 +1344,6 @@
     "last_attempt_at": "2026-08-19T11:02:39Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/we-are-social-1/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
-  "workable:western-magnetics": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-08-21T10:57:20Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/western-magnetics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
-  },
   "workable:zaizi": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-08-19T11:02:39Z",
