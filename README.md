@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 21, 2026 at 16:58 UTC</em></p>
+  <p><em>Last updated: Aug 21, 2026 at 18:52 UTC</em></p>
 </div>
 
 ---
@@ -51,11 +51,16 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-21 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-21 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-21 |
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-08-21 |
+| S&P Global | Apprentice, Software Development/Engineering | Summer 2027 | 2026-08-21 |
+| State Street | Apprentice | Summer 2027 | 2026-08-21 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-21 |
 | Honeywell | Intern Masters Software Eng | Summer 2027 | 2026-08-21 |
 | Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-08-21 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-21 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-08-21 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-21 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-21 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-21 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-21 |
@@ -66,11 +71,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (16 of 
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-21 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-21 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-21 |
-| Viavi Solutions | Apprentice  - 3 | Summer 2027 | 2026-08-21 |
-| Viavi Solutions | Apprentice - 4 | Summer 2027 | 2026-08-21 |
-| Viavi Solutions | Apprentice - 5 | Summer 2027 | 2026-08-21 |
-| Viavi Solutions | Apprentice - 6 | Summer 2027 | 2026-08-21 |
-| Viavi Solutions | Apprentice - 7 | Summer 2027 | 2026-08-21 |
 
 </details>
 
