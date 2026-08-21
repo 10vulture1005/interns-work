@@ -100,8 +100,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/flashpoint?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:fractional-ai": {
-    "consecutive_failures": 12,
-    "last_attempt_at": "2026-08-18T05:10:20Z",
+    "consecutive_failures": 13,
+    "last_attempt_at": "2026-08-21T07:03:03Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/fractional-ai?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/e"
   },
   "ashby:fundamentalresearchlabs": {
@@ -565,8 +565,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/mara/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:matx": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-08-19T05:05:55Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-08-21T07:03:03Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/matx/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:memphismeats": {
@@ -1005,8 +1005,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/regalvoice?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sanctuary": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-08-19T05:05:55Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-08-21T07:03:03Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/sanctuary?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:sensortower": {
@@ -1248,11 +1248,6 @@
     "consecutive_failures": 13,
     "last_attempt_at": "2026-08-21T01:20:28Z",
     "last_error": "no connector for wellfound"
-  },
-  "workable:the-anywhere-company": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-08-20T17:02:24Z",
-    "last_error": "ConnectTimeout: "
   },
   "workable:thingtrax": {
     "consecutive_failures": 5,
