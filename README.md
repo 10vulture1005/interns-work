@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 21, 2026 at 20:56 UTC</em></p>
+  <p><em>Last updated: Aug 21, 2026 at 22:55 UTC</em></p>
 </div>
 
 ---
@@ -50,10 +50,14 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| American Express | Apprentice | Summer 2027 | 2026-08-21 |
+| Baxter International | Apprentice | Summer 2027 | 2026-08-21 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-21 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-21 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-21 |
 | Availity | Software Engineer Intern | Summer 2027 | 2026-08-21 |
 | Baxter International | Apprentice Bangalore Ops | Summer 2027 | 2026-08-21 |
 | Baxter International | Apprentice, Trainee | Summer 2027 | 2026-08-21 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-21 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-21 |
 | Workday | Software Development Engineer - Intern | Summer 2027 | 2026-08-21 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-21 |
@@ -66,10 +70,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-21 |
 | F5 | Software Engineer Apprentice | Summer 2027 | 2026-08-21 |
 | F5 | Software Tester Apprentice | Summer 2027 | 2026-08-21 |
-| S&P Global | Apprentice | Summer 2027 | 2026-08-21 |
-| State Street | Apprentice | Summer 2027 | 2026-08-21 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-21 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-21 |
 
 </details>
 
