@@ -60,14 +60,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219",
+    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217",
     "company": "Citi",
     "title": "Young Apprentice - C00 - MUMBAI",
     "location": "Mumbai Maharashtra India",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969219",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217",
     "salary": null,
     "source": "workday"
   },
@@ -240,18 +240,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
-    "company": "GE Healthcare",
-    "title": "Field Engineer Apprentice",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -260,6 +248,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043060-1",
+    "company": "GE Healthcare",
+    "title": "Field Engineer Apprentice",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 4 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1",
     "salary": null,
     "source": "workday"
   },

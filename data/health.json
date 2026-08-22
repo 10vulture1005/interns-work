@@ -1209,6 +1209,16 @@
     "last_attempt_at": "2026-08-21T01:20:28Z",
     "last_error": "no connector for naukri"
   },
+  "oracle:ebcs.fa.em2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T03:21:59Z",
+    "last_error": "HTTPStatusError: Redirect response '302 Moved Temporarily' for url 'https://ebcs.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.sec"
+  },
+  "oracle:ecge.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-22T03:21:59Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ecge.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
+  },
   "recruitee:1x": {
     "consecutive_failures": 13,
     "last_attempt_at": "2026-08-21T01:20:28Z",
