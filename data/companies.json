@@ -1242,6 +1242,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Ambrook",
+    "slug": "ambrook",
+    "ats": "ashby"
+  },
+  {
     "name": "AMC Networks",
     "slug": "amcn",
     "ats": "workday",
@@ -8003,6 +8008,11 @@
     "site": "ANT"
   },
   {
+    "name": "Elevate Semiconductor",
+    "slug": "elevate-semiconductor",
+    "ats": "workable"
+  },
+  {
     "name": "Elevation Capital",
     "slug": "elevationcapital",
     "ats": "rippling"
@@ -9540,6 +9550,11 @@
     "name": "Focus Financial Partners",
     "slug": "focuspartnerswealth",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Focus Group",
+    "slug": "focus-group",
+    "ats": "workable"
   },
   {
     "name": "Foley Hoag",
@@ -19305,6 +19320,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Proforest",
+    "slug": "Proforest",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Profound",
     "slug": "profound",
     "ats": "ashby"
@@ -23100,6 +23120,11 @@
     "ats": "lever"
   },
   {
+    "name": "Syska Hennessy Group",
+    "slug": "syskahennessy",
+    "ats": "greenhouse"
+  },
+  {
     "name": "System Canada Technologies",
     "slug": "systemCanadaTechnologies",
     "ats": "smartrecruiters"
@@ -26159,6 +26184,11 @@
     "ats": "oracle",
     "host": "fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Weave",
+    "slug": "weave",
+    "ats": "ashby"
   },
   {
     "name": "Weaviate",
