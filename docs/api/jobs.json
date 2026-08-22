@@ -24,18 +24,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cisco:job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
-    "company": "Cisco",
-    "title": "Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition",
-    "location": "Bangalore, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442936",
     "company": "Deutsche Bank",
     "title": "Apprentice Hiring for 2026- 2027",
@@ -240,6 +228,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
+    "company": "GE Healthcare",
+    "title": "Field Engineer Apprentice",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -248,30 +248,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043060-1",
-    "company": "GE Healthcare",
-    "title": "Field Engineer Apprentice",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted 4 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -428,6 +404,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
