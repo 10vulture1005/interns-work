@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 22, 2026 at 14:47 UTC</em></p>
+  <p><em>Last updated: Aug 22, 2026 at 16:48 UTC</em></p>
 </div>
 
 ---
@@ -50,8 +50,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-22 |
-| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-08-22 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-22 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-22 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-22 |
 | GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-08-22 |
@@ -70,6 +69,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-21 |
 | F5 | Software Engineer Apprentice | Summer 2027 | 2026-08-21 |
 | F5 | Software Tester Apprentice | Summer 2027 | 2026-08-21 |
+| S&P Global | Apprentice | Summer 2027 | 2026-08-21 |
 
 </details>
 
