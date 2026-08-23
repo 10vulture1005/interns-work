@@ -1249,6 +1249,11 @@
     "last_attempt_at": "2026-08-21T01:20:28Z",
     "last_error": "no connector for wellfound"
   },
+  "workable:teguar-corporation": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-23T05:07:29Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/teguar-corporation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
+  },
   "workable:terabase-energy": {
     "consecutive_failures": 4,
     "last_attempt_at": "2026-08-22T20:50:54Z",
@@ -1323,6 +1328,11 @@
     "consecutive_failures": 8,
     "last_attempt_at": "2026-08-22T13:03:00Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/ubds/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
+  },
+  "workable:validus-risk-management": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-08-23T05:07:29Z",
+    "last_error": "ConnectTimeout: "
   },
   "workable:valsoft-corp": {
     "consecutive_failures": 8,
