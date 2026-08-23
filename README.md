@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 23, 2026 at 05:07 UTC</em></p>
+  <p><em>Last updated: Aug 23, 2026 at 07:06 UTC</em></p>
 </div>
 
 ---
@@ -49,6 +49,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Availity | Software Engineering Intern | Summer 2027 | 2026-08-23 |
 | GE Healthcare | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) | Summer 2027 | 2026-08-23 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-23 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-23 |
@@ -68,7 +69,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-08-21 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-21 |
 | F5 | Software Engineer Apprentice | Summer 2027 | 2026-08-21 |
-| F5 | Software Tester Apprentice | Summer 2027 | 2026-08-21 |
 
 </details>
 
