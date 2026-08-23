@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 23, 2026 at 16:49 UTC</em></p>
+  <p><em>Last updated: Aug 23, 2026 at 18:57 UTC</em></p>
 </div>
 
 ---
@@ -48,7 +48,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-23 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-23 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-23 |
 | GE Healthcare | Surgery Field Engineer Apprentice - Northern California | Summer 2027 | 2026-08-23 |
@@ -68,6 +67,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-08-21 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-08-21 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-21 |
+| F5 | Software Engineer Apprentice | Summer 2027 | 2026-08-21 |
 
 </details>
 
