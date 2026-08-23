@@ -4,14 +4,26 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-23T18:57:11Z</updated>
+  <updated>2026-08-23T20:55:16Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>S&amp;P Global — Apprentice, Data Operations</title>
+    <link href="https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1" rel="alternate"/>
+    <id>workday:spgi:job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1</id>
+    <updated>2026-08-23T20:55:16Z</updated>
+    <summary>Ahmedabad, Gujarat · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>State Street — Apprentice</title>
     <link href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796418" rel="alternate"/>
     <id>workday:statestreet:job/Bangalore-India/Apprentice_R-796418</id>
     <updated>2026-08-23T18:57:10Z</updated>
     <summary>Bangalore, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>GE Healthcare — Field Engineer Apprentice</title>
+    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1" rel="alternate"/>
+    <id>workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043060-1</id>
+    <updated>2026-08-22T03:21:59Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Availity — Software Engineering Intern</title>
     <link href="https://availity.wd1.myworkdayjobs.com/en-US/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436" rel="alternate"/>
@@ -97,12 +109,6 @@
     <updated>2026-08-18T03:30:47Z</updated>
     <summary>Bengaluru, KA · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Baxter International — Apprentice</title>
-    <link href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice_JR-207967" rel="alternate"/>
-    <id>workday:baxter:job/Bangalore-Karnataka/Apprentice_JR-207967</id>
-    <updated>2026-08-17T09:03:06Z</updated>
-    <summary>Bangalore, Karnataka · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>GE Healthcare — Client Service Technician Apprentice</title>
     <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1" rel="alternate"/>
     <id>workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043136-1</id>
@@ -138,12 +144,6 @@
     <id>ashby:atlys:1a34deb8-3d14-4b7b-b1eb-cd302ce97223</id>
     <updated>2026-08-12T11:20:19Z</updated>
     <summary>Delhi HQ · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Baxter International — Apprentice, Trainee (Post Market Surveillance)</title>
-    <link href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747" rel="alternate"/>
-    <id>workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747</id>
-    <updated>2026-08-11T13:26:16Z</updated>
-    <summary>Gurgaon, Haryana · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Concentric Ai — Internship, AI Workflow Optimization, Fall 2026 (Remote)</title>
     <link href="https://job-boards.greenhouse.io/concentric/jobs/4703940006" rel="alternate"/>
@@ -259,12 +259,6 @@
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>IND-Bangalore-Equifax Credit Information Services · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>GE Healthcare — Field Engineer Apprentice</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1" rel="alternate"/>
-    <id>workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>Liberty University — ADS Apprentice</title>
     <link href="https://liberty.wd5.myworkdayjobs.com/en-US/lu_job_board_staff/job/Hybrid/ADS-Apprentice_R0010936-1" rel="alternate"/>
     <id>workday:liberty:job/Hybrid/ADS-Apprentice_R0010936-1</id>
@@ -306,5 +300,11 @@
     <id>workday:target:job/BangaloreIndia/Apprentice---Technology_R0000348368</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Bangalore,India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>TRUMPF — Apprentice Application</title>
+    <link href="https://trumpf.wd3.myworkdayjobs.com/en-US/TRUMPF_Students/job/Pune/Apprentice-Application_R00021891" rel="alternate"/>
+    <id>workday:trumpf:job/Pune/Apprentice-Application_R00021891</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Pune · Other · Summer 2027</summary>
   </entry>
 </feed>
