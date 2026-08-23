@@ -4,9 +4,15 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-08-23T08:57:54Z</updated>
+  <updated>2026-08-23T10:50:14Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Availity — Software Engineering Intern</title>
+    <link href="https://availity.wd1.myworkdayjobs.com/en-US/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436" rel="alternate"/>
+    <id>workday:availity:job/Remote---United-States/Software-Engineering-Intern_R0008436</id>
+    <updated>2026-08-21T20:56:53Z</updated>
+    <summary>Remote - United States · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Cisco — Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition</title>
     <link href="https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1" rel="alternate"/>
     <id>workday:cisco:job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1</id>
@@ -187,12 +193,6 @@
     <updated>2026-07-29T19:38:45Z</updated>
     <summary>Hybrid (San Francisco, California, US) · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Vishay Intertechnology — Apprentice</title>
-    <link href="https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1" rel="alternate"/>
-    <id>workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1</id>
-    <updated>2026-07-29T19:38:45Z</updated>
-    <summary>Mumbai, IN · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Innovaccer — Apprentice - HR (Employee Engagement)</title>
     <link href="https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/" rel="alternate"/>
     <id>workable:innovaccer-analytics:47C4AD89C2</id>
@@ -216,12 +216,6 @@
     <id>workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Remote, CA · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Bloom Energy — Field Service Apprentice - Fixed Term</title>
-    <link href="https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069" rel="alternate"/>
-    <id>workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Remote - Santa Teresa, New Mexico · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Campbellsoup — Agentic AI Engineer Co-Op</title>
     <link href="https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workday:valeo:job/Chennai/Intern---AI_REQ2025061319</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Chennai · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Viavi Solutions — Apprentice - 2</title>
+    <link href="https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---2_260004925" rel="alternate"/>
+    <id>workday:viavisolutions:job/Chennai-IND/Apprentice---2_260004925</id>
+    <updated>2026-07-29T13:35:13Z</updated>
+    <summary>Chennai, IND · Other · Summer 2027</summary>
   </entry>
 </feed>
