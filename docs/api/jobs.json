@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:spgi:job/Ahmedabad-Gujarat/Apprentice_327988",
+    "company": "S&P Global",
+    "title": "Apprentice, Metals & Mining (Data Operations)",
+    "location": "Ahmedabad, Gujarat",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice_327988",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415807",
     "company": "Deutsche Bank",
     "title": "Apprentice Hiring for 2026- 2027",
@@ -68,6 +80,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:availity:job/Remote---United-States/Software-Engineering-Intern_R0008436",
+    "company": "Availity",
+    "title": "Software Engineering Intern",
+    "location": "Remote - United States",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://availity.wd1.myworkdayjobs.com/en-US/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436",
     "salary": null,
     "source": "workday"
   },
@@ -176,6 +200,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -320,6 +356,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -552,14 +600,14 @@
     "source": "workday"
   },
   {
-    "id": "smartrecruiters:InfiniteQuant:744000145205764",
+    "id": "smartrecruiters:InfiniteQuant:744000145263134",
     "company": "InfiniteQuant",
     "title": "Quantitative Developer - Internship - Summer 2027",
     "location": "New York, New York, United States (Remote)",
     "category": "Quant",
     "season": "Summer 2027",
-    "posted_at": "2026-08-24T07:54:27.952Z",
-    "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145205764",
+    "posted_at": "2026-08-24T12:26:03.762Z",
+    "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134",
     "salary": null,
     "source": "smartrecruiters"
   },
@@ -658,6 +706,18 @@
     "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
     "salary": null,
     "source": "workable"
+  },
+  {
+    "id": "lever:thinkahead:76649f02-c9df-4206-a365-cf9d33350b55",
+    "company": "AHEAD",
+    "title": "MS Infrastructure Intern (6 months)",
+    "location": "Gurugram, Haryana",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-07-21T09:49:06Z",
+    "url": "https://jobs.lever.co/thinkahead/76649f02-c9df-4206-a365-cf9d33350b55",
+    "salary": null,
+    "source": "lever"
   },
   {
     "id": "lever:thinkahead:3fd5cb37-6541-4e97-a827-d644468e6535",
