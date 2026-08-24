@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-24T03:22:53Z",
-  "duration_seconds": 1641.0,
+  "generated_at": "2026-08-24T05:17:44Z",
+  "duration_seconds": 2532.2,
   "companies_total": 4808,
   "companies_by_source": {
     "greenhouse": 1061,
@@ -29,26 +29,11 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 40,
+  "quarantined": 264,
   "fetched_ok": 4544,
-  "fetch_errors": 224,
-  "errors_by_source": {
-    "recruitee": 2,
-    "lever": 58,
-    "ashby": 45,
-    "greenhouse": 58,
-    "amazon": 1,
-    "breezy": 11,
-    "indeed": 9,
-    "internshala": 6,
-    "linkedin": 12,
-    "custom": 5,
-    "naukri": 10,
-    "eightfold": 1,
-    "unstop": 5,
-    "wellfound": 1
-  },
-  "fetch_success_rate": 0.953,
+  "fetch_errors": 0,
+  "errors_by_source": {},
+  "fetch_success_rate": 1.0,
   "roles_matched": 62,
   "roles_by_source": {
     "lever": 4,
