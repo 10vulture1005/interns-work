@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 24, 2026 at 01:15 UTC</em></p>
+  <p><em>Last updated: Aug 24, 2026 at 03:22 UTC</em></p>
 </div>
 
 ---
@@ -38,7 +38,7 @@
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043136-1) |
-| **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote | Posted 4 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043060-1) |
+| **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 6 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1) |
 | **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
 
 _~ = the title doesn't state a year; bucketed here from its posting date (13 of 13)._
@@ -48,10 +48,10 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-08-24 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-24 |
 | RRS Group | 2027 Summer Investment Analyst Internship – Real Estate Development & Multifamily Investments | Summer 2027 | 2026-08-24 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-24 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-24 |
-| GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-08-23 |
 | GE Healthcare | Surgery Field Engineer Apprentice - Northern California | Summer 2027 | 2026-08-23 |
 | GE Healthcare | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) | Summer 2027 | 2026-08-23 |
 | Altom Transport | Fall Software Development Intern | Fall 2026 | 2026-08-23 |
