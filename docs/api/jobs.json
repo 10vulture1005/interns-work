@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Gurgaon, Haryana, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:wexinc:job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
     "company": "Wex",
     "title": "PhD Intern, AI/ML/NLP Engineer",
@@ -32,6 +44,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R67175",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Kolkata-India/Apprentice_R276472",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Kolkata, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Kolkata-India/Apprentice_R276472",
     "salary": null,
     "source": "workday"
   },
@@ -204,18 +228,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Post Market Surveillance)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -296,18 +308,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792995",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Gurgaon, Haryana, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 7 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
     "salary": null,
     "source": "workday"
   },
@@ -548,18 +548,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 29 Days Ago",
     "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:spgi:job/Mumbai-Maharastra/Intern--Index-Engineering_329804-1",
-    "company": "S&P Global",
-    "title": "Apprentice, Index Management",
-    "location": "Mumbai, Maharastra",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 2 Days Ago",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Mumbai-Maharastra/Intern--Index-Engineering_329804-1",
     "salary": null,
     "source": "workday"
   },
