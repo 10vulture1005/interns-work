@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:adobe:job/Bangalore/Apprentice-Tech_R171457",
+    "company": "Adobe",
+    "title": "Apprentice Tech",
+    "location": "Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171457",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5049276-1",
     "company": "Gevernova",
     "title": "Grid Automation & Software Intern",
@@ -36,18 +48,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:barrywehmiller:job/Chennai-India/AI-Intern_R022521",
-    "company": "Barry-Wehmiller",
-    "title": "AI Intern",
-    "location": "Chennai, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWCareers/job/Chennai-India/AI-Intern_R022521",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
     "company": "Deutsche Bank",
     "title": "Apprentice Hiring for 2026- 2027",
@@ -56,18 +56,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/New-Delhi-18--20-Kasturba-GM/Apprentice-Hiring--NCT_R0446334-1",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring, NCT",
-    "location": "New Delhi, 18 & 20 Kasturba GM",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/New-Delhi-18--20-Kasturba-GM/Apprentice-Hiring--NCT_R0446334-1",
     "salary": null,
     "source": "workday"
   },
@@ -152,18 +140,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Gurugram-Haryana/Apprentice_327533-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-796069",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },
@@ -276,6 +252,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -360,6 +348,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-792995",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792995",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
     "company": "GE Healthcare",
     "title": "Field Engineer Apprentice",
@@ -392,6 +392,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
