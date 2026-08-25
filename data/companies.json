@@ -386,6 +386,11 @@
     "site": "Acrisure"
   },
   {
+    "name": "Acron Aviation",
+    "slug": "acronaviation",
+    "ats": "lever"
+  },
+  {
     "name": "Actian",
     "slug": "actian",
     "ats": "lever"
@@ -4164,6 +4169,11 @@
     "site": "external"
   },
   {
+    "name": "BTI360",
+    "slug": "bti36021",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Bugcrowd",
     "slug": "bugcrowd",
     "ats": "greenhouse"
@@ -5916,6 +5926,11 @@
     "site": "ExternalStaffCareerSite"
   },
   {
+    "name": "Cologix",
+    "slug": "cologix",
+    "ats": "lever"
+  },
+  {
     "name": "Colonial Pipeline Company",
     "slug": "colpipe",
     "ats": "workday",
@@ -7390,6 +7405,11 @@
     "name": "DMI Finance",
     "slug": "dmifinance",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "DMS",
+    "slug": "digitalmediaservices",
+    "ats": "workable"
   },
   {
     "name": "DNV",
@@ -11148,6 +11168,11 @@
     "name": "Hard Rock Digital",
     "slug": "hardrockdigital",
     "ats": "recruitee"
+  },
+  {
+    "name": "Hardin Design",
+    "slug": "HardinDesign",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Hargreaves Lansdown",
@@ -17093,6 +17118,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Nomagic",
+    "slug": "nomagic",
+    "ats": "lever"
+  },
+  {
     "name": "Nomi Health",
     "slug": "nomihealth",
     "ats": "lever"
@@ -19459,6 +19489,11 @@
     "site": "careers"
   },
   {
+    "name": "Pryzm",
+    "slug": "pryzm",
+    "ats": "ashby"
+  },
+  {
     "name": "PSECU",
     "slug": "psecu",
     "ats": "workday",
@@ -20758,6 +20793,11 @@
     "site": "RyderCareers"
   },
   {
+    "name": "Rystad Energy",
+    "slug": "rystad-energy",
+    "ats": "workable"
+  },
+  {
     "name": "S&C Electric Company",
     "slug": "ejia.fa.us6.oraclecloud.com",
     "ats": "oracle",
@@ -20813,6 +20853,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "Safelite_Careers"
+  },
+  {
+    "name": "Sage",
+    "slug": "sage49",
+    "ats": "greenhouse"
   },
   {
     "name": "SailPoint",
@@ -26438,6 +26483,11 @@
     "ats": "oracle",
     "host": "ehac.fa.us6.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Willis Aviation",
+    "slug": "willis-aviation",
+    "ats": "workable"
   },
   {
     "name": "Wilson Elser",
