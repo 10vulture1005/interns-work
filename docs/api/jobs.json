@@ -1,17 +1,5 @@
 [
   {
-    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Gurgaon, Haryana, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:wexinc:job/US---Remote/PhD-Intern--AI-ML-NLP-Engineer_R22834",
     "company": "Wex",
     "title": "PhD Intern, AI/ML/NLP Engineer",
@@ -44,18 +32,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R67175",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Kolkata-India/Apprentice_R276472",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Kolkata, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Kolkata-India/Apprentice_R276472",
     "salary": null,
     "source": "workday"
   },
@@ -120,6 +96,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cisco:job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
+    "company": "Cisco",
+    "title": "Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition",
+    "location": "Bangalore, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Bangalore-India/Software-Engineer---Network-Embedded-Application-Development--Summer-Internship----India-EG-Requisition_2021284-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-162216",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
@@ -176,6 +164,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Bengaluru-KA/MTS---Apprentice_REQ523318",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Bangalore-Karnataka/Apprentice_JR-207967",
+    "company": "Baxter International",
+    "title": "Apprentice",
+    "location": "Bangalore, Karnataka",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Bangalore-Karnataka/Apprentice_JR-207967",
     "salary": null,
     "source": "workday"
   },
@@ -240,18 +240,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -308,6 +296,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792995",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Gurgaon, Haryana, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 7 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67779",
     "salary": null,
     "source": "workday"
   },
