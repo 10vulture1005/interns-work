@@ -120,18 +120,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415807",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B4-B5",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415807",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:spgi:job/Hyderabad-Telangana/Apprentice_328494-2",
     "company": "S&P Global",
     "title": "Apprentice",
@@ -164,6 +152,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796069",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Pune---Business-Bay/Apprentice-Hiring-for-2026--2027_R0448345",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Pune - Business Bay",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-Hiring-for-2026--2027_R0448345",
     "salary": null,
     "source": "workday"
   },
@@ -392,6 +392,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 6 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043497-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "company": "GE Healthcare",
+    "title": "Surgery Field Engineer Apprentice - Northern California",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 5 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "salary": null,
     "source": "workday"
   },
@@ -646,18 +658,6 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "smartrecruiters:LinkedIn3:744000145464965",
-    "company": "LinkedIn",
-    "title": "Software Engineering Intern",
-    "location": "Bengaluru, KA, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-08-25T09:29:32.280Z",
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000145464965",
-    "salary": null,
-    "source": "smartrecruiters"
   },
   {
     "id": "smartrecruiters:InfiniteQuant:744000145263134",
