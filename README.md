@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 25, 2026 at 05:08 UTC</em></p>
+  <p><em>Last updated: Aug 25, 2026 at 07:10 UTC</em></p>
 </div>
 
 ---
@@ -48,10 +48,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Baxter International | Apprentice | Summer 2027 | 2026-08-25 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-25 |
+| State Street | Apprentice | Summer 2027 | 2026-08-25 |
 | Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-25 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-25 |
 | S&P Global | Apprentice, Index Management | Summer 2027 | 2026-08-25 |
-| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-08-25 |
 | State Street | Apprentice | Summer 2027 | 2026-08-24 |
 | American Express | Apprentice | Summer 2027 | 2026-08-24 |
 | S&P Global | Apprentice, Private Markets | Summer 2027 | 2026-08-24 |
@@ -61,11 +63,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-24 |
 | Citi | Young Apprentice - C00 - MUMBAI IGS BEU | Summer 2027 | 2026-08-24 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-24 |
-| State Street | Apprentice | Summer 2027 | 2026-08-24 |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-24 |
 | Caterpillar Inc. | India Production Apprentice | Summer 2027 | 2026-08-24 |
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-08-24 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-24 |
 | GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-08-24 |
 | RRS Group | 2027 Summer Investment Analyst Internship – Real Estate Development & Multifamily Investments | Summer 2027 | 2026-08-24 |
 
