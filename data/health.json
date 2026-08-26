@@ -1290,23 +1290,23 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thingtrax/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:thorlabs": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-26T07:00:26Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-26T09:08:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/thorlabs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:tickpick": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-26T07:00:26Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-26T09:08:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tickpick/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:tmeic-corporation-americas": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-26T07:00:26Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tmeic-corporation-americas/jobs'\nFor more information check: https://developer.mozilla.org/en-"
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-26T09:08:35Z",
+    "last_error": "ConnectTimeout: "
   },
   "workable:tokamak-energy": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-26T07:00:26Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-26T09:08:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tokamak-energy/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workable:tp-link-usa-corp": {
@@ -1315,8 +1315,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/tp-link-usa-corp/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "workable:trexquant": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-08-26T07:00:26Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-08-26T09:08:35Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/trexquant/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:turabify-co": {
