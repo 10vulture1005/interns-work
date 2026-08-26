@@ -120,18 +120,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-796418",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796418",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:slihrms:job/INNoida-BPTP-Capital-City/Apprentice_R-162216",
     "company": "AtkinsRéalis",
     "title": "Apprentice",
@@ -212,6 +200,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -300,6 +300,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-792995",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-792995",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043497-1",
     "company": "GE Healthcare",
     "title": "Field Engineer Apprentice",
@@ -324,18 +336,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -344,6 +344,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -416,6 +428,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_atleos_us/job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
     "salary": null,
     "source": "workday"
   },
@@ -694,18 +718,6 @@
     "url": "https://jobs.lever.co/thinkahead/7950d5ca-0cf8-4fa5-a2fc-6210c711411f",
     "salary": null,
     "source": "lever"
-  },
-  {
-    "id": "ashby:deepgram:dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
-    "company": "Deepgram",
-    "title": "Software Engineering- Internship (Fall 2026/Summer 2027)",
-    "location": "USA | Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-17T16:00:27.132+00:00",
-    "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
-    "salary": "$55 – $65 per hour",
-    "source": "ashby"
   },
   {
     "id": "greenhouse:stripe:8031833",
