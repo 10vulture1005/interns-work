@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 26, 2026 at 03:31 UTC</em></p>
+  <p><em>Last updated: Aug 26, 2026 at 05:04 UTC</em></p>
 </div>
 
 ---
@@ -49,10 +49,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-26 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-26 |
+| Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-08-26 |
+| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-08-26 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-26 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-26 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-26 |
-| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-08-26 |
 | State Street | Apprentice | Summer 2027 | 2026-08-26 |
 | Deepgram | Software Engineering- Internship (Fall 2026/Summer 2027) | Summer 2027 | 2026-08-26 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-26 |
@@ -66,8 +68,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | LinkedIn | Software Engineering Intern | Summer 2027 | 2026-08-25 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-25 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-25 |
-| Deutsche Bank | Apprentice Hiring, NCT | Summer 2027 | 2026-08-25 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-25 |
 
 </details>
 
