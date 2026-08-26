@@ -3437,6 +3437,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Blackline Safety",
+    "slug": "blacklinesafety",
+    "ats": "workable"
+  },
+  {
     "name": "BlackRock",
     "slug": "blackrock",
     "ats": "workday",
@@ -6035,6 +6040,11 @@
     "name": "CompassX Group",
     "slug": "compassx",
     "ats": "lever"
+  },
+  {
+    "name": "Compeer Financial",
+    "slug": "compeerfinancial",
+    "ats": "greenhouse"
   },
   {
     "name": "Composio",
@@ -9697,6 +9707,11 @@
     "name": "Foundation",
     "slug": "foundation-robotics",
     "ats": "rippling"
+  },
+  {
+    "name": "Foundation Health",
+    "slug": "foundationhealthcareers",
+    "ats": "ashby"
   },
   {
     "name": "Four Hands",
@@ -15233,6 +15248,11 @@
   {
     "name": "Maxima",
     "slug": "maxima",
+    "ats": "ashby"
+  },
+  {
+    "name": "Maximor AI",
+    "slug": "maximor",
     "ats": "ashby"
   },
   {
@@ -24370,6 +24390,11 @@
   {
     "name": "Trading212",
     "slug": "trading212",
+    "ats": "ashby"
+  },
+  {
+    "name": "TradingHub",
+    "slug": "tradinghub",
     "ats": "ashby"
   },
   {
