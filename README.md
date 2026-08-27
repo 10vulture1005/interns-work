@@ -10,18 +10,19 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-17-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 26, 2026 at 23:12 UTC</em></p>
+  <p><em>Last updated: Aug 27, 2026 at 06:19 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>12 open</kbd>
+## Summer 2027 (India) <kbd>13 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
+| **Valeo** | R&D Trainee/Apprentice/VIE <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Chennai | Posted Tod | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026072348) |
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Gurgaon, Haryana, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R67443) |
 | **Citi** | Services – Summer Analyst, India, 2027 <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901) |
 | **Philips** | Intern - Embedded System <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Pune | Posted Tod | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Pune/Intern---Embedded-System_588498) |
@@ -44,23 +45,25 @@
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Biomedical Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted 15  | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Biomedical-Technician-Apprentice_R4043495-1) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (15 of 16)._
+_~ = the title doesn't state a year; bucketed here from its posting date (16 of 17)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-27 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-27 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-27 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-27 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-26 |
 | State Street | Apprentice | Summer 2027 | 2026-08-26 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-26 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-08-26 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-26 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-08-26 |
 | Airbus | Apprentice - Governance & Operations | Summer 2027 | 2026-08-26 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-26 |
 | State Street | Apprentice | Summer 2027 | 2026-08-26 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-26 |
 | Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-08-26 |
 | State Street | Apprentice | Summer 2027 | 2026-08-26 |
 | Deepgram | Software Engineering- Internship (Fall 2026/Summer 2027) | Summer 2027 | 2026-08-26 |
@@ -69,8 +72,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Adobe | Apprentice Tech | Summer 2027 | 2026-08-25 |
 | GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-08-25 |
 | S&P Global | Apprentice | Summer 2027 | 2026-08-25 |
-| LinkedIn | Software Engineering Intern | Summer 2027 | 2026-08-25 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-25 |
 
 </details>
 
