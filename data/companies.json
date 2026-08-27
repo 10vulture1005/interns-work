@@ -3223,6 +3223,11 @@
     "site": "bestfriendscareers"
   },
   {
+    "name": "BestEx Research",
+    "slug": "bestex-research",
+    "ats": "workable"
+  },
+  {
     "name": "bet365",
     "slug": "Bet3651",
     "ats": "smartrecruiters"
@@ -3991,6 +3996,16 @@
     "name": "Bridgewater Associates",
     "slug": "bridgewaterassociates-careers",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Bridgewater Associates",
+    "slug": "bwaltpostings",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Bridgewater Associates",
+    "slug": "bridgewater89",
+    "ats": "greenhouse"
   },
   {
     "name": "Brigham Young University - Provo",
@@ -4794,6 +4809,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "broadbean_external"
+  },
+  {
+    "name": "CCT",
+    "slug": "casino-cash-trac",
+    "ats": "lever"
   },
   {
     "name": "CDK Global",
@@ -8090,6 +8110,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Elk Valley Resources",
+    "slug": "evr",
+    "ats": "lever"
+  },
+  {
     "name": "Ellipsislabs",
     "slug": "ellipsislabs",
     "ats": "ashby"
@@ -10865,6 +10890,11 @@
     "ats": "workable"
   },
   {
+    "name": "GrayMatter Robotics",
+    "slug": "graymatter-robotics",
+    "ats": "ashby"
+  },
+  {
     "name": "Great American Insurance Company",
     "slug": "gaig",
     "ats": "workday",
@@ -11379,6 +11409,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "hri_careers"
+  },
+  {
+    "name": "Health Services Advisory Group",
+    "slug": "hsag",
+    "ats": "lever"
   },
   {
     "name": "Health-E Commerce",
@@ -12164,6 +12199,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "IDEXX"
+  },
+  {
+    "name": "Idler",
+    "slug": "idler",
+    "ats": "ashby"
   },
   {
     "name": "IEM",
@@ -13466,6 +13506,11 @@
     "site": "KBR_Careers"
   },
   {
+    "name": "Keenfinity",
+    "slug": "Keenfinity",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Kemper",
     "slug": "kemper",
     "ats": "workday",
@@ -14464,6 +14509,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "LiveView Technologies",
+    "slug": "liveview-technologies",
+    "ats": "ashby"
+  },
+  {
     "name": "Living Spaces",
     "slug": "livingspaces",
     "ats": "workday",
@@ -15253,6 +15303,11 @@
   {
     "name": "Maximor AI",
     "slug": "maximor",
+    "ats": "ashby"
+  },
+  {
+    "name": "Maxinsights",
+    "slug": "maxinsights",
     "ats": "ashby"
   },
   {
@@ -20750,6 +20805,11 @@
     "site": "rec_rtx_ext_gateway"
   },
   {
+    "name": "Rubie",
+    "slug": "rubie",
+    "ats": "ashby"
+  },
+  {
     "name": "Rubrik",
     "slug": "rubrik",
     "ats": "greenhouse"
@@ -22206,6 +22266,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Solirius Reply",
+    "slug": "solirius-consulting-1",
+    "ats": "workable"
+  },
+  {
     "name": "Solopulseco",
     "slug": "solopulseco",
     "ats": "lever"
@@ -22216,6 +22281,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "search"
+  },
+  {
+    "name": "Somerce",
+    "slug": "somerce",
+    "ats": "workable"
   },
   {
     "name": "SOMFY Group",
@@ -23502,6 +23572,11 @@
     "name": "Teleskope",
     "slug": "teleskope",
     "ats": "ashby"
+  },
+  {
+    "name": "TeleTracking",
+    "slug": "teletrackingtechnologiesinc",
+    "ats": "greenhouse"
   },
   {
     "name": "TelevisaUnivision",
