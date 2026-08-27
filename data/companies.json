@@ -1420,6 +1420,11 @@
     "site": "External_Careers"
   },
   {
+    "name": "AMI",
+    "slug": "ami",
+    "ats": "ashby"
+  },
+  {
     "name": "Amigo AI",
     "slug": "amigo",
     "ats": "ashby"
@@ -8191,6 +8196,11 @@
     "name": "Employ",
     "slug": "employ",
     "ats": "lever"
+  },
+  {
+    "name": "Employee Owned Holdings",
+    "slug": "employee-owned-holdings-inc",
+    "ats": "workable"
   },
   {
     "name": "Empower",
