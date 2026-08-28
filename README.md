@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 28, 2026 at 14:11 UTC</em></p>
+  <p><em>Last updated: Aug 28, 2026 at 23:56 UTC</em></p>
 </div>
 
 ---
@@ -49,11 +49,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Concentric Ai | Internship, AI Workflow Optimization, Fall 2026 (Remote) | Fall 2026 | 2026-08-28 |
+| S&P Global | Apprentice, Data Operations | Summer 2027 | 2026-08-28 |
 | Conduent | Applied AI Engineer Intern | Summer 2027 | 2026-08-28 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-08-28 |
 | Citi | Services – Summer Analyst, India, 2027 | Summer 2027 | 2026-08-28 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-28 |
-| Barry-Wehmiller | AI Intern | Summer 2027 | 2026-08-28 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-28 |
 | Cisco | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition | Summer 2027 | 2026-08-28 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-28 |
@@ -68,7 +69,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-27 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-27 |
 | State Street | Apprentice | Summer 2027 | 2026-08-26 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-08-26 |
 
 </details>
 

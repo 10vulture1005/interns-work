@@ -84,6 +84,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:barrywehmiller:job/Chennai-India/AI-Intern_R022521",
+    "company": "Barry-Wehmiller",
+    "title": "AI Intern",
+    "location": "Chennai, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://barrywehmiller.wd1.myworkdayjobs.com/en-US/BWCareers/job/Chennai-India/AI-Intern_R022521",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
     "company": "Deutsche Bank",
     "title": "Apprentice Hiring for 2026- 2027",
@@ -152,18 +164,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Gurugram-Haryana/Apprentice_327533-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:spgi:job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
-    "company": "S&P Global",
-    "title": "Apprentice, Data Operations",
-    "location": "Ahmedabad, Gujarat",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
     "salary": null,
     "source": "workday"
   },
@@ -730,18 +730,6 @@
     "url": "https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223",
     "salary": null,
     "source": "ashby"
-  },
-  {
-    "id": "greenhouse:concentric:4703940006",
-    "company": "Concentric Ai",
-    "title": "Internship, AI Workflow Optimization, Fall 2026 (Remote)",
-    "location": "Remote",
-    "category": "Data & ML/AI",
-    "season": "Fall 2026",
-    "posted_at": "2026-08-10T18:56:27-04:00",
-    "url": "https://job-boards.greenhouse.io/concentric/jobs/4703940006",
-    "salary": null,
-    "source": "greenhouse"
   },
   {
     "id": "smartrecruiters:RRSGroup:744000142513209",
