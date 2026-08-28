@@ -1525,6 +1525,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "AnaVation",
+    "slug": "anavationllc",
+    "ats": "lever"
+  },
+  {
     "name": "Ancestry",
     "slug": "ancestry",
     "ats": "workday",
@@ -3474,6 +3479,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "Blackstone_Campus_Careers"
+  },
+  {
+    "name": "Bland AI",
+    "slug": "bland",
+    "ats": "ashby"
   },
   {
     "name": "Blend",
@@ -6707,6 +6717,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "cubic_USA_careers"
+  },
+  {
+    "name": "Culina Group",
+    "slug": "CulinaGroup1",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Cult.fit",
@@ -12471,6 +12486,11 @@
     "name": "Inductive Automation",
     "slug": "inductiveautomation",
     "ats": "lever"
+  },
+  {
+    "name": "Inductive Automation",
+    "slug": "inductive-automation-llc",
+    "ats": "ashby"
   },
   {
     "name": "Indus Valley Partners",
@@ -20093,6 +20113,11 @@
     "name": "Rebel Foods",
     "slug": "rebelfoods",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Rebellion",
+    "slug": "rebellion",
+    "ats": "workable"
   },
   {
     "name": "Recruit CRM",
