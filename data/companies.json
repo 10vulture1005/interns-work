@@ -12544,6 +12544,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "InfraServices",
+    "slug": "infraservices",
+    "ats": "lever"
+  },
+  {
     "name": "InfStones",
     "slug": "infstones",
     "ats": "lever"
@@ -14657,6 +14662,11 @@
     "name": "Loop",
     "slug": "loop-careers",
     "ats": "rippling"
+  },
+  {
+    "name": "Loram",
+    "slug": "Loram1",
+    "ats": "smartrecruiters"
   },
   {
     "name": "LOTTE BIOLOGICS",
@@ -23144,6 +23154,11 @@
     "name": "Sustainable Talent",
     "slug": "sustainabletalent",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Sutherland",
+    "slug": "Sutherland",
+    "ats": "smartrecruiters"
   },
   {
     "name": "SWBC",
