@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-12-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Aug 30, 2026 at 10:06 UTC</em></p>
+  <p><em>Last updated: Aug 30, 2026 at 15:16 UTC</em></p>
 </div>
 
 ---
@@ -47,13 +47,14 @@ _~ = the title doesn't state a year; bucketed here from its posting date (12 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-08-30 |
+| Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-08-30 |
+| Merck | Information Technology Intern | Summer 2027 | 2026-08-30 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-30 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-08-30 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-30 |
-| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-08-30 |
 | GE Healthcare | Biomedical Technician Apprentice | Summer 2027 | 2026-08-30 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-08-30 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-30 |
-| Barry-Wehmiller | AI Intern | Summer 2027 | 2026-08-30 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-30 |
 | S&P Global | Apprentice, Private Equity | Summer 2027 | 2026-08-29 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-08-29 |
@@ -66,7 +67,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (12 of 
 | Cisco | Software Engineer – Network/Embedded/Application Development (Summer Internship) - India EG Requisition | Summer 2027 | 2026-08-28 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-28 |
 | GSK | Apprentice – BI Process | Summer 2027 | 2026-08-28 |
-| State Street | Apprentice | Summer 2027 | 2026-08-28 |
 
 </details>
 
