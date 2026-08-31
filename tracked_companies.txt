@@ -709,6 +709,7 @@ verily
 veritas
 verizon
 verkada
+versa networks
 viasat
 vimeo
 virtu
