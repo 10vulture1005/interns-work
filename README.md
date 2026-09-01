@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 01, 2026 at 19:42 UTC</em></p>
+  <p><em>Last updated: Sep 01, 2026 at 22:46 UTC</em></p>
 </div>
 
 ---
@@ -56,10 +56,14 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-09-01 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-01 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-01 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-01 |
+| Wex | PhD Intern, AI/ML/NLP Engineer | Summer 2027 | 2026-09-01 |
 | SPREEAI | Machine Learning Engineer Intern (Computer Vision/Multimodal/Generative AI) | Summer 2027 | 2026-09-01 |
 | SPREEAI | Mobile Software Engineer Intern — Flagship Apps (iOS / Android / Web) | Summer 2027 | 2026-09-01 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-01 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-01 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-01 |
 | State Street | Social Media Apprentice | Summer 2027 | 2026-09-01 |
 | State Street | Apprentice | Summer 2027 | 2026-09-01 |
@@ -72,10 +76,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-09-01 |
 | Motorola | Data Analyst Co-Op | Summer 2027 | 2026-09-01 |
 | Barry-Wehmiller | AI Intern | Summer 2027 | 2026-08-31 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-31 |
-| GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-08-31 |
-| Jones Lang LaSalle (JLL) | MTS - Apprentice | Summer 2027 | 2026-08-31 |
-| S&P Global | Apprentice, Metals & Mining (Data Operations) | Summer 2027 | 2026-08-31 |
 
 </details>
 
