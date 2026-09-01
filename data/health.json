@@ -600,8 +600,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/optirtc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:ottoaviation": {
-    "consecutive_failures": 12,
-    "last_attempt_at": "2026-08-28T23:56:05Z",
+    "consecutive_failures": 13,
+    "last_attempt_at": "2026-09-01T03:12:19Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/ottoaviation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "greenhouse:oyo": {
@@ -1393,11 +1393,6 @@
     "consecutive_failures": 4,
     "last_attempt_at": "2026-08-31T19:09:27Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/vectoratomic/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
-  },
-  "workable:versa-networks": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-01T00:08:35Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/versa-networks/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/"
   },
   "workable:viewline-ventures": {
     "consecutive_failures": 4,
