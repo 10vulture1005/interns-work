@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 01, 2026 at 03:12 UTC</em></p>
+  <p><em>Last updated: Sep 01, 2026 at 09:39 UTC</em></p>
 </div>
 
 ---
@@ -54,15 +54,16 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-01 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-01 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-01 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-01 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-01 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-01 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-01 |
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-01 |
 | Epifi | DS/ML Intern | Summer 2027 | 2026-09-01 |
 | Pearson | Apprentice, Assessment Quality Assurance | Summer 2027 | 2026-09-01 |
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-09-01 |
 | Motorola | Data Analyst Co-Op | Summer 2027 | 2026-09-01 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-01 |
 | Barry-Wehmiller | AI Intern | Summer 2027 | 2026-08-31 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-31 |
 | GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-08-31 |
@@ -73,7 +74,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-31 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-30 |
 | Alcon | Apprentice | Summer 2027 | 2026-08-30 |
-| Baxter International | Apprentice | Summer 2027 | 2026-08-30 |
 
 </details>
 
