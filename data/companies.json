@@ -10608,6 +10608,11 @@
     "site": "CX_1"
   },
   {
+    "name": "GMO",
+    "slug": "gmo",
+    "ats": "lever"
+  },
+  {
     "name": "Gnani ai",
     "slug": "gnaniai",
     "ats": "smartrecruiters"
@@ -11906,6 +11911,11 @@
     "ats": "oracle",
     "host": "fa-exty-saasfaprod1.fa.ocs.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "HP IQ",
+    "slug": "hpiq",
+    "ats": "greenhouse"
   },
   {
     "name": "HPR (Hyannis Port Research)",
@@ -13465,6 +13475,11 @@
     "name": "k-ID",
     "slug": "k-id",
     "ats": "ashby"
+  },
+  {
+    "name": "K2 Space",
+    "slug": "k2spacecorporation",
+    "ats": "greenhouse"
   },
   {
     "name": "Kabam",
@@ -19109,6 +19124,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Plug_Power_Inc"
+  },
+  {
+    "name": "Pluralis Research",
+    "slug": "pluralis-research",
+    "ats": "ashby"
   },
   {
     "name": "Pluralsight",
