@@ -24,14 +24,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976395",
+    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26989486",
     "company": "Citi",
     "title": "Young Apprentice - C00 - MUMBAI",
     "location": "Mumbai Maharashtra India",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976395",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26989486",
     "salary": null,
     "source": "workday"
   },
@@ -48,18 +48,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:igsenergy:job/Ohio-Remote/Software-Engineer-Intern_R6263",
-    "company": "IGS Energy",
-    "title": "Software Engineer Intern",
-    "location": "Ohio Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:igsenergy:job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298",
     "company": "IGS Energy",
     "title": "Business Analyst Intern (Summer 2027)",
@@ -72,14 +60,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26991043",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - PUNE",
-    "location": "Pune Maharashtra India",
-    "category": "Other",
+    "id": "workday:igsenergy:job/Ohio-Remote/Software-Engineer-Intern_R6263",
+    "company": "IGS Energy",
+    "title": "Software Engineer Intern",
+    "location": "Ohio Remote",
+    "category": "Software",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26991043",
+    "url": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263",
     "salary": null,
     "source": "workday"
   },
@@ -176,18 +164,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Field-Onsite-Winder-Apprentice-6_R5050411",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:motorolasolutions:job/Ontario-Remote-Work/Data-Analyst-Co-Op_R67175",
-    "company": "Motorola",
-    "title": "Data Analyst Co-Op",
-    "location": "Ontario Remote Work",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R67175",
     "salary": null,
     "source": "workday"
   },
@@ -336,18 +312,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
@@ -488,6 +452,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
@@ -708,18 +684,6 @@
     "source": "ashby"
   },
   {
-    "id": "oracle:hccz.fa.em3.oraclecloud.com:25087",
-    "company": "Pearson",
-    "title": "Apprentice, Assessment Quality Assurance",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-31",
-    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25087",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
     "id": "workable:innovaccer-analytics:47C4AD89C2",
     "company": "Innovaccer",
     "title": "Apprentice - HR (Employee Engagement)",
@@ -788,18 +752,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-07-03T09:42:17Z",
     "url": "https://jobs.lever.co/epifi/08c743e8-2b29-4f78-827e-5bd90476ed86",
-    "salary": null,
-    "source": "lever"
-  },
-  {
-    "id": "lever:epifi:08fc1577-4593-4b94-b66b-08e638d29f37",
-    "company": "Epifi",
-    "title": "DS/ML Intern",
-    "location": "Bangalore",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-02T08:14:59Z",
-    "url": "https://jobs.lever.co/epifi/08fc1577-4593-4b94-b66b-08e638d29f37",
     "salary": null,
     "source": "lever"
   },
