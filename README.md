@@ -10,10 +10,10 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 01, 2026 at 09:39 UTC</em></p>
+  <p><em>Last updated: Sep 01, 2026 at 15:00 UTC</em></p>
 </div>
 
 ---
@@ -33,11 +33,12 @@
 | **Stripe** | Software Engineer, Intern <sup>~</sup> | `Software` | Bengaluru | 2026-07-10 | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8031833) |
 | **Epifi** | Ai Engg Intern <sup>~</sup> | `Data & ML/AI` | Bangalore | 2026-07-03 | [Apply ↗](https://jobs.lever.co/epifi/08c743e8-2b29-4f78-827e-5bd90476ed86) |
 
-## Summer 2027 (Remote) <kbd>3 open</kbd>
+## Summer 2027 (Remote) <kbd>4 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted Yes | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) |
+| **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 30+ | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) |
 
@@ -47,17 +48,19 @@
 |---|---|---|---|---|:---:|
 | **NVIDIA** | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 <span title='New within 48h'>✨</span> | `Data & ML/AI` | India, Bengaluru | Posted Tod | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (13 of 14)._
+_~ = the title doesn't state a year; bucketed here from its posting date (14 of 15)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-01 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-09-01 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-01 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-01 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-01 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-01 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-01 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-01 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-01 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-01 |
 | Epifi | DS/ML Intern | Summer 2027 | 2026-09-01 |
@@ -70,10 +73,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | Jones Lang LaSalle (JLL) | MTS - Apprentice | Summer 2027 | 2026-08-31 |
 | S&P Global | Apprentice, Metals & Mining (Data Operations) | Summer 2027 | 2026-08-31 |
 | RRS Group | 2027 Software Engineer Intern - Placement Year | Summer 2027 | 2026-08-31 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-08-31 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-08-31 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-08-30 |
-| Alcon | Apprentice | Summer 2027 | 2026-08-30 |
 
 </details>
 
