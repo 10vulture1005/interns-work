@@ -24,6 +24,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "company": "CACI",
+    "title": "Business/Systems Analyst Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:hitachi:job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1",
     "company": "Hitachi Energy",
     "title": "Internship - Software Asset Management",
@@ -104,18 +116,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cengage.wd5.myworkdayjobs.com/en-US/CengageNorthAmericaCareers/job/IN-Noida-Uttar-Pradesh-India/Finance-Apprentice_R2026-1037-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cisco:job/Hyderabad-India/Software-Engineer-Trainee-Technical-Graduate-Apprentice---India-UHR_2024514",
-    "company": "Cisco",
-    "title": "Software Engineer Trainee_Technical Graduate Apprentice - India UHR",
-    "location": "Hyderabad, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Hyderabad-India/Software-Engineer-Trainee-Technical-Graduate-Apprentice---India-UHR_2024514",
     "salary": null,
     "source": "workday"
   },
@@ -248,6 +248,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796069",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217",
+    "company": "Citi",
+    "title": "Young Apprentice - C00 - MUMBAI",
+    "location": "Mumbai Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217",
     "salary": null,
     "source": "workday"
   },
@@ -392,6 +404,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
     "salary": null,
     "source": "workday"
   },
@@ -548,18 +572,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
