@@ -24,6 +24,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:hitachi:job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1",
+    "company": "Hitachi Energy",
+    "title": "Internship - Software Asset Management",
+    "location": "Remote - Lesser Poland, Poland",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:abb:job/Nashik-Maharashtra-India/ITI-apprentice_JR00044647",
     "company": "ABB",
     "title": "ITI apprentice",
@@ -240,18 +252,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - MUMBAI",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26969217",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
     "company": "Cox",
     "title": "Inspector Apprentice (Manheim)",
@@ -272,6 +272,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee (Post Market Surveillance)",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -668,18 +680,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-01",
     "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25450",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:156865",
-    "company": "Honeywell",
-    "title": "Intern Masters Embedded Eng",
-    "location": "Hyderabad, Telangana, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-01",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/156865",
     "salary": null,
     "source": "oracle"
   },
