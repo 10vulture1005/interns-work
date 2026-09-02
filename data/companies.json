@@ -2102,6 +2102,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Armadin",
+    "slug": "armadin",
+    "ats": "ashby"
+  },
+  {
     "name": "Armanino",
     "slug": "armaninollp",
     "ats": "workday",
@@ -3103,6 +3108,11 @@
     "name": "Bcg",
     "slug": "bcg",
     "ats": "greenhouse"
+  },
+  {
+    "name": "BCI Brands",
+    "slug": "bci-brands",
+    "ats": "workable"
   },
   {
     "name": "BDO Canada",
@@ -5117,6 +5127,11 @@
     "site": "Chegg"
   },
   {
+    "name": "Cheiron",
+    "slug": "cheiron",
+    "ats": "ashby"
+  },
+  {
     "name": "Chemours",
     "slug": "chemours",
     "ats": "workday",
@@ -6979,6 +6994,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Dataiku",
+    "slug": "dataiku",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Datalab USA",
     "slug": "datalabusa",
     "ats": "lever"
@@ -7268,6 +7288,11 @@
     "name": "Deutsche Telekom",
     "slug": "deutschetelekom",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Dev Technology Group",
+    "slug": "devtechnology",
+    "ats": "greenhouse"
   },
   {
     "name": "Devon Energy",
@@ -11868,6 +11893,11 @@
     "site": "HSS_Careers"
   },
   {
+    "name": "Hot Topic",
+    "slug": "hottopic",
+    "ats": "lever"
+  },
+  {
     "name": "Hotstar",
     "slug": "hotstar",
     "ats": "lever"
@@ -15471,6 +15501,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "careers"
+  },
+  {
+    "name": "Mechanical Licensing Collective",
+    "slug": "mechanicallicensingcollective",
+    "ats": "greenhouse"
   },
   {
     "name": "Mechanics Bank",
@@ -19202,6 +19237,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "PointClickCare",
+    "slug": "pointclickcare",
+    "ats": "lever"
+  },
+  {
     "name": "PointOne",
     "slug": "pointone",
     "ats": "ashby"
@@ -20622,6 +20662,11 @@
     "name": "Riveron",
     "slug": "riveron",
     "ats": "ashby"
+  },
+  {
+    "name": "Riverside Natural Foods",
+    "slug": "riversidenaturalfoodsltd",
+    "ats": "greenhouse"
   },
   {
     "name": "Rivet Industries",
@@ -22094,6 +22139,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Skillcloud HCM Solutions",
+    "slug": "skillcloudhcm",
+    "ats": "lever"
+  },
+  {
     "name": "SKILLZ",
     "slug": "skillz",
     "ats": "smartrecruiters"
@@ -23259,6 +23309,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Synack",
+    "slug": "synack",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Synchrony Financial",
     "slug": "synchronyfinancial",
     "ats": "workday",
@@ -23288,6 +23343,11 @@
     "name": "Synergy ECP",
     "slug": "synergyecp",
     "ats": "lever"
+  },
+  {
+    "name": "Syngenta Group",
+    "slug": "SyngentaGroup",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Synopsys",
@@ -23562,6 +23622,11 @@
     "name": "Teamworks",
     "slug": "teamworks",
     "ats": "ashby"
+  },
+  {
+    "name": "Tebra",
+    "slug": "tebra",
+    "ats": "greenhouse"
   },
   {
     "name": "Tech Mahindra",
@@ -24518,6 +24583,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Trace Labs",
+    "slug": "tracelabs",
+    "ats": "ashby"
+  },
+  {
     "name": "Trace3",
     "slug": "trace3",
     "ats": "greenhouse"
@@ -25385,6 +25455,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Unlimited",
+    "slug": "unlimitedindustries",
+    "ats": "ashby"
+  },
+  {
     "name": "Unlimited Technology",
     "slug": "unlimitedtechnology",
     "ats": "greenhouse"
@@ -25846,6 +25921,11 @@
     "name": "Versa Networks",
     "slug": "versa-networks",
     "ats": "workable"
+  },
+  {
+    "name": "Versant",
+    "slug": "Versant3",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Versapay",
