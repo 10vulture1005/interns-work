@@ -10,15 +10,15 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 01, 2026 at 22:46 UTC</em></p>
+  <p><em>Last updated: Sep 02, 2026 at 02:39 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>11 open</kbd>
+## Summer 2027 (India) <kbd>10 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
@@ -32,7 +32,6 @@
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Atlys** | AI Intern <sup>~</sup> | `Data & ML/AI` | Delhi HQ | 2026-08-12 | [Apply ↗](https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223) |
 | **Stripe** | Software Engineer, Intern <sup>~</sup> | `Software` | Bengaluru | 2026-07-10 | [Apply ↗](https://stripe.com/jobs/search?gh_jid=8031833) |
-| **Epifi** | Ai Engg Intern <sup>~</sup> | `Data & ML/AI` | Bangalore | 2026-07-03 | [Apply ↗](https://jobs.lever.co/epifi/08c743e8-2b29-4f78-827e-5bd90476ed86) |
 
 ## Summer 2027 (Remote) <kbd>4 open</kbd>
 
@@ -49,17 +48,17 @@
 |---|---|---|---|---|:---:|
 | **NVIDIA** | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 <span title='New within 48h'>✨</span> | `Data & ML/AI` | India, Bengaluru | Posted Tod | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (15 of 16)._
+_~ = the title doesn't state a year; bucketed here from its posting date (14 of 15)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-09-01 |
+| Epifi | Ai Engg Intern | Summer 2027 | 2026-09-02 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-02 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-01 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-01 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-01 |
 | Wex | PhD Intern, AI/ML/NLP Engineer | Summer 2027 | 2026-09-01 |
 | SPREEAI | Machine Learning Engineer Intern (Computer Vision/Multimodal/Generative AI) | Summer 2027 | 2026-09-01 |
 | SPREEAI | Mobile Software Engineer Intern — Flagship Apps (iOS / Android / Web) | Summer 2027 | 2026-09-01 |
