@@ -24,6 +24,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Jaipur",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:stryker:job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "company": "Stryker",
     "title": "Data Science Intern - Remote",
@@ -216,18 +228,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B4-B5",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415806",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gevernova:job/Remote/Field-Onsite-Winder-Apprentice-6_R5050411",
     "company": "Gevernova",
     "title": "Field/Onsite Winder Apprentice-6",
@@ -236,6 +236,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Field-Onsite-Winder-Apprentice-6_R5050411",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-796069",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },
@@ -252,18 +264,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
-    "company": "Cox",
-    "title": "Inspector Apprentice (Manheim)",
-    "location": "Indianapolis IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
     "company": "Allstate Insurance Company",
     "title": "Pricing Actuarial Analyst Intern",
@@ -272,18 +272,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee (Post Market Surveillance)",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747",
     "salary": null,
     "source": "workday"
   },
@@ -308,18 +296,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
     "salary": null,
     "source": "workday"
   },
@@ -396,14 +372,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
     "company": "Vishay Intertechnology",
     "title": "Apprentice",
     "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
