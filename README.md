@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-14-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 02, 2026 at 21:01 UTC</em></p>
+  <p><em>Last updated: Sep 03, 2026 at 00:11 UTC</em></p>
 </div>
 
 ---
@@ -54,16 +54,18 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-09-03 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-03 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-03 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-03 |
 | Cisco | Software Engineer Trainee_Technical Graduate Apprentice - India UHR | Summer 2027 | 2026-09-02 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-02 |
 | Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-09-02 |
 | Pearson | Apprentice, Customer Service | Summer 2027 | 2026-09-02 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-02 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-02 |
 | Parexel | Trainee Clinical Data Analyst | Summer 2027 | 2026-09-02 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-02 |
 | Unisys | AI Engineering Intern | Summer 2027 | 2026-09-02 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-02 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-02 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-02 |
 | Epifi | Ai Engg Intern | Summer 2027 | 2026-09-02 |
@@ -72,8 +74,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (13 of 
 | SPREEAI | Machine Learning Engineer Intern (Computer Vision/Multimodal/Generative AI) | Summer 2027 | 2026-09-01 |
 | SPREEAI | Mobile Software Engineer Intern — Flagship Apps (iOS / Android / Web) | Summer 2027 | 2026-09-01 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-01 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-01 |
-| State Street | Social Media Apprentice | Summer 2027 | 2026-09-01 |
 
 </details>
 
