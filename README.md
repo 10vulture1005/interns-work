@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-12-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 03, 2026 at 09:08 UTC</em></p>
+  <p><em>Last updated: Sep 03, 2026 at 14:41 UTC</em></p>
 </div>
 
 ---
@@ -52,9 +52,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (11 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Pearson | Associate, Software Engineer - Intern | Summer 2027 | 2026-09-03 |
+| ABB | Apprentice | Summer 2027 | 2026-09-03 |
+| Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-09-03 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-03 |
+| Unisys | AI Engineering Intern | Summer 2027 | 2026-09-03 |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-09-03 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-03 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-03 |
 | Valeo | R&D Trainee/Apprentice/VIE | Summer 2027 | 2026-09-03 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-03 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-03 |
@@ -68,10 +72,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (11 of 
 | Unisys | AI Engineering Intern | Summer 2027 | 2026-09-02 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-02 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-02 |
-| Epifi | Ai Engg Intern | Summer 2027 | 2026-09-02 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-01 |
-| Wex | PhD Intern, AI/ML/NLP Engineer | Summer 2027 | 2026-09-01 |
-| SPREEAI | Machine Learning Engineer Intern (Computer Vision/Multimodal/Generative AI) | Summer 2027 | 2026-09-01 |
 
 </details>
 
