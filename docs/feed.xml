@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-03T00:11:48Z</updated>
+  <updated>2026-09-03T02:38:28Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Lawrence Livermore National Laboratory (LLNL) — Protocol and Special Events Undergraduate AI and Digital Solutions Intern</title>
@@ -247,6 +247,12 @@
     <updated>2026-08-12T11:20:19Z</updated>
     <summary>Delhi HQ · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
+    <title>Baxter International — Apprentice, Trainee (Post Market Surveillance)</title>
+    <link href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747" rel="alternate"/>
+    <id>workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Post-Market-Surveillance-_JR-205747</id>
+    <updated>2026-08-11T13:26:16Z</updated>
+    <summary>Gurgaon, Haryana · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Deutsche Bank — HR Apprentice</title>
     <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425" rel="alternate"/>
     <id>workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425</id>
@@ -300,11 +306,5 @@
     <id>workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746</id>
     <updated>2026-07-29T13:35:13Z</updated>
     <summary>Remote, CA · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Bloom Energy — Field Service Apprentice - Fixed Term</title>
-    <link href="https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069" rel="alternate"/>
-    <id>workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069</id>
-    <updated>2026-07-29T13:35:13Z</updated>
-    <summary>Remote - Santa Teresa, New Mexico · Other · Summer 2027</summary>
   </entry>
 </feed>
