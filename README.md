@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-12-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 03, 2026 at 14:41 UTC</em></p>
+  <p><em>Last updated: Sep 03, 2026 at 18:14 UTC</em></p>
 </div>
 
 ---
@@ -35,7 +35,7 @@
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted Yes | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) |
-| **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
+| **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 30+ | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) |
 
@@ -52,10 +52,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (11 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-03 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-03 |
 | Pearson | Associate, Software Engineer - Intern | Summer 2027 | 2026-09-03 |
 | ABB | Apprentice | Summer 2027 | 2026-09-03 |
 | Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-09-03 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-03 |
 | Unisys | AI Engineering Intern | Summer 2027 | 2026-09-03 |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-09-03 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-03 |
@@ -71,7 +72,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (11 of 
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-02 |
 | Unisys | AI Engineering Intern | Summer 2027 | 2026-09-02 |
 | Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-02 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-02 |
 
 </details>
 
