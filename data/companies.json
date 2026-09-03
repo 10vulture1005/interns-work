@@ -401,6 +401,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Acumatica",
+    "slug": "Acumatica",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Acumen Solutions",
     "slug": "AcumenSolutions",
     "ats": "smartrecruiters"
@@ -561,6 +566,11 @@
     "ats": "lever"
   },
   {
+    "name": "Aerones",
+    "slug": "aerones",
+    "ats": "workable"
+  },
+  {
     "name": "AeroVect",
     "slug": "aerovect",
     "ats": "ashby"
@@ -588,6 +598,11 @@
     "name": "Aetion",
     "slug": "careers-at-aetion",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Aetos Systems",
+    "slug": "aetos-systems-inc",
+    "ats": "workable"
   },
   {
     "name": "Aevex Aerospace",
@@ -845,6 +860,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "albany_med"
+  },
+  {
+    "name": "Albedo",
+    "slug": "albedo",
+    "ats": "greenhouse"
   },
   {
     "name": "Albemarle",
@@ -1240,6 +1260,11 @@
     "ats": "workday",
     "wd": "wd108",
     "site": "ambarella"
+  },
+  {
+    "name": "Ambi Robotics",
+    "slug": "ambirobotics",
+    "ats": "lever"
   },
   {
     "name": "Ambral",
@@ -1924,6 +1949,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Arch",
+    "slug": "arch",
+    "ats": "ashby"
+  },
+  {
     "name": "Arch Aerial",
     "slug": "arch-aerial-llc",
     "ats": "workable"
@@ -1968,6 +1998,11 @@
     "name": "Arena Club",
     "slug": "arenaclub",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Arena Investors I Quaestor Advisors",
+    "slug": "arena-investors-lp",
+    "ats": "workable"
   },
   {
     "name": "Ares Management",
@@ -2127,6 +2162,11 @@
     "name": "ARQ",
     "slug": "arq",
     "ats": "ashby"
+  },
+  {
+    "name": "Array Labs",
+    "slug": "arraylabs",
+    "ats": "lever"
   },
   {
     "name": "ARRAY Technologies",
@@ -5301,6 +5341,11 @@
     "ats": "ashby"
   },
   {
+    "name": "CircuitHub",
+    "slug": "circuithub",
+    "ats": "ashby"
+  },
+  {
     "name": "Cirque du Soleil",
     "slug": "cirquedusoleil",
     "ats": "lever"
@@ -6261,6 +6306,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Contoro",
+    "slug": "contoro",
+    "ats": "ashby"
+  },
+  {
     "name": "ConvaTec Group",
     "slug": "convatec",
     "ats": "workday",
@@ -6768,6 +6818,11 @@
     "site": "External"
   },
   {
+    "name": "Currier Plastics",
+    "slug": "currier-plastics",
+    "ats": "workable"
+  },
+  {
     "name": "Curtiss-Wright Corporation",
     "slug": "curtisswright",
     "ats": "workday",
@@ -7138,6 +7193,11 @@
     "ats": "oracle",
     "host": "hdks.fa.ca2.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Deft AI",
+    "slug": "deft-ai",
+    "ats": "ashby"
   },
   {
     "name": "Delhivery",
@@ -7843,6 +7903,11 @@
     "name": "Dyna Robotics",
     "slug": "dyna-robotics",
     "ats": "ashby"
+  },
+  {
+    "name": "Dynamic Catholic",
+    "slug": "dynamiccatholic",
+    "ats": "lever"
   },
   {
     "name": "Dynatrace",
@@ -9026,6 +9091,11 @@
     "site": "fanthreesixty"
   },
   {
+    "name": "Faraday Future",
+    "slug": "faradayfuture",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Farallon Capital Management",
     "slug": "faralloncapitalmanagementllc",
     "ats": "greenhouse"
@@ -9645,6 +9715,11 @@
     "name": "Focal",
     "slug": "focal",
     "ats": "ashby"
+  },
+  {
+    "name": "Focal Systems",
+    "slug": "focalsystems",
+    "ats": "greenhouse"
   },
   {
     "name": "Focus Financial Partners",
@@ -11282,6 +11357,11 @@
     "site": "hargreaveslansdown"
   },
   {
+    "name": "Harlem Children's Zone",
+    "slug": "harlem-childrens-zone",
+    "ats": "workable"
+  },
+  {
     "name": "HARMAN India",
     "slug": "harmanindia",
     "ats": "smartrecruiters"
@@ -11779,6 +11859,11 @@
     "site": "hntb_university_careers"
   },
   {
+    "name": "HOKALI",
+    "slug": "hokali",
+    "ats": "workable"
+  },
+  {
     "name": "Holland Hospital",
     "slug": "hollandhospital",
     "ats": "workday",
@@ -12040,6 +12125,11 @@
     "name": "HumanSignal",
     "slug": "humansignal",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Humble Robotics",
+    "slug": "humble-robotics",
+    "ats": "lever"
   },
   {
     "name": "Humming Bird",
@@ -12374,6 +12464,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "imerys-careers"
+  },
+  {
+    "name": "Immiland Canada",
+    "slug": "immiland-canada-inc",
+    "ats": "lever"
   },
   {
     "name": "IMO Health",
@@ -13243,6 +13338,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "JCC Greater Boston",
+    "slug": "jcc-greater-boston",
+    "ats": "workable"
+  },
+  {
     "name": "JCDecaux",
     "slug": "jcdecaux",
     "ats": "workday",
@@ -13664,6 +13764,11 @@
     "name": "Kielo Research",
     "slug": "kielo",
     "ats": "rippling"
+  },
+  {
+    "name": "KIHOMAC",
+    "slug": "kihomac",
+    "ats": "workable"
   },
   {
     "name": "Kikoff",
@@ -14868,6 +14973,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Luxium Solutions",
+    "slug": "luxium-solutions-llc",
+    "ats": "workable"
+  },
+  {
     "name": "Luxoft",
     "slug": "luxoft",
     "ats": "smartrecruiters"
@@ -15960,6 +16070,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Mill",
+    "slug": "mill",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Millennium",
     "slug": "millennium",
     "ats": "smartrecruiters"
@@ -16014,6 +16129,11 @@
     "ats": "ashby"
   },
   {
+    "name": "MIO Partners",
+    "slug": "miopartners",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Miovision",
     "slug": "miovision",
     "ats": "ashby"
@@ -16034,6 +16154,11 @@
     "name": "Mirage",
     "slug": "mirage",
     "ats": "ashby"
+  },
+  {
+    "name": "Mirego",
+    "slug": "mirego",
+    "ats": "lever"
   },
   {
     "name": "Miro",
@@ -17172,11 +17297,21 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Niantic Spatial",
+    "slug": "niantic-spatial",
+    "ats": "ashby"
+  },
+  {
     "name": "Nidec",
     "slug": "nidec",
     "ats": "workday",
     "wd": "wd1",
     "site": "nidec"
+  },
+  {
+    "name": "Nidus Technologies",
+    "slug": "nidus-technologies",
+    "ats": "ashby"
   },
   {
     "name": "Nielsen",
@@ -17671,6 +17806,11 @@
     "name": "OceanComm",
     "slug": "oceancomm",
     "ats": "workable"
+  },
+  {
+    "name": "Oceanus Marine Technologies",
+    "slug": "oceanus",
+    "ats": "ashby"
   },
   {
     "name": "OceanX",
@@ -19313,6 +19453,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Position Imaging",
+    "slug": "PositionImagingInc",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Postman",
     "slug": "postman",
     "ats": "greenhouse"
@@ -19350,6 +19495,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "PPG_CAREERS"
+  },
+  {
+    "name": "PQ",
+    "slug": "PQ",
+    "ats": "smartrecruiters"
   },
   {
     "name": "PRA Group",
@@ -19552,6 +19702,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Promise Robotics",
+    "slug": "promiserobotics",
+    "ats": "lever"
+  },
+  {
     "name": "PromptQL",
     "slug": "promptql",
     "ats": "smartrecruiters"
@@ -19746,11 +19901,21 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Purvis Systems",
+    "slug": "purvis",
+    "ats": "lever"
+  },
+  {
     "name": "PVH",
     "slug": "pvh",
     "ats": "workday",
     "wd": "wd1",
     "site": "PVH_Careers"
+  },
+  {
+    "name": "Pyka",
+    "slug": "pyka",
+    "ats": "lever"
   },
   {
     "name": "Pylon",
@@ -19844,6 +20009,11 @@
     "name": "Qualified Health",
     "slug": "qualifiedhealth",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Qualified Health",
+    "slug": "qualified-health-pbc",
+    "ats": "ashby"
   },
   {
     "name": "QualityAI",
@@ -20210,6 +20380,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "RB_Racing"
+  },
+  {
+    "name": "Red Rabbit Robotics",
+    "slug": "red-rabbit-robotics",
+    "ats": "workable"
   },
   {
     "name": "Redbus",
@@ -20684,6 +20859,11 @@
     "ats": "ashby"
   },
   {
+    "name": "RMF Engineering",
+    "slug": "rmf-engineering-inc",
+    "ats": "workable"
+  },
+  {
     "name": "Ro",
     "slug": "ro",
     "ats": "lever"
@@ -20877,6 +21057,11 @@
     "name": "Rover",
     "slug": "rover",
     "ats": "lever"
+  },
+  {
+    "name": "Rovex Technologies",
+    "slug": "rovex-technologies-corporation",
+    "ats": "workable"
   },
   {
     "name": "Royal Bank of Canada",
@@ -21910,6 +22095,11 @@
     "site": "sifivecareers"
   },
   {
+    "name": "SIFT",
+    "slug": "siftstack",
+    "ats": "ashby"
+  },
+  {
     "name": "Sig",
     "slug": "sig-global",
     "ats": "smartrecruiters"
@@ -22498,6 +22688,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Sorting Robotics",
+    "slug": "sorting-robotics",
+    "ats": "workable"
+  },
+  {
     "name": "Sortly",
     "slug": "sortly",
     "ats": "smartrecruiters"
@@ -22997,6 +23192,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "careers"
+  },
+  {
+    "name": "stow Group",
+    "slug": "StowGroup",
+    "ats": "smartrecruiters"
   },
   {
     "name": "STR",
@@ -24868,6 +25068,11 @@
     "site": "Careers"
   },
   {
+    "name": "Trulioo",
+    "slug": "trulioo",
+    "ats": "ashby"
+  },
+  {
     "name": "Trumid",
     "slug": "trumid",
     "ats": "greenhouse"
@@ -25274,6 +25479,11 @@
     "name": "UnitedMasters",
     "slug": "unitedmasterstranslation",
     "ats": "greenhouse"
+  },
+  {
+    "name": "UnitX",
+    "slug": "unitxlabs",
+    "ats": "ashby"
   },
   {
     "name": "Unity",
@@ -26609,6 +26819,11 @@
     "ats": "lever"
   },
   {
+    "name": "Western Aircraft",
+    "slug": "westair",
+    "ats": "lever"
+  },
+  {
     "name": "Western Alliance",
     "slug": "westernalliancebank",
     "ats": "workday",
@@ -26743,6 +26958,11 @@
     "site": "External"
   },
   {
+    "name": "Williams Racing",
+    "slug": "WilliamsRacing",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Williams-Sonoma",
     "slug": "ehac.fa.us6.oraclecloud.com",
     "ats": "oracle",
@@ -26794,6 +27014,11 @@
     "slug": "wipro",
     "ats": "workday",
     "site": "External"
+  },
+  {
+    "name": "WisdomTree",
+    "slug": "wisdomtree",
+    "ats": "lever"
   },
   {
     "name": "Wise",
