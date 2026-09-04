@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-04T00:19:31Z</updated>
+  <updated>2026-09-04T02:37:35Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Corteva — R&amp;D Intern – Computer &amp; Data Science</title>
@@ -12,12 +12,6 @@
     <id>workday:corteva:job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W</id>
     <updated>2026-09-04T00:19:31Z</updated>
     <summary>Indianapolis, Indiana, United States · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Availity — Data Science Intern</title>
-    <link href="https://availity.wd1.myworkdayjobs.com/en-US/availity_careers_us/job/Remote---United-States/Data-Science-Intern_R0008483" rel="alternate"/>
-    <id>workday:availity:job/Remote---United-States/Data-Science-Intern_R0008483</id>
-    <updated>2026-09-03T20:58:22Z</updated>
-    <summary>Remote - United States · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Corteva — Business Analyst Intern</title>
     <link href="https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Business-Analyst-Intern_248151W" rel="alternate"/>
@@ -79,6 +73,12 @@
     <updated>2026-09-03T00:11:48Z</updated>
     <summary>Livermore, CA, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
+    <title>CACI — Business/Systems Analyst Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551" rel="alternate"/>
+    <id>workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551</id>
+    <updated>2026-09-02T21:01:28Z</updated>
+    <summary>Remote (Any State) · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Hitachi Energy — Internship - Software Asset Management</title>
     <link href="https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1" rel="alternate"/>
     <id>workday:hitachi:job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1</id>
@@ -108,12 +108,6 @@
     <id>workday:tnsi:job/IND---Noida/PTP-Telco-Apprentice_R2979</id>
     <updated>2026-09-02T12:59:46Z</updated>
     <summary>IND - Noida · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
-    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692" rel="alternate"/>
-    <id>workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692</id>
-    <updated>2026-09-02T07:14:18Z</updated>
-    <summary>Jaipur · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Stryker — Data Science Intern - Remote</title>
     <link href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workday:southstatebank:job/Remote-Worker/Correspondent-Analyst-Intern_R-05785-1</id>
     <updated>2026-07-30T19:58:11Z</updated>
     <summary>Remote Worker · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Epicor — Interns - Content Developer /Technical Writing/ Instructional Designer</title>
+    <link href="https://epicorsoftware.wd5.myworkdayjobs.com/en-US/epicorjobs/job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255" rel="alternate"/>
+    <id>workday:epicorsoftware:job/India-Bangalore/Interns---Content-Developer--Technical-Writing--Instructional-Designer_JR105255</id>
+    <updated>2026-07-30T16:28:05Z</updated>
+    <summary>India, Bangalore · Software · Summer 2027</summary>
   </entry>
 </feed>
