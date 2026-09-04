@@ -99,6 +99,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "540",
+    "slug": "540",
+    "ats": "greenhouse"
+  },
+  {
     "name": "60decibelsinc",
     "slug": "60decibelsinc",
     "ats": "greenhouse"
@@ -648,6 +653,11 @@
     "name": "Agentis Capital",
     "slug": "agentis-capital-advisors",
     "ats": "ashby"
+  },
+  {
+    "name": "AGEO Autonomy",
+    "slug": "ageo",
+    "ats": "workable"
   },
   {
     "name": "Aggreko",
@@ -1480,6 +1490,11 @@
     "name": "Ampersand",
     "slug": "ampersand-biomedicines",
     "ats": "rippling"
+  },
+  {
+    "name": "Ample Insight",
+    "slug": "AmpleInsightInc",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Amplify",
@@ -2588,6 +2603,11 @@
     "ats": "lever"
   },
   {
+    "name": "AttoTude",
+    "slug": "attotude",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Auctane",
     "slug": "auctane",
     "ats": "greenhouse"
@@ -2881,6 +2901,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Axle",
+    "slug": "AxleInformaticsLLC",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Axon",
     "slug": "axontalentcommunity",
     "ats": "greenhouse"
@@ -2959,6 +2984,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "US_CareerSite"
+  },
+  {
+    "name": "BAE Systems",
+    "slug": "BAESystems3",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Baidu",
@@ -4421,6 +4451,11 @@
     "name": "Calendly",
     "slug": "calendly",
     "ats": "greenhouse"
+  },
+  {
+    "name": "California Closets",
+    "slug": "CaliforniaClosets",
+    "ats": "smartrecruiters"
   },
   {
     "name": "California ISO",
@@ -6098,6 +6133,11 @@
     "site": "CommerceJobs"
   },
   {
+    "name": "Commerce Undergraduate Society",
+    "slug": "commerce-undergraduate",
+    "ats": "lever"
+  },
+  {
     "name": "CommerceIQ",
     "slug": "commerceiq",
     "ats": "greenhouse"
@@ -6736,6 +6776,11 @@
     "site": "CX_1001"
   },
   {
+    "name": "CSC Generation",
+    "slug": "cscgeneration-2",
+    "ats": "lever"
+  },
+  {
     "name": "CSL",
     "slug": "csl",
     "ats": "workday",
@@ -7019,6 +7064,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Data Cloud Merge",
+    "slug": "DataCloudMerge",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Data Intellect",
     "slug": "DataIntellect",
     "ats": "smartrecruiters"
@@ -7134,6 +7184,11 @@
     "name": "DealShare",
     "slug": "dealshare",
     "ats": "lever"
+  },
+  {
+    "name": "Debenhams Group",
+    "slug": "debenhamsgroup",
+    "ats": "workable"
   },
   {
     "name": "DebtBook",
@@ -7466,6 +7521,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "dfa_careers"
+  },
+  {
+    "name": "Dipper",
+    "slug": "dipper",
+    "ats": "ashby"
   },
   {
     "name": "Direct Staffing",
@@ -8550,6 +8610,11 @@
     "site": "eos"
   },
   {
+    "name": "EoS Fitness",
+    "slug": "eosfitness",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Epam Systems",
     "slug": "epam-systems-india",
     "ats": "smartrecruiters"
@@ -9208,6 +9273,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "ferrovial_career_site"
+  },
+  {
+    "name": "FGS Global",
+    "slug": "fgsglobal",
+    "ats": "greenhouse"
   },
   {
     "name": "FHLBank Atlanta",
@@ -12674,6 +12744,11 @@
     "site": "External_Careers"
   },
   {
+    "name": "Infoways",
+    "slug": "Info-Ways",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Infra Market",
     "slug": "inframarket",
     "ats": "smartrecruiters"
@@ -12774,6 +12849,11 @@
     "ats": "workday",
     "wd": "wd12",
     "site": "NSP"
+  },
+  {
+    "name": "Inspiration Commerce Group",
+    "slug": "inspiration-commerce-group",
+    "ats": "ashby"
   },
   {
     "name": "Inspire Medical Systems",
@@ -14919,6 +14999,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Ludo Robotics",
+    "slug": "ludorobotics",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Luma AI",
     "slug": "lumaai",
     "ats": "ashby"
@@ -15052,6 +15137,11 @@
     "name": "M3",
     "slug": "m3",
     "ats": "greenhouse"
+  },
+  {
+    "name": "M3USA",
+    "slug": "M3USA",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Mach Industries",
@@ -15955,6 +16045,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "MSUDenver"
+  },
+  {
+    "name": "MetTel",
+    "slug": "mettel",
+    "ats": "greenhouse"
   },
   {
     "name": "MFS",
@@ -17275,6 +17370,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Nexus Engineering Group",
+    "slug": "nexuse-group",
+    "ats": "lever"
+  },
+  {
     "name": "Nexxen",
     "slug": "nexxen",
     "ats": "ashby"
@@ -18150,6 +18250,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "OPENLANE_Careers"
+  },
+  {
+    "name": "OpenLoop",
+    "slug": "openloophealth",
+    "ats": "ashby"
   },
   {
     "name": "OpenSea",
@@ -19607,6 +19712,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Primer",
+    "slug": "primer",
+    "ats": "ashby"
+  },
+  {
     "name": "Primerica",
     "slug": "primerica",
     "ats": "workday",
@@ -20247,6 +20357,11 @@
     "name": "Ramboll",
     "slug": "Ramboll3",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Ramiel Capital",
+    "slug": "ramielcapital",
+    "ats": "ashby"
   },
   {
     "name": "Ramp",
@@ -21763,6 +21878,11 @@
     "site": "Selene"
   },
   {
+    "name": "Self Financial",
+    "slug": "selffinancial",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Semgrep",
     "slug": "semgrep",
     "ats": "ashby"
@@ -22054,6 +22174,11 @@
     "ats": "rippling"
   },
   {
+    "name": "Side",
+    "slug": "sideinc",
+    "ats": "lever"
+  },
+  {
     "name": "Siemens",
     "slug": "life-at-siemens",
     "ats": "smartrecruiters"
@@ -22337,6 +22462,11 @@
     "name": "SKILLZ",
     "slug": "skillz",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "skillz",
+    "slug": "skillzinc",
+    "ats": "greenhouse"
   },
   {
     "name": "Skydio",
@@ -23426,6 +23556,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Surge AI",
+    "slug": "surge-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "Sustainable Talent",
     "slug": "sustainabletalent",
     "ats": "greenhouse"
@@ -23718,6 +23853,11 @@
     "name": "Tanium",
     "slug": "tanium",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Tapcart",
+    "slug": "tapcart",
+    "ats": "ashby"
   },
   {
     "name": "Target",
@@ -25046,6 +25186,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "True Platform",
+    "slug": "trueplatform",
+    "ats": "lever"
+  },
+  {
     "name": "TrueBuilt",
     "slug": "applytotruebuilt",
     "ats": "greenhouse"
@@ -25186,6 +25331,11 @@
     "name": "Tusimple",
     "slug": "tusimple",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Tutor Intelligence",
+    "slug": "tutorintelligence",
+    "ats": "lever"
   },
   {
     "name": "Tutor Perini Corporation",
@@ -25984,6 +26134,11 @@
   {
     "name": "VAST",
     "slug": "vast",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Vaxcyte",
+    "slug": "vaxcyte",
     "ats": "greenhouse"
   },
   {
@@ -27493,6 +27648,11 @@
     "name": "Zemoso",
     "slug": "careers-at-zemoso",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Zen Educate",
+    "slug": "zeneducate",
+    "ats": "lever"
   },
   {
     "name": "Zendesk",
