@@ -4,15 +4,9 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-04T17:58:32Z</updated>
+  <updated>2026-09-04T20:44:23Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Adobe — Apprentice Tech</title>
-    <link href="https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171687" rel="alternate"/>
-    <id>workday:adobe:job/Bangalore/Apprentice-Tech_R171687</id>
-    <updated>2026-09-04T17:58:32Z</updated>
-    <summary>Bangalore · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Pearson — Associate, AI &amp; Machine Learning Intern</title>
     <link href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25878" rel="alternate"/>
     <id>oracle:hccz.fa.em3.oraclecloud.com:25878</id>
@@ -24,12 +18,6 @@
     <id>workday:ag:job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159</id>
     <updated>2026-09-04T13:04:53Z</updated>
     <summary>Bangalore Area · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Citi — Young Apprentice - C00 - MUMBAI</title>
-    <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26988163" rel="alternate"/>
-    <id>workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26988163</id>
-    <updated>2026-09-04T13:04:53Z</updated>
-    <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Cushman &amp; Wakefield — EIC Apprentice</title>
     <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010" rel="alternate"/>
@@ -151,6 +139,12 @@
     <updated>2026-09-02T12:59:46Z</updated>
     <summary>IND - Noida · Other · Summer 2027</summary>
   </entry>  <entry>
+    <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
+    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692" rel="alternate"/>
+    <id>workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692</id>
+    <updated>2026-09-02T07:14:18Z</updated>
+    <summary>Jaipur · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Stryker — Data Science Intern - Remote</title>
     <link href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731" rel="alternate"/>
     <id>workday:stryker:job/Florida-Virtual-Address/Data-Science-Intern_R572731</id>
@@ -253,12 +247,6 @@
     <updated>2026-08-24T13:04:37Z</updated>
     <summary>Gurugram, Haryana · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>State Street — Apprentice</title>
-    <link href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796069" rel="alternate"/>
-    <id>workday:statestreet:job/Bangalore-India/Apprentice_R-796069</id>
-    <updated>2026-08-24T09:04:10Z</updated>
-    <summary>Bangalore, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Tower Research Capital — Intern - AI/ML</title>
     <link href="https://www.tower-research.com/open-positions/?gh_jid=8143756" rel="alternate"/>
     <id>greenhouse:towerresearchcapital:8143756</id>
@@ -306,5 +294,17 @@
     <id>workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1</id>
     <updated>2026-08-14T13:21:29Z</updated>
     <summary>USA - IL (Remote) · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>ConnectPrep — Data Analyst Internship</title>
+    <link href="https://apply.workable.com/connectprep/j/D1C67258C0/" rel="alternate"/>
+    <id>workable:connectprep:D1C67258C0</id>
+    <updated>2026-08-13T04:31:51Z</updated>
+    <summary>Washington, District of Columbia, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Atlys — AI Intern</title>
+    <link href="https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223" rel="alternate"/>
+    <id>ashby:atlys:1a34deb8-3d14-4b7b-b1eb-cd302ce97223</id>
+    <updated>2026-08-12T11:20:19Z</updated>
+    <summary>Delhi HQ · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>

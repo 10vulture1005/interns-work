@@ -10,21 +10,19 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-15-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-13-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 04, 2026 at 17:58 UTC</em></p>
+  <p><em>Last updated: Sep 04, 2026 at 20:44 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>10 open</kbd>
+## Summer 2027 (India) <kbd>8 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
-| **Adobe** | Apprentice Tech <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Bangalore | Posted Tod | [Apply ↗](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171687) |
-| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26988163) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
@@ -48,20 +46,24 @@
 |---|---|---|---|---|:---:|
 | **NVIDIA** | PhD Intern, AI ML in Wireless L1/L2 - Fall 2026 | `Data & ML/AI` | India, Bengaluru | Posted Tod | [Apply ↗](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/PhD-Intern--AI-ML-in-Wireless-L1-L2---Fall-2026_JR2024423) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (14 of 15)._
+_~ = the title doesn't state a year; bucketed here from its posting date (12 of 13)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Adobe | Apprentice Tech | Summer 2027 | 2026-09-04 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-04 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-09-04 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-04 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-04 |
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-04 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-04 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-04 |
+| State Street | Apprentice | Summer 2027 | 2026-09-04 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-04 |
 | F5 | Software Tester Apprentice | Summer 2027 | 2026-09-04 |
 | Availity | Data Science Intern | Summer 2027 | 2026-09-04 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-04 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-04 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-04 |
 | Corteva | R & D Intern - Computer & Data Science | Summer 2027 | 2026-09-04 |
 | Pearson | Associate, Software Engineer - Intern | Summer 2027 | 2026-09-03 |
@@ -71,10 +73,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (14 of 
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-09-03 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-03 |
 | Valeo | R&D Trainee/Apprentice/VIE | Summer 2027 | 2026-09-03 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-03 |
-| Cisco | Software Engineer Trainee_Technical Graduate Apprentice - India UHR | Summer 2027 | 2026-09-02 |
-| Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-09-02 |
-| Pearson | Apprentice, Customer Service | Summer 2027 | 2026-09-02 |
 
 </details>
 
