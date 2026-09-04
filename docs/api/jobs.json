@@ -24,6 +24,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305",
+    "company": "Citi",
+    "title": "Young Apprentice - C00 - PUNE",
+    "location": "Pune Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:ffive:job/Hyderabad/Software-Tester-Apprentice_RP1038400",
+    "company": "F5",
+    "title": "Software Tester Apprentice",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Hyderabad/Software-Tester-Apprentice_RP1038400",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:corteva:job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
     "company": "Corteva",
     "title": "R&D Intern – Computer & Data Science",
@@ -332,6 +356,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
     "salary": null,
     "source": "workday"
   },
