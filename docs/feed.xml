@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-05T14:49:06Z</updated>
+  <updated>2026-09-05T18:28:43Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Pearson — Content Producer, Apprentice</title>
@@ -150,12 +150,6 @@
     <id>workday:tnsi:job/IND---Noida/PTP-Telco-Apprentice_R2979</id>
     <updated>2026-09-02T12:59:46Z</updated>
     <summary>IND - Noida · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
-    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692" rel="alternate"/>
-    <id>workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692</id>
-    <updated>2026-09-02T07:14:18Z</updated>
-    <summary>Jaipur · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Stryker — Data Science Intern - Remote</title>
     <link href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1</id>
     <updated>2026-08-14T13:21:29Z</updated>
     <summary>USA - IL (Remote) · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>ConnectPrep — Data Analyst Internship</title>
+    <link href="https://apply.workable.com/connectprep/j/D1C67258C0/" rel="alternate"/>
+    <id>workable:connectprep:D1C67258C0</id>
+    <updated>2026-08-13T04:31:51Z</updated>
+    <summary>Washington, District of Columbia, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
