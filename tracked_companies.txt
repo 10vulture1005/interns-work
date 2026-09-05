@@ -653,6 +653,7 @@ tesco
 tesla
 texas instruments
 texas-instruments
+the adecco group
 the-trade-desk
 thomson-reuters
 thoughtspot

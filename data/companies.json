@@ -740,6 +740,11 @@
     "site": "aig"
   },
   {
+    "name": "AiPrise",
+    "slug": "aiprise",
+    "ats": "ashby"
+  },
+  {
     "name": "Air Liquide",
     "slug": "airliquidehr",
     "ats": "workday",
@@ -4010,6 +4015,11 @@
     "site": "brauninterteccareers"
   },
   {
+    "name": "Brave",
+    "slug": "brave",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Braze",
     "slug": "braze",
     "ats": "greenhouse"
@@ -6638,6 +6648,11 @@
     "name": "Cred",
     "slug": "cred",
     "ats": "lever"
+  },
+  {
+    "name": "Credence",
+    "slug": "credence",
+    "ats": "workable"
   },
   {
     "name": "Credgenics",
@@ -15996,6 +16011,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Metaview",
+    "slug": "metaview",
+    "ats": "ashby"
+  },
+  {
     "name": "Metergy Solutions",
     "slug": "metergysolutions",
     "ats": "lever"
@@ -17044,6 +17064,11 @@
     "ats": "lever"
   },
   {
+    "name": "Navion Senior Solutions",
+    "slug": "navionsl",
+    "ats": "workable"
+  },
+  {
     "name": "NBCUniversal",
     "slug": "NBCUniversal3",
     "ats": "smartrecruiters"
@@ -17875,6 +17900,11 @@
     "name": "Obsidian Security",
     "slug": "obsidiansecurity",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Obvio",
+    "slug": "obvio",
+    "ats": "ashby"
   },
   {
     "name": "Obvious",
@@ -19551,6 +19581,11 @@
     "name": "Porter",
     "slug": "porter",
     "ats": "lever"
+  },
+  {
+    "name": "PortmanDentex",
+    "slug": "PortmanDentex",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Poshmark",
@@ -24300,6 +24335,11 @@
     "site": "Access_Group_External_Careers"
   },
   {
+    "name": "The Adecco Group",
+    "slug": "tag",
+    "ats": "lever"
+  },
+  {
     "name": "The Aerospace Corporation",
     "slug": "aero",
     "ats": "workday",
@@ -27465,6 +27505,11 @@
     "name": "Xing",
     "slug": "xing-engineering",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Xodus Group",
+    "slug": "xodus-group",
+    "ats": "workable"
   },
   {
     "name": "Xometry",
