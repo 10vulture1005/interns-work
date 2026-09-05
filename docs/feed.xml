@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-05T20:24:38Z</updated>
+  <updated>2026-09-05T22:22:32Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Pearson — Content Producer, Apprentice</title>
@@ -114,12 +114,6 @@
     <id>smartrecruiters:LLNL:3743990015035697</id>
     <updated>2026-09-03T00:11:48Z</updated>
     <summary>Livermore, CA, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>CACI — Business/Systems Analyst Intern - Summer 2027</title>
-    <link href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551" rel="alternate"/>
-    <id>workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551</id>
-    <updated>2026-09-02T21:01:28Z</updated>
-    <summary>Remote (Any State) · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Hitachi Energy — Internship - Software Asset Management</title>
     <link href="https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workable:connectprep:D1C67258C0</id>
     <updated>2026-08-13T04:31:51Z</updated>
     <summary>Washington, District of Columbia, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Atlys — AI Intern</title>
+    <link href="https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223" rel="alternate"/>
+    <id>ashby:atlys:1a34deb8-3d14-4b7b-b1eb-cd302ce97223</id>
+    <updated>2026-08-12T11:20:19Z</updated>
+    <summary>Delhi HQ · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
