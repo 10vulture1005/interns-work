@@ -48,6 +48,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
     "company": "Magna International",
     "title": "Maintenance Apprentice-2",
@@ -116,6 +128,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Gurugram-Haryana/Apprentice_329593-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice- Project & Development Services",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
     "salary": null,
     "source": "workday"
   },
@@ -336,6 +360,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
+    "company": "Cox",
+    "title": "Inspector Apprentice (Manheim)",
+    "location": "Indianapolis IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
     "company": "Allstate Insurance Company",
     "title": "Pricing Actuarial Analyst Intern",
@@ -368,6 +404,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
     "salary": null,
     "source": "workday"
   },
@@ -444,14 +492,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
+    "company": "R1 RCM",
     "title": "Apprentice",
-    "location": "Mumbai, IN",
+    "location": "Noida, India",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
     "salary": null,
     "source": "workday"
   },
@@ -464,6 +512,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -540,18 +600,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Associate-Analyst---Apprentice_R250000006505",
     "company": "R1 RCM",
     "title": "Associate Analyst - Apprentice",
@@ -596,6 +644,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },

@@ -275,8 +275,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/tuesday-lab?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "ashby:veeda-labs": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-09-04T00:19:31Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-09-05T02:22:29Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/veeda-labs?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:verne": {
@@ -1273,6 +1273,21 @@
     "consecutive_failures": 17,
     "last_attempt_at": "2026-09-02T12:59:46Z",
     "last_error": "no connector for naukri"
+  },
+  "oracle:elar.fa.us2.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-05T02:22:29Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://elar.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
+  },
+  "oracle:etgi.fa.us8.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-05T02:22:29Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://etgi.fa.us8.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
+  },
+  "oracle:ewij.fa.us8.oraclecloud.com": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-05T02:22:29Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://ewij.fa.us8.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitio"
   },
   "recruitee:1x": {
     "consecutive_failures": 17,

@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-05T00:03:42Z</updated>
+  <updated>2026-09-05T02:22:29Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Pearson — Content Producer, Apprentice</title>
@@ -30,6 +30,12 @@
     <id>workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26988163</id>
     <updated>2026-09-04T13:04:53Z</updated>
     <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
+    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010" rel="alternate"/>
+    <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010</id>
+    <updated>2026-09-04T13:04:53Z</updated>
+    <summary>Hyderabad, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Magna International — Maintenance Apprentice-2</title>
     <link href="https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165" rel="alternate"/>
@@ -84,6 +90,12 @@
     <id>smartrecruiters:Acumatica:744000146749696</id>
     <updated>2026-09-03T14:41:35Z</updated>
     <summary>Bellevue, WA, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cushman &amp; Wakefield — EIC Apprentice- Project &amp; Development Services</title>
+    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332" rel="alternate"/>
+    <id>workday:cw:job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332</id>
+    <updated>2026-09-03T14:41:35Z</updated>
+    <summary>Chennai, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>InfiniteQuant — Quantitative Developer - Internship - Summer 2027</title>
     <link href="https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879" rel="alternate"/>
@@ -253,6 +265,12 @@
     <updated>2026-08-20T17:02:24Z</updated>
     <summary>gurgaon · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
+    <title>Cox — Inspector Apprentice (Manheim)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416" rel="alternate"/>
+    <id>workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416</id>
+    <updated>2026-08-19T19:02:04Z</updated>
+    <summary>Indianapolis IN · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>AHEAD — MS - NOC Apprentice/Intern (6 months)</title>
     <link href="https://jobs.lever.co/thinkahead/3fd5cb37-6541-4e97-a827-d644468e6535" rel="alternate"/>
     <id>lever:thinkahead:3fd5cb37-6541-4e97-a827-d644468e6535</id>
@@ -288,23 +306,5 @@
     <id>workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1</id>
     <updated>2026-08-14T13:21:29Z</updated>
     <summary>USA - IL (Remote) · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>ConnectPrep — Data Analyst Internship</title>
-    <link href="https://apply.workable.com/connectprep/j/D1C67258C0/" rel="alternate"/>
-    <id>workable:connectprep:D1C67258C0</id>
-    <updated>2026-08-13T04:31:51Z</updated>
-    <summary>Washington, District of Columbia, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Atlys — AI Intern</title>
-    <link href="https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223" rel="alternate"/>
-    <id>ashby:atlys:1a34deb8-3d14-4b7b-b1eb-cd302ce97223</id>
-    <updated>2026-08-12T11:20:19Z</updated>
-    <summary>Delhi HQ · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Deutsche Bank — HR Apprentice</title>
-    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425" rel="alternate"/>
-    <id>workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425</id>
-    <updated>2026-08-07T15:24:53Z</updated>
-    <summary>Bangalore, Velankani Tech Park · Other · Summer 2027</summary>
   </entry>
 </feed>
