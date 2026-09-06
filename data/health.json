@@ -500,8 +500,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/darwinbox/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:deepmind": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-06T07:23:32Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-06T12:22:46Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/deepmind/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "greenhouse:dream11": {
@@ -1329,16 +1329,6 @@
     "last_attempt_at": "2026-09-05T14:49:06Z",
     "last_error": "no connector for wellfound"
   },
-  "workable:rokt": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-06T07:23:32Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rokt/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
-  },
-  "workable:rovex-technologies-corporation": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-06T07:23:32Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/rovex-technologies-corporation/jobs'\nFor more information check: https://developer.mozilla.org"
-  },
   "workable:rystad-energy": {
     "consecutive_failures": 5,
     "last_attempt_at": "2026-09-05T20:24:37Z",
@@ -1363,11 +1353,6 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-09-05T20:24:37Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/sei/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
-  },
-  "workable:sigmadefense": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-06T07:23:32Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/sigmadefense/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HT"
   },
   "workable:skygig": {
     "consecutive_failures": 5,
@@ -1558,11 +1543,6 @@
     "consecutive_failures": 7,
     "last_attempt_at": "2026-09-04T17:58:32Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/willis-aviation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
-  },
-  "workable:xodus-group": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-06T07:23:32Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/xodus-group/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:zaizi": {
     "consecutive_failures": 7,
