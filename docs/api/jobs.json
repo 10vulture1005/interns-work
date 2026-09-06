@@ -12,18 +12,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -164,6 +152,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5039463",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "company": "CACI",
+    "title": "Business/Systems Analyst Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
     "salary": null,
     "source": "workday"
   },
@@ -456,6 +456,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -730,6 +742,30 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:rubrik:8166537",
+    "company": "Rubrik",
+    "title": "Software Engineer (CPD) - Winter Intern (Pune)",
+    "location": "Pune",
+    "category": "Software",
+    "season": "Term Unconfirmed",
+    "posted_at": "2026-09-06T08:47:22-04:00",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:rubrik:8166523",
+    "company": "Rubrik",
+    "title": "Software Engineer - Winter Intern",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Term Unconfirmed",
+    "posted_at": "2026-09-06T08:42:59-04:00",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "oracle:hccz.fa.em3.oraclecloud.com:25530",

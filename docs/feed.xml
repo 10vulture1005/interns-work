@@ -4,9 +4,21 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-06T12:22:46Z</updated>
+  <updated>2026-09-06T15:14:41Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Rubrik — Software Engineer (CPD) - Winter Intern (Pune)</title>
+    <link href="https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537" rel="alternate"/>
+    <id>greenhouse:rubrik:8166537</id>
+    <updated>2026-09-06T15:14:41Z</updated>
+    <summary>Pune · Software · Term Unconfirmed</summary>
+  </entry>  <entry>
+    <title>Rubrik — Software Engineer - Winter Intern</title>
+    <link href="https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523" rel="alternate"/>
+    <id>greenhouse:rubrik:8166523</id>
+    <updated>2026-09-06T15:14:41Z</updated>
+    <summary>Bangalore · Software · Term Unconfirmed</summary>
+  </entry>  <entry>
     <title>Pearson — Content Producer, Apprentice</title>
     <link href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25530" rel="alternate"/>
     <id>oracle:hccz.fa.em3.oraclecloud.com:25530</id>
@@ -114,6 +126,12 @@
     <id>smartrecruiters:LLNL:3743990015035697</id>
     <updated>2026-09-03T00:11:48Z</updated>
     <summary>Livermore, CA, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>CACI — Business/Systems Analyst Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551" rel="alternate"/>
+    <id>workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551</id>
+    <updated>2026-09-02T21:01:28Z</updated>
+    <summary>Remote (Any State) · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Hitachi Energy — Internship - Software Asset Management</title>
     <link href="https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1" rel="alternate"/>
@@ -288,23 +306,5 @@
     <id>workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043420-2</id>
     <updated>2026-08-17T16:56:48Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Allstate Insurance Company — Pricing Actuarial Analyst Intern</title>
-    <link href="https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1" rel="alternate"/>
-    <id>workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1</id>
-    <updated>2026-08-14T13:21:29Z</updated>
-    <summary>USA - IL (Remote) · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>ConnectPrep — Data Analyst Internship</title>
-    <link href="https://apply.workable.com/connectprep/j/D1C67258C0/" rel="alternate"/>
-    <id>workable:connectprep:D1C67258C0</id>
-    <updated>2026-08-13T04:31:51Z</updated>
-    <summary>Washington, District of Columbia, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Atlys — AI Intern</title>
-    <link href="https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223" rel="alternate"/>
-    <id>ashby:atlys:1a34deb8-3d14-4b7b-b1eb-cd302ce97223</id>
-    <updated>2026-08-12T11:20:19Z</updated>
-    <summary>Delhi HQ · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
