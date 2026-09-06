@@ -4,20 +4,20 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-06T15:14:41Z</updated>
+  <updated>2026-09-06T18:33:20Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Rubrik — Software Engineer (CPD) - Winter Intern (Pune)</title>
-    <link href="https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537" rel="alternate"/>
-    <id>greenhouse:rubrik:8166537</id>
-    <updated>2026-09-06T15:14:41Z</updated>
-    <summary>Pune · Software · Term Unconfirmed</summary>
-  </entry>  <entry>
     <title>Rubrik — Software Engineer - Winter Intern</title>
     <link href="https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523" rel="alternate"/>
     <id>greenhouse:rubrik:8166523</id>
     <updated>2026-09-06T15:14:41Z</updated>
     <summary>Bangalore · Software · Term Unconfirmed</summary>
+  </entry>  <entry>
+    <title>Rubrik — Software Engineer (CPD) - Winter Intern (Pune)</title>
+    <link href="https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537" rel="alternate"/>
+    <id>greenhouse:rubrik:8166537</id>
+    <updated>2026-09-06T15:14:41Z</updated>
+    <summary>Pune · Software · Term Unconfirmed</summary>
   </entry>  <entry>
     <title>Pearson — Content Producer, Apprentice</title>
     <link href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25530" rel="alternate"/>
@@ -163,6 +163,12 @@
     <updated>2026-09-02T12:59:46Z</updated>
     <summary>IND - Noida · Other · Summer 2027</summary>
   </entry>  <entry>
+    <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
+    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692" rel="alternate"/>
+    <id>workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692</id>
+    <updated>2026-09-02T07:14:18Z</updated>
+    <summary>Jaipur · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Stryker — Data Science Intern - Remote</title>
     <link href="https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731" rel="alternate"/>
     <id>workday:stryker:job/Florida-Virtual-Address/Data-Science-Intern_R572731</id>
@@ -300,11 +306,5 @@
     <id>lever:thinkahead:7950d5ca-0cf8-4fa5-a2fc-6210c711411f</id>
     <updated>2026-08-18T05:10:20Z</updated>
     <summary>Gurugram, Haryana · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>GE Healthcare — Field Engineer Apprentice</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2" rel="alternate"/>
-    <id>workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043420-2</id>
-    <updated>2026-08-17T16:56:48Z</updated>
-    <summary>Remote · Software · Summer 2027</summary>
   </entry>
 </feed>

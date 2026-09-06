@@ -216,6 +216,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Jaipur",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:stryker:job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "company": "Stryker",
     "title": "Data Science Intern - Remote",
@@ -456,18 +468,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B7",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -488,6 +488,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -636,18 +648,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -744,18 +744,6 @@
     "source": "workday"
   },
   {
-    "id": "greenhouse:rubrik:8166537",
-    "company": "Rubrik",
-    "title": "Software Engineer (CPD) - Winter Intern (Pune)",
-    "location": "Pune",
-    "category": "Software",
-    "season": "Term Unconfirmed",
-    "posted_at": "2026-09-06T08:47:22-04:00",
-    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
     "id": "greenhouse:rubrik:8166523",
     "company": "Rubrik",
     "title": "Software Engineer - Winter Intern",
@@ -764,6 +752,18 @@
     "season": "Term Unconfirmed",
     "posted_at": "2026-09-06T08:42:59-04:00",
     "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:rubrik:8166537",
+    "company": "Rubrik",
+    "title": "Software Engineer (CPD) - Winter Intern (Pune)",
+    "location": "Pune",
+    "category": "Software",
+    "season": "Term Unconfirmed",
+    "posted_at": "2026-09-06T08:47:22-04:00",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
     "salary": null,
     "source": "greenhouse"
   },

@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 06, 2026 at 15:14 UTC</em></p>
+  <p><em>Last updated: Sep 06, 2026 at 18:33 UTC</em></p>
 </div>
 
 ---
@@ -51,8 +51,8 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Rubrik** | Software Engineer (CPD) - Winter Intern (Pune) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Pune | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
+| **Rubrik** | Software Engineer (CPD) - Winter Intern (Pune) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Pune | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
 _~ = the title doesn't state a year; bucketed here from its posting date (15 of 16)._
 
@@ -62,11 +62,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-06 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-06 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-06 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-06 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-06 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-06 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-05 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-05 |
 | Adobe | Apprentice Tech | Summer 2027 | 2026-09-04 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-04 |
 | State Street | Apprentice | Summer 2027 | 2026-09-04 |
