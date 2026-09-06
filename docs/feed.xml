@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-05T22:22:32Z</updated>
+  <updated>2026-09-06T00:01:24Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Pearson — Content Producer, Apprentice</title>
@@ -30,12 +30,6 @@
     <id>workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26988163</id>
     <updated>2026-09-04T13:04:53Z</updated>
     <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010" rel="alternate"/>
-    <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010</id>
-    <updated>2026-09-04T13:04:53Z</updated>
-    <summary>Hyderabad, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Magna International — Maintenance Apprentice-2</title>
     <link href="https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165" rel="alternate"/>
@@ -91,12 +85,6 @@
     <updated>2026-09-03T14:41:35Z</updated>
     <summary>Bellevue, WA, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice- Project &amp; Development Services</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332" rel="alternate"/>
-    <id>workday:cw:job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332</id>
-    <updated>2026-09-03T14:41:35Z</updated>
-    <summary>Chennai, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>InfiniteQuant — Quantitative Developer - Internship - Summer 2027</title>
     <link href="https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879" rel="alternate"/>
     <id>smartrecruiters:InfiniteQuant:744000147163879</id>
@@ -114,6 +102,12 @@
     <id>smartrecruiters:LLNL:3743990015035697</id>
     <updated>2026-09-03T00:11:48Z</updated>
     <summary>Livermore, CA, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>CACI — Business/Systems Analyst Intern - Summer 2027</title>
+    <link href="https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551" rel="alternate"/>
+    <id>workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551</id>
+    <updated>2026-09-02T21:01:28Z</updated>
+    <summary>Remote (Any State) · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Hitachi Energy — Internship - Software Asset Management</title>
     <link href="https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>ashby:atlys:1a34deb8-3d14-4b7b-b1eb-cd302ce97223</id>
     <updated>2026-08-12T11:20:19Z</updated>
     <summary>Delhi HQ · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Deutsche Bank — HR Apprentice</title>
+    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425" rel="alternate"/>
+    <id>workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425</id>
+    <updated>2026-08-07T15:24:53Z</updated>
+    <summary>Bangalore, Velankani Tech Park · Other · Summer 2027</summary>
   </entry>
 </feed>
