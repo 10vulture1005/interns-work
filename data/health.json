@@ -824,11 +824,6 @@
     "last_attempt_at": "2026-09-05T14:49:06Z",
     "last_error": "no connector for indeed"
   },
-  "instahyre:india-internships": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-06T18:33:20Z",
-    "last_error": "ReadTimeout: "
-  },
   "internshala:computer-science-internship": {
     "consecutive_failures": 18,
     "last_attempt_at": "2026-09-05T14:49:06Z",

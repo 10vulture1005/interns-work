@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-16-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 06, 2026 at 18:33 UTC</em></p>
+  <p><em>Last updated: Sep 06, 2026 at 20:24 UTC</em></p>
 </div>
 
 ---
@@ -61,12 +61,16 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| American Express | Apprentice | Summer 2027 | 2026-09-06 |
+| CACI | Business/Systems Analyst Intern - Summer 2027 | Summer 2027 | 2026-09-06 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-06 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-06 |
+| Epicor | Interns - Content Developer /Technical Writing/ Instructional Designer | Summer 2027 | 2026-09-06 |
+| S&P Global | Apprentice | Summer 2027 | 2026-09-06 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-06 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-06 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-06 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-06 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-06 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-05 |
 | Adobe | Apprentice Tech | Summer 2027 | 2026-09-04 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-04 |
 | State Street | Apprentice | Summer 2027 | 2026-09-04 |
@@ -77,10 +81,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | Pearson | Associate, Software Engineer - Intern | Summer 2027 | 2026-09-03 |
 | ABB | Apprentice | Summer 2027 | 2026-09-03 |
 | Baxter International | Apprentice, Trainee (Post Market Surveillance) | Summer 2027 | 2026-09-03 |
-| Unisys | AI Engineering Intern | Summer 2027 | 2026-09-03 |
-| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-09-03 |
-| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-03 |
-| Valeo | R&D Trainee/Apprentice/VIE | Summer 2027 | 2026-09-03 |
 
 </details>
 
