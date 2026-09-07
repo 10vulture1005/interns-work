@@ -24,6 +24,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:goto:job/Remote-Hungary/DevOps-Intern_R26-2270-1",
+    "company": "GoTo Group",
+    "title": "DevOps Intern",
+    "location": "Remote (Hungary)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:viavisolutions:job/Chennai-IND/Apprentice---8_260004940",
     "company": "Viavi Solutions",
     "title": "Apprentice - 8",
@@ -84,14 +96,38 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - PUNE",
-    "location": "Pune Maharashtra India",
+    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
+    "company": "Corteva",
+    "title": "R&D Intern – Computer & Data Science",
+    "location": "Indianapolis, Indiana, United States",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/Business-Analyst-Intern_248151W",
+    "company": "Corteva",
+    "title": "Business Analyst Intern",
+    "location": "Indianapolis, Indiana, United States",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305",
+    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Business-Analyst-Intern_248151W",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
+    "company": "Corteva",
+    "title": "R&D Internship – Computer & Data Science",
+    "location": "Indianapolis, Indiana, United States",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
     "salary": null,
     "source": "workday"
   },
@@ -116,6 +152,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5039463",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "company": "CACI",
+    "title": "Business/Systems Analyst Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
     "salary": null,
     "source": "workday"
   },
@@ -164,18 +212,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://tnsi.wd1.myworkdayjobs.com/en-US/Search/job/IND---Noida/PTP-Telco-Apprentice_R2979",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Jaipur",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
     "salary": null,
     "source": "workday"
   },
@@ -396,6 +432,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441984",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -444,6 +492,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -452,18 +512,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -524,18 +572,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_atleos_us/job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
     "salary": null,
     "source": "workday"
   },
