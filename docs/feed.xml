@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-06T23:58:32Z</updated>
+  <updated>2026-09-07T02:29:17Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Rubrik — Software Engineer - Winter Intern</title>
@@ -37,6 +37,12 @@
     <updated>2026-09-04T13:04:53Z</updated>
     <summary>Bangalore Area · Other · Summer 2027</summary>
   </entry>  <entry>
+    <title>Citi — Young Apprentice - C00 - MUMBAI</title>
+    <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26988163" rel="alternate"/>
+    <id>workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26988163</id>
+    <updated>2026-09-04T13:04:53Z</updated>
+    <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Cushman &amp; Wakefield — EIC Apprentice</title>
     <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010" rel="alternate"/>
     <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010</id>
@@ -48,6 +54,12 @@
     <id>workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165</id>
     <updated>2026-09-04T13:04:53Z</updated>
     <summary>Muncie, Indiana, US · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Citi — Young Apprentice - C00 - PUNE</title>
+    <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305" rel="alternate"/>
+    <id>workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305</id>
+    <updated>2026-09-04T07:25:38Z</updated>
+    <summary>Pune Maharashtra India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Corteva — R&amp;D Intern – Computer &amp; Data Science</title>
     <link href="https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W" rel="alternate"/>
@@ -294,17 +306,5 @@
     <id>workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1</id>
     <updated>2026-08-14T13:21:29Z</updated>
     <summary>USA - IL (Remote) · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>ConnectPrep — Data Analyst Internship</title>
-    <link href="https://apply.workable.com/connectprep/j/D1C67258C0/" rel="alternate"/>
-    <id>workable:connectprep:D1C67258C0</id>
-    <updated>2026-08-13T04:31:51Z</updated>
-    <summary>Washington, District of Columbia, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Atlys — AI Intern</title>
-    <link href="https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223" rel="alternate"/>
-    <id>ashby:atlys:1a34deb8-3d14-4b7b-b1eb-cd302ce97223</id>
-    <updated>2026-08-12T11:20:19Z</updated>
-    <summary>Delhi HQ · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
