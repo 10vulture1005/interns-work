@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-07T23:01:20Z</updated>
+  <updated>2026-09-08T02:35:21Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>GoTo Group — DevOps Intern</title>
@@ -72,6 +72,12 @@
     <id>workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165</id>
     <updated>2026-09-04T13:04:53Z</updated>
     <summary>Muncie, Indiana, US · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Citi — Young Apprentice - C00 - PUNE</title>
+    <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305" rel="alternate"/>
+    <id>workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305</id>
+    <updated>2026-09-04T07:25:38Z</updated>
+    <summary>Pune Maharashtra India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Corteva — R&amp;D Intern – Computer &amp; Data Science</title>
     <link href="https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W" rel="alternate"/>
@@ -300,11 +306,5 @@
     <id>lever:thinkahead:7950d5ca-0cf8-4fa5-a2fc-6210c711411f</id>
     <updated>2026-08-18T05:10:20Z</updated>
     <summary>Gurugram, Haryana · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>GE Healthcare — Field Engineer Apprentice</title>
-    <link href="https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2" rel="alternate"/>
-    <id>workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043420-2</id>
-    <updated>2026-08-17T16:56:48Z</updated>
-    <summary>Remote · Software · Summer 2027</summary>
   </entry>
 </feed>
