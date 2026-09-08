@@ -24,21 +24,21 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976397",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - MUMBAI",
-    "location": "Mumbai Maharashtra India",
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-797519",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976397",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797519",
     "salary": null,
     "source": "workday"
   },
   {
     "id": "workday:goto:job/Remote-Hungary/DevOps-Intern_R26-2270-1",
     "company": "GoTo Group",
-    "title": "DevOps Intern",
+    "title": "DevOps Intern (fixed term, 8 months)",
     "location": "Remote (Hungary)",
     "category": "Software",
     "season": "Summer 2027",
@@ -72,6 +72,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
     "company": "Magna International",
     "title": "Maintenance Apprentice-2",
@@ -80,18 +92,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - PUNE",
-    "location": "Pune Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305",
     "salary": null,
     "source": "workday"
   },
@@ -230,7 +230,7 @@
   {
     "id": "workday:stryker:job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "company": "Stryker",
-    "title": "Data Science Intern - Remote",
+    "title": "Summer 2027 Internship - Data Science - Remote",
     "location": "Florida, Virtual Address",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
@@ -468,18 +468,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-025",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 4 Days Ago",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-025",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/Remote/Field-Engineer-Apprentice_R4043420-2",
     "company": "GE Healthcare",
     "title": "Field Engineer Apprentice",
@@ -488,6 +476,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
     "salary": null,
     "source": "workday"
   },
@@ -588,18 +600,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Associate-Analyst---Apprentice_R250000006505",
     "company": "R1 RCM",
     "title": "Associate Analyst - Apprentice",
@@ -644,18 +644,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
@@ -756,14 +744,38 @@
     "source": "workday"
   },
   {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157433",
-    "company": "Honeywell",
-    "title": "Intern Bachelors AI",
+    "id": "greenhouse:sigmoid:8785623002",
+    "company": "Sigmoid",
+    "title": "Information Security Intern",
     "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T03:42:47-04:00",
+    "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8785623002",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com:107430",
+    "company": "Weatherford",
+    "title": "Intern -Supplier Quality Analyst & Digital Transformation",
+    "location": "Mumbai, Maharashtra, India",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "2026-09-08",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157433",
+    "url": "https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107430",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "oracle:emit.fa.ca3.oraclecloud.com:94773",
+    "company": "WSP",
+    "title": "Intern, Building Technology Systems",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08",
+    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94773",
     "salary": null,
     "source": "oracle"
   },
@@ -780,6 +792,18 @@
     "source": "oracle"
   },
   {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157433",
+    "company": "Honeywell",
+    "title": "Intern Bachelors AI",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157433",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
     "id": "smartrecruiters:LinkedIn3:744000148146490",
     "company": "LinkedIn",
     "title": "Artificial Intelligence / Machine Learning Engineering Intern",
@@ -790,18 +814,6 @@
     "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000148146490",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "oracle:emit.fa.ca3.oraclecloud.com:94773",
-    "company": "WSP",
-    "title": "Intern, Building Technology Systems",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08",
-    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94773",
-    "salary": null,
-    "source": "oracle"
   },
   {
     "id": "greenhouse:dropbox:8106224",
