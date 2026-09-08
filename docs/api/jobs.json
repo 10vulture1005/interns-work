@@ -24,6 +24,54 @@
     "source": "workday"
   },
   {
+    "id": "workday:adobe:job/Bangalore/Apprentice-Tech_R171689",
+    "company": "Adobe",
+    "title": "Apprentice Tech",
+    "location": "Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171689",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cambiumlearning:job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
+    "company": "Cambium Learning Group",
+    "title": "Software Engineer Intern – AI Applications",
+    "location": "Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
+    "company": "GE Healthcare",
+    "title": "Surgery Field Engineer Apprentice (Chattanooga, TN)",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:msd:job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414760",
+    "company": "Merck",
+    "title": "Information Technology Intern",
+    "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414760",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-797519",
     "company": "State Street",
     "title": "Apprentice",
@@ -92,6 +140,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305",
+    "company": "Citi",
+    "title": "Young Apprentice - C00 - PUNE",
+    "location": "Pune Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305",
     "salary": null,
     "source": "workday"
   },
@@ -480,14 +540,26 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
+    "company": "Campbellsoup",
+    "title": "Business Analyst (Co-op), DA&AI",
+    "location": "USA - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
     "company": "Vishay Intertechnology",
     "title": "Apprentice",
     "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -516,18 +588,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "company": "Campbellsoup",
     "title": "Agentic AI Engineer Co-Op",
@@ -536,18 +596,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
-    "company": "Campbellsoup",
-    "title": "Business Analyst (Co-op), DA&AI",
-    "location": "USA - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
     "salary": null,
     "source": "workday"
   },
@@ -744,14 +792,50 @@
     "source": "workday"
   },
   {
-    "id": "greenhouse:sigmoid:8785623002",
-    "company": "Sigmoid",
-    "title": "Information Security Intern",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Other",
+    "id": "smartrecruiters:LLNL:3743990015112846",
+    "company": "Lawrence Livermore National Laboratory (LLNL)",
+    "title": "Protocol and Special Events Undergraduate AI and Digital Solutions Intern",
+    "location": "Livermore, CA, United States (Remote)",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
-    "posted_at": "2026-09-08T03:42:47-04:00",
-    "url": "https://job-boards.greenhouse.io/sigmoid/jobs/8785623002",
+    "posted_at": "2026-09-08T16:21:35.576Z",
+    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015112846",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
+    "id": "smartrecruiters:LinkedIn3:744000148299359",
+    "company": "LinkedIn",
+    "title": "Software Engineering Intern",
+    "location": "Bengaluru, KA, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T16:44:01.909Z",
+    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000148299359",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
+    "id": "smartrecruiters:M3USA:744000148244649",
+    "company": "M3USA",
+    "title": "AI Engineering Intern (Remote)",
+    "location": "Fort Washington, PA, United States (Remote)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T13:47:05.082Z",
+    "url": "https://jobs.smartrecruiters.com/M3USA/744000148244649",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
+    "id": "greenhouse:vercel:6181759004",
+    "company": "Vercel",
+    "title": "Software Engineering Intern - Summer '27",
+    "location": "Hybrid - San Francisco",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T11:31:06-04:00",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
     "salary": null,
     "source": "greenhouse"
   },
@@ -802,18 +886,6 @@
     "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157433",
     "salary": null,
     "source": "oracle"
-  },
-  {
-    "id": "smartrecruiters:LinkedIn3:744000148146490",
-    "company": "LinkedIn",
-    "title": "Artificial Intelligence / Machine Learning Engineering Intern",
-    "location": "Bengaluru, KA, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T06:49:55.691Z",
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000148146490",
-    "salary": null,
-    "source": "smartrecruiters"
   },
   {
     "id": "greenhouse:dropbox:8106224",
@@ -884,18 +956,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-03T07:07:53.041Z",
     "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
-    "salary": null,
-    "source": "smartrecruiters"
-  },
-  {
-    "id": "smartrecruiters:LLNL:3743990015035697",
-    "company": "Lawrence Livermore National Laboratory (LLNL)",
-    "title": "Protocol and Special Events Undergraduate AI and Digital Solutions Intern",
-    "location": "Livermore, CA, United States (Remote)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-02T22:26:31.063Z",
-    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015035697",
     "salary": null,
     "source": "smartrecruiters"
   },
