@@ -10,19 +10,20 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-17-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-18-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 08, 2026 at 02:35 UTC</em></p>
+  <p><em>Last updated: Sep 08, 2026 at 07:45 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>8 open</kbd>
+## Summer 2027 (India) <kbd>9 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
+| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976397) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
@@ -55,21 +56,23 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern (Pune) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Pune | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (15 of 17)._
+_~ = the title doesn't state a year; bucketed here from its posting date (16 of 18)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-07 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-09-07 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-07 |
+| Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-09-08 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-08 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-08 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-08 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-08 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-08 |
 | GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-09-07 |
 | Caterpillar Inc. | India Production Apprentice-3 | Summer 2027 | 2026-09-07 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-07 |
 | Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-09-07 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-07 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-07 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-06 |
 | American Express | Apprentice | Summer 2027 | 2026-09-06 |
@@ -80,8 +83,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (15 of 
 | State Street | Apprentice | Summer 2027 | 2026-09-04 |
 | F5 | Software Tester Apprentice | Summer 2027 | 2026-09-04 |
 | Availity | Data Science Intern | Summer 2027 | 2026-09-04 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-04 |
-| Corteva | R & D Intern - Computer & Data Science | Summer 2027 | 2026-09-04 |
 
 </details>
 
