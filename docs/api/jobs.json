@@ -564,30 +564,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -596,18 +572,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -684,6 +648,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Associate-Analyst---Apprentice_R250000006505",
     "company": "R1 RCM",
     "title": "Associate Analyst - Apprentice",
@@ -728,6 +704,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
@@ -826,6 +814,30 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770",
+    "company": "ONE Finance",
+    "title": "Software Engineer, Intern",
+    "location": "United States (Remote)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T16:55:09.616+00:00",
+    "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770",
+    "salary": "$32 per hour",
+    "source": "ashby"
+  },
+  {
+    "id": "ashby:oneapp:7cc2fdfb-a186-4a58-af1b-8255c173244a",
+    "company": "ONE Finance",
+    "title": "AI Research, Intern",
+    "location": "United States (Remote)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T16:52:09.425+00:00",
+    "url": "https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a",
+    "salary": "$32 per hour",
+    "source": "ashby"
   },
   {
     "id": "greenhouse:coinbase:8168315",
@@ -944,18 +956,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-08",
     "url": "https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107430",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
-    "id": "oracle:emit.fa.ca3.oraclecloud.com:94773",
-    "company": "WSP",
-    "title": "Intern, Building Technology Systems",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08",
-    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94773",
     "salary": null,
     "source": "oracle"
   },
@@ -1210,6 +1210,18 @@
     "url": "https://jobs.lever.co/thinkahead/7950d5ca-0cf8-4fa5-a2fc-6210c711411f",
     "salary": null,
     "source": "lever"
+  },
+  {
+    "id": "instahyre:pagarbook:439220",
+    "company": "PagarBook",
+    "title": "Full Stack Development Intern",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://www.instahyre.com/job-439220-full-stack-development-intern-internship-at-pagarbook-bangalore/",
+    "salary": null,
+    "source": "instahyre"
   },
   {
     "id": "workday:parsons:job/US---Remote-Any-Location/Software-Developer-Intern_R185565",
