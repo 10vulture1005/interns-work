@@ -316,6 +316,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Accora",
+    "slug": "accora",
+    "ats": "workable"
+  },
+  {
     "name": "Accordion",
     "slug": "accordion",
     "ats": "greenhouse"
@@ -557,6 +562,11 @@
     "name": "AECOM",
     "slug": "AECOM2",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "AEG",
+    "slug": "aegworldwide",
+    "ats": "greenhouse"
   },
   {
     "name": "Aegis Therapies",
@@ -3221,6 +3231,11 @@
     "site": "External"
   },
   {
+    "name": "Bedrock Robotics",
+    "slug": "bedrock-robotics",
+    "ats": "ashby"
+  },
+  {
     "name": "Beghou Consulting",
     "slug": "beghouconsulting",
     "ats": "lever"
@@ -5141,6 +5156,11 @@
     "site": "ChanelCareers"
   },
   {
+    "name": "CHAOS Industries",
+    "slug": "chaosindustries",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Charge Robotics",
     "slug": "charge-robotics",
     "ats": "ashby"
@@ -6257,6 +6277,11 @@
     "site": "CondeCareers"
   },
   {
+    "name": "ConductorAI",
+    "slug": "conductorai",
+    "ats": "ashby"
+  },
+  {
     "name": "ConductorOne",
     "slug": "conductorone",
     "ats": "ashby"
@@ -6435,6 +6460,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "CorebridgeFinancial"
+  },
+  {
+    "name": "Coretek Services",
+    "slug": "coretek-services",
+    "ats": "workable"
   },
   {
     "name": "CoreWeave",
@@ -7343,6 +7373,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "kion_scs"
+  },
+  {
+    "name": "Demiurge Studios",
+    "slug": "demiurgestudios",
+    "ats": "lever"
   },
   {
     "name": "Democratic Governors Association",
@@ -9206,6 +9241,11 @@
     "name": "Farsight",
     "slug": "farsight",
     "ats": "ashby"
+  },
+  {
+    "name": "Fasanara",
+    "slug": "fasanara",
+    "ats": "workable"
   },
   {
     "name": "Fashion Nova",
@@ -12215,6 +12255,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "humana_external_career_site"
+  },
+  {
+    "name": "Humanoid",
+    "slug": "humanoid",
+    "ats": "ashby"
   },
   {
     "name": "HumanSignal",
@@ -18152,6 +18197,11 @@
     "ats": "ashby"
   },
   {
+    "name": "ONE Finance",
+    "slug": "oneapp",
+    "ats": "ashby"
+  },
+  {
     "name": "One Plus",
     "slug": "oneplus",
     "ats": "smartrecruiters"
@@ -23762,6 +23812,11 @@
     "site": "synthomercareers"
   },
   {
+    "name": "Syntiant",
+    "slug": "syntiant",
+    "ats": "workable"
+  },
+  {
     "name": "Sysco",
     "slug": "sysco",
     "ats": "workday",
@@ -26431,6 +26486,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Viam",
+    "slug": "viamrobotics",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Viasat",
     "slug": "viasat-in",
     "ats": "smartrecruiters"
@@ -26643,6 +26703,11 @@
     "name": "Voyager Technologies",
     "slug": "voyagertechnologiesinc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Voyant Photonics",
+    "slug": "voyant-photonics",
+    "ats": "ashby"
   },
   {
     "name": "VSC Fire & Security",
@@ -27642,6 +27707,11 @@
     "ats": "oracle",
     "host": "eczd.fa.us2.oraclecloud.com",
     "site": "CX_1"
+  },
+  {
+    "name": "Zaber Technologies",
+    "slug": "zaber",
+    "ats": "workable"
   },
   {
     "name": "zaimler",
