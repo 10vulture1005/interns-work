@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-22-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 09, 2026 at 02:44 UTC</em></p>
+  <p><em>Last updated: Sep 09, 2026 at 09:15 UTC</em></p>
 </div>
 
 ---
@@ -58,7 +58,7 @@
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
-| **Rubrik** | Software Engineer (CPD) - Winter Intern (Pune) <sup>~</sup> | `Software` | Pune | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
+| **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
 _~ = the title doesn't state a year; bucketed here from its posting date (20 of 22)._
 
@@ -67,8 +67,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-09 |
+| Viavi Solutions | Apprentice - 2 | Summer 2027 | 2026-09-09 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-09 |
 | Stripe | Software Engineer, Intern | Summer 2027 | 2026-09-09 |
 | Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-08 |
 | Pearson | Associate, AI & Machine Learning Intern | Summer 2027 | 2026-09-08 |
@@ -86,7 +87,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-09-08 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-08 |
 | GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-09-07 |
-| Caterpillar Inc. | India Production Apprentice-3 | Summer 2027 | 2026-09-07 |
 
 </details>
 

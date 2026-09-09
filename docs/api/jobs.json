@@ -12,6 +12,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Pune---Business-Bay/Business-Management---Automation-Analyst---Apprentice--NCT_R0449402",
+    "company": "Deutsche Bank",
+    "title": "Business Management & Automation Analyst - Apprentice, NCT",
+    "location": "Pune - Business Bay",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Business-Management---Automation-Analyst---Apprentice--NCT_R0449402",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5052362",
+    "company": "Gevernova",
+    "title": "Grid Automation & Software Intern",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5052362",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:acxiomllc:job/RemoteHomebased/Intern---Data-Scientist_JR014459",
     "company": "Acxiom",
     "title": "Intern - Data Scientist",
@@ -540,6 +564,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -696,18 +732,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -788,18 +812,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 2 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:viavisolutions:job/Chennai-IND/Apprentice---2_260004925",
-    "company": "Viavi Solutions",
-    "title": "Apprentice - 2",
-    "location": "Chennai, IND",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 13 Days Ago",
-    "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---2_260004925",
     "salary": null,
     "source": "workday"
   },
@@ -974,8 +986,8 @@
   {
     "id": "greenhouse:rubrik:8166537",
     "company": "Rubrik",
-    "title": "Software Engineer (CPD) - Winter Intern (Pune)",
-    "location": "Pune",
+    "title": "Software Engineer (CPD) - Winter Intern",
+    "location": "Bangalore",
     "category": "Software",
     "season": "Term Unconfirmed",
     "posted_at": "2026-09-06T08:47:22-04:00",
@@ -1138,6 +1150,18 @@
     "url": "https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223",
     "salary": null,
     "source": "ashby"
+  },
+  {
+    "id": "oracle:egug.fa.us2.oraclecloud.com:26010893",
+    "company": "American Express",
+    "title": "Apprentice",
+    "location": "Gurugram, HR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-07-30",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010893",
+    "salary": null,
+    "source": "oracle"
   },
   {
     "id": "workable:innovaccer-analytics:47C4AD89C2",

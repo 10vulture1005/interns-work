@@ -4,9 +4,21 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-09T02:44:49Z</updated>
+  <updated>2026-09-09T09:15:12Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Deutsche Bank — Business Management &amp; Automation Analyst - Apprentice, NCT</title>
+    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Business-Management---Automation-Analyst---Apprentice--NCT_R0449402" rel="alternate"/>
+    <id>workday:db:job/Pune---Business-Bay/Business-Management---Automation-Analyst---Apprentice--NCT_R0449402</id>
+    <updated>2026-09-09T09:15:11Z</updated>
+    <summary>Pune - Business Bay · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Gevernova — Grid Automation &amp; Software Intern</title>
+    <link href="https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5052362" rel="alternate"/>
+    <id>workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5052362</id>
+    <updated>2026-09-09T09:15:11Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Coinbase — Software Engineer Intern</title>
     <link href="https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315" rel="alternate"/>
     <id>greenhouse:coinbase:8168315</id>
@@ -139,11 +151,11 @@
     <updated>2026-09-06T15:14:41Z</updated>
     <summary>Bangalore · Software · Term Unconfirmed</summary>
   </entry>  <entry>
-    <title>Rubrik — Software Engineer (CPD) - Winter Intern (Pune)</title>
+    <title>Rubrik — Software Engineer (CPD) - Winter Intern</title>
     <link href="https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537" rel="alternate"/>
     <id>greenhouse:rubrik:8166537</id>
     <updated>2026-09-06T15:14:41Z</updated>
-    <summary>Pune · Software · Term Unconfirmed</summary>
+    <summary>Bangalore · Software · Term Unconfirmed</summary>
   </entry>  <entry>
     <title>Cushman &amp; Wakefield — EIC Apprentice</title>
     <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010" rel="alternate"/>
@@ -294,17 +306,5 @@
     <id>workday:elanco:job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1</id>
     <updated>2026-08-31T19:09:27Z</updated>
     <summary>Indianapolis, IN · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>IGS Energy — Business Analyst Intern (Summer 2027)</title>
-    <link href="https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298" rel="alternate"/>
-    <id>workday:igsenergy:job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298</id>
-    <updated>2026-08-31T19:09:27Z</updated>
-    <summary>Ohio Remote · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>IGS Energy — Software Engineer Intern</title>
-    <link href="https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263" rel="alternate"/>
-    <id>workday:igsenergy:job/Ohio-Remote/Software-Engineer-Intern_R6263</id>
-    <updated>2026-08-31T19:09:27Z</updated>
-    <summary>Ohio Remote · Software · Summer 2027</summary>
   </entry>
 </feed>
