@@ -12,6 +12,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+    "company": "GE Healthcare",
+    "title": "Client Service Technician Apprentice",
+    "location": "Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:trustage:job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
+    "company": "TruStage",
+    "title": "Enterprise Information & Technology Internship (Hybrid)",
+    "location": "Wisconsin - Remote",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Pune---Business-Bay/Business-Management---Automation-Analyst---Apprentice--NCT_R0449402",
     "company": "Deutsche Bank",
     "title": "Business Management & Automation Analyst - Apprentice, NCT",
@@ -84,30 +108,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:msd:job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414760",
-    "company": "Merck",
-    "title": "Information Technology Intern",
-    "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414760",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-797519",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797519",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:goto:job/Remote-Hungary/DevOps-Intern_R26-2270-1",
     "company": "GoTo Group",
     "title": "DevOps Intern (fixed term, 8 months)",
@@ -176,18 +176,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
-    "company": "Corteva",
-    "title": "R&D Intern – Computer & Data Science",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W",
     "salary": null,
     "source": "workday"
   },
@@ -564,6 +552,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "company": "Astreya",
     "title": "AI Infrastructure DC Design Intern",
@@ -644,18 +644,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_atleos_us/job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
     "salary": null,
     "source": "workday"
   },
@@ -780,18 +768,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:gehc:job/Remote/Client-Service-Technician_R4043134-1",
-    "company": "GE Healthcare",
-    "title": "Client Service Technician Apprentice",
-    "location": "Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 2 Days Ago",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician_R4043134-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gehc:job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1",
     "company": "GE Healthcare",
     "title": "Research Intern - AI",
@@ -816,18 +792,6 @@
     "source": "workday"
   },
   {
-    "id": "ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770",
-    "company": "ONE Finance",
-    "title": "Software Engineer, Intern",
-    "location": "United States (Remote)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T16:55:09.616+00:00",
-    "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770",
-    "salary": "$32 per hour",
-    "source": "ashby"
-  },
-  {
     "id": "ashby:oneapp:7cc2fdfb-a186-4a58-af1b-8255c173244a",
     "company": "ONE Finance",
     "title": "AI Research, Intern",
@@ -836,6 +800,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-08T16:52:09.425+00:00",
     "url": "https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a",
+    "salary": "$32 per hour",
+    "source": "ashby"
+  },
+  {
+    "id": "ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770",
+    "company": "ONE Finance",
+    "title": "Software Engineer, Intern",
+    "location": "United States (Remote)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-08T16:55:09.616+00:00",
+    "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770",
     "salary": "$32 per hour",
     "source": "ashby"
   },
