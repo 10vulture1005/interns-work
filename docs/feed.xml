@@ -4,20 +4,20 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-09T19:35:55Z</updated>
+  <updated>2026-09-09T22:47:26Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Intel — AI and Compiler Engineering Graduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850" rel="alternate"/>
+    <id>workday:intel:job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850</id>
+    <updated>2026-09-09T22:47:26Z</updated>
+    <summary>Virtual Canada · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>TruStage — Enterprise Information &amp; Technology Internship (Hybrid)</title>
     <link href="https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155" rel="alternate"/>
     <id>workday:trustage:job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155</id>
     <updated>2026-09-09T19:35:55Z</updated>
     <summary>Wisconsin - Remote · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>ONE Finance — AI Research, Intern</title>
-    <link href="https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a" rel="alternate"/>
-    <id>ashby:oneapp:7cc2fdfb-a186-4a58-af1b-8255c173244a</id>
-    <updated>2026-09-09T14:42:05Z</updated>
-    <summary>United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>ONE Finance — Software Engineer, Intern</title>
     <link href="https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770" rel="alternate"/>
@@ -163,12 +163,6 @@
     <updated>2026-09-06T15:14:41Z</updated>
     <summary>Bangalore · Software · Term Unconfirmed</summary>
   </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010" rel="alternate"/>
-    <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010</id>
-    <updated>2026-09-04T13:04:53Z</updated>
-    <summary>Hyderabad, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Magna International — Maintenance Apprentice-2</title>
     <link href="https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165" rel="alternate"/>
     <id>workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165</id>
@@ -210,12 +204,6 @@
     <id>smartrecruiters:Acumatica:744000146749696</id>
     <updated>2026-09-03T14:41:35Z</updated>
     <summary>Bellevue, WA, United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice- Project &amp; Development Services</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332" rel="alternate"/>
-    <id>workday:cw:job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332</id>
-    <updated>2026-09-03T14:41:35Z</updated>
-    <summary>Chennai, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>InfiniteQuant — Quantitative Developer - Internship - Summer 2027</title>
     <link href="https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879" rel="alternate"/>
@@ -306,5 +294,17 @@
     <id>workday:elanco:job/Indianapolis-IN/Junior-IT-Engineer---Information-Technology-Intern--Summer-2027-_R0026986-1</id>
     <updated>2026-08-31T19:09:27Z</updated>
     <summary>Indianapolis, IN · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>IGS Energy — Business Analyst Intern (Summer 2027)</title>
+    <link href="https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298" rel="alternate"/>
+    <id>workday:igsenergy:job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298</id>
+    <updated>2026-08-31T19:09:27Z</updated>
+    <summary>Ohio Remote · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>IGS Energy — Software Engineer Intern</title>
+    <link href="https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263" rel="alternate"/>
+    <id>workday:igsenergy:job/Ohio-Remote/Software-Engineer-Intern_R6263</id>
+    <updated>2026-08-31T19:09:27Z</updated>
+    <summary>Ohio Remote · Software · Summer 2027</summary>
   </entry>
 </feed>
