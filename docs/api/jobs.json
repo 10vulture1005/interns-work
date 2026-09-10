@@ -240,6 +240,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
     "company": "Magna International",
     "title": "Maintenance Apprentice-2",
@@ -296,18 +308,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:geaerospace:job/Bengaluru/Data-Science-Intern_R5039463",
-    "company": "GE Aerospace",
-    "title": "Data Science Intern",
-    "location": "Bengaluru",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5039463",
     "salary": null,
     "source": "workday"
   },
@@ -588,18 +588,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-014",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Hyderabad, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 6 Days Ago",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-014",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -816,18 +804,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:target:job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370",
-    "company": "Target",
-    "title": "Apprentice - Retail Ops",
-    "location": "Bangalore,India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30 Days Ago",
-    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:target:job/BangaloreIndia/Apprentice---Technology_R0000348368",
     "company": "Target",
     "title": "Apprentice - Technology",
@@ -874,6 +850,30 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157576",
+    "company": "Honeywell",
+    "title": "Intern Masters Data Science",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-10",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
+    "id": "greenhouse:tanium:8181017",
+    "company": "Tanium",
+    "title": "Software Engineering Intern – Summer 2027",
+    "location": "Durham, NC (Hybrid); Emeryville, CA (Hybrid)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-10T14:19:05-04:00",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "oracle:eevd.fa.us6.oraclecloud.com:2027455",
@@ -994,18 +994,6 @@
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "smartrecruiters:LinkedIn3:744000148299359",
-    "company": "LinkedIn",
-    "title": "Software Engineering Intern",
-    "location": "Bengaluru, KA, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T16:44:01.909Z",
-    "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000148299359",
-    "salary": null,
-    "source": "smartrecruiters"
   },
   {
     "id": "smartrecruiters:M3USA:744000148244649",
