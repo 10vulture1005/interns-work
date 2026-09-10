@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -20,6 +32,66 @@
     "season": "Summer 2027",
     "posted_at": "Posted Yesterday",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:ffive:job/Hyderabad/Software-Engineer-Apprentice_RP1038677",
+    "company": "F5",
+    "title": "Software Engineer Apprentice",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Hyderabad/Software-Engineer-Apprentice_RP1038677",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:msd:job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414761",
+    "company": "Merck",
+    "title": "Information Technology Intern",
+    "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414761",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:novartis:job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
+    "company": "Novartis",
+    "title": "Intern Data Science",
+    "location": "Hyderabad (Office)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-797644",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797644",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:valeo:job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026080195",
+    "company": "Valeo",
+    "title": "R&D Trainee/Apprentice/VIE",
+    "location": "Chennai",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026080195",
     "salary": null,
     "source": "workday"
   },
@@ -60,18 +132,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Pune---Business-Bay/Business-Management---Automation-Analyst---Apprentice--NCT_R0449402",
-    "company": "Deutsche Bank",
-    "title": "Business Management & Automation Analyst - Apprentice, NCT",
-    "location": "Pune - Business Bay",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Business-Management---Automation-Analyst---Apprentice--NCT_R0449402",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5052362",
     "company": "Gevernova",
     "title": "Grid Automation & Software Intern",
@@ -104,18 +164,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cambiumlearning:job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
-    "company": "Cambium Learning Group",
-    "title": "Software Engineer Intern – AI Applications",
-    "location": "Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cambiumlearning.wd1.myworkdayjobs.com/en-US/camb/job/Remote/Software-Engineer-Intern---AI-Applications_REQ-4610",
     "salary": null,
     "source": "workday"
   },
@@ -312,18 +360,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Jaipur",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Jaipur/Apprentice-Hiring-for-2026--2027_R0442692",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:stryker:job/Florida-Virtual-Address/Data-Science-Intern_R572731",
     "company": "Stryker",
     "title": "Summer 2027 Internship - Data Science - Remote",
@@ -432,6 +468,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:gsk:job/Bengaluru-Luxor-North-Tower/Apprentice--India-Tier-1-Operations---People-Services_446848",
+    "company": "GSK",
+    "title": "Apprentice, India Tier-1 Operations – People Services",
+    "location": "Bengaluru Luxor North Tower",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://gsk.wd5.myworkdayjobs.com/en-US/GSKCareers/job/Bengaluru-Luxor-North-Tower/Apprentice--India-Tier-1-Operations---People-Services_446848",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gevernova:job/Remote/Field-Onsite-Winder-Apprentice-6_R5050411",
     "company": "Gevernova",
     "title": "Field/Onsite Winder Apprentice-6",
@@ -476,18 +524,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425",
-    "company": "Deutsche Bank",
-    "title": "HR Apprentice",
-    "location": "Bangalore, Velankani Tech Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0442425",
     "salary": null,
     "source": "workday"
   },
@@ -552,6 +588,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
+    "company": "Deutsche Bank",
+    "title": "HR Apprentice",
+    "location": "Bangalore, Velankani Tech Park",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 6 Days Ago",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
     "company": "GE Healthcare",
     "title": "Surgery Field Engineer Apprentice - Northern California",
@@ -576,14 +624,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-3474",
     "company": "Vishay Intertechnology",
     "title": "Apprentice",
     "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-3474",
     "salary": null,
     "source": "workday"
   },
@@ -898,18 +946,6 @@
     "url": "https://job-boards.greenhouse.io/vercel/jobs/6181759004",
     "salary": null,
     "source": "greenhouse"
-  },
-  {
-    "id": "smartrecruiters:LLNL:3743990015112846",
-    "company": "Lawrence Livermore National Laboratory (LLNL)",
-    "title": "Protocol and Special Events Undergraduate AI and Digital Solutions Intern",
-    "location": "Livermore, CA, United States (Remote)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T16:21:35.576Z",
-    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015112846",
-    "salary": null,
-    "source": "smartrecruiters"
   },
   {
     "id": "smartrecruiters:LinkedIn3:744000148299359",

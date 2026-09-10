@@ -10,19 +10,20 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 10, 2026 at 02:42 UTC</em></p>
+  <p><em>Last updated: Sep 10, 2026 at 09:09 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>7 open</kbd>
+## Summer 2027 (India) <kbd>8 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
+| **Valeo** | R&D Trainee/Apprentice/VIE <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Chennai | Posted Tod | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/R-D-Trainee-Apprentice-VIE_REQ2026080195) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **Target** | Apprentice - Retail Ops <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370) |
@@ -61,13 +62,19 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (21 of 23)._
+_~ = the title doesn't state a year; bucketed here from its posting date (22 of 24)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Lawrence Livermore National Laboratory (LLNL) | Protocol and Special Events Undergraduate AI and Digital Solutions Intern | Summer 2027 | 2026-09-10 |
+| Cambium Learning Group | Software Engineer Intern – AI Applications | Summer 2027 | 2026-09-10 |
+| Deutsche Bank | HR Apprentice | Summer 2027 | 2026-09-10 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-10 |
+| Deutsche Bank | Business Management & Automation Analyst - Apprentice, NCT | Summer 2027 | 2026-09-10 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-10 |
 | ONE Finance | Software Engineer, Intern | Summer 2027 | 2026-09-10 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-10 |
 | ONE Finance | AI Research, Intern | Summer 2027 | 2026-09-09 |
@@ -82,12 +89,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-09 |
 | Stripe | Software Engineer, Intern | Summer 2027 | 2026-09-09 |
 | Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-08 |
-| Pearson | Associate, AI & Machine Learning Intern | Summer 2027 | 2026-09-08 |
-| Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-09-08 |
-| Honeywell | Intern Bachelors AI | Summer 2027 | 2026-09-08 |
-| Adobe | Apprentice Tech | Summer 2027 | 2026-09-08 |
-| Sigmoid | Information Security Intern | Summer 2027 | 2026-09-08 |
-| Lawrence Livermore National Laboratory (LLNL) | Protocol and Special Events Undergraduate AI and Digital Solutions Intern | Summer 2027 | 2026-09-08 |
 
 </details>
 
