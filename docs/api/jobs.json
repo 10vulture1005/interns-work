@@ -24,6 +24,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:allegion:job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",
+    "company": "Allegion",
+    "title": "Summer Intern - Firmware Engineer",
+    "location": "Indianapolis, IN - Hague Rd",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:intel:job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850",
     "company": "Intel",
     "title": "AI and Compiler Engineering Graduate Intern",
@@ -156,6 +168,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
     "company": "Magna International",
     "title": "Maintenance Apprentice-2",
@@ -200,6 +224,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice- Project & Development Services",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
     "salary": null,
     "source": "workday"
   },
@@ -468,6 +504,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:liberty:job/Remote-Location/Quality-Analyst-Engineer-Apprentice_R0012103",
     "company": "Liberty University",
     "title": "Quality Analyst Engineer Apprentice",
@@ -528,14 +576,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
     "company": "Vishay Intertechnology",
     "title": "Apprentice",
     "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
     "salary": null,
     "source": "workday"
   },
@@ -778,18 +826,6 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
-  },
-  {
-    "id": "ashby:oneapp:ba18d004-3212-44e4-8a0c-bd1215bae770",
-    "company": "ONE Finance",
-    "title": "Software Engineer, Intern",
-    "location": "United States (Remote)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-08T16:55:09.616+00:00",
-    "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770",
-    "salary": "$32 per hour",
-    "source": "ashby"
   },
   {
     "id": "greenhouse:coinbase:8168315",

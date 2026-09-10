@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 09, 2026 at 22:47 UTC</em></p>
+  <p><em>Last updated: Sep 10, 2026 at 02:42 UTC</em></p>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 | **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted Yes | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) |
 | **Intel** | AI and Compiler Engineering Graduate Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
-| **GoTo Group** | DevOps Intern (fixed term, 8 months) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote (Hungary) | Posted Tod | [Apply ↗](https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1) |
+| **GoTo Group** | DevOps Intern (fixed term, 8 months) <sup>~</sup> | `Software` | Remote (Hungary) | Posted Tod | [Apply ↗](https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 30+ | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) |
@@ -68,10 +68,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| ONE Finance | Software Engineer, Intern | Summer 2027 | 2026-09-10 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-10 |
 | ONE Finance | AI Research, Intern | Summer 2027 | 2026-09-09 |
-| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-09 |
-| Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-09-09 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-09 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
 | Corteva | R&D Intern – Computer & Data Science | Summer 2027 | 2026-09-09 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-09 |
@@ -79,7 +78,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-09 |
 | State Street | Apprentice | Summer 2027 | 2026-09-09 |
 | WSP | Intern, Building Technology Systems | Summer 2027 | 2026-09-09 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
 | Viavi Solutions | Apprentice - 2 | Summer 2027 | 2026-09-09 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-09 |
 | Stripe | Software Engineer, Intern | Summer 2027 | 2026-09-09 |
@@ -88,6 +86,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Honeywell | Intern Masters Embedded Eng | Summer 2027 | 2026-09-08 |
 | Honeywell | Intern Bachelors AI | Summer 2027 | 2026-09-08 |
 | Adobe | Apprentice Tech | Summer 2027 | 2026-09-08 |
+| Sigmoid | Information Security Intern | Summer 2027 | 2026-09-08 |
+| Lawrence Livermore National Laboratory (LLNL) | Protocol and Special Events Undergraduate AI and Digital Solutions Intern | Summer 2027 | 2026-09-08 |
 
 </details>
 
