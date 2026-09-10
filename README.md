@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 10, 2026 at 09:09 UTC</em></p>
+  <p><em>Last updated: Sep 10, 2026 at 14:37 UTC</em></p>
 </div>
 
 ---
@@ -69,8 +69,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-10 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-10 |
+| GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-09-10 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-10 |
 | Lawrence Livermore National Laboratory (LLNL) | Protocol and Special Events Undergraduate AI and Digital Solutions Intern | Summer 2027 | 2026-09-10 |
-| Cambium Learning Group | Software Engineer Intern – AI Applications | Summer 2027 | 2026-09-10 |
 | Deutsche Bank | HR Apprentice | Summer 2027 | 2026-09-10 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-10 |
 | Deutsche Bank | Business Management & Automation Analyst - Apprentice, NCT | Summer 2027 | 2026-09-10 |
@@ -78,7 +81,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | ONE Finance | Software Engineer, Intern | Summer 2027 | 2026-09-10 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-10 |
 | ONE Finance | AI Research, Intern | Summer 2027 | 2026-09-09 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-09 |
 | Corteva | R&D Intern – Computer & Data Science | Summer 2027 | 2026-09-09 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-09 |
 | Merck | Information Technology Intern | Summer 2027 | 2026-09-09 |
@@ -86,9 +88,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | State Street | Apprentice | Summer 2027 | 2026-09-09 |
 | WSP | Intern, Building Technology Systems | Summer 2027 | 2026-09-09 |
 | Viavi Solutions | Apprentice - 2 | Summer 2027 | 2026-09-09 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-09 |
 | Stripe | Software Engineer, Intern | Summer 2027 | 2026-09-09 |
-| Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-08 |
 
 </details>
 
