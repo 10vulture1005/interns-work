@@ -4527,6 +4527,11 @@
     "site": "External"
   },
   {
+    "name": "Callan",
+    "slug": "callan",
+    "ats": "lever"
+  },
+  {
     "name": "Callaway Golf",
     "slug": "tcbrands",
     "ats": "workday",
@@ -9019,6 +9024,11 @@
     "site": "Exclusive-Networks-Career"
   },
   {
+    "name": "Exegy",
+    "slug": "exegy",
+    "ats": "ashby"
+  },
+  {
     "name": "EXL",
     "slug": "fa-ewjt-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oracle",
@@ -12818,6 +12828,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Inferact",
+    "slug": "inferact",
+    "ats": "ashby"
+  },
+  {
     "name": "InfiniteQuant",
     "slug": "InfiniteQuant",
     "ats": "smartrecruiters"
@@ -14067,6 +14082,11 @@
     "name": "Klue",
     "slug": "klue",
     "ats": "ashby"
+  },
+  {
+    "name": "Knobelsdorff Enterprises",
+    "slug": "KnobelsdorffEnterprises",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Knock",
@@ -20371,6 +20391,11 @@
     "ats": "lever"
   },
   {
+    "name": "Quick Release",
+    "slug": "quick-release",
+    "ats": "greenhouse"
+  },
+  {
     "name": "QuidelOrtho",
     "slug": "orthoclinical",
     "ats": "workday",
@@ -21051,6 +21076,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "richardson_our_careers"
+  },
+  {
+    "name": "Ridgeline",
+    "slug": "ridgeline",
+    "ats": "greenhouse"
   },
   {
     "name": "Rigetti",
@@ -23741,6 +23771,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Swarm Aero",
+    "slug": "swarmaero",
+    "ats": "ashby"
+  },
+  {
     "name": "SWBC",
     "slug": "swbc",
     "ats": "workday",
@@ -24597,6 +24632,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "EXTERNAL_TKG"
+  },
+  {
+    "name": "The MJ Companies",
+    "slug": "themjcos",
+    "ats": "greenhouse"
   },
   {
     "name": "The Movement Cooperative",
