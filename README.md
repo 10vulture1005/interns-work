@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 11, 2026 at 00:12 UTC</em></p>
+  <p><em>Last updated: Sep 11, 2026 at 02:31 UTC</em></p>
 </div>
 
 ---
@@ -43,11 +43,11 @@
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Field Engineer Apprentice <sup>~</sup> | `Software` | Remote | Posted 30+ | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Field-Engineer-Apprentice_R4043420-2) |
 | **Tanium** | Software Engineering Intern – Summer 2027 <span title='New within 48h'>✨</span> | `Software` | Durham, NC (Hybrid); Emeryville, CA (Hyb | 2026-09-10 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8181017) |
-| **Coinbase** | Software Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
-| **Coinbase** | Machine Learning Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
-| **Coinbase** | Data Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
-| **Coinbase** | Data Science Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
-| **Coinbase** | Analytics Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
+| **Coinbase** | Software Engineer Intern <sup>~</sup> | `Software` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
+| **Coinbase** | Machine Learning Engineer Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
+| **Coinbase** | Data Engineer Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
+| **Coinbase** | Data Science Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
+| **Coinbase** | Analytics Engineer Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
 | **Dropbox** | Software Engineering Intern (Summer 2027) | `Software` | Remote - US: All locations | 2026-09-07 | [Apply ↗](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
 
 ## Fall 2026 (India) <kbd>1 open</kbd>
@@ -70,12 +70,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-11 |
+| Hitachi Energy | Internship - Software Asset Management | Summer 2027 | 2026-09-11 |
 | LinkedIn | Software Engineering Intern | Summer 2027 | 2026-09-10 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-10 |
 | GE Aerospace | Data Science Intern | Summer 2027 | 2026-09-10 |
 | American Express | Apprentice | Summer 2027 | 2026-09-10 |
 | Acumatica | AI & Automation Intern, Office of the CFO | Summer 2027 | 2026-09-10 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-10 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-10 |
 | GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-09-10 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-10 |
@@ -89,7 +90,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | ONE Finance | AI Research, Intern | Summer 2027 | 2026-09-09 |
 | Corteva | R&D Intern – Computer & Data Science | Summer 2027 | 2026-09-09 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-09 |
-| Merck | Information Technology Intern | Summer 2027 | 2026-09-09 |
 
 </details>
 
