@@ -804,6 +804,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:target:job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370",
+    "company": "Target",
+    "title": "Apprentice - Retail Ops",
+    "location": "Bangalore,India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30 Days Ago",
+    "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Retail-Ops_R0000348370",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:target:job/BangaloreIndia/Apprentice---Technology_R0000348368",
     "company": "Target",
     "title": "Apprentice - Technology",
@@ -852,18 +864,6 @@
     "source": "workday"
   },
   {
-    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157576",
-    "company": "Honeywell",
-    "title": "Intern Masters Data Science",
-    "location": "Bengaluru, Karnataka, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10",
-    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576",
-    "salary": null,
-    "source": "oracle"
-  },
-  {
     "id": "greenhouse:tanium:8181017",
     "company": "Tanium",
     "title": "Software Engineering Intern – Summer 2027",
@@ -874,6 +874,18 @@
     "url": "https://job-boards.greenhouse.io/tanium/jobs/8181017",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "oracle:ibqbjb.fa.ocs.oraclecloud.com:157576",
+    "company": "Honeywell",
+    "title": "Intern Masters Data Science",
+    "location": "Bengaluru, Karnataka, India",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-10",
+    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576",
+    "salary": null,
+    "source": "oracle"
   },
   {
     "id": "oracle:eevd.fa.us6.oraclecloud.com:2027455",
