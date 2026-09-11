@@ -10,15 +10,15 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-28-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-27-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 11, 2026 at 13:08 UTC</em></p>
+  <p><em>Last updated: Sep 11, 2026 at 18:05 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>11 open</kbd>
+## Summer 2027 (India) <kbd>10 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
@@ -29,7 +29,6 @@
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
 | **Citi** | Services – Summer Analyst, India, 2027 | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
-| **Target** | Apprentice - Technology <sup>~</sup> | `Other` | Bangalore,India | Posted 30  | [Apply ↗](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Apprentice---Technology_R0000348368) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Ixigo** | Full-Stack Intern - B2B <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Gurugram, HR, India | 2026-09-11 | [Apply ↗](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
 | **Atlys** | AI Intern <sup>~</sup> | `Data & ML/AI` | Delhi HQ | 2026-08-12 | [Apply ↗](https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223) |
@@ -66,33 +65,33 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (24 of 28)._
+_~ = the title doesn't state a year; bucketed here from its posting date (23 of 27)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cleveland-Cliffs | Information Technology Intern | Summer 2027 | 2026-09-11 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-11 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-11 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-11 |
+| F5 | Software Engineer Apprentice | Summer 2027 | 2026-09-11 |
+| State Street | Apprentice | Summer 2027 | 2026-09-11 |
+| Target | Apprentice - Technology | Summer 2027 | 2026-09-11 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-11 |
 | S&P Global | Apprentice | Summer 2027 | 2026-09-11 |
-| Stryker | Summer 2027 Internship - Software Engineering - Indiana | Summer 2027 | 2026-09-11 |
 | Target | Apprentice - Retail Ops | Summer 2027 | 2026-09-11 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-11 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-11 |
 | Gevernova | Field/Onsite Winder Apprentice-6 | Summer 2027 | 2026-09-11 |
 | LinkedIn | Software Engineering Intern | Summer 2027 | 2026-09-10 |
 | GE Aerospace | Data Science Intern | Summer 2027 | 2026-09-10 |
 | American Express | Apprentice | Summer 2027 | 2026-09-10 |
 | Acumatica | AI & Automation Intern, Office of the CFO | Summer 2027 | 2026-09-10 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-10 |
 | GSK | Apprentice, India Tier-1 Operations – People Services | Summer 2027 | 2026-09-10 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-10 |
 | Lawrence Livermore National Laboratory (LLNL) | Protocol and Special Events Undergraduate AI and Digital Solutions Intern | Summer 2027 | 2026-09-10 |
 | Deutsche Bank | HR Apprentice | Summer 2027 | 2026-09-10 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-10 |
-| Deutsche Bank | Business Management & Automation Analyst - Apprentice, NCT | Summer 2027 | 2026-09-10 |
-| ONE Finance | Software Engineer, Intern | Summer 2027 | 2026-09-10 |
 
 </details>
 
