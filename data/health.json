@@ -404,6 +404,11 @@
     "last_attempt_at": "2026-09-11T20:51:01Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amagi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
+  "greenhouse:andurilindustries": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-12T00:20:48Z",
+    "last_error": "ReadTimeout: "
+  },
   "greenhouse:apna": {
     "consecutive_failures": 20,
     "last_attempt_at": "2026-09-11T20:51:01Z",
@@ -1353,11 +1358,6 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-09-11T20:51:01Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/qodeworld/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
-  "workable:quadric-dot-i-o-inc": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-11T20:51:01Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/quadric-dot-i-o-inc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "workable:quantexa": {
     "consecutive_failures": 5,

@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 11, 2026 at 20:51 UTC</em></p>
+  <p><em>Last updated: Sep 12, 2026 at 00:20 UTC</em></p>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **GE Healthcare** | Client Service Technician Apprentice <sup>~</sup> | `Other` | Remote | Posted Yes | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1) |
-| **Intel** | AI and Compiler Engineering Graduate Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) |
+| **Intel** | AI and Compiler Engineering Graduate Intern <sup>~</sup> | `Data & ML/AI` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
 | **GoTo Group** | DevOps Intern (fixed term, 8 months) <sup>~</sup> | `Software` | Remote (Hungary) | Posted Tod | [Apply ↗](https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
@@ -71,26 +71,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Amgen | Grad Intern – Data Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | Summer 2027 | 2026-09-12 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-12 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-12 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-12 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-12 |
 | Arista Networks | Intern Software Engineers - C/C++ | Summer 2027 | 2026-09-11 |
-| Amgen | Grad Intern – Data Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | Summer 2027 | 2026-09-11 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-11 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-11 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-11 |
 | GE Healthcare | Intern Firmware | Summer 2027 | 2026-09-11 |
 | Liberty University | Quality Analyst Engineer Apprentice | Summer 2027 | 2026-09-11 |
 | Novartis | Intern Data Science | Summer 2027 | 2026-09-11 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-09-11 |
 | S&P Global | apprentice | Summer 2027 | 2026-09-11 |
 | State Street | Apprentice | Summer 2027 | 2026-09-11 |
 | Valeo | R&D Trainee/Apprentice/VIE | Summer 2027 | 2026-09-11 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-11 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-11 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-11 |
 | F5 | Software Engineer Apprentice | Summer 2027 | 2026-09-11 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-11 |
 | S&P Global | Apprentice | Summer 2027 | 2026-09-11 |
 | Target | Apprentice - Retail Ops | Summer 2027 | 2026-09-11 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-11 |
+| Gevernova | Field/Onsite Winder Apprentice-6 | Summer 2027 | 2026-09-11 |
 
 </details>
 
