@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-12T17:18:42Z</updated>
+  <updated>2026-09-12T20:27:44Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Arista Networks — Intern Software Engineer - C/C++</title>
@@ -109,12 +109,6 @@
     <updated>2026-09-11T13:08:46Z</updated>
     <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
-    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Margarpatta/Apprentice-Hiring-for-2026--2027_R0436077" rel="alternate"/>
-    <id>workday:db:job/Pune---Margarpatta/Apprentice-Hiring-for-2026--2027_R0436077</id>
-    <updated>2026-09-11T13:08:46Z</updated>
-    <summary>Pune - Margarpatta · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Viavi Solutions — Apprentice - 9</title>
     <link href="https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---9_260004941" rel="alternate"/>
     <id>workday:viavisolutions:job/Chennai-IND/Apprentice---9_260004941</id>
@@ -150,6 +144,12 @@
     <id>ashby:barnes:c77ef2c2-6aeb-4350-9fd4-842931c14177</id>
     <updated>2026-09-10T14:37:42Z</updated>
     <summary>Indianapolis · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cleveland-Cliffs — Information Technology Intern</title>
+    <link href="https://aksteel.wd1.myworkdayjobs.com/en-US/careers/job/Indiana-Harbor/Information-Technology-Intern_R13501" rel="alternate"/>
+    <id>workday:aksteel:job/Indiana-Harbor/Information-Technology-Intern_R13501</id>
+    <updated>2026-09-10T14:37:42Z</updated>
+    <summary>Indiana Harbor · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Allegion — Summer Intern - Firmware Engineer</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1" rel="alternate"/>
@@ -289,12 +289,6 @@
     <updated>2026-09-06T15:14:41Z</updated>
     <summary>Bangalore · Software · Term Unconfirmed</summary>
   </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010" rel="alternate"/>
-    <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010</id>
-    <updated>2026-09-04T13:04:53Z</updated>
-    <summary>Hyderabad, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Magna International — Maintenance Apprentice-2</title>
     <link href="https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165" rel="alternate"/>
     <id>workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165</id>
@@ -306,5 +300,11 @@
     <id>workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305</id>
     <updated>2026-09-04T07:25:38Z</updated>
     <summary>Pune Maharashtra India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Corteva — Business Analyst Intern</title>
+    <link href="https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Business-Analyst-Intern_248151W" rel="alternate"/>
+    <id>workday:corteva:job/Indianapolis-Indiana-United-States/Business-Analyst-Intern_248151W</id>
+    <updated>2026-09-03T20:58:22Z</updated>
+    <summary>Indianapolis, Indiana, United States · Other · Summer 2027</summary>
   </entry>
 </feed>

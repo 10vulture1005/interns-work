@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B7",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
     "company": "GE Healthcare",
     "title": "Client Service Technician Apprentice",
@@ -192,18 +204,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Pune---Margarpatta/Apprentice-Hiring-for-2026--2027_R0436077",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Pune - Margarpatta",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Margarpatta/Apprentice-Hiring-for-2026--2027_R0436077",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:viavisolutions:job/Chennai-IND/Apprentice---9_260004941",
     "company": "Viavi Solutions",
     "title": "Apprentice - 9",
@@ -212,6 +212,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---9_260004941",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:aksteel:job/Indiana-Harbor/Information-Technology-Intern_R13501",
+    "company": "Cleveland-Cliffs",
+    "title": "Information Technology Intern",
+    "location": "Indiana Harbor",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://aksteel.wd1.myworkdayjobs.com/en-US/careers/job/Indiana-Harbor/Information-Technology-Intern_R13501",
     "salary": null,
     "source": "workday"
   },
@@ -344,18 +356,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring--NCT_R0449404",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Hyderabad, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
     "salary": null,
     "source": "workday"
   },
@@ -660,18 +660,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:micron:job/Sanand---303A---ATSSDMOD-India/Technician-Apprentice_JR107694",
     "company": "Micron Technology",
     "title": "Technician Apprentice",
@@ -732,14 +720,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-825-1",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
     "company": "Vishay Intertechnology",
     "title": "Apprentice",
     "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-825-1",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
     "salary": null,
     "source": "workday"
   },
