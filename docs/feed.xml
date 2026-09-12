@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-12T02:40:45Z</updated>
+  <updated>2026-09-12T08:53:19Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Arista Networks — Intern Software Engineer - C/C++</title>
@@ -132,12 +132,6 @@
     <id>oracle:eevd.fa.us6.oraclecloud.com:2027455</id>
     <updated>2026-09-10T18:05:37Z</updated>
     <summary>Indianapolis, IN, United States · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-014" rel="alternate"/>
-    <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-014</id>
-    <updated>2026-09-10T18:05:37Z</updated>
-    <summary>Hyderabad, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Barnes &amp; Thornburg — 2027 BT RISE Internship - Information Technology Data Intern</title>
     <link href="https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>greenhouse:rubrik:8166537</id>
     <updated>2026-09-06T15:14:41Z</updated>
     <summary>Bangalore · Software · Term Unconfirmed</summary>
+  </entry>  <entry>
+    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
+    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010" rel="alternate"/>
+    <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010</id>
+    <updated>2026-09-04T13:04:53Z</updated>
+    <summary>Hyderabad, India · Other · Summer 2027</summary>
   </entry>
 </feed>

@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 12, 2026 at 02:40 UTC</em></p>
+  <p><em>Last updated: Sep 12, 2026 at 08:53 UTC</em></p>
 </div>
 
 ---
@@ -71,17 +71,18 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-12 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-12 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-12 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-12 |
 | Honeywell | Intern Masters Data Science | Summer 2027 | 2026-09-12 |
 | Amgen | Grad Intern – Data Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | Summer 2027 | 2026-09-12 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-12 |
 | State Street | Apprentice | Summer 2027 | 2026-09-12 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-12 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-12 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-12 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-09-12 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-12 |
 | Arista Networks | Intern Software Engineers - C/C++ | Summer 2027 | 2026-09-11 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-11 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-11 |
 | GE Healthcare | Intern Firmware | Summer 2027 | 2026-09-11 |
 | Liberty University | Quality Analyst Engineer Apprentice | Summer 2027 | 2026-09-11 |
@@ -90,7 +91,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | Valeo | R&D Trainee/Apprentice/VIE | Summer 2027 | 2026-09-11 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-11 |
 | F5 | Software Engineer Apprentice | Summer 2027 | 2026-09-11 |
-| S&P Global | Apprentice | Summer 2027 | 2026-09-11 |
 
 </details>
 

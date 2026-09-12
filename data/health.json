@@ -504,11 +504,6 @@
     "last_attempt_at": "2026-09-11T20:51:01Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/cti/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
-  "greenhouse:customcomputerspecialists": {
-    "consecutive_failures": 4,
-    "last_attempt_at": "2026-09-11T18:05:39Z",
-    "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/customcomputerspecialists/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/W"
-  },
   "greenhouse:darwinbox": {
     "consecutive_failures": 20,
     "last_attempt_at": "2026-09-11T20:51:01Z",
@@ -1299,15 +1294,10 @@
     "last_attempt_at": "2026-09-11T20:51:01Z",
     "last_error": "no connector for naukri"
   },
-  "oracle:ehth.fa.em2.oraclecloud.com": {
+  "oracle:edel.fa.us2.oraclecloud.com": {
     "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-12T02:40:44Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://ehth.fa.em2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
-  },
-  "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-12T02:40:44Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
+    "last_attempt_at": "2026-09-12T08:53:19Z",
+    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://edel.fa.us2.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionList.second"
   },
   "recruitee:1x": {
     "consecutive_failures": 20,
@@ -1363,11 +1353,6 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-09-11T20:51:01Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/qodeworld/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
-  "workable:quantexa": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-09-11T07:47:49Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/quantexa/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:raveaerospace": {
     "consecutive_failures": 6,
@@ -1485,8 +1470,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/sword-group/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:syntiant": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-09-11T07:47:49Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-09-12T08:53:19Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/syntiant/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/S"
   },
   "workable:szns": {
@@ -1640,8 +1625,8 @@
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/xodus-group/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:zaber": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-09-11T07:47:49Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-09-12T08:53:19Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/zaber/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Stat"
   },
   "workable:zaizi": {
