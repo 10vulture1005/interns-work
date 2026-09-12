@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-12T00:20:48Z</updated>
+  <updated>2026-09-12T02:40:45Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Arista Networks — Intern Software Engineer - C/C++</title>
@@ -12,6 +12,12 @@
     <id>smartrecruiters:AristaNetworks:744000149101159</id>
     <updated>2026-09-11T20:51:01Z</updated>
     <summary>Poland - Remote, PL (Remote) · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Amgen — Grad Intern – Data Engineer – Amgen’s Technology &amp; Medical Organizations (Summer 2027)</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742" rel="alternate"/>
+    <id>workday:amgen:job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742</id>
+    <updated>2026-09-11T20:51:01Z</updated>
+    <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Amgen — Grad Intern – Digital Product – Amgen’s Technology &amp; Medical Organizations (Summer 2027)</title>
     <link href="https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744" rel="alternate"/>
@@ -48,12 +54,6 @@
     <id>ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6</id>
     <updated>2026-09-11T18:05:39Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Amgen — Grad Intern – Data Engineer – Amgen’s Technology &amp; Medical Organizations (Summer 2027)</title>
-    <link href="https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725" rel="alternate"/>
-    <id>workday:amgen:job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725</id>
-    <updated>2026-09-11T18:05:39Z</updated>
-    <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Amgen — Grad Intern – Data Scientist – Amgen’s Technology &amp; Medical Organizations (Summer 2027)</title>
     <link href="https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722" rel="alternate"/>
@@ -127,12 +127,6 @@
     <updated>2026-09-10T20:55:37Z</updated>
     <summary>Durham, NC (Hybrid); Emeryville, CA (Hybrid) · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Honeywell — Intern Masters Data Science</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157576" rel="alternate"/>
-    <id>oracle:ibqbjb.fa.ocs.oraclecloud.com:157576</id>
-    <updated>2026-09-10T20:55:37Z</updated>
-    <summary>Bengaluru, Karnataka, India · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
     <title>Hearst — Software Engineering Intern</title>
     <link href="https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2027455" rel="alternate"/>
     <id>oracle:eevd.fa.us6.oraclecloud.com:2027455</id>
@@ -174,12 +168,6 @@
     <id>workday:msd:job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414761</id>
     <updated>2026-09-10T09:09:27Z</updated>
     <summary>IND - Telangana - Hyderabad (Hitec City Raidurg) · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>State Street — Apprentice</title>
-    <link href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797644" rel="alternate"/>
-    <id>workday:statestreet:job/Bangalore-India/Apprentice_R-797644</id>
-    <updated>2026-09-10T09:09:27Z</updated>
-    <summary>Bangalore, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Allegion — Summer Intern - Firmware Engineer</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1" rel="alternate"/>
@@ -306,5 +294,17 @@
     <id>workday:db:job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring--NCT_R0449404</id>
     <updated>2026-09-07T07:27:48Z</updated>
     <summary>Pune - Business Bay · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Rubrik — Software Engineer - Winter Intern</title>
+    <link href="https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523" rel="alternate"/>
+    <id>greenhouse:rubrik:8166523</id>
+    <updated>2026-09-06T15:14:41Z</updated>
+    <summary>Bangalore · Software · Term Unconfirmed</summary>
+  </entry>  <entry>
+    <title>Rubrik — Software Engineer (CPD) - Winter Intern</title>
+    <link href="https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537" rel="alternate"/>
+    <id>greenhouse:rubrik:8166537</id>
+    <updated>2026-09-06T15:14:41Z</updated>
+    <summary>Bangalore · Software · Term Unconfirmed</summary>
   </entry>
 </feed>
