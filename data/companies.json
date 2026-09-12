@@ -3026,6 +3026,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Baidu USA",
+    "slug": "baidu",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Bain Capital",
     "slug": "baincapital",
     "ats": "workday",
@@ -9989,6 +9994,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Fortune Brands",
+    "slug": "FortuneBrands",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Forus",
     "slug": "forus",
     "ats": "ashby"
@@ -15934,6 +15944,11 @@
     "job_link_pattern": "job"
   },
   {
+    "name": "MegazoneCloud",
+    "slug": "megazone",
+    "ats": "ashby"
+  },
+  {
     "name": "Megger",
     "slug": "megger",
     "ats": "workday",
@@ -16389,6 +16404,11 @@
     "name": "Mirage",
     "slug": "mirage",
     "ats": "ashby"
+  },
+  {
+    "name": "Mirantis",
+    "slug": "Mirantis",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Mirego",
@@ -18277,6 +18297,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "onedigital"
+  },
+  {
+    "name": "OneImaging",
+    "slug": "oneimaging",
+    "ats": "greenhouse"
   },
   {
     "name": "OneMain Financial",
@@ -27695,6 +27720,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External"
+  },
+  {
+    "name": "Xcimer Energy",
+    "slug": "xcimer",
+    "ats": "lever"
   },
   {
     "name": "Xebia",
