@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-12T08:53:19Z</updated>
+  <updated>2026-09-12T13:51:20Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Arista Networks — Intern Software Engineer - C/C++</title>
@@ -109,12 +109,6 @@
     <updated>2026-09-11T13:08:46Z</updated>
     <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Deutsche Bank — Apprentice Hiring for 2026- 2027</title>
-    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Margarpatta/Apprentice-Hiring-for-2026--2027_R0436077" rel="alternate"/>
-    <id>workday:db:job/Pune---Margarpatta/Apprentice-Hiring-for-2026--2027_R0436077</id>
-    <updated>2026-09-11T13:08:46Z</updated>
-    <summary>Pune - Margarpatta · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Viavi Solutions — Apprentice - 9</title>
     <link href="https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---9_260004941" rel="alternate"/>
     <id>workday:viavisolutions:job/Chennai-IND/Apprentice---9_260004941</id>
@@ -132,6 +126,12 @@
     <id>oracle:eevd.fa.us6.oraclecloud.com:2027455</id>
     <updated>2026-09-10T18:05:37Z</updated>
     <summary>Indianapolis, IN, United States · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
+    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-014" rel="alternate"/>
+    <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-014</id>
+    <updated>2026-09-10T18:05:37Z</updated>
+    <summary>Hyderabad, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Barnes &amp; Thornburg — 2027 BT RISE Internship - Information Technology Data Intern</title>
     <link href="https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0" rel="alternate"/>
@@ -157,11 +157,11 @@
     <updated>2026-09-10T14:37:42Z</updated>
     <summary>Indiana Harbor · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Merck — Information Technology Intern</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414761" rel="alternate"/>
-    <id>workday:msd:job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414761</id>
+    <title>State Street — Apprentice</title>
+    <link href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797644" rel="alternate"/>
+    <id>workday:statestreet:job/Bangalore-India/Apprentice_R-797644</id>
     <updated>2026-09-10T09:09:27Z</updated>
-    <summary>IND - Telangana - Hyderabad (Hitec City Raidurg) · Other · Summer 2027</summary>
+    <summary>Bangalore, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Allegion — Summer Intern - Firmware Engineer</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1" rel="alternate"/>
@@ -301,10 +301,10 @@
     <updated>2026-09-06T15:14:41Z</updated>
     <summary>Bangalore · Software · Term Unconfirmed</summary>
   </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010" rel="alternate"/>
-    <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010</id>
+    <title>Magna International — Maintenance Apprentice-2</title>
+    <link href="https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165" rel="alternate"/>
+    <id>workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165</id>
     <updated>2026-09-04T13:04:53Z</updated>
-    <summary>Hyderabad, India · Other · Summer 2027</summary>
+    <summary>Muncie, Indiana, US · Other · Summer 2027</summary>
   </entry>
 </feed>
