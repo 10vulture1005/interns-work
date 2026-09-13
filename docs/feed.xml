@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-13T00:15:21Z</updated>
+  <updated>2026-09-13T02:42:32Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Arista Networks — Intern Software Engineer - C/C++</title>
@@ -157,12 +157,6 @@
     <updated>2026-09-10T14:37:42Z</updated>
     <summary>Indiana Harbor · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>State Street — Apprentice</title>
-    <link href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797644" rel="alternate"/>
-    <id>workday:statestreet:job/Bangalore-India/Apprentice_R-797644</id>
-    <updated>2026-09-10T09:09:27Z</updated>
-    <summary>Bangalore, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Allegion — Summer Intern - Firmware Engineer</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1" rel="alternate"/>
     <id>workday:allegion:job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1</id>
@@ -306,5 +300,11 @@
     <id>workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010</id>
     <updated>2026-09-04T13:04:53Z</updated>
     <summary>Hyderabad, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Magna International — Maintenance Apprentice-2</title>
+    <link href="https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165" rel="alternate"/>
+    <id>workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165</id>
+    <updated>2026-09-04T13:04:53Z</updated>
+    <summary>Muncie, Indiana, US · Other · Summer 2027</summary>
   </entry>
 </feed>
