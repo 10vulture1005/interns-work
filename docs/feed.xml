@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-13T02:42:32Z</updated>
+  <updated>2026-09-13T07:59:32Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Arista Networks — Intern Software Engineer - C/C++</title>
@@ -253,12 +253,6 @@
     <updated>2026-09-08T18:21:51Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Weatherford — Intern -Supplier Quality Analyst &amp; Digital Transformation</title>
-    <link href="https://fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/107430" rel="alternate"/>
-    <id>oracle:fa-exmi-saasfaprod1.fa.ocs.oraclecloud.com:107430</id>
-    <updated>2026-09-08T13:02:18Z</updated>
-    <summary>Mumbai, Maharashtra, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>GoTo Group — DevOps Intern (fixed term, 8 months)</title>
     <link href="https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Hungary/DevOps-Intern_R26-2270-1" rel="alternate"/>
     <id>workday:goto:job/Remote-Hungary/DevOps-Intern_R26-2270-1</id>
@@ -306,5 +300,11 @@
     <id>workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165</id>
     <updated>2026-09-04T13:04:53Z</updated>
     <summary>Muncie, Indiana, US · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Citi — Young Apprentice - C00 - PUNE</title>
+    <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305" rel="alternate"/>
+    <id>workday:citi:job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305</id>
+    <updated>2026-09-04T07:25:38Z</updated>
+    <summary>Pune Maharashtra India · Other · Summer 2027</summary>
   </entry>
 </feed>
