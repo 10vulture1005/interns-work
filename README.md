@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 12, 2026 at 22:26 UTC</em></p>
+  <p><em>Last updated: Sep 13, 2026 at 00:15 UTC</em></p>
 </div>
 
 ---
@@ -71,14 +71,14 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| State Street | Apprentice | Summer 2027 | 2026-09-13 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-13 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-12 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-12 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-12 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-12 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-12 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-12 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-12 |
-| State Street | Apprentice | Summer 2027 | 2026-09-12 |
 | Merck | Information Technology Intern | Summer 2027 | 2026-09-12 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-12 |
 | Honeywell | Intern Masters Data Science | Summer 2027 | 2026-09-12 |
