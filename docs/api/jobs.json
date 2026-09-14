@@ -12,14 +12,74 @@
     "source": "workday"
   },
   {
-    "id": "workday:gehc:job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
-    "company": "GE Healthcare",
-    "title": "Client Service Technician Apprentice",
-    "location": "Remote",
-    "category": "Other",
+    "id": "workday:wexinc:job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+    "company": "Wex",
+    "title": "Fullstack Software Engineer Intern (Undergraduate)",
+    "location": "US - Remote",
+    "category": "Software",
     "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Client-Service-Technician-Apprentice_R4043115-1",
+    "posted_at": "Posted Today",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+    "company": "Wex",
+    "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+    "company": "Wex",
+    "title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+    "company": "Wex",
+    "title": "DevOps & Backend Software Engineer Intern (Undergraduate)",
+    "location": "US - Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+    "company": "Wex",
+    "title": "Backend Software Engineer Intern - Java & AI (Master’s)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:wexinc:job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+    "company": "Wex",
+    "title": "Software Engineer Intern – AI & Cloud (Graduate/Master’s)",
+    "location": "US - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
     "salary": null,
     "source": "workday"
   },
@@ -60,6 +120,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
+    "company": "Amgen",
+    "title": "Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027)",
+    "location": "United States - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744",
     "company": "Amgen",
     "title": "Grad Intern – Digital Product – Technology, AI & Data (Summer 2027)",
@@ -86,9 +158,9 @@
   {
     "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
     "company": "Amgen",
-    "title": "Grad Intern – Software Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)",
+    "title": "Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027)",
     "location": "United States - Remote",
-    "category": "Software",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
@@ -116,18 +188,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
-    "company": "Amgen",
-    "title": "Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
     "salary": null,
     "source": "workday"
   },
@@ -182,7 +242,7 @@
   {
     "id": "workday:amgen:job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
     "company": "Amgen",
-    "title": "Undergrad Intern – Machine Learning Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)",
+    "title": "Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)",
     "location": "United States - Remote",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
@@ -248,42 +308,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---9_260004941",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:aksteel:job/Indiana-Harbor/Information-Technology-Intern_R13501",
-    "company": "Cleveland-Cliffs",
-    "title": "Information Technology Intern",
-    "location": "Indiana Harbor",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://aksteel.wd1.myworkdayjobs.com/en-US/careers/job/Indiana-Harbor/Information-Technology-Intern_R13501",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:novartis:job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
-    "company": "Novartis",
-    "title": "Intern Data Science",
-    "location": "Hyderabad (Office)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://novartis.wd3.myworkdayjobs.com/en-US/Novartis_Careers/job/Hyderabad-Office/Intern-Data-Science_REQ-10087679-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-797644",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797644",
     "salary": null,
     "source": "workday"
   },
@@ -468,18 +492,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
-    "company": "CACI",
-    "title": "Business/Systems Analyst Intern - Summer 2027",
-    "location": "Remote (Any State)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:hitachi:job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1",
     "company": "Hitachi Energy",
     "title": "Internship - Software Asset Management",
@@ -648,18 +660,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
-    "company": "Cox",
-    "title": "Inspector Apprentice (Manheim)",
-    "location": "Indianapolis IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
     "company": "Allstate Insurance Company",
     "title": "Pricing Actuarial Analyst Intern",
@@ -756,6 +756,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -776,6 +788,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -896,18 +920,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
