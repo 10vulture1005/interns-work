@@ -12,14 +12,26 @@
     "source": "workday"
   },
   {
-    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai Nirlon Know. Pk B7",
+    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-163756",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Mumbai.Embassy 247 Park",
     "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/ICOO-Apprentice-role-2026_R0441983",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-163756",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cat:job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-12_R0000391004",
+    "company": "Caterpillar Inc.",
+    "title": "India Production Apprentice-12",
+    "location": "Thiruvallur, Tamil Nadu",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-12_R0000391004",
     "salary": null,
     "source": "workday"
   },
@@ -32,18 +44,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:spgi:job/Hyderabad-Telangana/Apprentice_328493-1",
-    "company": "S&P Global",
-    "title": "Apprentice",
-    "location": "Hyderabad, Telangana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Hyderabad-Telangana/Apprentice_328493-1",
     "salary": null,
     "source": "workday"
   },
@@ -732,18 +732,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/SNC-Lavalin-Atkins-Pune-Office/Apprentice_R-162403",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "SNC-Lavalin Atkins Pune Office",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/SNC-Lavalin-Atkins-Pune-Office/Apprentice_R-162403",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:citi:job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
     "company": "Citi",
     "title": "Services – Summer Analyst, India, 2027",
@@ -752,6 +740,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415807",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai Nirlon Know. Pk B4-B5",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415807",
     "salary": null,
     "source": "workday"
   },
@@ -864,14 +864,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-825-1",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-5848",
     "company": "Vishay Intertechnology",
     "title": "Apprentice",
     "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-825-1",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-5848",
     "salary": null,
     "source": "workday"
   },
@@ -896,6 +896,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -1306,6 +1318,18 @@
     "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537",
     "salary": null,
     "source": "greenhouse"
+  },
+  {
+    "id": "oracle:hccz.fa.em3.oraclecloud.com:25530",
+    "company": "Pearson",
+    "title": "Content Producer, Apprentice",
+    "location": "Noida, Uttar Pradesh, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-04",
+    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25530",
+    "salary": null,
+    "source": "oracle"
   },
   {
     "id": "smartrecruiters:InfiniteQuant:744000147163879",
