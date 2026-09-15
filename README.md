@@ -10,21 +10,20 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 15, 2026 at 18:29 UTC</em></p>
+  <p><em>Last updated: Sep 15, 2026 at 21:14 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>9 open</kbd>
+## Summer 2027 (India) <kbd>8 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
 | **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26989494) |
-| **GE Healthcare** | Intern Firmware <sup>~</sup> | `Software` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
 | **Citi** | Services – Summer Analyst, India, 2027 | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
@@ -62,14 +61,17 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (20 of 24)._
+_~ = the title doesn't state a year; bucketed here from its posting date (19 of 23)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-15 |
+| Caterpillar Inc. | India Production Apprentice-12 | Summer 2027 | 2026-09-15 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-15 |
+| GE Healthcare | Intern Firmware | Summer 2027 | 2026-09-15 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-15 |
 | Cambium Learning Group | Software Engineer Intern – AI Applications | Summer 2027 | 2026-09-15 |
 | Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-15 |
 | GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-09-15 |
@@ -82,13 +84,10 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-15 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-15 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-15 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-15 |
 | Parsons | Software Developer Intern - Fall 2026/Spring 2027 | Fall 2026 | 2026-09-15 |
 | Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-14 |
 | Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-09-14 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-14 |
-| Novartis | Intern Data Science | Summer 2027 | 2026-09-14 |
-| State Street | Apprentice | Summer 2027 | 2026-09-14 |
 
 </details>
 

@@ -12,14 +12,50 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
+    "id": "workday:acxiomllc:job/RemoteHomebased/Intern---Data-Engineer_JR014482",
+    "company": "Acxiom",
+    "title": "Intern - Data Engineer",
+    "location": "Remote/Homebased",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://acxiomllc.wd5.myworkdayjobs.com/en-US/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-004",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice",
     "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-004",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:newperkinelmer:job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421",
+    "company": "PerkinElmer",
+    "title": "Data Science Intern, Asset Intelligence",
+    "location": "US Remote - NY",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://newperkinelmer.wd1.myworkdayjobs.com/en-US/External/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:calibercollision:job/PT-North-Indianapolis/Automotive-ADAS-Calibration-Technician-Apprentice_R0224365",
+    "company": "Protech Automotive Solutions",
+    "title": "Automotive ADAS Calibration Technician Apprentice",
+    "location": "2 Locations   |   PT-North Indianapolis",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://calibercollision.wd1.myworkdayjobs.com/en-US/protech/job/PT-North-Indianapolis/Automotive-ADAS-Calibration-Technician-Apprentice_R0224365",
     "salary": null,
     "source": "workday"
   },
@@ -80,30 +116,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:calibercollision:job/PT-North-Indianapolis/Automotive-ADAS-Calibration-Technician-Apprentice_R0224365",
-    "company": "Protech Automotive Solutions",
-    "title": "Automotive ADAS Calibration Technician Apprentice",
-    "location": "2 Locations   |   PT-North Indianapolis",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://calibercollision.wd1.myworkdayjobs.com/en-US/protech/job/PT-North-Indianapolis/Automotive-ADAS-Calibration-Technician-Apprentice_R0224365",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cat:job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-12_R0000391004",
-    "company": "Caterpillar Inc.",
-    "title": "India Production Apprentice-12",
-    "location": "Thiruvallur, Tamil Nadu",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice-12_R0000391004",
     "salary": null,
     "source": "workday"
   },
@@ -440,18 +452,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26989494",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gehc:job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
-    "company": "GE Healthcare",
-    "title": "Intern Firmware",
-    "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Firmware_R4039981-1",
     "salary": null,
     "source": "workday"
   },
@@ -912,6 +912,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -932,6 +944,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -1052,18 +1076,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
