@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 14, 2026 at 21:44 UTC</em></p>
+  <p><em>Last updated: Sep 15, 2026 at 00:46 UTC</em></p>
 </div>
 
 ---
@@ -68,20 +68,20 @@ _~ = the title doesn't state a year; bucketed here from its posting date (19 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Cleveland-Cliffs | Information Technology Intern | Summer 2027 | 2026-09-14 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-15 |
+| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-15 |
+| Parsons | Software Developer Intern - Fall 2026/Spring 2027 | Fall 2026 | 2026-09-15 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-15 |
 | Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-14 |
-| CACI | Business/Systems Analyst Intern - Summer 2027 | Summer 2027 | 2026-09-14 |
 | Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-09-14 |
 | GE Healthcare | Client Service Technician Apprentice | Summer 2027 | 2026-09-14 |
 | Novartis | Intern Data Science | Summer 2027 | 2026-09-14 |
 | State Street | Apprentice | Summer 2027 | 2026-09-14 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-14 |
 | American Express | Apprentice | Summer 2027 | 2026-09-14 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-14 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-14 |
 | Target | Apprentice - Technology | Summer 2027 | 2026-09-14 |
 | TNS | RTR Apprentice Accountant | Summer 2027 | 2026-09-14 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-14 |
 | GoTo Group | DevOps Intern (fixed term, 8 months) | Summer 2027 | 2026-09-14 |
 | Target | Apprentice - Retail Ops | Summer 2027 | 2026-09-14 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-13 |
