@@ -2265,6 +2265,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Artificial.Agency",
+    "slug": "artificial",
+    "ats": "ashby"
+  },
+  {
     "name": "Arvinas",
     "slug": "arvinas",
     "ats": "greenhouse"
@@ -9256,6 +9261,11 @@
     "site": "fanthreesixty"
   },
   {
+    "name": "Fanvue",
+    "slug": "fanvue",
+    "ats": "ashby"
+  },
+  {
     "name": "Faraday Future",
     "slug": "faradayfuture",
     "ats": "greenhouse"
@@ -13603,6 +13613,11 @@
     "site": "ThomasJeffersonExternal"
   },
   {
+    "name": "JeffreyM Consulting",
+    "slug": "jeffreym-consulting",
+    "ats": "workable"
+  },
+  {
     "name": "Jencap",
     "slug": "jencapinc",
     "ats": "greenhouse"
@@ -16775,6 +16790,11 @@
     "site": "moss_careers"
   },
   {
+    "name": "Motia",
+    "slug": "motia",
+    "ats": "workable"
+  },
+  {
     "name": "Motive",
     "slug": "motive",
     "ats": "greenhouse"
@@ -18797,6 +18817,11 @@
     "name": "PA Consulting",
     "slug": "PAConsulting",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Pace",
+    "slug": "withpace",
+    "ats": "ashby"
   },
   {
     "name": "Pacific Fusion",
@@ -23771,6 +23796,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Superhuman",
+    "slug": "superhuman",
+    "ats": "ashby"
+  },
+  {
     "name": "Supernova Technology",
     "slug": "supernova-technology",
     "ats": "rippling"
@@ -24240,6 +24270,11 @@
     "name": "Tecovas",
     "slug": "tecovas",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Tecsa",
+    "slug": "tecsa",
+    "ats": "workable"
   },
   {
     "name": "Teesta",
@@ -27570,6 +27605,11 @@
     "name": "Works Applications",
     "slug": "careers-at-works-applications",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Workshop",
+    "slug": "workshop",
+    "ats": "greenhouse"
   },
   {
     "name": "Workstream",
