@@ -4,9 +4,15 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-16T19:53:21Z</updated>
+  <updated>2026-09-16T23:09:35Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Twilio — Software Engineer Intern (January 12th start, 23 weeks)</title>
+    <link href="https://job-boards.greenhouse.io/twilio/jobs/8190889" rel="alternate"/>
+    <id>greenhouse:twilio:8190889</id>
+    <updated>2026-09-16T23:09:35Z</updated>
+    <summary>Remote - India · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Wabash Valley Power Alliance — Technology &amp; Compliance Internship - Summer 2027</title>
     <link href="https://jobs.smartrecruiters.com/WabashValleyPowerAlliance/744000149875759" rel="alternate"/>
     <id>smartrecruiters:WabashValleyPowerAlliance:744000149875759</id>
@@ -54,6 +60,12 @@
     <id>workday:calibercollision:job/PT-North-Indianapolis/Automotive-ADAS-Calibration-Technician-Apprentice_R0224365</id>
     <updated>2026-09-15T18:29:13Z</updated>
     <summary>2 Locations   |   PT-North Indianapolis · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>CWAN — Software Development Intern</title>
+    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191" rel="alternate"/>
+    <id>workday:clearwateranalytics:job/Office---Mumbai/Software-Development-Intern_R12191</id>
+    <updated>2026-09-15T18:29:13Z</updated>
+    <summary>Office - Mumbai · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Cushman &amp; Wakefield — EIC Apprentice</title>
     <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019" rel="alternate"/>
@@ -253,12 +265,6 @@
     <updated>2026-09-11T18:05:39Z</updated>
     <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Amgen — Undergrad Intern – Software Engineer – Technology, AI &amp; Data (Summer 2027)</title>
-    <link href="https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719" rel="alternate"/>
-    <id>workday:amgen:job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719</id>
-    <updated>2026-09-11T18:05:39Z</updated>
-    <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
     <title>Voya Financial — Summer 2027 Technology Intern</title>
     <link href="https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187" rel="alternate"/>
     <id>workday:godirect:job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187</id>
@@ -300,11 +306,5 @@
     <id>ashby:barnes:af9258a6-b6e6-4714-92dc-a9952c0590a7</id>
     <updated>2026-09-10T14:37:42Z</updated>
     <summary>Indianapolis · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Barnes &amp; Thornburg — 2027 BT RISE Internship - Information Security</title>
-    <link href="https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177" rel="alternate"/>
-    <id>ashby:barnes:c77ef2c2-6aeb-4350-9fd4-842931c14177</id>
-    <updated>2026-09-10T14:37:42Z</updated>
-    <summary>Indianapolis · Other · Summer 2027</summary>
   </entry>
 </feed>

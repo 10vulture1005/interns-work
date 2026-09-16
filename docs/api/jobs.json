@@ -96,6 +96,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:clearwateranalytics:job/Office---Mumbai/Software-Development-Intern_R12191",
+    "company": "CWAN",
+    "title": "Software Development Intern",
+    "location": "Office - Mumbai",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice",
@@ -452,18 +464,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
-    "company": "Amgen",
-    "title": "Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
     "salary": null,
     "source": "workday"
   },
@@ -924,18 +924,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "company": "Campbellsoup",
     "title": "Agentic AI Engineer Co-Op",
@@ -1126,6 +1114,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:twilio:8190889",
+    "company": "Twilio",
+    "title": "Software Engineer Intern (January 12th start, 23 weeks)",
+    "location": "Remote - India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-16T14:54:18-04:00",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8190889",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "smartrecruiters:WabashValleyPowerAlliance:744000149875759",
