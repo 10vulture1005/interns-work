@@ -4,9 +4,21 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-16T02:58:26Z</updated>
+  <updated>2026-09-16T09:38:57Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Citi — Young Apprentice - C00 - MUMBAI</title>
+    <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976241" rel="alternate"/>
+    <id>workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976241</id>
+    <updated>2026-09-16T09:38:57Z</updated>
+    <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Pfizer — Intern - Data Science &amp; AI</title>
+    <link href="https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Mumbai/Intern---Data-Science---AI_4963079" rel="alternate"/>
+    <id>workday:pfizer:job/India---Mumbai/Intern---Data-Science---AI_4963079</id>
+    <updated>2026-09-16T09:38:57Z</updated>
+    <summary>India - Mumbai · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Magna International — Controls Apprentice</title>
     <link href="https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Controls-Apprentice_R00260453" rel="alternate"/>
     <id>workday:magna:job/Muncie-Indiana-US/Controls-Apprentice_R00260453</id>
@@ -139,18 +151,6 @@
     <updated>2026-09-14T21:44:48Z</updated>
     <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Cushman &amp; Wakefield — Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Apprentice_R323129" rel="alternate"/>
-    <id>workday:cw:job/Bengaluru-India/Apprentice_R323129</id>
-    <updated>2026-09-14T16:43:12Z</updated>
-    <summary>Bengaluru, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>RTX — Software Engineering Intern (Summer 2027)</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145" rel="alternate"/>
-    <id>workday:globalhr:job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145</id>
-    <updated>2026-09-14T16:43:12Z</updated>
-    <summary>US-IN-INDIANAPOLIS-206 ~ 3939 Priority Way S Dr ~ PRIORITY BLDG 6 · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>Arista Networks — Intern Software Engineer - C/C++</title>
     <link href="https://jobs.smartrecruiters.com/AristaNetworks/744000149101159" rel="alternate"/>
     <id>smartrecruiters:AristaNetworks:744000149101159</id>
@@ -247,12 +247,6 @@
     <updated>2026-09-11T13:08:46Z</updated>
     <summary>Gurugram, HR, India · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Citi — Young Apprentice - C00 - MUMBAI</title>
-    <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26989494" rel="alternate"/>
-    <id>workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26989494</id>
-    <updated>2026-09-11T13:08:46Z</updated>
-    <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Viavi Solutions — Apprentice - 9</title>
     <link href="https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---9_260004941" rel="alternate"/>
     <id>workday:viavisolutions:job/Chennai-IND/Apprentice---9_260004941</id>
@@ -306,5 +300,11 @@
     <id>workday:intel:job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850</id>
     <updated>2026-09-09T22:47:26Z</updated>
     <summary>Virtual Canada · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>TruStage — Enterprise Information &amp; Technology Internship (Hybrid)</title>
+    <link href="https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155" rel="alternate"/>
+    <id>workday:trustage:job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155</id>
+    <updated>2026-09-09T19:35:55Z</updated>
+    <summary>Wisconsin - Remote · Other · Summer 2027</summary>
   </entry>
 </feed>
