@@ -12,18 +12,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Chennai, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:geaerospace:job/Bengaluru/Data-Science-Intern_R5040035-1",
     "company": "GE Aerospace",
     "title": "Data Science Intern",
@@ -56,18 +44,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976241",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:pfizer:job/India---Mumbai/Intern---Data-Science---AI_4963079",
-    "company": "Pfizer",
-    "title": "Intern - Data Science & AI",
-    "location": "India - Mumbai",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/India---Mumbai/Intern---Data-Science---AI_4963079",
     "salary": null,
     "source": "workday"
   },
@@ -120,14 +96,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:clearwateranalytics:job/Office---Mumbai/Software-Development-Intern_R12191",
-    "company": "CWAN",
-    "title": "Software Development Intern",
-    "location": "Office - Mumbai",
-    "category": "Software",
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
     "salary": null,
     "source": "workday"
   },
@@ -792,18 +768,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:igsenergy:job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298",
-    "company": "IGS Energy",
-    "title": "Business Analyst Intern (Summer 2027)",
-    "location": "Ohio Remote",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Business-Analyst-Intern--Summer-2027-_R6298",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:igsenergy:job/Ohio-Remote/Software-Engineer-Intern_R6263",
     "company": "IGS Energy",
     "title": "Software Engineer Intern",
@@ -848,30 +812,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B4-B5/Apprentice_R0415807",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:spgi:job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
-    "company": "S&P Global",
-    "title": "Apprentice, Data Operations",
-    "location": "Ahmedabad, Gujarat",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice--Data-Operations_331333-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:workday:job/INDChennai/Software-Development-Engineer---Intern_JR-0109537",
-    "company": "Workday",
-    "title": "Software Development Engineer - Intern",
-    "location": "IND.Chennai",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537",
     "salary": null,
     "source": "workday"
   },
@@ -960,18 +900,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -992,6 +920,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -1112,6 +1052,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },

@@ -10,22 +10,21 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-22-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 16, 2026 at 15:09 UTC</em></p>
+  <p><em>Last updated: Sep 16, 2026 at 19:53 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>8 open</kbd>
+## Summer 2027 (India) <kbd>7 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
 | **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26976241) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
-| **Workday** | Software Development Engineer - Intern <sup>~</sup> | `Software` | IND.Chennai | Posted Tod | [Apply ↗](https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/INDChennai/Software-Development-Engineer---Intern_JR-0109537) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Ixigo** | Full-Stack Intern - B2B <sup>~</sup> | `Software` | Gurugram, HR, India | 2026-09-11 | [Apply ↗](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
@@ -61,33 +60,33 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (20 of 23)._
+_~ = the title doesn't state a year; bucketed here from its posting date (19 of 22)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-16 |
+| CWAN | Software Development Intern | Summer 2027 | 2026-09-16 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-16 |
+| IGS Energy | Business Analyst Intern (Summer 2027) | Summer 2027 | 2026-09-16 |
+| Pfizer | Intern - Data Science & AI | Summer 2027 | 2026-09-16 |
+| S&P Global | Apprentice, Data Operations | Summer 2027 | 2026-09-16 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-16 |
+| Workday | Software Development Engineer - Intern | Summer 2027 | 2026-09-16 |
 | TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-09-16 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-16 |
 | Citi | Services – Summer Analyst, India, 2027 | Summer 2027 | 2026-09-16 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-09-16 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-16 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-16 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-16 |
 | Caterpillar Inc. | India Production Apprentice-12 | Summer 2027 | 2026-09-15 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-15 |
 | GE Healthcare | Intern Firmware | Summer 2027 | 2026-09-15 |
 | Cambium Learning Group | Software Engineer Intern – AI Applications | Summer 2027 | 2026-09-15 |
 | Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-15 |
 | GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-09-15 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-15 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-15 |
-| S&P Global | Apprentice | Summer 2027 | 2026-09-15 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-15 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-15 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-15 |
 
 </details>
 
