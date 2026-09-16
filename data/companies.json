@@ -5291,6 +5291,11 @@
     "site": "Brambles_Careers"
   },
   {
+    "name": "Cherry Technologies",
+    "slug": "withcherry",
+    "ats": "ashby"
+  },
+  {
     "name": "Chevron Corporation",
     "slug": "chevron",
     "ats": "workday",
@@ -6486,6 +6491,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "copeland_external_careers_page"
+  },
+  {
+    "name": "Coram AI",
+    "slug": "coram-ai",
+    "ats": "ashby"
   },
   {
     "name": "Corcept Therapeutics",
@@ -8013,6 +8023,11 @@
   {
     "name": "Duolingo",
     "slug": "duolingo",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Duolingo",
+    "slug": "duolingounirecruitment",
     "ats": "greenhouse"
   },
   {
@@ -12088,6 +12103,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Hometap",
+    "slug": "hometapjobs",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Homey",
     "slug": "homey",
     "ats": "workable"
@@ -15423,6 +15443,11 @@
     "site": "Mets"
   },
   {
+    "name": "Major League Baseball",
+    "slug": "clevelandguardiansbops",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Makai Labs",
     "slug": "makai-labs",
     "ats": "ashby"
@@ -18588,6 +18613,11 @@
     "ats": "lever"
   },
   {
+    "name": "Oratomic",
+    "slug": "oratomic",
+    "ats": "ashby"
+  },
+  {
     "name": "Orb",
     "slug": "orb",
     "ats": "ashby"
@@ -19923,6 +19953,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "PressW",
+    "slug": "pressw",
+    "ats": "ashby"
+  },
+  {
     "name": "Priceline",
     "slug": "priceline",
     "ats": "workday",
@@ -21138,6 +21173,11 @@
     "ats": "lever"
   },
   {
+    "name": "Rilla",
+    "slug": "rilla",
+    "ats": "ashby"
+  },
+  {
     "name": "RingCentral",
     "slug": "ringcentral",
     "ats": "workday",
@@ -21230,6 +21270,11 @@
     "wd": "wd1",
     "site": "careers",
     "host": "wd1.myworkdaysite.com"
+  },
+  {
+    "name": "RoadRunner",
+    "slug": "roadrunner",
+    "ats": "ashby"
   },
   {
     "name": "RoadRunner Recycling",
