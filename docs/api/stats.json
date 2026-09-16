@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T00:34:07Z",
-  "duration_seconds": 2687.9,
+  "generated_at": "2026-09-16T02:58:26Z",
+  "duration_seconds": 2456.9,
   "companies_total": 5014,
   "companies_by_source": {
     "greenhouse": 1104,
@@ -29,15 +29,14 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 299,
-  "fetched_ok": 4711,
-  "fetch_errors": 4,
+  "quarantined": 301,
+  "fetched_ok": 4688,
+  "fetch_errors": 25,
   "errors_by_source": {
     "lever": 1,
-    "ashby": 2,
-    "instahyre": 1
+    "workable": 24
   },
-  "fetch_success_rate": 0.999,
+  "fetch_success_rate": 0.995,
   "roles_matched": 130,
   "roles_by_source": {
     "greenhouse": 15,
@@ -54,10 +53,10 @@
     "Term Unconfirmed": 3
   },
   "roles_by_region": {
-    "Remote": 66,
-    "India": 64
+    "Remote": 65,
+    "India": 65
   },
   "purged_this_run": 0,
-  "new_this_run": 0,
+  "new_this_run": 1,
   "open_total": 131
 }
