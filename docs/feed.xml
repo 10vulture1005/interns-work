@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-15T21:14:13Z</updated>
+  <updated>2026-09-16T00:34:07Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Acxiom — Intern - Data Engineer</title>
@@ -12,12 +12,6 @@
     <id>workday:acxiomllc:job/RemoteHomebased/Intern---Data-Engineer_JR014482</id>
     <updated>2026-09-15T21:14:13Z</updated>
     <summary>Remote/Homebased · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-004" rel="alternate"/>
-    <id>workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-004</id>
-    <updated>2026-09-15T21:14:13Z</updated>
-    <summary>CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>PerkinElmer — Data Science Intern, Asset Intelligence</title>
     <link href="https://newperkinelmer.wd1.myworkdayjobs.com/en-US/External/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workday:intel:job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850</id>
     <updated>2026-09-09T22:47:26Z</updated>
     <summary>Virtual Canada · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>TruStage — Enterprise Information &amp; Technology Internship (Hybrid)</title>
+    <link href="https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155" rel="alternate"/>
+    <id>workday:trustage:job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155</id>
+    <updated>2026-09-09T19:35:55Z</updated>
+    <summary>Wisconsin - Remote · Other · Summer 2027</summary>
   </entry>
 </feed>
