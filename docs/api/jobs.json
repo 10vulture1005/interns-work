@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:geaerospace:job/Bengaluru/Data-Science-Intern_R5040035-1",
     "company": "GE Aerospace",
     "title": "Data Science Intern",
@@ -104,18 +116,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
     "salary": null,
     "source": "workday"
   },
@@ -468,6 +468,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:amgen:job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
+    "company": "Amgen",
+    "title": "Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027)",
+    "location": "United States - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:godirect:job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187",
     "company": "Voya Financial",
     "title": "Summer 2027 Technology Intern",
@@ -536,18 +548,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:gevernova:job/Remote/Grid-Automation---Software-Intern_R5052362",
-    "company": "Gevernova",
-    "title": "Grid Automation & Software Intern",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5052362",
     "salary": null,
     "source": "workday"
   },
@@ -1368,16 +1368,16 @@
     "source": "greenhouse"
   },
   {
-    "id": "oracle:hccz.fa.em3.oraclecloud.com:25530",
-    "company": "Pearson",
-    "title": "Content Producer, Apprentice",
-    "location": "Noida, Uttar Pradesh, India",
-    "category": "Other",
+    "id": "greenhouse:newsbreak:4711146006",
+    "company": "NewsBreak",
+    "title": "New Market Launch Intern (MBA), Nearby AI",
+    "location": "Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
-    "posted_at": "2026-09-04",
-    "url": "https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25530",
+    "posted_at": "2026-09-03T18:56:06-04:00",
+    "url": "https://job-boards.greenhouse.io/newsbreak/jobs/4711146006",
     "salary": null,
-    "source": "oracle"
+    "source": "greenhouse"
   },
   {
     "id": "smartrecruiters:InfiniteQuant:744000147163879",
@@ -1402,6 +1402,18 @@
     "url": "https://jobs.lever.co/dnb/c5ad2eb1-2826-4845-9e9b-b171afc80c4b",
     "salary": null,
     "source": "lever"
+  },
+  {
+    "id": "workable:twgai:1206BF981C",
+    "company": "TWG Global",
+    "title": "AI Data Science Intern (UK)",
+    "location": "London, England, United Kingdom (Remote)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-01T00:00:00.000Z",
+    "url": "https://apply.workable.com/twgai/j/1206BF981C/",
+    "salary": null,
+    "source": "workable"
   },
   {
     "id": "ashby:qualified-health-pbc:6cae1651-ea0d-4779-bf8c-778be1ac8789",

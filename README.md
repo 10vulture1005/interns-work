@@ -10,10 +10,10 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 16, 2026 at 23:09 UTC</em></p>
+  <p><em>Last updated: Sep 17, 2026 at 03:02 UTC</em></p>
 </div>
 
 ---
@@ -30,7 +30,7 @@
 | **Ixigo** | Full-Stack Intern - B2B <sup>~</sup> | `Software` | Gurugram, HR, India | 2026-09-11 | [Apply ↗](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
 | **Atlys** | AI Intern <sup>~</sup> | `Data & ML/AI` | Delhi HQ | 2026-08-12 | [Apply ↗](https://jobs.ashbyhq.com/atlys/1a34deb8-3d14-4b7b-b1eb-cd302ce97223) |
 
-## Summer 2027 (Remote) <kbd>13 open</kbd>
+## Summer 2027 (Remote) <kbd>14 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
@@ -47,6 +47,7 @@
 | **Coinbase** | Data Science Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
 | **Coinbase** | Analytics Engineer Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
 | **Dropbox** | Software Engineering Intern (Summer 2027) | `Software` | Remote - US: All locations | 2026-09-07 | [Apply ↗](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
+| **NewsBreak** | New Market Launch Intern (MBA), Nearby AI <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Bellevue, Washington, United States; Mou | 2026-09-03 | [Apply ↗](https://job-boards.greenhouse.io/newsbreak/jobs/4711146006) |
 
 ## Fall 2026 (India) <kbd>1 open</kbd>
 
@@ -61,16 +62,17 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (20 of 23)._
+_~ = the title doesn't state a year; bucketed here from its posting date (21 of 24)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Amgen | Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-16 |
+| Pearson | Content Producer, Apprentice | Summer 2027 | 2026-09-17 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-17 |
+| Gevernova | Grid Automation & Software Intern | Summer 2027 | 2026-09-17 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-16 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-16 |
 | IGS Energy | Business Analyst Intern (Summer 2027) | Summer 2027 | 2026-09-16 |
 | Pfizer | Intern - Data Science & AI | Summer 2027 | 2026-09-16 |
 | S&P Global | Apprentice, Data Operations | Summer 2027 | 2026-09-16 |
@@ -87,7 +89,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | Cambium Learning Group | Software Engineer Intern – AI Applications | Summer 2027 | 2026-09-15 |
 | Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-15 |
 | GE Healthcare | Field Engineer Apprentice | Summer 2027 | 2026-09-15 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-15 |
 
 </details>
 
