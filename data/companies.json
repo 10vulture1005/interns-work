@@ -1226,6 +1226,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "ALTEN Mexico",
+    "slug": "ALTEN",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "ALTEN Technology",
     "slug": "altentechnologyusa",
     "ats": "greenhouse"
@@ -3629,6 +3634,11 @@
     "name": "blend360",
     "slug": "Blend360",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Blenheim Chalcot",
+    "slug": "blenheimchalcot",
+    "ats": "greenhouse"
   },
   {
     "name": "Blink",
@@ -6651,6 +6661,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "CoVar",
+    "slug": "covar",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Coveo",
     "slug": "coveo-global",
     "ats": "smartrecruiters"
@@ -8456,6 +8471,11 @@
     "site": "CX_2"
   },
   {
+    "name": "Emergent Labs",
+    "slug": "emergentlabsinc",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Emerson Electric",
     "slug": "hdjq.fa.us2.oraclecloud.com",
     "ats": "oracle",
@@ -8784,6 +8804,11 @@
     "name": "EQ Bank",
     "slug": "eqbank",
     "ats": "lever"
+  },
+  {
+    "name": "EQT Corporation",
+    "slug": "eqtcorporation",
+    "ats": "greenhouse"
   },
   {
     "name": "Equativ",
@@ -17048,6 +17073,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "NAMSA"
+  },
+  {
+    "name": "Nanopath",
+    "slug": "nanopathinc",
+    "ats": "greenhouse"
   },
   {
     "name": "NASCAR",
@@ -26955,6 +26985,11 @@
     "name": "Vulcan Elements",
     "slug": "vulcanelements",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Vusion",
+    "slug": "VusionGroupSA",
+    "ats": "smartrecruiters"
   },
   {
     "name": "VWH Capital Management",
