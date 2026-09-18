@@ -4,20 +4,26 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-18T14:44:59Z</updated>
+  <updated>2026-09-18T18:10:19Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>AtkinsRéalis — Apprentice</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160347-1" rel="alternate"/>
+    <id>workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160347-1</id>
+    <updated>2026-09-18T18:10:19Z</updated>
+    <summary>AtkinsRéalis - Corporate Office Bangalore · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Sony — Research Intern on Generative and Protective AI for Content Creation</title>
+    <link href="https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335" rel="alternate"/>
+    <id>workday:sonyglobal:job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335</id>
+    <updated>2026-09-18T18:10:19Z</updated>
+    <summary>Remote - Texas · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Adobe — Apprentice Tech</title>
     <link href="https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Apprentice-Tech_R171686" rel="alternate"/>
     <id>workday:adobe:job/Bangalore/Apprentice-Tech_R171686</id>
     <updated>2026-09-18T14:44:58Z</updated>
     <summary>Bangalore · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Upstart — Applied Scientist Intern</title>
-    <link href="https://careers.upstart.com/jobs?gh_jid=8213476" rel="alternate"/>
-    <id>greenhouse:upstart:8213476</id>
-    <updated>2026-09-18T14:44:58Z</updated>
-    <summary>United States | Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Renesas Electronics — Embedded Systems Intern</title>
     <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379" rel="alternate"/>
@@ -91,12 +97,6 @@
     <updated>2026-09-16T02:58:26Z</updated>
     <summary>Muncie, Indiana, US · Other · Summer 2027</summary>
   </entry>  <entry>
-    <title>Acxiom — Intern - Data Engineer</title>
-    <link href="https://acxiomllc.wd5.myworkdayjobs.com/en-US/AcxiomUSA/job/RemoteHomebased/Intern---Data-Engineer_JR014482" rel="alternate"/>
-    <id>workday:acxiomllc:job/RemoteHomebased/Intern---Data-Engineer_JR014482</id>
-    <updated>2026-09-15T21:14:13Z</updated>
-    <summary>Remote/Homebased · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
     <title>Protech Automotive Solutions — Automotive ADAS Calibration Technician Apprentice</title>
     <link href="https://calibercollision.wd1.myworkdayjobs.com/en-US/protech/job/PT-North-Indianapolis/Automotive-ADAS-Calibration-Technician-Apprentice_R0224365" rel="alternate"/>
     <id>workday:calibercollision:job/PT-North-Indianapolis/Automotive-ADAS-Calibration-Technician-Apprentice_R0224365</id>
@@ -120,12 +120,6 @@
     <id>workday:jll:job/Hyderabad-TS/Apprentice---Facilities-Coordinator_REQ534532</id>
     <updated>2026-09-15T18:29:13Z</updated>
     <summary>Hyderabad, TS · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>AtkinsRéalis — Apprentice</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-163756" rel="alternate"/>
-    <id>workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-163756</id>
-    <updated>2026-09-15T13:40:43Z</updated>
-    <summary>IN.Mumbai.Embassy 247 Park · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>A Thinking Ape — Software Development Engineer Co-op (Jan. 2027)</title>
     <link href="https://job-boards.greenhouse.io/athinkingape/jobs/8203048" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workday:viavisolutions:job/Chennai-IND/Apprentice---9_260004941</id>
     <updated>2026-09-11T07:47:49Z</updated>
     <summary>Chennai, IND · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Tanium — Software Engineering Intern – Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/tanium/jobs/8181017" rel="alternate"/>
+    <id>greenhouse:tanium:8181017</id>
+    <updated>2026-09-10T20:55:37Z</updated>
+    <summary>Durham, NC (Hybrid); Emeryville, CA (Hybrid) · Software · Summer 2027</summary>
   </entry>
 </feed>
