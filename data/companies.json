@@ -4053,6 +4053,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Brady Martz",
+    "slug": "brady-martz",
+    "ats": "workable"
+  },
+  {
     "name": "Brain Co.",
     "slug": "brainco",
     "ats": "ashby"
@@ -10871,6 +10876,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Global Engineering & Technology, Inc. (GET)",
+    "slug": "get-career-site",
+    "ats": "workable"
+  },
+  {
     "name": "Global Infrastructure",
     "slug": "gi",
     "ats": "workday",
@@ -13613,6 +13623,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Javelin Global Commodities",
+    "slug": "javelin-global-commodities",
+    "ats": "workable"
+  },
+  {
     "name": "JCC Greater Boston",
     "slug": "jcc-greater-boston",
     "ats": "workable"
@@ -16110,6 +16125,11 @@
   {
     "name": "Mentis AI",
     "slug": "mentis",
+    "ats": "ashby"
+  },
+  {
+    "name": "Meow",
+    "slug": "meow",
     "ats": "ashby"
   },
   {
@@ -19276,6 +19296,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "PerfectServe",
+    "slug": "perfectserve",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Perficient",
     "slug": "fa-etqd-saasfaprod1.fa.ocs.oraclecloud.com",
     "ats": "oracle",
@@ -20595,6 +20620,11 @@
     "site": "Radiance_External"
   },
   {
+    "name": "Radiant",
+    "slug": "radiant-industries",
+    "ats": "ashby"
+  },
+  {
     "name": "Radiant Info Systems",
     "slug": "RadiantInfoSystemsLtd",
     "ats": "smartrecruiters"
@@ -21477,6 +21507,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "ExternalCareers"
+  },
+  {
+    "name": "Rothesay",
+    "slug": "rothesaygraduates",
+    "ats": "greenhouse"
   },
   {
     "name": "Routeware",
@@ -23452,6 +23487,11 @@
     "name": "Stackline",
     "slug": "stackline",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Stafford Gray",
+    "slug": "staffordgray",
+    "ats": "workable"
   },
   {
     "name": "Stand Insurance",
@@ -26906,6 +26946,11 @@
     "name": "Vmax AI Corp",
     "slug": "vmax",
     "ats": "ashby"
+  },
+  {
+    "name": "VML",
+    "slug": "map",
+    "ats": "greenhouse"
   },
   {
     "name": "VML Enterprise Solutions",
