@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-17T23:09:14Z</updated>
+  <updated>2026-09-18T02:48:31Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Renesas Electronics — Embedded Systems Intern</title>
@@ -18,12 +18,6 @@
     <id>greenhouse:thoughtworks:8210384</id>
     <updated>2026-09-17T15:11:40Z</updated>
     <summary>Bangalore, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Citi — Young Apprentice - C00 - MUMBAI</title>
-    <link href="https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26991362" rel="alternate"/>
-    <id>workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26991362</id>
-    <updated>2026-09-17T15:11:40Z</updated>
-    <summary>Mumbai Maharashtra India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Dun &amp; Bradstreet — Apprentice - Industrial Trainee (R-19685)</title>
     <link href="https://jobs.lever.co/dnb/f693c763-1076-4d14-97a1-fa4b21e1c360" rel="alternate"/>
@@ -60,12 +54,6 @@
     <id>smartrecruiters:WabashValleyPowerAlliance:744000149875759</id>
     <updated>2026-09-16T15:09:51Z</updated>
     <summary>Indianapolis, IN, United States · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002" rel="alternate"/>
-    <id>workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002</id>
-    <updated>2026-09-16T15:09:51Z</updated>
-    <summary>Chennai, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>GE Aerospace — Data Science Intern</title>
     <link href="https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1" rel="alternate"/>
@@ -109,6 +97,12 @@
     <updated>2026-09-15T18:29:13Z</updated>
     <summary>Office - Mumbai · Software · Summer 2027</summary>
   </entry>  <entry>
+    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
+    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019" rel="alternate"/>
+    <id>workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019</id>
+    <updated>2026-09-15T18:29:13Z</updated>
+    <summary>CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>GoTo Group — Apprentice</title>
     <link href="https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Brazil/Apprentice_R26-2201" rel="alternate"/>
     <id>workday:goto:job/Remote-Brazil/Apprentice_R26-2201</id>
@@ -132,12 +126,6 @@
     <id>workday:marvell:job/Hyderabad/Solutions-Research-Intern---Physical-AI_2604239</id>
     <updated>2026-09-15T18:29:13Z</updated>
     <summary>Hyderabad · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>AtkinsRéalis — Apprentice</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-163756" rel="alternate"/>
-    <id>workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-163756</id>
-    <updated>2026-09-15T13:40:43Z</updated>
-    <summary>IN.Mumbai.Embassy 247 Park · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>A Thinking Ape — Software Development Engineer Co-op (Jan. 2027)</title>
     <link href="https://job-boards.greenhouse.io/athinkingape/jobs/8203048" rel="alternate"/>
@@ -306,5 +294,17 @@
     <id>workday:godirect:job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187</id>
     <updated>2026-09-11T18:05:39Z</updated>
     <summary>United States-Remote · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Ixigo — Full-Stack Intern - B2B</title>
+    <link href="https://jobs.smartrecruiters.com/ixigo/744000148960832" rel="alternate"/>
+    <id>smartrecruiters:ixigo:744000148960832</id>
+    <updated>2026-09-11T13:08:46Z</updated>
+    <summary>Gurugram, HR, India · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Viavi Solutions — Apprentice - 9</title>
+    <link href="https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/Chennai-IND/Apprentice---9_260004941" rel="alternate"/>
+    <id>workday:viavisolutions:job/Chennai-IND/Apprentice---9_260004941</id>
+    <updated>2026-09-11T07:47:49Z</updated>
+    <summary>Chennai, IND · Other · Summer 2027</summary>
   </entry>
 </feed>
