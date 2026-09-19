@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 18, 2026 at 20:49 UTC</em></p>
+  <p><em>Last updated: Sep 19, 2026 at 00:18 UTC</em></p>
 </div>
 
 ---
@@ -22,10 +22,10 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
 | **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26987941) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
 | **Citi** | Services – Summer Analyst, India, 2027 | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901) |
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Bangalore , Karnataka, India | Posted 8 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Thoughtworks** | Developer (Vapasi) - Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bangalore, India | 2026-09-17 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
@@ -40,7 +40,7 @@
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
-| **Twilio** | Software Engineer Intern (January 12th start, 23 weeks) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote - India | 2026-09-16 | [Apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8190889) |
+| **Twilio** | Software Engineer Intern (January 12th start, 23 weeks) <sup>~</sup> | `Software` | Remote - India | 2026-09-16 | [Apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8190889) |
 | **Tanium** | Software Engineering Intern – Summer 2027 | `Software` | Durham, NC (Hybrid); Emeryville, CA (Hyb | 2026-09-10 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8181017) |
 | **Coinbase** | Software Engineer Intern <sup>~</sup> | `Software` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
 | **Coinbase** | Machine Learning Engineer Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
@@ -70,26 +70,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| AHEAD | MS - NOC Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
+| AHEAD | MS - EUS Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-09-19 |
 | Adobe | Apprentice Tech | Summer 2027 | 2026-09-18 |
-| Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-18 |
-| Amgen | Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-18 |
-| Amgen | Grad Intern – Digital Product – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-18 |
-| Amgen | Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-18 |
-| Amgen | Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-18 |
-| Amgen | Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-18 |
-| Amgen | Undergrad Intern – Data Scientist – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-18 |
-| Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-18 |
-| Amgen | Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-18 |
-| Amgen | Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-18 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-18 |
-| Cushman & Wakefield | Apprentice | Summer 2027 | 2026-09-18 |
-| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-18 |
-| Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-09-18 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-18 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-09-18 |
 | Upstart | Applied Scientist Intern | Summer 2027 | 2026-09-18 |
 | Acxiom | Intern - Data Engineer | Summer 2027 | 2026-09-18 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-18 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-18 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-18 |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-09-18 |
+| TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-09-18 |
+| Atlys | AI Intern | Summer 2027 | 2026-09-18 |
+| CACI | Business/Systems Analyst Intern - Summer 2027 | Summer 2027 | 2026-09-18 |
+| Cengage Group | Finance Apprentice | Summer 2027 | 2026-09-18 |
+| S&P Global | Apprentice | Summer 2027 | 2026-09-18 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-18 |
+| Corteva | Business Analyst Intern | Summer 2027 | 2026-09-18 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-18 |
+| Marvell | Intern, Software Engineer | Summer 2027 | 2026-09-18 |
+| Marvell | Solutions Research Intern — Physical AI | Summer 2027 | 2026-09-18 |
 
 </details>
 
