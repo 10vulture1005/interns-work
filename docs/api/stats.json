@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-19T14:17:07Z",
-  "duration_seconds": 2566.4,
+  "generated_at": "2026-09-19T17:34:18Z",
+  "duration_seconds": 2422.6,
   "companies_total": 5044,
   "companies_by_source": {
     "greenhouse": 1116,
@@ -29,19 +29,18 @@
     "wellfound": 1,
     "yc_waas": 1
   },
-  "quarantined": 324,
-  "fetched_ok": 4709,
-  "fetch_errors": 11,
+  "quarantined": 330,
+  "fetched_ok": 4711,
+  "fetch_errors": 3,
   "errors_by_source": {
-    "ashby": 1,
     "greenhouse": 2,
-    "workable": 8
+    "ashby": 1
   },
-  "fetch_success_rate": 0.998,
-  "roles_matched": 125,
+  "fetch_success_rate": 0.999,
+  "roles_matched": 114,
   "roles_by_source": {
     "greenhouse": 18,
-    "workday": 88,
+    "workday": 77,
     "lever": 3,
     "smartrecruiters": 5,
     "ashby": 8,
@@ -49,15 +48,15 @@
     "oracle": 1
   },
   "roles_by_cycle": {
-    "Summer 2027": 120,
+    "Summer 2027": 109,
     "Fall 2026": 2,
     "Term Unconfirmed": 3
   },
   "roles_by_region": {
-    "Remote": 65,
+    "Remote": 54,
     "India": 60
   },
   "purged_this_run": 0,
-  "new_this_run": 1,
-  "open_total": 127
+  "new_this_run": 0,
+  "open_total": 116
 }
