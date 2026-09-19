@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 19, 2026 at 02:47 UTC</em></p>
+  <p><em>Last updated: Sep 19, 2026 at 09:02 UTC</em></p>
 </div>
 
 ---
@@ -48,7 +48,7 @@
 | **Coinbase** | Data Science Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
 | **Coinbase** | Analytics Engineer Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
 | **Dropbox** | Software Engineering Intern (Summer 2027) | `Software` | Remote - US: All locations | 2026-09-07 | [Apply ↗](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
-| **NewsBreak** | New Market Launch Intern (MBA), Nearby AI <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Bellevue, Washington, United States; Mou | 2026-09-03 | [Apply ↗](https://job-boards.greenhouse.io/newsbreak/jobs/4711146006) |
+| **NewsBreak** | New Market Launch Intern (MBA), Nearby AI <sup>~</sup> | `Data & ML/AI` | Bellevue, Washington, United States; Mou | 2026-09-03 | [Apply ↗](https://job-boards.greenhouse.io/newsbreak/jobs/4711146006) |
 
 ## Fall 2026 (India) <kbd>1 open</kbd>
 
@@ -70,9 +70,10 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-09-19 |
-| Centene | Cybersecurity Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-09-19 |
+| Renesas Electronics | Embedded Systems Intern | Summer 2027 | 2026-09-19 |
+| CWAN | Software Development Intern | Summer 2027 | 2026-09-19 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-19 |
+| RTX | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-09-19 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-19 |
 | AHEAD | MS - NOC Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
 | AHEAD | MS - EUS Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
@@ -89,7 +90,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | CACI | Business/Systems Analyst Intern - Summer 2027 | Summer 2027 | 2026-09-18 |
 | Cengage Group | Finance Apprentice | Summer 2027 | 2026-09-18 |
 | S&P Global | Apprentice | Summer 2027 | 2026-09-18 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-18 |
 
 </details>
 
