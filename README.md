@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 19, 2026 at 17:34 UTC</em></p>
+  <p><em>Last updated: Sep 19, 2026 at 20:11 UTC</em></p>
 </div>
 
 ---
@@ -70,16 +70,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-19 |
-| Amgen | Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-19 |
-| Amgen | Grad Intern – Digital Product – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-19 |
-| Amgen | Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-19 |
-| Amgen | Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-19 |
-| Amgen | Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-19 |
-| Amgen | Undergrad Intern – Data Scientist – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-19 |
-| Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-19 |
-| Amgen | Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-19 |
-| Amgen | Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-19 |
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-19 |
+| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-19 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-19 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-19 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-19 |
@@ -90,6 +82,14 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | AHEAD | MS - NOC Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
 | AHEAD | MS - EUS Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-09-19 |
+| Adobe | Apprentice Tech | Summer 2027 | 2026-09-18 |
+| Upstart | Applied Scientist Intern | Summer 2027 | 2026-09-18 |
+| Acxiom | Intern - Data Engineer | Summer 2027 | 2026-09-18 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-18 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-18 |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-09-18 |
+| TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-09-18 |
+| Atlys | AI Intern | Summer 2027 | 2026-09-18 |
 
 </details>
 
