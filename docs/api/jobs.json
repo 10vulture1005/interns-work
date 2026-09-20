@@ -312,18 +312,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/Hyderabad-India/EIC---Apprentice_R323147",
-    "company": "Cushman & Wakefield",
-    "title": "EIC - Apprentice",
-    "location": "Hyderabad, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC---Apprentice_R323147",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
     "company": "Amgen",
     "title": "Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027)",
@@ -584,6 +572,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring--NCT_R0449404",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
     "salary": null,
     "source": "workday"
   },
@@ -1486,18 +1486,6 @@
     "url": "https://apply.workable.com/innovaccer-analytics/j/47C4AD89C2/",
     "salary": null,
     "source": "workable"
-  },
-  {
-    "id": "lever:thinkahead:76649f02-c9df-4206-a365-cf9d33350b55",
-    "company": "AHEAD",
-    "title": "MS Infrastructure Intern (6 months)",
-    "location": "Gurugram, Haryana",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-07-21T09:49:06Z",
-    "url": "https://jobs.lever.co/thinkahead/76649f02-c9df-4206-a365-cf9d33350b55",
-    "salary": null,
-    "source": "lever"
   },
   {
     "id": "instahyre:pagarbook:439220",
