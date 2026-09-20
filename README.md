@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 20, 2026 at 17:52 UTC</em></p>
+  <p><em>Last updated: Sep 20, 2026 at 20:40 UTC</em></p>
 </div>
 
 ---
@@ -69,15 +69,14 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-20 |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) | Summer 2027 | 2026-09-20 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-20 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-20 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-20 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-20 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-20 |
 | AHEAD | MS Infrastructure Intern (6 months) | Summer 2027 | 2026-09-20 |
 | Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-20 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-19 |
 | Renesas Electronics | Embedded Systems Intern | Summer 2027 | 2026-09-19 |
 | RTX | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-09-19 |
 | AHEAD | MS - NOC Apprentice/Intern (6 months) | Summer 2027 | 2026-09-19 |
@@ -89,6 +88,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-18 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-18 |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-09-18 |
+| TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-09-18 |
 
 </details>
 
