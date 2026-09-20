@@ -156,18 +156,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:clearwateranalytics:job/Office---Mumbai/Software-Development-Intern_R12191",
-    "company": "CWAN",
-    "title": "Software Development Intern",
-    "location": "Office - Mumbai",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:goto:job/Remote-Brazil/Apprentice_R26-2201",
     "company": "GoTo Group",
     "title": "Apprentice",
@@ -852,18 +840,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "company": "Astreya",
-    "title": "AI Infrastructure DC Design Intern",
-    "location": "Remote, CA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015747",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
@@ -884,6 +860,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:astreya:job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
+    "company": "Astreya",
+    "title": "AI Infrastructure DC Design Intern",
+    "location": "Remote, CA",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
     "salary": null,
     "source": "workday"
   },

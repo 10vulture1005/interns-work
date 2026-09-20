@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 20, 2026 at 03:01 UTC</em></p>
+  <p><em>Last updated: Sep 20, 2026 at 09:33 UTC</em></p>
 </div>
 
 ---
@@ -71,6 +71,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-20 |
+| CWAN | Software Development Intern | Summer 2027 | 2026-09-20 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-20 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-20 |
 | AHEAD | MS Infrastructure Intern (6 months) | Summer 2027 | 2026-09-20 |
@@ -89,7 +90,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-18 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-18 |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-09-18 |
-| TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-09-18 |
 
 </details>
 
