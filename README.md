@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 20, 2026 at 00:26 UTC</em></p>
+  <p><em>Last updated: Sep 20, 2026 at 03:01 UTC</em></p>
 </div>
 
 ---
@@ -70,13 +70,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-20 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-20 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-20 |
 | AHEAD | MS Infrastructure Intern (6 months) | Summer 2027 | 2026-09-20 |
 | Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-20 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-19 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-19 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-19 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-19 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-19 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-19 |
 | Renesas Electronics | Embedded Systems Intern | Summer 2027 | 2026-09-19 |
 | RTX | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-09-19 |
