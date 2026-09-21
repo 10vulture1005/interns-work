@@ -10,10 +10,10 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 21, 2026 at 03:00 UTC</em></p>
+  <p><em>Last updated: Sep 21, 2026 at 10:06 UTC</em></p>
 </div>
 
 ---
@@ -31,7 +31,7 @@
 | **Thoughtworks** | Developer (Vapasi) - Intern <sup>~</sup> | `Software` | Bangalore, India | 2026-09-17 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
 | **Ixigo** | Full-Stack Intern - B2B <sup>~</sup> | `Software` | Gurugram, HR, India | 2026-09-11 | [Apply ↗](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
 
-## Summer 2027 (Remote) <kbd>14 open</kbd>
+## Summer 2027 (Remote) <kbd>13 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
@@ -40,7 +40,6 @@
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
-| **Twilio** | Software Engineer Intern (January 12th start, 23 weeks) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Remote - India | 2026-09-16 | [Apply ↗](https://job-boards.greenhouse.io/twilio/jobs/8190887) |
 | **Tanium** | Software Engineering Intern – Summer 2027 | `Software` | Durham, NC (Hybrid); Emeryville, CA (Hyb | 2026-09-10 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8181017) |
 | **Coinbase** | Software Engineer Intern <sup>~</sup> | `Software` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315) |
 | **Coinbase** | Machine Learning Engineer Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
@@ -63,14 +62,16 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (21 of 25)._
+_~ = the title doesn't state a year; bucketed here from its posting date (20 of 24)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-21 |
+| Twilio | Software Engineer Intern (January 12th start, 23 weeks) | Summer 2027 | 2026-09-21 |
+| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-21 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-21 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-20 |
 | Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-20 |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) | Summer 2027 | 2026-09-20 |
@@ -87,9 +88,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Upstart | Applied Scientist Intern | Summer 2027 | 2026-09-18 |
 | Acxiom | Intern - Data Engineer | Summer 2027 | 2026-09-18 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-18 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-18 |
 | Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-09-18 |
-| TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-09-18 |
 
 </details>
 

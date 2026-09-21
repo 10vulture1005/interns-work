@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:statestreet:job/Chennai-India/Apprentice_R-798015",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Chennai-India/Apprentice_R-798015",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:altera:job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
     "company": "Altera Corporation",
     "title": "AI Automation Intern",
@@ -60,18 +72,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160347-1",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "AtkinsRéalis - Corporate Office Bangalore",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-160347-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:sonyglobal:job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
     "company": "Sony",
     "title": "Research Intern on Generative and Protective AI for Content Creation",
@@ -92,6 +92,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
     "salary": null,
     "source": "workday"
   },
@@ -176,6 +188,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Hyderabad-TS/Apprentice---Facilities-Coordinator_REQ534532",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-163756",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Mumbai.Embassy 247 Park",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-163756",
     "salary": null,
     "source": "workday"
   },
@@ -308,18 +332,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Apprentice_R323129",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Hyderabad-India/EIC---Apprentice_R323147",
-    "company": "Cushman & Wakefield",
-    "title": "EIC - Apprentice",
-    "location": "Hyderabad, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC---Apprentice_R323147",
     "salary": null,
     "source": "workday"
   },
@@ -620,6 +632,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:spgi:job/Gurugram-Haryana/Apprentice_329593-1",
+    "company": "S&P Global",
+    "title": "Apprentice",
+    "location": "Gurugram, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Gurugram-Haryana/Apprentice_329593-1",
     "salary": null,
     "source": "workday"
   },
@@ -1076,18 +1100,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-17T03:51:28-04:00",
     "url": "https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
-    "id": "greenhouse:twilio:8190887",
-    "company": "Twilio",
-    "title": "Software Engineer Intern (January 12th start, 23 weeks)",
-    "location": "Remote - India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-16T15:21:27-04:00",
-    "url": "https://job-boards.greenhouse.io/twilio/jobs/8190887",
     "salary": null,
     "source": "greenhouse"
   },
