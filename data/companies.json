@@ -6161,6 +6161,11 @@
     "site": "ExternalStaffCareerSite"
   },
   {
+    "name": "Collinear AI",
+    "slug": "collinear-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "Cologix",
     "slug": "cologix",
     "ats": "lever"
@@ -22772,6 +22777,11 @@
   {
     "name": "SingleStore",
     "slug": "singlestore",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Sirona Medical",
+    "slug": "sironamedical",
     "ats": "greenhouse"
   },
   {
