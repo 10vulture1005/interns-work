@@ -4,9 +4,15 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-21T22:05:23Z</updated>
+  <updated>2026-09-22T01:03:07Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>ONE Finance — AI Research Intern</title>
+    <link href="https://jobs.ashbyhq.com/oneapp/84beb108-c04b-42d3-a9ae-9a91210201b7" rel="alternate"/>
+    <id>ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7</id>
+    <updated>2026-09-22T01:03:07Z</updated>
+    <summary>United States (Remote) · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Centria Autism — Clinical Apprentice - BCBA Fieldwork Program</title>
     <link href="https://job-boards.greenhouse.io/centriaautism/jobs/8826960002" rel="alternate"/>
     <id>greenhouse:centriaautism:8826960002</id>
@@ -48,6 +54,12 @@
     <id>workday:sonyglobal:job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335</id>
     <updated>2026-09-18T18:10:19Z</updated>
     <summary>Remote - Texas · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Upstart — Applied Scientist Intern</title>
+    <link href="https://careers.upstart.com/jobs?gh_jid=8213476" rel="alternate"/>
+    <id>greenhouse:upstart:8213476</id>
+    <updated>2026-09-18T14:44:58Z</updated>
+    <summary>United States | Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Thoughtworks — Developer (Vapasi) - Intern</title>
     <link href="https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384" rel="alternate"/>
@@ -294,17 +306,5 @@
     <id>workday:amgen:job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719</id>
     <updated>2026-09-11T18:05:39Z</updated>
     <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Voya Financial — Summer 2027 Technology Intern</title>
-    <link href="https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187" rel="alternate"/>
-    <id>workday:godirect:job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187</id>
-    <updated>2026-09-11T18:05:39Z</updated>
-    <summary>United States-Remote · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Ixigo — Full-Stack Intern - B2B</title>
-    <link href="https://jobs.smartrecruiters.com/ixigo/744000148960832" rel="alternate"/>
-    <id>smartrecruiters:ixigo:744000148960832</id>
-    <updated>2026-09-11T13:08:46Z</updated>
-    <summary>Gurugram, HR, India · Software · Summer 2027</summary>
   </entry>
 </feed>
