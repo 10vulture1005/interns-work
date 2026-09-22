@@ -6698,6 +6698,11 @@
     "site": "cov_external"
   },
   {
+    "name": "Cowboy Space",
+    "slug": "cowboyspace",
+    "ats": "ashby"
+  },
+  {
     "name": "Cox",
     "slug": "cox",
     "ats": "workday",
@@ -21112,6 +21117,11 @@
     "ats": "workable"
   },
   {
+    "name": "Resultant",
+    "slug": "Resultant",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "ResultsCX",
     "slug": "resultscx",
     "ats": "smartrecruiters"
@@ -25028,6 +25038,11 @@
     "name": "Thorlabs",
     "slug": "thorlabs",
     "ats": "workable"
+  },
+  {
+    "name": "Thought Forge",
+    "slug": "ThoughtForge",
+    "ats": "smartrecruiters"
   },
   {
     "name": "ThoughtSpot",
