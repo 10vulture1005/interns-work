@@ -12,6 +12,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:philips:job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413",
+    "company": "Philips",
+    "title": "Intern – Data Science and AI Engineering",
+    "location": "Bangalore",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:sprinklr:job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
+    "company": "Sprinklr",
+    "title": "ML Intern",
+    "location": "India - Haryana - Gurgaon",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://sprinklr.wd1.myworkdayjobs.com/en-US/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:cw:job/Gurgaon-India/EIC-Apprentice_R327029",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice",
@@ -156,6 +180,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:clearwateranalytics:job/Office---Mumbai/Software-Development-Intern_R12191",
+    "company": "CWAN",
+    "title": "Software Development Intern",
+    "location": "Office - Mumbai",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/Clearwater_Analytics_Careers/job/Office---Mumbai/Software-Development-Intern_R12191",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:goto:job/Remote-Brazil/Apprentice_R26-2201",
     "company": "GoTo Group",
     "title": "Apprentice",
@@ -176,18 +212,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Hyderabad-TS/Apprentice---Facilities-Coordinator_REQ534532",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice_R-163756",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Mumbai.Embassy 247 Park",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice_R-163756",
     "salary": null,
     "source": "workday"
   },
@@ -308,18 +332,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Bengaluru-India/Apprentice_R323129",
-    "company": "Cushman & Wakefield",
-    "title": "Apprentice",
-    "location": "Bengaluru, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Apprentice_R323129",
     "salary": null,
     "source": "workday"
   },
@@ -624,6 +636,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:caci:job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "company": "CACI",
+    "title": "Business/Systems Analyst Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Business-Systems-Analyst-Intern---Summer-2027_331551",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:hitachi:job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1",
     "company": "Hitachi Energy",
     "title": "Internship - Software Asset Management",
@@ -744,6 +768,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-796069",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796069",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
     "company": "Allstate Insurance Company",
     "title": "Pricing Actuarial Analyst Intern",
@@ -752,6 +788,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://allstate.wd5.myworkdayjobs.com/en-US/sourcing_event/job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Gurgaon.DLF Cyber City",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
     "salary": null,
     "source": "workday"
   },
@@ -768,18 +816,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:micron:job/Sanand---303A---ATSSDMOD-India/Technician-Apprentice_JR107694",
     "company": "Micron Technology",
     "title": "Technician Apprentice",
@@ -788,18 +824,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Technician-Apprentice_JR107694",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:southstatebank:job/Remote-Worker/Correspondent-Analyst-Intern_R-05785-1",
-    "company": "SouthState Bank",
-    "title": "Correspondent Analyst Intern",
-    "location": "Remote Worker",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://southstatebank.wd5.myworkdayjobs.com/en-US/external/job/Remote-Worker/Correspondent-Analyst-Intern_R-05785-1",
     "salary": null,
     "source": "workday"
   },
@@ -824,18 +848,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 5 Days Ago",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:trumpf:job/Pune/Apprentice-Customer-Care_R00023756",
-    "company": "TRUMPF",
-    "title": "Apprentice Customer Care",
-    "location": "Pune",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://trumpf.wd3.myworkdayjobs.com/en-US/TRUMPF_Students/job/Pune/Apprentice-Customer-Care_R00023756",
     "salary": null,
     "source": "workday"
   },
@@ -972,6 +984,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:trumpf:job/Pune/Apprentice-Customer-Care_R00027539",
+    "company": "TRUMPF",
+    "title": "Apprentice Customer Care",
+    "location": "Pune",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://trumpf.wd3.myworkdayjobs.com/en-US/TRUMPF_Students/job/Pune/Apprentice-Customer-Care_R00027539",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:valeo:job/Chennai/Intern---AI_REQ2025061319",
     "company": "Valeo",
     "title": "Intern - AI",
@@ -1042,6 +1066,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:tanium:8176398",
+    "company": "Tanium",
+    "title": "Cloud Security Intern",
+    "location": "Durham, NC (Hybrid)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-22T09:16:18-04:00",
+    "url": "https://job-boards.greenhouse.io/tanium/jobs/8176398",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "ashby:oneapp:84beb108-c04b-42d3-a9ae-9a91210201b7",
