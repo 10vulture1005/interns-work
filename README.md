@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-27-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 23, 2026 at 15:12 UTC</em></p>
+  <p><em>Last updated: Sep 23, 2026 at 19:56 UTC</em></p>
 </div>
 
 ---
@@ -72,26 +72,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (23 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Ixigo | Full-Stack Intern - B2B | Summer 2027 | 2026-09-23 |
+| Centria Autism | Clinical Apprentice - BCBA Fieldwork Program | Summer 2027 | 2026-09-23 |
+| Hearst | Software Engineering Intern | Summer 2027 | 2026-09-23 |
+| American Express | Apprentice | Summer 2027 | 2026-09-23 |
+| CACI | Business/Systems Analyst Intern - Summer 2027 | Summer 2027 | 2026-09-23 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-23 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-23 |
+| GE Aerospace | Data Science Intern | Summer 2027 | 2026-09-23 |
+| State Street | Apprentice | Summer 2027 | 2026-09-23 |
+| Wex | Data & AI Intern (Graduate/Master’s) | Summer 2027 | 2026-09-23 |
+| Wex | DevOps & AI Engineering Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
+| Ixigo | Full-Stack Intern - B2B | Summer 2027 | 2026-09-23 |
 | Centene | Cybersecurity Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
-| Corteva | Agentic AI Engineer Intern | Summer 2027 | 2026-09-23 |
-| Corteva | Data Science Summer Intern | Summer 2027 | 2026-09-23 |
-| Corteva | R&D Internship – Computer & Data Science | Summer 2027 | 2026-09-23 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-23 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-23 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-23 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-23 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-09-22 |
 | Sprinklr | ML Intern | Summer 2027 | 2026-09-22 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-22 |
 | Protech Automotive Solutions | Automotive ADAS Calibration Technician Apprentice | Summer 2027 | 2026-09-22 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-22 |
 | TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-09-22 |
-| S&P Global | Apprentice | Summer 2027 | 2026-09-21 |
-| State Street | Apprentice | Summer 2027 | 2026-09-21 |
-| Viavi Solutions | Apprentice - 9 | Summer 2027 | 2026-09-21 |
-| Twilio | Software Engineer Intern (January 12th start, 23 weeks) | Summer 2027 | 2026-09-21 |
 
 </details>
 
