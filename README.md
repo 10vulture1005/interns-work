@@ -10,10 +10,10 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-27-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 23, 2026 at 09:36 UTC</em></p>
+  <p><em>Last updated: Sep 23, 2026 at 15:12 UTC</em></p>
 </div>
 
 ---
@@ -28,13 +28,14 @@
 | **Citi** | Services – Summer Analyst, India, 2027 | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
+| **Fampay** | Security Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bengaluru | 2026-09-23 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
 | **Thoughtworks** | Developer (Vapasi) - Intern <sup>~</sup> | `Software` | Bangalore, India | 2026-09-17 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
-| **Ixigo** | Full-Stack Intern - B2B <sup>~</sup> | `Software` | Gurugram, HR, India | 2026-09-11 | [Apply ↗](https://jobs.smartrecruiters.com/ixigo/744000148960832) |
 
-## Summer 2027 (Remote) <kbd>15 open</kbd>
+## Summer 2027 (Remote) <kbd>16 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
+| **Intel** | Firmware Development Undergraduate Engineering Co-op <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) |
 | **GoTo Group** | Apprentice <sup>~</sup> | `Other` | Remote (Brazil) | Posted Tod | [Apply ↗](https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Brazil/Apprentice_R26-2201) |
 | **Intel** | AI and Compiler Engineering Graduate Intern <sup>~</sup> | `Data & ML/AI` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
@@ -64,15 +65,22 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (22 of 26)._
+_~ = the title doesn't state a year; bucketed here from its posting date (23 of 27)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-23 |
+| Ixigo | Full-Stack Intern - B2B | Summer 2027 | 2026-09-23 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-23 |
+| Centene | Cybersecurity Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
+| Corteva | Agentic AI Engineer Intern | Summer 2027 | 2026-09-23 |
+| Corteva | Data Science Summer Intern | Summer 2027 | 2026-09-23 |
+| Corteva | R&D Internship – Computer & Data Science | Summer 2027 | 2026-09-23 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-23 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-23 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-23 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-23 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-09-22 |
 | Sprinklr | ML Intern | Summer 2027 | 2026-09-22 |
@@ -84,13 +92,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | State Street | Apprentice | Summer 2027 | 2026-09-21 |
 | Viavi Solutions | Apprentice - 9 | Summer 2027 | 2026-09-21 |
 | Twilio | Software Engineer Intern (January 12th start, 23 weeks) | Summer 2027 | 2026-09-21 |
-| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-21 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-21 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-20 |
-| Astreya | AI Infrastructure DC Design Intern | Summer 2027 | 2026-09-20 |
-| Twilio | Software Engineer Intern (January 12th start, 23 weeks) | Summer 2027 | 2026-09-20 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-20 |
-| AHEAD | MS Infrastructure Intern (6 months) | Summer 2027 | 2026-09-20 |
 
 </details>
 
