@@ -2710,6 +2710,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Authentic",
+    "slug": "authenticinsurance",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Authorium",
     "slug": "authorium",
     "ats": "ashby"
@@ -11390,6 +11395,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Grow Therapy",
+    "slug": "grow-therapy",
+    "ats": "ashby"
+  },
+  {
     "name": "GrowthLoop",
     "slug": "growthloop",
     "ats": "greenhouse"
@@ -14536,6 +14546,11 @@
     "name": "League",
     "slug": "leagueinc",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Lean TECHniques",
+    "slug": "leantechniques",
+    "ats": "ashby"
   },
   {
     "name": "Leap",
