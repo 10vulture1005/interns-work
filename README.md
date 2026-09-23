@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 22, 2026 at 21:17 UTC</em></p>
+  <p><em>Last updated: Sep 23, 2026 at 00:29 UTC</em></p>
 </div>
 
 ---
@@ -71,8 +71,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-22 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-22 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-23 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-23 |
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-09-22 |
 | Sprinklr | ML Intern | Summer 2027 | 2026-09-22 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-22 |
