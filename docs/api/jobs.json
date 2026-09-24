@@ -12,6 +12,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Gurgaon-India/EIC-Apprentice_R327030",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Gurgaon, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Gurgaon-India/EIC-Apprentice_R327030",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:job/Hyderabad/Intern--Software-Engineer_2603879",
+    "company": "Marvell",
+    "title": "Intern, Software Engineer",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:intel:job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862",
     "company": "Intel",
     "title": "Firmware Development Undergraduate Engineering Co-op",
@@ -156,18 +180,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:goto:job/Remote-Brazil/Apprentice_R26-2201",
     "company": "GoTo Group",
     "title": "Apprentice",
@@ -224,18 +236,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Apprentice_R323129",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
-    "company": "Amgen",
-    "title": "Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
     "salary": null,
     "source": "workday"
   },
@@ -308,18 +308,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
-    "company": "Amgen",
-    "title": "Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
     "salary": null,
     "source": "workday"
   },
@@ -464,6 +452,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-797519",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797519",
     "salary": null,
     "source": "workday"
   },
@@ -644,18 +644,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-796069",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796069",
     "salary": null,
     "source": "workday"
   },
@@ -960,6 +948,18 @@
     "source": "workday"
   },
   {
+    "id": "greenhouse:thoughtworksreferral:8225630",
+    "company": "Thoughtworks",
+    "title": "Software Procurement Intern",
+    "location": "Gurgaon, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-23T02:35:44-04:00",
+    "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
     "id": "lever:fampay:bbbbbfd2-1855-4991-82d5-84ef57607c24",
     "company": "Fampay",
     "title": "Security Engineer Intern",
@@ -982,18 +982,6 @@
     "url": "https://apply.workable.com/innovaccer-analytics/j/5298761677/",
     "salary": null,
     "source": "workable"
-  },
-  {
-    "id": "smartrecruiters:AristaNetworks:744000151304169",
-    "company": "Arista Networks",
-    "title": "Junior AI-Assisted Automation Scripting Associate (Apprentice)",
-    "location": "Pune, MH, India",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-23T06:59:03.783Z",
-    "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000151304169",
-    "salary": null,
-    "source": "smartrecruiters"
   },
   {
     "id": "ashby:leantechniques:a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c",
@@ -1354,18 +1342,6 @@
     "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "lever:dnb:c5ad2eb1-2826-4845-9e9b-b171afc80c4b",
-    "company": "Dun & Bradstreet",
-    "title": "Apprentice (R-19888)",
-    "location": "Kolkata - India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-02T05:40:28Z",
-    "url": "https://jobs.lever.co/dnb/c5ad2eb1-2826-4845-9e9b-b171afc80c4b",
-    "salary": null,
-    "source": "lever"
   },
   {
     "id": "workable:twgai:1206BF981C",
