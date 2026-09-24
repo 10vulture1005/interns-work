@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-27-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 23, 2026 at 23:10 UTC</em></p>
+  <p><em>Last updated: Sep 24, 2026 at 02:37 UTC</em></p>
 </div>
 
 ---
@@ -72,9 +72,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (23 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-23 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-24 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-24 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
+| State Street | Apprentice | Summer 2027 | 2026-09-24 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-24 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-23 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-23 |
 | Wex | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Summer 2027 | 2026-09-23 |
 | Wex | Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate) | Summer 2027 | 2026-09-23 |
 | Wex | Backend Software Engineer Intern - Java & AI (Master’s) | Summer 2027 | 2026-09-23 |
@@ -88,10 +91,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (23 of 
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-23 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-23 |
 | GE Aerospace | Data Science Intern | Summer 2027 | 2026-09-23 |
-| State Street | Apprentice | Summer 2027 | 2026-09-23 |
 | Wex | Data & AI Intern (Graduate/Master’s) | Summer 2027 | 2026-09-23 |
-| Wex | DevOps & AI Engineering Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
-| Ixigo | Full-Stack Intern - B2B | Summer 2027 | 2026-09-23 |
 
 </details>
 
