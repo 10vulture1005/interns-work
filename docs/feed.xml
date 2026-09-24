@@ -4,9 +4,33 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-24T09:34:46Z</updated>
+  <updated>2026-09-24T15:04:41Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Marvell — AI Intern</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/AI-Intern_2603878" rel="alternate"/>
+    <id>workday:marvell:job/Bangalore/AI-Intern_2603878</id>
+    <updated>2026-09-24T15:04:41Z</updated>
+    <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Qumulo — Software Development Engineer (Seattle) - Internship 2027</title>
+    <link href="https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183" rel="alternate"/>
+    <id>ashby:qumulo:43855947-3a85-4d1c-8b8e-e0c0ddcaf183</id>
+    <updated>2026-09-24T15:04:41Z</updated>
+    <summary>Seattle (hybrid) · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Wurl — Data Science Intern</title>
+    <link href="https://job-boards.greenhouse.io/wurljobs/jobs/4716249006" rel="alternate"/>
+    <id>greenhouse:wurljobs:4716249006</id>
+    <updated>2026-09-24T15:04:41Z</updated>
+    <summary>Remote - United States · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Thoughtworks — Software Procurement Intern</title>
+    <link href="https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630" rel="alternate"/>
+    <id>greenhouse:thoughtworksreferral:8225630</id>
+    <updated>2026-09-24T09:34:46Z</updated>
+    <summary>Gurgaon, India · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>Cushman &amp; Wakefield — EIC Apprentice</title>
     <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Gurgaon-India/EIC-Apprentice_R327030" rel="alternate"/>
     <id>workday:cw:job/Gurgaon-India/EIC-Apprentice_R327030</id>
@@ -18,12 +42,6 @@
     <id>workday:marvell:job/Hyderabad/Intern--Software-Engineer_2603879</id>
     <updated>2026-09-24T09:34:46Z</updated>
     <summary>Hyderabad · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Thoughtworks — Software Procurement Intern</title>
-    <link href="https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630" rel="alternate"/>
-    <id>greenhouse:thoughtworksreferral:8225630</id>
-    <updated>2026-09-24T09:34:46Z</updated>
-    <summary>Gurgaon, India · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Lean TECHniques — Software Engineer Intern - Hybrid</title>
     <link href="https://jobs.ashbyhq.com/leantechniques/a4ad4aa2-e0e5-40cd-b3a0-ce1c624c375c" rel="alternate"/>
@@ -288,23 +306,5 @@
     <id>workday:amgen:job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711</id>
     <updated>2026-09-11T18:05:39Z</updated>
     <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Amgen — Undergrad Intern – Machine Learning Engineer – Technology, AI &amp; Data (Summer 2027)</title>
-    <link href="https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709" rel="alternate"/>
-    <id>workday:amgen:job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709</id>
-    <updated>2026-09-11T18:05:39Z</updated>
-    <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Amgen — Undergrad Intern – Software Engineer – Technology, AI &amp; Data (Summer 2027)</title>
-    <link href="https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719" rel="alternate"/>
-    <id>workday:amgen:job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719</id>
-    <updated>2026-09-11T18:05:39Z</updated>
-    <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Voya Financial — Summer 2027 Technology Intern</title>
-    <link href="https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187" rel="alternate"/>
-    <id>workday:godirect:job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187</id>
-    <updated>2026-09-11T18:05:39Z</updated>
-    <summary>United States-Remote · Other · Summer 2027</summary>
   </entry>
 </feed>
