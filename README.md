@@ -10,10 +10,10 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 24, 2026 at 20:16 UTC</em></p>
+  <p><em>Last updated: Sep 24, 2026 at 23:27 UTC</em></p>
 </div>
 
 ---
@@ -30,13 +30,12 @@
 | **Fampay** | Security Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bengaluru | 2026-09-23 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
 | **Thoughtworks** | Developer (Vapasi) - Intern <sup>~</sup> | `Software` | Bangalore, India | 2026-09-17 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
 
-## Summer 2027 (Remote) <kbd>16 open</kbd>
+## Summer 2027 (Remote) <kbd>15 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Intel** | Firmware Development Undergraduate Engineering Co-op <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) |
 | **GoTo Group** | Apprentice <sup>~</sup> | `Other` | Remote (Brazil) | Posted Tod | [Apply ↗](https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Brazil/Apprentice_R26-2201) |
-| **Intel** | AI and Compiler Engineering Graduate Intern <sup>~</sup> | `Data & ML/AI` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/AI-and-Compiler-Engineering-Graduate-Intern_JR0286850) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice - Northern California <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
@@ -64,16 +63,18 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (23 of 26)._
+_~ = the title doesn't state a year; bucketed here from its posting date (22 of 25)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
+| Intel | AI and Compiler Engineering Graduate Intern | Summer 2027 | 2026-09-24 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-24 |
 | Pearson | Apprentice, Financial Operations | Summer 2027 | 2026-09-24 |
 | Pearson | Apprentice, Software Engineer | Summer 2027 | 2026-09-24 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-24 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-24 |
 | Corteva | Data Science Intern | Summer 2027 | 2026-09-24 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
@@ -85,11 +86,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (23 of 
 | Arista Networks | Junior AI-Assisted Automation Scripting Associate (Apprentice) | Summer 2027 | 2026-09-24 |
 | Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
 | Amgen | Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
 | State Street | Apprentice | Summer 2027 | 2026-09-24 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
 | State Street | Apprentice | Summer 2027 | 2026-09-24 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-09-23 |
 | Wex | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Summer 2027 | 2026-09-23 |
 
 </details>
