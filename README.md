@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 24, 2026 at 15:04 UTC</em></p>
+  <p><em>Last updated: Sep 24, 2026 at 20:16 UTC</em></p>
 </div>
 
 ---
@@ -71,10 +71,16 @@ _~ = the title doesn't state a year; bucketed here from its posting date (23 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Pearson | Apprentice, Financial Operations | Summer 2027 | 2026-09-24 |
+| Pearson | Apprentice, Software Engineer | Summer 2027 | 2026-09-24 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-24 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-24 |
+| Corteva | Data Science Intern | Summer 2027 | 2026-09-24 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
+| Marvell | AI Intern | Summer 2027 | 2026-09-24 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-24 |
 | Citi | Services – Summer Analyst, India, 2027 | Summer 2027 | 2026-09-24 |
 | IGS Energy | Software Engineer Intern | Summer 2027 | 2026-09-24 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-24 |
 | Dun & Bradstreet | Apprentice (R-19888) | Summer 2027 | 2026-09-24 |
 | Arista Networks | Junior AI-Assisted Automation Scripting Associate (Apprentice) | Summer 2027 | 2026-09-24 |
 | Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
@@ -83,14 +89,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (23 of 
 | State Street | Apprentice | Summer 2027 | 2026-09-24 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
 | State Street | Apprentice | Summer 2027 | 2026-09-24 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-24 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-09-23 |
 | Wex | Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate) | Summer 2027 | 2026-09-23 |
-| Wex | Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate) | Summer 2027 | 2026-09-23 |
-| Wex | Backend Software Engineer Intern - Java & AI (Master’s) | Summer 2027 | 2026-09-23 |
-| Wex | Fullstack Software Engineer Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
-| Wex | DevOps & Backend Software Engineer Intern (Undergraduate) | Summer 2027 | 2026-09-23 |
-| Wex | Software Engineer Intern – AI & Cloud (Graduate/Master’s) | Summer 2027 | 2026-09-23 |
 
 </details>
 

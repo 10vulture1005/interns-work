@@ -4,14 +4,20 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-24T15:04:41Z</updated>
+  <updated>2026-09-24T20:16:04Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Marvell — AI Intern</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/AI-Intern_2603878" rel="alternate"/>
-    <id>workday:marvell:job/Bangalore/AI-Intern_2603878</id>
-    <updated>2026-09-24T15:04:41Z</updated>
-    <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
+    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
+    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-017" rel="alternate"/>
+    <id>workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-017</id>
+    <updated>2026-09-24T20:16:03Z</updated>
+    <summary>CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Wex — Software Engineering Intern - Enterprise Data &amp; Systems (Salesforce &amp; Snowflake) (Graduate/Master&#x27;s)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543" rel="alternate"/>
+    <id>workday:wexinc:job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543</id>
+    <updated>2026-09-24T20:16:03Z</updated>
+    <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Qumulo — Software Development Engineer (Seattle) - Internship 2027</title>
     <link href="https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183" rel="alternate"/>
@@ -30,12 +36,6 @@
     <id>greenhouse:thoughtworksreferral:8225630</id>
     <updated>2026-09-24T09:34:46Z</updated>
     <summary>Gurgaon, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Gurgaon-India/EIC-Apprentice_R327030" rel="alternate"/>
-    <id>workday:cw:job/Gurgaon-India/EIC-Apprentice_R327030</id>
-    <updated>2026-09-24T09:34:46Z</updated>
-    <summary>Gurgaon, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Marvell — Intern, Software Engineer</title>
     <link href="https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879" rel="alternate"/>
@@ -84,24 +84,6 @@
     <id>ashby:ibotta:bc7c532d-931a-40fb-8c6c-b6939dd98582</id>
     <updated>2026-09-22T18:36:38Z</updated>
     <summary>Hybrid - Denver · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Pearson — Apprentice, Financial Operations</title>
-    <link href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25319" rel="alternate"/>
-    <id>oracle:hccz.fa.em3.oraclecloud.com:25319</id>
-    <updated>2026-09-22T18:36:38Z</updated>
-    <summary>Noida, Uttar Pradesh, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Pearson — Apprentice, Software Engineer</title>
-    <link href="https://hccz.fa.em3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/25453" rel="alternate"/>
-    <id>oracle:hccz.fa.em3.oraclecloud.com:25453</id>
-    <updated>2026-09-22T18:36:38Z</updated>
-    <summary>Bangalore, Karnataka, India · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Corteva — Data Science Intern</title>
-    <link href="https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W" rel="alternate"/>
-    <id>workday:corteva:job/Indianapolis-Indiana-United-States/Data-Science-Intern_248166W</id>
-    <updated>2026-09-22T18:36:38Z</updated>
-    <summary>Indianapolis, Indiana, United States · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Tanium — Cloud Security Intern</title>
     <link href="https://job-boards.greenhouse.io/tanium/jobs/8176398" rel="alternate"/>
@@ -306,5 +288,23 @@
     <id>workday:amgen:job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711</id>
     <updated>2026-09-11T18:05:39Z</updated>
     <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Amgen — Undergrad Intern – Machine Learning Engineer – Technology, AI &amp; Data (Summer 2027)</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709" rel="alternate"/>
+    <id>workday:amgen:job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709</id>
+    <updated>2026-09-11T18:05:39Z</updated>
+    <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Amgen — Undergrad Intern – Software Engineer – Technology, AI &amp; Data (Summer 2027)</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719" rel="alternate"/>
+    <id>workday:amgen:job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719</id>
+    <updated>2026-09-11T18:05:39Z</updated>
+    <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Voya Financial — Summer 2027 Technology Intern</title>
+    <link href="https://godirect.wd5.myworkdayjobs.com/en-US/voya_jobs/job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187" rel="alternate"/>
+    <id>workday:godirect:job/United-States-Remote/Summer-2027-Technology-Intern_JR0033187</id>
+    <updated>2026-09-11T18:05:39Z</updated>
+    <summary>United States-Remote · Other · Summer 2027</summary>
   </entry>
 </feed>

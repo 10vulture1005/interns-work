@@ -700,8 +700,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/phonepe/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:postman": {
-    "consecutive_failures": 7,
-    "last_attempt_at": "2026-09-21T16:47:26Z",
+    "consecutive_failures": 8,
+    "last_attempt_at": "2026-09-24T20:16:03Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/postman/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:qualifiedhealth": {
@@ -945,8 +945,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/attentive?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:autoroboto": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-09-23T15:12:56Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-09-24T20:16:03Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/autoroboto?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:bestegg": {
@@ -1360,8 +1360,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/acretrader-jobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "rippling:elevationcapital": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-24T15:04:41Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-09-24T20:16:03Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/elevationcapital/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "rippling:etg": {
@@ -1370,8 +1370,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/etg/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "rippling:sennos": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-09-24T15:04:41Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-09-24T20:16:03Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/sennos/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "unstop:cybersecurity": {
