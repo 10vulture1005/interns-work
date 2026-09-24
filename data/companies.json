@@ -4058,6 +4058,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Bracket Bot",
+    "slug": "bracket-bot",
+    "ats": "ashby"
+  },
+  {
     "name": "Brady Martz",
     "slug": "brady-martz",
     "ats": "workable"
@@ -4956,6 +4961,11 @@
     "name": "Catbird",
     "slug": "catbird",
     "ats": "lever"
+  },
+  {
+    "name": "Catch22",
+    "slug": "Catch22",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Caterpillar",
@@ -20588,6 +20598,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Qumulo",
+    "slug": "qumulo",
+    "ats": "ashby"
+  },
+  {
     "name": "Quora",
     "slug": "quora",
     "ats": "ashby"
@@ -27965,6 +27980,11 @@
     "name": "Xebia",
     "slug": "xebiausa",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Xero",
+    "slug": "xero",
+    "ats": "ashby"
   },
   {
     "name": "Xing",
