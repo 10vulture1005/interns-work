@@ -3371,6 +3371,11 @@
     "ats": "lever"
   },
   {
+    "name": "Best Friend Finance",
+    "slug": "bff",
+    "ats": "workable"
+  },
+  {
     "name": "Best Friends",
     "slug": "bestfriends",
     "ats": "workday",
@@ -4203,6 +4208,11 @@
     "name": "BrightAI",
     "slug": "brightai",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Brightstar.AI",
+    "slug": "brightstar-ai",
+    "ats": "ashby"
   },
   {
     "name": "Brilliancanada",
@@ -6060,6 +6070,11 @@
     "name": "Cognizant",
     "slug": "cognizant",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Cohen & Steers",
+    "slug": "cnssummerassociates",
+    "ats": "greenhouse"
   },
   {
     "name": "Cohere",
@@ -10672,6 +10687,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Genesis Molecular AI",
+    "slug": "genesis-molecular-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "Genesis Therapeutics",
     "slug": "genesis-therapeutics",
     "ats": "ashby"
@@ -10769,6 +10789,11 @@
     "name": "Georgian Partners Growth",
     "slug": "georgian",
     "ats": "ashby"
+  },
+  {
+    "name": "Geospatial Consulting Group International",
+    "slug": "geocgi",
+    "ats": "greenhouse"
   },
   {
     "name": "Geotab",
@@ -11948,6 +11973,11 @@
     "name": "Heron Power",
     "slug": "heron-power",
     "ats": "ashby"
+  },
+  {
+    "name": "Heven AeroTech",
+    "slug": "hevenaerotech",
+    "ats": "greenhouse"
   },
   {
     "name": "Hevodata",
@@ -13467,6 +13497,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "IowaStateJobs"
+  },
+  {
+    "name": "IPT Global",
+    "slug": "IPTGlobal",
+    "ats": "smartrecruiters"
   },
   {
     "name": "IQVIA",
@@ -20063,6 +20098,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Prevail",
+    "slug": "prevail",
+    "ats": "workable"
+  },
+  {
     "name": "Priceline",
     "slug": "priceline",
     "ats": "workday",
@@ -22731,6 +22771,11 @@
     "name": "Silvus Technologies",
     "slug": "silvus",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Sim",
+    "slug": "sim",
+    "ats": "ashby"
   },
   {
     "name": "Simbe Robotics",
@@ -25703,6 +25748,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "TRUMPF_Students"
+  },
+  {
+    "name": "Trunk Tools",
+    "slug": "trunk",
+    "ats": "ashby"
   },
   {
     "name": "TruStage",
