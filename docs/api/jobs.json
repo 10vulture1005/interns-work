@@ -60,18 +60,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:biibhr:job/Remote-USA/Co-op--Data-Science_REQ24211",
-    "company": "Biogen",
-    "title": "Co-op, Data Science",
-    "location": "Remote, USA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Data-Science_REQ24211",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:wexinc:job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
     "company": "Wex",
     "title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
@@ -180,6 +168,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:magna:job/Muncie-Indiana-US/Controls-Apprentice_R00260453",
     "company": "Magna International",
     "title": "Controls Apprentice",
@@ -248,18 +248,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Apprentice_R323129",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Hyderabad-India/EIC---Apprentice_R323147",
-    "company": "Cushman & Wakefield",
-    "title": "EIC - Apprentice",
-    "location": "Hyderabad, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC---Apprentice_R323147",
     "salary": null,
     "source": "workday"
   },
@@ -768,6 +756,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "company": "Bloom Energy",
+    "title": "Field Service Apprentice - Fixed Term",
+    "location": "Remote - Santa Teresa, New Mexico",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "company": "Campbellsoup",
     "title": "Agentic AI Engineer Co-Op",
@@ -934,6 +934,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "smartrecruiters:RRSGroup:744000151931819",
+    "company": "RRS Group",
+    "title": "2027 Associate Software Engineer Intern - Sophomore Only",
+    "location": "San Francisco, United States (Remote)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-25T20:09:49.929Z",
+    "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819",
+    "salary": null,
+    "source": "smartrecruiters"
   },
   {
     "id": "smartrecruiters:SmithsGroup2:744000151802144",
