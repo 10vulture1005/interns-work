@@ -10,21 +10,23 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-27-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 25, 2026 at 02:54 UTC</em></p>
+  <p><em>Last updated: Sep 25, 2026 at 09:55 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>7 open</kbd>
+## Summer 2027 (India) <kbd>9 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
+| **Sprinklr** | ML Intern <sup>~</sup> | `Data & ML/AI` | India - Haryana - Gurgaon | Posted Tod | [Apply ↗](https://sprinklr.wd1.myworkdayjobs.com/en-US/careers/job/India---Haryana---Gurgaon/ML-Intern_113518-JOB) |
 | **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26987941) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
+| **Citi** | Services – Summer Analyst, India, 2027 | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Fampay** | Security Engineer Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bengaluru | 2026-09-23 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
@@ -63,13 +65,16 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (22 of 25)._
+_~ = the title doesn't state a year; bucketed here from its posting date (23 of 27)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-25 |
+| Marvell | Intern, Software Engineer | Summer 2027 | 2026-09-25 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-25 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-25 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-25 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
@@ -81,15 +86,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | Corteva | Data Science Intern | Summer 2027 | 2026-09-24 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
 | Marvell | AI Intern | Summer 2027 | 2026-09-24 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-24 |
-| Citi | Services – Summer Analyst, India, 2027 | Summer 2027 | 2026-09-24 |
 | IGS Energy | Software Engineer Intern | Summer 2027 | 2026-09-24 |
 | Dun & Bradstreet | Apprentice (R-19888) | Summer 2027 | 2026-09-24 |
 | Arista Networks | Junior AI-Assisted Automation Scripting Associate (Apprentice) | Summer 2027 | 2026-09-24 |
 | Amgen | Grad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
 | Amgen | Undergrad Intern – Data Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-09-24 |
 | State Street | Apprentice | Summer 2027 | 2026-09-24 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
 
 </details>
 
