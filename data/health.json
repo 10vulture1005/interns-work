@@ -115,8 +115,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/genesis-therapeutics?includeCompensation=true'\nFor more information check: https://developer.mozill"
   },
   "ashby:goodship": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-09-22T01:03:07Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-09-25T02:54:29Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/goodship?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:heidihealth": {
@@ -175,8 +175,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/lindy?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:lynk": {
-    "consecutive_failures": 12,
-    "last_attempt_at": "2026-09-22T01:03:07Z",
+    "consecutive_failures": 13,
+    "last_attempt_at": "2026-09-25T02:54:29Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/lynk?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/docs"
   },
   "ashby:mach": {
@@ -415,8 +415,8 @@
     "last_error": "no connector for eightfold"
   },
   "greenhouse:10xgenomics": {
-    "consecutive_failures": 18,
-    "last_attempt_at": "2026-09-22T01:03:07Z",
+    "consecutive_failures": 19,
+    "last_attempt_at": "2026-09-25T02:54:29Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/10xgenomics/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "greenhouse:alma": {
@@ -428,11 +428,6 @@
     "consecutive_failures": 24,
     "last_attempt_at": "2026-09-24T09:34:46Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amagi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
-  },
-  "greenhouse:andurilindustries": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-24T23:27:36Z",
-    "last_error": "ReadTimeout: "
   },
   "greenhouse:apna": {
     "consecutive_failures": 24,
@@ -1360,23 +1355,23 @@
     "last_error": "no connector for recruitee"
   },
   "rippling:acretrader-jobs": {
-    "consecutive_failures": 14,
-    "last_attempt_at": "2026-09-22T01:03:07Z",
+    "consecutive_failures": 15,
+    "last_attempt_at": "2026-09-25T02:54:29Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/acretrader-jobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "rippling:elevationcapital": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-09-24T20:16:03Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-09-25T02:54:29Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/elevationcapital/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "rippling:etg": {
-    "consecutive_failures": 12,
-    "last_attempt_at": "2026-09-22T01:03:07Z",
+    "consecutive_failures": 13,
+    "last_attempt_at": "2026-09-25T02:54:29Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/etg/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "rippling:sennos": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-09-24T20:16:03Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-09-25T02:54:29Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/sennos/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "unstop:cybersecurity": {

@@ -4,18 +4,18 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-09-24T23:27:36Z</updated>
+  <updated>2026-09-25T02:54:29Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>Biogen — Co-op, Data Science</title>
-    <link href="https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Data-Science_REQ24211" rel="alternate"/>
-    <id>workday:biibhr:job/Remote-USA/Co-op--Data-Science_REQ24211</id>
-    <updated>2026-09-24T23:27:36Z</updated>
-    <summary>Remote, USA · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
     <title>Biogen — Co-op, Data Science &amp; AI Innovation</title>
     <link href="https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209" rel="alternate"/>
     <id>workday:biibhr:job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209</id>
+    <updated>2026-09-24T23:27:36Z</updated>
+    <summary>Remote, USA · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Biogen — Co-op, Data Science</title>
+    <link href="https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Data-Science_REQ24211" rel="alternate"/>
+    <id>workday:biibhr:job/Remote-USA/Co-op--Data-Science_REQ24211</id>
     <updated>2026-09-24T23:27:36Z</updated>
     <summary>Remote, USA · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
@@ -199,12 +199,6 @@
     <updated>2026-09-15T18:29:13Z</updated>
     <summary>Office - Mumbai · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019" rel="alternate"/>
-    <id>workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019</id>
-    <updated>2026-09-15T18:29:13Z</updated>
-    <summary>CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>GoTo Group — Apprentice</title>
     <link href="https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Brazil/Apprentice_R26-2201" rel="alternate"/>
     <id>workday:goto:job/Remote-Brazil/Apprentice_R26-2201</id>
@@ -240,6 +234,12 @@
     <id>workday:cw:job/Bengaluru-India/Apprentice_R323129</id>
     <updated>2026-09-14T16:43:12Z</updated>
     <summary>Bengaluru, India · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Cushman &amp; Wakefield — EIC - Apprentice</title>
+    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC---Apprentice_R323147" rel="alternate"/>
+    <id>workday:cw:job/Hyderabad-India/EIC---Apprentice_R323147</id>
+    <updated>2026-09-14T16:43:12Z</updated>
+    <summary>Hyderabad, India · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Arista Networks — Intern Software Engineer - C/C++</title>
     <link href="https://jobs.smartrecruiters.com/AristaNetworks/744000149101159" rel="alternate"/>
