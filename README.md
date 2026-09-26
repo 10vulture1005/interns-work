@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 26, 2026 at 03:07 UTC</em></p>
+  <p><em>Last updated: Sep 26, 2026 at 09:31 UTC</em></p>
 </div>
 
 ---
@@ -70,6 +70,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Innovaccer | Apprentice - Employee Engagement | Summer 2027 | 2026-09-26 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-26 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-26 |
 | Biogen | Co-op, Data Science | Summer 2027 | 2026-09-25 |
@@ -89,7 +90,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | Corteva | Data Science Intern | Summer 2027 | 2026-09-24 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
 | Marvell | AI Intern | Summer 2027 | 2026-09-24 |
-| IGS Energy | Software Engineer Intern | Summer 2027 | 2026-09-24 |
 
 </details>
 
