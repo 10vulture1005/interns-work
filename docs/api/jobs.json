@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:jll:job/Gurugram-HR/Apprentice_REQ525149",
+    "company": "Jones Lang LaSalle (JLL)",
+    "title": "Apprentice",
+    "location": "Gurugram, HR",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ525149",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803",
     "company": "Medtronic",
     "title": "Co-op/Apprentice (Non-Tech)",
@@ -32,18 +44,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://itron.wd5.myworkdayjobs.com/en-US/Early_Careers/job/India-Bangalore/Apprentice_JR102835-2",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:jll:job/Gurugram-HR/Apprentice_REQ538293",
-    "company": "Jones Lang LaSalle (JLL)",
-    "title": "Apprentice",
-    "location": "Gurugram, HR",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ538293",
     "salary": null,
     "source": "workday"
   },
@@ -224,6 +224,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Bengaluru-India/Apprentice_R323129",
+    "company": "Cushman & Wakefield",
+    "title": "Apprentice",
+    "location": "Bengaluru, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Apprentice_R323129",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Hyderabad-India/EIC---Apprentice_R323147",
+    "company": "Cushman & Wakefield",
+    "title": "EIC - Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC---Apprentice_R323147",
     "salary": null,
     "source": "workday"
   },
@@ -492,6 +516,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice- Project & Development Services",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:hitachi:job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1",
     "company": "Hitachi Energy",
     "title": "Internship - Software Asset Management",
@@ -600,18 +636,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:slihrms:job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "IN.Gurgaon.DLF Cyber City",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INGurgaonDLF-Cyber-City/Apprentice_R-152842-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:mufgub:job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
     "company": "Mitsubishi UFG",
     "title": "Apprentice",
@@ -624,6 +648,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:micron:job/Sanand---303A---ATSSDMOD-India/Technician-Apprentice_JR107694",
     "company": "Micron Technology",
     "title": "Technician Apprentice",
@@ -632,6 +668,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Technician-Apprentice_JR107694",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice---BTech-in-Civil-MTech-in-Water-Resource--Environment---Batch-2025-2024_R-158003-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Mumbai.Embassy 247 Park",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice---BTech-in-Civil-MTech-in-Water-Resource--Environment---Batch-2025-2024_R-158003-1",
     "salary": null,
     "source": "workday"
   },
@@ -672,14 +720,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
+    "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
+    "company": "Campbellsoup",
+    "title": "Agentic AI Engineer Co-Op",
+    "location": "USA - Remote",
+    "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66014",
     "salary": null,
     "source": "workday"
   },
@@ -704,18 +752,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
-    "company": "Campbellsoup",
-    "title": "Agentic AI Engineer Co-Op",
-    "location": "USA - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "salary": null,
     "source": "workday"
   },
@@ -824,6 +860,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
