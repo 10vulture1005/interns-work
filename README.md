@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 27, 2026 at 18:42 UTC</em></p>
+  <p><em>Last updated: Sep 27, 2026 at 21:36 UTC</em></p>
 </div>
 
 ---
@@ -70,9 +70,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-09-27 |
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-09-27 |
+| Cushman & Wakefield | EIC Apprentice- Project & Development Services | Summer 2027 | 2026-09-27 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-27 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-27 |
-| Cushman & Wakefield | Apprentice | Summer 2027 | 2026-09-27 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-09-27 |
 | Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-09-27 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-27 |
@@ -88,8 +90,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | CWAN | Software Development Intern | Summer 2027 | 2026-09-25 |
 | Itron | Apprentice | Summer 2027 | 2026-09-25 |
 | Marvell | Intern, Software Engineer | Summer 2027 | 2026-09-25 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-24 |
-| Intel | AI and Compiler Engineering Graduate Intern | Summer 2027 | 2026-09-24 |
 
 </details>
 
