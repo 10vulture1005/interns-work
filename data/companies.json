@@ -23051,6 +23051,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Smartnews",
+    "slug": "smartnews",
+    "ats": "workable"
+  },
+  {
     "name": "Smartsheet",
     "slug": "smartsheet",
     "ats": "greenhouse"
