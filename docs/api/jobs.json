@@ -24,6 +24,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:kone:job/Chennai/Government-Apprentice_R0664863",
+    "company": "KONE",
+    "title": "Government Apprentice",
+    "location": "Chennai",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://kone.wd3.myworkdayjobs.com/en-US/careers/job/Chennai/Government-Apprentice_R0664863",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:myhrabc:job/Remote-USA/Software-Intern_R2613763",
     "company": "Cencora",
     "title": "Software Intern",
@@ -116,6 +128,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:centene:job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
+    "company": "Centene",
+    "title": "Technology Summer 2027 Intern (Undergraduate)",
+    "location": "Remote-FL",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
     "salary": null,
     "source": "workday"
   },
@@ -504,6 +528,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice- Project & Development Services",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice--Project---Development-Services_R335332",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:hitachi:job/Remote---Lesser-Poland-Poland/Internship---Software-Asset-Management_R0139768-1",
     "company": "Hitachi Energy",
     "title": "Internship - Software Asset Management",
@@ -632,6 +668,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
     "salary": null,
     "source": "workday"
   },
