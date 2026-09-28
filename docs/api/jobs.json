@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:acxiomllc:job/RemoteHomebased/Intern---Commercial-Financial-Analyst_JR014519",
+    "company": "Acxiom",
+    "title": "Intern - Commercial Financial Analyst",
+    "location": "Remote/Homebased",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://acxiomllc.wd5.myworkdayjobs.com/en-US/AcxiomUSA/job/RemoteHomebased/Intern---Commercial-Financial-Analyst_JR014519",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:geaerospace:job/Bengaluru/Data-Science--Intern_R5040692-1",
     "company": "GE Aerospace",
     "title": "Data Science -Intern",
@@ -56,30 +68,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://fortrea.wd1.myworkdayjobs.com/en-US/Fortrea/job/Bangalore/Apprentice---Employer-Branding_264572",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:spgi:job/Ahmedabad-Gujarat/Apprentice_328490-2",
-    "company": "S&P Global",
-    "title": "Apprentice",
-    "location": "Ahmedabad, Gujarat",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Ahmedabad-Gujarat/Apprentice_328490-2",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:kone:job/Chennai/Government-Apprentice_R0664863",
-    "company": "KONE",
-    "title": "Government Apprentice",
-    "location": "Chennai",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://kone.wd3.myworkdayjobs.com/en-US/careers/job/Chennai/Government-Apprentice_R0664863",
     "salary": null,
     "source": "workday"
   },
@@ -132,18 +120,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:maxar:job/Remote-United-States/AI-Engineer-Intern_R24605",
-    "company": "Vantor",
-    "title": "AI Engineer Intern",
-    "location": "Remote (United States)",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:mufgub:job/Mumbai-Office-MGS/Apprentice-Global-Operations_10079688-WD-1",
     "company": "Mitsubishi UFG",
     "title": "Apprentice Global Operations",
@@ -192,18 +168,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:sonyglobal:job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-    "company": "Sony",
-    "title": "Research Intern on Generative and Protective AI for Content Creation",
-    "location": "Remote - Texas",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://sonyglobal.wd1.myworkdayjobs.com/en-US/SonyGlobalCareers/job/Remote---Texas/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975",
     "company": "Deutsche Bank",
     "title": "Apprentice Hiring for 2026- 2027",
@@ -212,6 +176,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Nirlon-Know-Pk-B7/Apprentice-Hiring-for-2026--2027_R0441975",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
     "salary": null,
     "source": "workday"
   },
@@ -264,18 +240,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:marvell:job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
-    "company": "Marvell",
-    "title": "Generative AI Forward Deployed Engineer Intern-Enterprise Applications",
-    "location": "Bangalore",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/Generative-AI-Forward-Deployed-Engineer-Intern-Enterprise-Applications_2604227",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:wexinc:job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
     "company": "Wex",
     "title": "AI & Data Platform Engineering Intern (Undergraduate)",
@@ -308,18 +272,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Apprentice_R323129",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Hyderabad-India/EIC---Apprentice_R323147",
-    "company": "Cushman & Wakefield",
-    "title": "EIC - Apprentice",
-    "location": "Hyderabad, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC---Apprentice_R323147",
     "salary": null,
     "source": "workday"
   },
@@ -368,6 +320,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
+    "company": "Corteva",
+    "title": "Agentic AI Engineer Intern",
+    "location": "Indianapolis, Indiana, United States",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
+    "company": "Corteva",
+    "title": "Data Science Summer Intern",
+    "location": "Indianapolis, Indiana, United States",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
     "salary": null,
     "source": "workday"
   },
@@ -516,18 +492,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-797519",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797519",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring--NCT_R0449404",
     "company": "Deutsche Bank",
     "title": "Apprentice Role for Non-Technology hiring, NCT",
@@ -560,6 +524,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
+    "company": "Corteva",
+    "title": "R&D Internship – Computer & Data Science",
+    "location": "Indianapolis, Indiana, United States",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
     "salary": null,
     "source": "workday"
   },
@@ -768,14 +744,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
-    "company": "R1 RCM",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
     "title": "Apprentice",
-    "location": "Noida, India",
+    "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -864,6 +840,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Associate-Analyst---Apprentice_R250000006505",
     "company": "R1 RCM",
     "title": "Associate Analyst - Apprentice",
@@ -908,18 +896,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },

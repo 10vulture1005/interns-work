@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 28, 2026 at 16:54 UTC</em></p>
+  <p><em>Last updated: Sep 28, 2026 at 23:14 UTC</em></p>
 </div>
 
 ---
@@ -69,26 +69,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-28 |
+| KONE | Government Apprentice | Summer 2027 | 2026-09-28 |
+| Marvell | Generative AI Forward Deployed Engineer Intern-Enterprise Applications | Summer 2027 | 2026-09-28 |
+| Vantor | AI Engineer Intern | Summer 2027 | 2026-09-28 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-28 |
+| Sony | Research Intern on Generative and Protective AI for Content Creation | Summer 2027 | 2026-09-28 |
+| S&P Global | Apprentice | Summer 2027 | 2026-09-28 |
+| State Street | Apprentice | Summer 2027 | 2026-09-28 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-28 |
 | Rubrik | Software Engineer - Winter Intern | Term Unconfirmed | 2026-09-28 |
 | RRS Group | 2027 Associate Software Engineer Intern - Sophomore Only | Summer 2027 | 2026-09-28 |
 | Smiths Detection Group | Graduate Apprentice Trainee | Summer 2027 | 2026-09-28 |
 | Biogen | Co-op, Data Science & AI Innovation | Summer 2027 | 2026-09-28 |
 | Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-28 |
-| Corteva | Agentic AI Engineer Intern | Summer 2027 | 2026-09-28 |
-| Corteva | Data Science Summer Intern | Summer 2027 | 2026-09-28 |
-| Corteva | R&D Internship – Computer & Data Science | Summer 2027 | 2026-09-28 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-28 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-09-28 |
 | Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-09-28 |
 | Itron | Apprentice | Summer 2027 | 2026-09-28 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-27 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-27 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-26 |
 | Innovaccer | Apprentice - Employee Engagement | Summer 2027 | 2026-09-26 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-26 |
-| Biogen | Co-op, Data Science | Summer 2027 | 2026-09-25 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-09-25 |
-| Sprinklr | ML Intern | Summer 2027 | 2026-09-25 |
 
 </details>
 
