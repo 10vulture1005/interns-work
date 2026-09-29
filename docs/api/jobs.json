@@ -12,6 +12,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:ciena:job/Pune/SVT-PV-Engineering-Software-Applications---Intern_R031711",
+    "company": "Ciena",
+    "title": "SVT/PV Engineering Software Applications - Intern",
+    "location": "Pune",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Pune/SVT-PV-Engineering-Software-Applications---Intern_R031711",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:jll:job/Hyderabad-TS/NAPS-Apprentice_REQ531996",
+    "company": "Jones Lang LaSalle (JLL)",
+    "title": "NAPS Apprentice",
+    "location": "Hyderabad, TS",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Hyderabad-TS/NAPS-Apprentice_REQ531996",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:acxiomllc:job/RemoteHomebased/Intern---Commercial-Financial-Analyst_JR014519",
     "company": "Acxiom",
     "title": "Intern - Commercial Financial Analyst",
@@ -180,18 +204,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Chennai, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:itron:job/India-Bangalore/Apprentice_JR102702-2",
     "company": "Itron",
     "title": "Apprentice",
@@ -212,18 +224,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Controls-Apprentice_R00260453",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:goto:job/Remote-Brazil/Apprentice_R26-2201",
-    "company": "GoTo Group",
-    "title": "Apprentice",
-    "location": "Remote (Brazil)",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://goto.wd5.myworkdayjobs.com/en-US/GoToCareers/job/Remote-Brazil/Apprentice_R26-2201",
     "salary": null,
     "source": "workday"
   },
@@ -276,6 +276,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Hyderabad-India/EIC---Apprentice_R323147",
+    "company": "Cushman & Wakefield",
+    "title": "EIC - Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC---Apprentice_R323147",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:globalhr:job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145",
     "company": "RTX",
     "title": "Software Engineering Intern (Summer 2027)",
@@ -284,42 +296,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-INDIANAPOLIS-206--3939-Priority-Way-S-Dr--PRIORITY-BLDG-6/Software-Engineering-Intern--Summer-2027-_01874145",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744",
-    "company": "Amgen",
-    "title": "Grad Intern – Digital Product – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
-    "company": "Amgen",
-    "title": "Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
-    "company": "Amgen",
-    "title": "Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
     "salary": null,
     "source": "workday"
   },
@@ -344,66 +320,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
-    "company": "Amgen",
-    "title": "Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
-    "company": "Amgen",
-    "title": "Undergrad Intern – Data Scientist – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711",
-    "company": "Amgen",
-    "title": "Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
-    "company": "Amgen",
-    "title": "Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:amgen:job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
-    "company": "Amgen",
-    "title": "Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027)",
-    "location": "United States - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
     "salary": null,
     "source": "workday"
   },
@@ -488,6 +404,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-797519",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797519",
     "salary": null,
     "source": "workday"
   },
@@ -948,6 +876,30 @@
     "source": "workday"
   },
   {
+    "id": "smartrecruiters:carousellgroup:744000152327759",
+    "company": "Carousell Group",
+    "title": "Android Engineer Intern - 6 months",
+    "location": "Bengaluru, KA, India",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-29T05:42:29.488Z",
+    "url": "https://jobs.smartrecruiters.com/carousellgroup/744000152327759",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
+    "id": "smartrecruiters:Wabtec:3743990015755665",
+    "company": "Wabtec",
+    "title": "Technician Apprentice",
+    "location": "Marhowra, BR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-29T05:40:59.173Z",
+    "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015755665",
+    "salary": null,
+    "source": "smartrecruiters"
+  },
+  {
     "id": "greenhouse:acluinternships:8843314002",
     "company": "ACLU Kentucky",
     "title": "Summer 2027 Undergraduate Intern, Speech, Privacy and Technology Project",
@@ -1128,6 +1080,18 @@
     "source": "greenhouse"
   },
   {
+    "id": "oracle:egug.fa.us2.oraclecloud.com:26013720",
+    "company": "American Express",
+    "title": "Apprentice",
+    "location": "Gurugram, HR, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-09-14",
+    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013720",
+    "salary": null,
+    "source": "oracle"
+  },
+  {
     "id": "smartrecruiters:AristaNetworks:744000149101159",
     "company": "Arista Networks",
     "title": "Intern Software Engineer - C/C++",
@@ -1304,6 +1268,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-07T11:06:46-04:00",
     "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:rubrik:8166523",
+    "company": "Rubrik",
+    "title": "Software Engineer - Winter Intern",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Term Unconfirmed",
+    "posted_at": "2026-09-06T08:42:59-04:00",
+    "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523",
     "salary": null,
     "source": "greenhouse"
   },
