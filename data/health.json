@@ -300,8 +300,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/tuesday-lab?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "ashby:two-dots": {
-    "consecutive_failures": 7,
-    "last_attempt_at": "2026-09-26T03:07:40Z",
+    "consecutive_failures": 8,
+    "last_attempt_at": "2026-09-29T03:43:12Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/two-dots?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:veeda-labs": {
@@ -430,8 +430,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amagi/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:amplitude": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-28T23:14:28Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-09-29T03:43:12Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/amplitude/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:apna": {
@@ -615,8 +615,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/innovaccer/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:instabase": {
-    "consecutive_failures": 8,
-    "last_attempt_at": "2026-09-26T03:07:40Z",
+    "consecutive_failures": 9,
+    "last_attempt_at": "2026-09-29T03:43:12Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/instabase/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:job-boards": {
@@ -1040,8 +1040,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/grid?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:inductiveautomation": {
-    "consecutive_failures": 7,
-    "last_attempt_at": "2026-09-25T23:29:49Z",
+    "consecutive_failures": 8,
+    "last_attempt_at": "2026-09-29T03:43:12Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/inductiveautomation?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "lever:istaridigital": {
@@ -1365,8 +1365,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/acretrader-jobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "rippling:elevationcapital": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-09-27T00:35:21Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-09-29T03:43:12Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/elevationcapital/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "rippling:etg": {
@@ -1375,8 +1375,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/etg/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "rippling:sennos": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-09-27T00:35:21Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-09-29T03:43:12Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/sennos/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "unstop:cybersecurity": {
@@ -1408,6 +1408,11 @@
     "consecutive_failures": 25,
     "last_attempt_at": "2026-09-27T13:55:59Z",
     "last_error": "no connector for wellfound"
+  },
+  "workable:mila-2": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-29T03:43:12Z",
+    "last_error": "HTTPStatusError: Server error '520 <none>' for url 'https://apply.workable.com/api/v3/accounts/mila-2/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/520"
   },
   "workable:q5-partners": {
     "consecutive_failures": 8,
