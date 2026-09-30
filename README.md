@@ -10,19 +10,20 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Sep 30, 2026 at 08:22 UTC</em></p>
+  <p><em>Last updated: Sep 30, 2026 at 15:01 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>7 open</kbd>
+## Summer 2027 (India) <kbd>8 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
+| **Philips** | Apprentice Trainee <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Bangalore | Posted Tod | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee_589124) |
 | **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26987941) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
@@ -61,33 +62,33 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (20 of 23)._
+_~ = the title doesn't state a year; bucketed here from its posting date (21 of 24)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Campbellsoup | Agentic AI Engineer Co-Op | Summer 2027 | 2026-09-30 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-09-30 |
+| American Express | Apprentice | Summer 2027 | 2026-09-30 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-09-30 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-30 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-30 |
+| Jones Lang LaSalle (JLL) | Apprentice - Facilities Coordinator | Summer 2027 | 2026-09-30 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-09-30 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-30 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-30 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-30 |
 | Fortrea | Apprentice - Employer Branding | Summer 2027 | 2026-09-30 |
 | GE Healthcare | Surgery Field Engineer Apprentice - Northern California | Summer 2027 | 2026-09-30 |
 | A Thinking Ape | Software Development Engineer Co-op (Jan. 2027) | Summer 2027 | 2026-09-30 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-09-30 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-30 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-30 |
 | ABB | ITI apprentice | Summer 2027 | 2026-09-29 |
 | Alcon | Product Security Apprentice Engineer – Post-Market Surveillance & Security Testing | Summer 2027 | 2026-09-29 |
 | Magna International | Controls Apprentice | Summer 2027 | 2026-09-29 |
 | State Street | Apprentice | Summer 2027 | 2026-09-29 |
 | Wex | SRE & Application Services Intern (Graduate/Master's) | Summer 2027 | 2026-09-29 |
 | Carousell Group | Android Engineer Intern - 6 months | Summer 2027 | 2026-09-29 |
-| Ciena | SVT/PV Engineering Software Applications - Intern | Summer 2027 | 2026-09-29 |
-| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-09-29 |
-| Cencora | Software Intern | Summer 2027 | 2026-09-29 |
-| Procter & Gamble (P&G) | Information Technology Intern | Summer 2027 | 2026-09-29 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-09-29 |
 
 </details>
 
