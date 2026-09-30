@@ -57,6 +57,11 @@
     "site": "external_careers"
   },
   {
+    "name": "21Shares",
+    "slug": "21shares",
+    "ats": "greenhouse"
+  },
+  {
     "name": "2K",
     "slug": "2k",
     "ats": "greenhouse"
@@ -1324,6 +1329,11 @@
     "site": "amcnetworks"
   },
   {
+    "name": "AMCA",
+    "slug": "amca",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Amcor",
     "slug": "amcor",
     "ats": "workday",
@@ -1716,6 +1726,11 @@
   {
     "name": "Anthropic",
     "slug": "anthropic",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Anthropic",
+    "slug": "claudecorps",
     "ats": "greenhouse"
   },
   {
@@ -7950,6 +7965,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "DPD UK",
+    "slug": "DPDGroupUK1",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "DPR Family of Companies",
     "slug": "mydpr",
     "ats": "workday",
@@ -9094,6 +9114,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "External"
+  },
+  {
+    "name": "EvolutionIQ",
+    "slug": "evolutioniq",
+    "ats": "greenhouse"
   },
   {
     "name": "Evolve Technology",
@@ -15334,6 +15359,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Lucid Computing",
+    "slug": "lucidcomputing",
+    "ats": "ashby"
+  },
+  {
     "name": "Lucid Motors",
     "slug": "lucidmotors",
     "ats": "greenhouse"
@@ -16966,6 +16996,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Morse Micro",
+    "slug": "morse-micro",
+    "ats": "ashby"
+  },
+  {
     "name": "Mosaic",
     "slug": "mosaic",
     "ats": "workday",
@@ -18143,6 +18178,11 @@
     "name": "NTT DATA AIVista",
     "slug": "ntt-data-aivista",
     "ats": "ashby"
+  },
+  {
+    "name": "Nu Quantum",
+    "slug": "nu-quantum",
+    "ats": "workable"
   },
   {
     "name": "Nubank",
@@ -19827,6 +19867,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Plexus_Careers"
+  },
+  {
+    "name": "Plot Technologies",
+    "slug": "plot",
+    "ats": "ashby"
   },
   {
     "name": "PLS",
@@ -24220,6 +24265,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Synhawk",
+    "slug": "synhawk",
+    "ats": "ashby"
+  },
+  {
     "name": "Synopsys",
     "slug": "synopsys-tech",
     "ats": "smartrecruiters"
@@ -28339,6 +28389,11 @@
     "name": "Zeta",
     "slug": "zeta",
     "ats": "lever"
+  },
+  {
+    "name": "Zeta Global",
+    "slug": "zetaglobal",
+    "ats": "greenhouse"
   },
   {
     "name": "Zeta Suite",
