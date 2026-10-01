@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 01, 2026 at 08:39 UTC</em></p>
+  <p><em>Last updated: Oct 01, 2026 at 15:51 UTC</em></p>
 </div>
 
 ---
@@ -22,8 +22,8 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
+| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980896) |
 | **Citi** | Banking - Young Apprentice - C00 <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Banking---Young-Apprentice---C00_26975753) |
-| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26987941) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Bangalore , Karnataka, India | Posted 8 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
@@ -70,13 +70,18 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Cushman & Wakefield | Apprentice | Summer 2027 | 2026-10-01 |
+| Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-01 |
+| Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-10-01 |
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-01 |
+| Marvell | Intern, Software QA Engineer | Summer 2027 | 2026-10-01 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-10-01 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-01 |
+| S&P Global | Apprentice | Summer 2027 | 2026-10-01 |
 | Marvell | Intern, Software QA Engineer | Summer 2027 | 2026-10-01 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-01 |
 | TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-10-01 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-01 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-01 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-10-01 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-30 |
 | Philips | Apprentice Trainee | Summer 2027 | 2026-09-30 |
 | American Express | Apprentice | Summer 2027 | 2026-09-30 |
@@ -85,11 +90,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-30 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-30 |
 | Fortrea | Apprentice - Employer Branding | Summer 2027 | 2026-09-30 |
-| GE Healthcare | Surgery Field Engineer Apprentice - Northern California | Summer 2027 | 2026-09-30 |
-| A Thinking Ape | Software Development Engineer Co-op (Jan. 2027) | Summer 2027 | 2026-09-30 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-09-30 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-30 |
-| ABB | ITI apprentice | Summer 2027 | 2026-09-29 |
 
 </details>
 

@@ -1,5 +1,41 @@
 [
   {
+    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980896",
+    "company": "Citi",
+    "title": "Young Apprentice - C00 - MUMBAI",
+    "location": "Mumbai Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980896",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:job/Bangalore/Intern--Software-QA-Engineer_2604244",
+    "company": "Marvell",
+    "title": "Intern, Software QA Engineer",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer_2604244",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:globalhr:job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
+    "company": "RTX",
+    "title": "Digital Technology Vendor Management Co-op (REMOTE)",
+    "location": "US-CT-REMOTE",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:citi:job/Mumbai-Maharashtra-India/Banking---Young-Apprentice---C00_26975753",
     "company": "Citi",
     "title": "Banking - Young Apprentice - C00",
@@ -8,30 +44,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Banking---Young-Apprentice---C00_26975753",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:marvell:job/IN---Pune/Intern--Software-QA-Engineer_2603892",
-    "company": "Marvell",
-    "title": "Intern, Software QA Engineer",
-    "location": "IN - Pune",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/IN---Pune/Intern--Software-QA-Engineer_2603892",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:spgi:job/Hyderabad-Telangana/Apprentice_328754-1",
-    "company": "S&P Global",
-    "title": "Apprentice",
-    "location": "Hyderabad, Telangana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Hyderabad-Telangana/Apprentice_328754-1",
     "salary": null,
     "source": "workday"
   },
@@ -68,18 +80,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/AI-Intern_2604445",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:slihrms:job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-165603",
-    "company": "AtkinsRéalis",
-    "title": "Apprentice",
-    "location": "AtkinsRéalis - Corporate Office Bangalore",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Apprentice_R-165603",
     "salary": null,
     "source": "workday"
   },
@@ -216,30 +216,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:centene:job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "company": "Centene",
-    "title": "Technology Summer 2027 Intern (Undergraduate)",
-    "location": "Remote-FL",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-FL/Centene-2027-Undergraduate-Summer-Intern_1660476",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26987941",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - MUMBAI",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26987941",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
     "company": "Cushman & Wakefield",
     "title": "EIC Apprentice",
@@ -272,6 +248,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Bengaluru-India/Apprentice_R323129",
+    "company": "Cushman & Wakefield",
+    "title": "Apprentice",
+    "location": "Bengaluru, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Apprentice_R323129",
     "salary": null,
     "source": "workday"
   },
@@ -696,6 +684,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:slihrms:job/INMumbaiEmbassy-247-Park/Apprentice---BTech-in-Civil-MTech-in-Water-Resource--Environment---Batch-2025-2024_R-158003-1",
+    "company": "AtkinsRéalis",
+    "title": "Apprentice",
+    "location": "IN.Mumbai.Embassy 247 Park",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/INMumbaiEmbassy-247-Park/Apprentice---BTech-in-Civil-MTech-in-Water-Resource--Environment---Batch-2025-2024_R-158003-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:southstatebank:job/Remote-Worker/Correspondent-Analyst-Intern_R-05785-1",
     "company": "SouthState Bank",
     "title": "Correspondent Analyst Intern",
@@ -728,6 +728,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 6 Days Ago",
     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
     "salary": null,
     "source": "workday"
   },
@@ -824,18 +836,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://ncratleos.wd1.myworkdayjobs.com/en-US/ext_atleos_us/job/COLOMBIA-VIRTUAL-COL/CSD---Minor-Apprentice_R1152348-3",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
-    "company": "R1 RCM",
-    "title": "Apprentice",
-    "location": "Noida, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
     "salary": null,
     "source": "workday"
   },
@@ -980,18 +980,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-24T08:25:36-04:00",
     "url": "https://job-boards.greenhouse.io/wurljobs/jobs/4716249006",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
-    "id": "greenhouse:thoughtworksreferral:8225630",
-    "company": "Thoughtworks",
-    "title": "Software Procurement Intern",
-    "location": "Gurgaon, India",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-23T02:35:44-04:00",
-    "url": "https://job-boards.greenhouse.io/thoughtworksreferral/jobs/8225630",
     "salary": null,
     "source": "greenhouse"
   },
