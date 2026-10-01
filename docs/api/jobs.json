@@ -1,13 +1,37 @@
 [
   {
-    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Gurgaon, Haryana, India",
+    "id": "workday:citi:job/Mumbai-Maharashtra-India/Banking---Young-Apprentice---C00_26975753",
+    "company": "Citi",
+    "title": "Banking - Young Apprentice - C00",
+    "location": "Mumbai Maharashtra India",
     "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted Yesterday",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Banking---Young-Apprentice---C00_26975753",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:job/IN---Pune/Intern--Software-QA-Engineer_2603892",
+    "company": "Marvell",
+    "title": "Intern, Software QA Engineer",
+    "location": "IN - Pune",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/IN---Pune/Intern--Software-QA-Engineer_2603892",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:spgi:job/Hyderabad-Telangana/Apprentice_328754-1",
+    "company": "S&P Global",
+    "title": "Apprentice",
+    "location": "Hyderabad, Telangana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Hyderabad-Telangana/Apprentice_328754-1",
     "salary": null,
     "source": "workday"
   },
@@ -44,18 +68,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/AI-Intern_2604445",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:marvell:job/Hyderabad/Intern--Software-QA-Engineer_2604247",
-    "company": "Marvell",
-    "title": "Intern, Software QA Engineer",
-    "location": "Hyderabad",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
     "salary": null,
     "source": "workday"
   },
@@ -260,18 +272,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Bengaluru-India/Apprentice_R323129",
-    "company": "Cushman & Wakefield",
-    "title": "Apprentice",
-    "location": "Bengaluru, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Bengaluru-India/Apprentice_R323129",
     "salary": null,
     "source": "workday"
   },
@@ -504,6 +504,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:ag:job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159",
+    "company": "Airbus",
+    "title": "Apprentice - Digital Cybersecurity",
+    "location": "Bangalore Area",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Apprentice---Digital-Cybersecurity_JR10408159",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
     "company": "Magna International",
     "title": "Maintenance Apprentice-2",
@@ -696,6 +708,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:medtronic:job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Bangalore , Karnataka, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 8 Days Ago",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
     "company": "Deutsche Bank",
     "title": "HR Apprentice",
@@ -704,30 +728,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 6 Days Ago",
     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:trumpf:job/Pune/Apprentice-Customer-Care_R00023756",
-    "company": "TRUMPF",
-    "title": "Apprentice Customer Care",
-    "location": "Pune",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://trumpf.wd3.myworkdayjobs.com/en-US/TRUMPF_Students/job/Pune/Apprentice-Customer-Care_R00023756",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -864,6 +864,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:trumpf:job/Pune/Apprentice-Customer-Care_R00027539",
+    "company": "TRUMPF",
+    "title": "Apprentice Customer Care",
+    "location": "Pune",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://trumpf.wd3.myworkdayjobs.com/en-US/TRUMPF_Students/job/Pune/Apprentice-Customer-Care_R00027539",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:valeo:job/Chennai/Intern---AI_REQ2025061319",
     "company": "Valeo",
     "title": "Intern - AI",
@@ -872,6 +884,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },

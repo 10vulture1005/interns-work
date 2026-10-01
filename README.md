@@ -10,21 +10,22 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 01, 2026 at 01:38 UTC</em></p>
+  <p><em>Last updated: Oct 01, 2026 at 08:39 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>7 open</kbd>
+## Summer 2027 (India) <kbd>8 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R74803) |
+| **Citi** | Banking - Young Apprentice - C00 <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Banking---Young-Apprentice---C00_26975753) |
 | **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26987941) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Bangalore , Karnataka, India | Posted 8 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Fampay** | Security Engineer Intern <sup>~</sup> | `Software` | Bengaluru | 2026-09-23 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
@@ -62,23 +63,26 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (21 of 24)._
+_~ = the title doesn't state a year; bucketed here from its posting date (22 of 25)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cushman & Wakefield | Apprentice | Summer 2027 | 2026-10-01 |
+| Marvell | Intern, Software QA Engineer | Summer 2027 | 2026-10-01 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-01 |
+| TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-10-01 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-01 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-01 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-10-01 |
-| TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-10-01 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-30 |
 | Philips | Apprentice Trainee | Summer 2027 | 2026-09-30 |
 | American Express | Apprentice | Summer 2027 | 2026-09-30 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-30 |
 | Jones Lang LaSalle (JLL) | Apprentice - Facilities Coordinator | Summer 2027 | 2026-09-30 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-30 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-09-30 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-30 |
 | Fortrea | Apprentice - Employer Branding | Summer 2027 | 2026-09-30 |
 | GE Healthcare | Surgery Field Engineer Apprentice - Northern California | Summer 2027 | 2026-09-30 |
@@ -86,9 +90,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-09-30 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-30 |
 | ABB | ITI apprentice | Summer 2027 | 2026-09-29 |
-| Alcon | Product Security Apprentice Engineer – Post-Market Surveillance & Security Testing | Summer 2027 | 2026-09-29 |
-| Magna International | Controls Apprentice | Summer 2027 | 2026-09-29 |
-| State Street | Apprentice | Summer 2027 | 2026-09-29 |
 
 </details>
 
