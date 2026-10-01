@@ -1,25 +1,37 @@
 [
   {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980896",
-    "company": "Citi",
-    "title": "Young Apprentice - C00 - MUMBAI",
-    "location": "Mumbai Maharashtra India",
+    "id": "workday:db:job/Mumbai-Hazarimal-Somani-Marg/Apprentice-Hiring-for-2026--2027_R0445347",
+    "company": "Deutsche Bank",
+    "title": "Apprentice Hiring for 2026- 2027",
+    "location": "Mumbai, Hazarimal Somani Marg",
     "category": "Other",
     "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980896",
+    "posted_at": "Posted Yesterday",
+    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai-Hazarimal-Somani-Marg/Apprentice-Hiring-for-2026--2027_R0445347",
     "salary": null,
     "source": "workday"
   },
   {
-    "id": "workday:marvell:job/Bangalore/Intern--Software-QA-Engineer_2604244",
-    "company": "Marvell",
-    "title": "Intern, Software QA Engineer",
-    "location": "Bangalore",
+    "id": "workday:caci:job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
+    "company": "CACI",
+    "title": "Software Development/Engineer Intern - Summer 2027",
+    "location": "Remote (Any State)",
     "category": "Software",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer_2604244",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:clearesult:job/Remote---Oklahoma/HVAC-Apprentice_R0018192",
+    "company": "CLEAResult",
+    "title": "HVAC Apprentice",
+    "location": "Remote - Oklahoma",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://clearesult.wd1.myworkdayjobs.com/en-US/CLEAResult_External_Careers/job/Remote---Oklahoma/HVAC-Apprentice_R0018192",
     "salary": null,
     "source": "workday"
   },
@@ -32,6 +44,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:job/Bangalore/Intern--Software-QA-Engineer_2604244",
+    "company": "Marvell",
+    "title": "Intern, Software QA Engineer",
+    "location": "Bangalore",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer_2604244",
     "salary": null,
     "source": "workday"
   },
@@ -56,18 +80,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:db:job/Mumbai/Apprentice-Hiring-for-2026--2027_R0445347",
-    "company": "Deutsche Bank",
-    "title": "Apprentice Hiring for 2026- 2027",
-    "location": "Mumbai",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/Mumbai/Apprentice-Hiring-for-2026--2027_R0445347",
     "salary": null,
     "source": "workday"
   },
@@ -236,18 +248,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://itron.wd5.myworkdayjobs.com/en-US/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:wexinc:job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-    "company": "Wex",
-    "title": "AI & Data Platform Engineering Intern (Undergraduate)",
-    "location": "US - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
     "salary": null,
     "source": "workday"
   },
@@ -946,6 +946,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:pinterest:7838577",
+    "company": "Pinterest",
+    "title": "Software Engineer Intern 2027 (USA)",
+    "location": "San Francisco, CA, US; Remote, US",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-01T13:03:52-04:00",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7838577",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "smartrecruiters:Wabtec:3743990015755665",

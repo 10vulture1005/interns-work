@@ -13,16 +13,15 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 01, 2026 at 15:51 UTC</em></p>
+  <p><em>Last updated: Oct 01, 2026 at 21:25 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>8 open</kbd>
+## Summer 2027 (India) <kbd>7 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Citi** | Young Apprentice - C00 - MUMBAI <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Young-Apprentice---C00---MUMBAI_26980896) |
 | **Citi** | Banking - Young Apprentice - C00 <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Mumbai Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Banking---Young-Apprentice---C00_26975753) |
 | **Citi** | Young Apprentice - C00 - PUNE <sup>~</sup> | `Other` | Pune Maharashtra India | Posted Tod | [Apply ↗](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Young-Apprentice---C00---PUNE_26986305) |
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Bangalore , Karnataka, India | Posted 8 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Bangalore--Karnataka-India/Co-op-Apprentice--Non-Tech-_R66904) |
@@ -31,7 +30,7 @@
 | **Fampay** | Security Engineer Intern <sup>~</sup> | `Software` | Bengaluru | 2026-09-23 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
 | **Thoughtworks** | Developer (Vapasi) - Intern <sup>~</sup> | `Software` | Bangalore, India | 2026-09-17 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
 
-## Summer 2027 (Remote) <kbd>14 open</kbd>
+## Summer 2027 (Remote) <kbd>15 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
@@ -39,6 +38,7 @@
 | **Intel** | Firmware Development Undergraduate Engineering Co-op <sup>~</sup> | `Software` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Chattanooga, TN) <sup>~</sup> | `Software` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
+| **Pinterest** | Software Engineer Intern 2027 (USA) <span title='New within 48h'>✨</span> | `Software` | San Francisco, CA, US; Remote, US | 2026-10-01 | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
 | **Tanium** | Cloud Security Intern <sup>~</sup> | `Software` | Durham, NC (Hybrid) | 2026-09-22 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8176398) |
 | **Upstart** | Applied Scientist Intern <sup>~</sup> | `Data & ML/AI` | United States | Remote | 2026-09-18 | [Apply ↗](https://careers.upstart.com/jobs?gh_jid=8213476) |
 | **Tanium** | Software Engineering Intern – Summer 2027 | `Software` | Durham, NC (Hybrid); Emeryville, CA (Hyb | 2026-09-10 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8181017) |
@@ -63,13 +63,16 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (22 of 25)._
+_~ = the title doesn't state a year; bucketed here from its posting date (21 of 25)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-01 |
+| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-01 |
+| Wex | AI & Data Platform Engineering Intern (Undergraduate) | Summer 2027 | 2026-10-01 |
 | Thoughtworks | Software Procurement Intern | Summer 2027 | 2026-10-01 |
 | Centene | Technology Summer 2027 Intern (Undergraduate) | Summer 2027 | 2026-10-01 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-01 |
@@ -87,9 +90,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | American Express | Apprentice | Summer 2027 | 2026-09-30 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-30 |
 | Jones Lang LaSalle (JLL) | Apprentice - Facilities Coordinator | Summer 2027 | 2026-09-30 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-09-30 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-30 |
-| Fortrea | Apprentice - Employer Branding | Summer 2027 | 2026-09-30 |
 
 </details>
 
