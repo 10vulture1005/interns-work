@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 01, 2026 at 21:25 UTC</em></p>
+  <p><em>Last updated: Oct 02, 2026 at 01:53 UTC</em></p>
 </div>
 
 ---
@@ -70,6 +70,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-02 |
+| CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-02 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-02 |
+| Cushman & Wakefield | EIC Apprentice - Valuations and Advisory_Ahmedabad | Summer 2027 | 2026-10-02 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-02 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-01 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-01 |
 | Wex | AI & Data Platform Engineering Intern (Undergraduate) | Summer 2027 | 2026-10-01 |
@@ -84,12 +89,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-01 |
 | TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-10-01 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-01 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-01 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-30 |
-| Philips | Apprentice Trainee | Summer 2027 | 2026-09-30 |
-| American Express | Apprentice | Summer 2027 | 2026-09-30 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-09-30 |
-| Jones Lang LaSalle (JLL) | Apprentice - Facilities Coordinator | Summer 2027 | 2026-09-30 |
 
 </details>
 
