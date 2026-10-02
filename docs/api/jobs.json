@@ -12,6 +12,30 @@
     "source": "workday"
   },
   {
+    "id": "workday:centene:job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1",
+    "company": "Centene",
+    "title": "Medical Economics Analyst Intern (Undergraduate - Summer 2027)",
+    "location": "Remote-FL",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
+    "company": "Leidos",
+    "title": "Business Systems AI Intern",
+    "location": "6314 Remote/Teleworker US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:caci:job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
     "company": "CACI",
     "title": "Software Development/Engineer Intern - Summer 2027",
@@ -708,6 +732,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "company": "GE Healthcare",
+    "title": "Surgery Field Engineer Apprentice -San Francisco Bay Area",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 5 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -922,6 +958,30 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:natera:6188497004",
+    "company": "Natera",
+    "title": "Software Engineering Intern",
+    "location": "US Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-02T15:12:01-04:00",
+    "url": "https://job-boards.greenhouse.io/natera/jobs/6188497004",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:datacor:5242412007",
+    "company": "Datacor",
+    "title": "Data Science Summer 2027 Internship Program",
+    "location": "Remote, US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-01T14:12:42-04:00",
+    "url": "https://job-boards.greenhouse.io/datacor/jobs/5242412007",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "greenhouse:pinterest:7838577",
@@ -1272,18 +1332,6 @@
     "source": "smartrecruiters"
   },
   {
-    "id": "greenhouse:dropbox:8106224",
-    "company": "Dropbox",
-    "title": "Software Engineering Intern (Summer 2027)",
-    "location": "Remote - US: All locations",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-07T11:06:46-04:00",
-    "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
     "id": "greenhouse:rubrik:8166523",
     "company": "Rubrik",
     "title": "Software Engineer - Winter Intern",
@@ -1450,6 +1498,18 @@
     "url": "https://apply.workable.com/connectprep/j/D1C67258C0/",
     "salary": null,
     "source": "workable"
+  },
+  {
+    "id": "instahyre:pradrix:445445",
+    "company": "Pradrix",
+    "title": "AI / ML Engineer - Intern",
+    "location": "Work From Home",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": null,
+    "url": "https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/",
+    "salary": null,
+    "source": "instahyre"
   },
   {
     "id": "instahyre:algouniversity:444755",

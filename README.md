@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 02, 2026 at 14:56 UTC</em></p>
+  <p><em>Last updated: Oct 02, 2026 at 20:43 UTC</em></p>
 </div>
 
 ---
@@ -36,6 +36,7 @@
 | **Intel** | Research Scientist Intern - Graphics, ML <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Virtual US | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) |
 | **Intel** | Firmware Development Undergraduate Engineering Co-op <sup>~</sup> | `Software` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
+| **GE Healthcare** | Surgery Field Engineer Apprentice -San Francisco Bay Area <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **Pinterest** | Software Engineer Intern 2027 (USA) <span title='New within 48h'>✨</span> | `Software` | San Francisco, CA, US; Remote, US | 2026-10-01 | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
 | **Tanium** | Cloud Security Intern <sup>~</sup> | `Software` | Durham, NC (Hybrid) | 2026-09-22 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8176398) |
 | **Upstart** | Applied Scientist Intern <sup>~</sup> | `Data & ML/AI` | United States | Remote | 2026-09-18 | [Apply ↗](https://careers.upstart.com/jobs?gh_jid=8213476) |
@@ -45,7 +46,6 @@
 | **Coinbase** | Data Engineer Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - San Francisco, CA | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
 | **Coinbase** | Data Science Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - New York, NY | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175462?gh_jid=8175462) |
 | **Coinbase** | Analytics Engineer Intern <sup>~</sup> | `Data & ML/AI` | Hybrid - New York, NY | 2026-09-08 | [Apply ↗](https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471) |
-| **Dropbox** | Software Engineering Intern (Summer 2027) | `Software` | Remote - US: All locations | 2026-09-07 | [Apply ↗](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) |
 | **NewsBreak** | New Market Launch Intern (MBA), Nearby AI <sup>~</sup> | `Data & ML/AI` | Bellevue, Washington, United States; Mou | 2026-09-03 | [Apply ↗](https://job-boards.greenhouse.io/newsbreak/jobs/4711146006) |
 
 ## Fall 2026 (India) <kbd>1 open</kbd>
@@ -61,13 +61,14 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (19 of 23)._
+_~ = the title doesn't state a year; bucketed here from its posting date (20 of 23)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Dropbox | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-02 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-02 |
 | Citi | Banking - Young Apprentice - C00 | Summer 2027 | 2026-10-02 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-02 |
@@ -87,7 +88,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (19 of 
 | TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-10-01 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-01 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-30 |
-| Philips | Apprentice Trainee | Summer 2027 | 2026-09-30 |
 
 </details>
 
