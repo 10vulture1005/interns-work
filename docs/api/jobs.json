@@ -12,6 +12,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:caci:job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
+    "company": "CACI",
+    "title": "Software Development/Engineer Intern - Summer 2027",
+    "location": "Remote (Any State)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:clearesult:job/Remote---Oklahoma/HVAC-Apprentice_R0018192",
     "company": "CLEAResult",
     "title": "HVAC Apprentice",
@@ -48,18 +60,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:citi:job/Mumbai-Maharashtra-India/Banking---Young-Apprentice---C00_26975753",
-    "company": "Citi",
-    "title": "Banking - Young Apprentice - C00",
-    "location": "Mumbai Maharashtra India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Banking---Young-Apprentice---C00_26975753",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:intel:job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
     "company": "Intel",
     "title": "Research Scientist Intern - Graphics, ML",
@@ -80,6 +80,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/AI-Intern_2604445",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:marvell:job/Hyderabad/Intern--Software-QA-Engineer_2604247",
+    "company": "Marvell",
+    "title": "Software QA Automation Intern",
+    "location": "Hyderabad",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
     "salary": null,
     "source": "workday"
   },
@@ -168,18 +180,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:marvell:job/Hyderabad/Intern--Software-Engineer_2603879",
-    "company": "Marvell",
-    "title": "Intern, Software Engineer",
-    "location": "Hyderabad",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:intel:job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862",
     "company": "Intel",
     "title": "Firmware Development Undergraduate Engineering Co-op",
@@ -216,6 +216,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:itron:job/India-Bangalore/Apprentice_JR102702-2",
     "company": "Itron",
     "title": "Apprentice",
@@ -224,18 +236,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://itron.wd5.myworkdayjobs.com/en-US/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
     "salary": null,
     "source": "workday"
   },
@@ -456,18 +456,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
-    "company": "GE Healthcare",
-    "title": "Surgery Field Engineer Apprentice (Chattanooga, TN)",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Chattanooga--TN-_R4045871-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:db:job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring--NCT_R0449404",
     "company": "Deutsche Bank",
     "title": "Apprentice Role for Non-Technology hiring, NCT",
@@ -644,6 +632,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mufgub.wd3.myworkdayjobs.com/en-US/mufg-careers/job/MUFG-Global-Service-Private-Ltd---Bengaluru-BCIT/Apprentice_10078663-WD",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice - Valuations and Advisory_Ahmedabad",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice---Valuations-and-Advisory-Ahmedabad_R331135",
     "salary": null,
     "source": "workday"
   },
