@@ -3762,6 +3762,11 @@
     "ats": "ashby"
   },
   {
+    "name": "blp",
+    "slug": "blp-digital",
+    "ats": "ashby"
+  },
+  {
     "name": "Blue Cross and Blue Shield of Kansas",
     "slug": "bcbsks",
     "ats": "workday",
@@ -7760,6 +7765,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "DISA Technologies",
+    "slug": "disa-technologies",
+    "ats": "workable"
+  },
+  {
     "name": "Discord",
     "slug": "discord",
     "ats": "greenhouse"
@@ -11040,6 +11050,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "TSYS"
+  },
+  {
+    "name": "Global Web Index",
+    "slug": "globalwebindex",
+    "ats": "greenhouse"
   },
   {
     "name": "GlobalFoundries",
@@ -19227,6 +19242,11 @@
     "ats": "lever"
   },
   {
+    "name": "Parasail",
+    "slug": "parasail",
+    "ats": "ashby"
+  },
+  {
     "name": "Parexel",
     "slug": "parexel",
     "ats": "workday",
@@ -22357,6 +22377,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Scout Clean Energy",
+    "slug": "scout-clean-energy",
+    "ats": "workable"
+  },
+  {
     "name": "Scout Motors",
     "slug": "scoutmotors",
     "ats": "greenhouse"
@@ -25131,6 +25156,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "The Shipyard",
+    "slug": "theshipyard",
+    "ats": "workable"
+  },
+  {
     "name": "The Toro Company",
     "slug": "ttc",
     "ats": "workday",
@@ -27476,6 +27506,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "washingtonpostcareers"
+  },
+  {
+    "name": "Watershed",
+    "slug": "watershed",
+    "ats": "ashby"
   },
   {
     "name": "Watney",
