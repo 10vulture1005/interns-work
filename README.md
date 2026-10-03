@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 02, 2026 at 20:43 UTC</em></p>
+  <p><em>Last updated: Oct 03, 2026 at 01:26 UTC</em></p>
 </div>
 
 ---
@@ -33,7 +33,7 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Intel** | Research Scientist Intern - Graphics, ML <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Virtual US | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) |
+| **Intel** | Research Scientist Intern - Graphics, ML <sup>~</sup> | `Data & ML/AI` | Virtual US | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525) |
 | **Intel** | Firmware Development Undergraduate Engineering Co-op <sup>~</sup> | `Software` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice -San Francisco Bay Area <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
@@ -68,10 +68,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-03 |
+| Cushman & Wakefield | Apprentice | Summer 2027 | 2026-10-03 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-03 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-03 |
 | Dropbox | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-02 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-02 |
 | Citi | Banking - Young Apprentice - C00 | Summer 2027 | 2026-10-02 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-02 |
 | GE Healthcare | Surgery Field Engineer Apprentice (Chattanooga, TN) | Summer 2027 | 2026-10-02 |
 | Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-02 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-01 |
@@ -86,8 +88,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | S&P Global | Apprentice | Summer 2027 | 2026-10-01 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-01 |
 | TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-10-01 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-01 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-09-30 |
 
 </details>
 
