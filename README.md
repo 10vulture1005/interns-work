@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 03, 2026 at 21:00 UTC</em></p>
+  <p><em>Last updated: Oct 04, 2026 at 00:52 UTC</em></p>
 </div>
 
 ---
@@ -37,7 +37,7 @@
 | **Intel** | Firmware Development Undergraduate Engineering Co-op <sup>~</sup> | `Software` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice -San Francisco Bay Area <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
-| **Pinterest** | Software Engineer Intern 2027 (USA) <span title='New within 48h'>✨</span> | `Software` | San Francisco, CA, US; Remote, US | 2026-10-01 | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
+| **Pinterest** | Software Engineer Intern 2027 (USA) | `Software` | San Francisco, CA, US; Remote, US | 2026-10-01 | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
 | **Tanium** | Cloud Security Intern <sup>~</sup> | `Software` | Durham, NC (Hybrid) | 2026-09-22 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8176398) |
 | **Upstart** | Applied Scientist Intern <sup>~</sup> | `Data & ML/AI` | United States | Remote | 2026-09-18 | [Apply ↗](https://careers.upstart.com/jobs?gh_jid=8213476) |
 | **Tanium** | Software Engineering Intern – Summer 2027 | `Software` | Durham, NC (Hybrid); Emeryville, CA (Hyb | 2026-09-10 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8181017) |
@@ -68,11 +68,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Cleveland-Cliffs | Information Technology Intern | Summer 2027 | 2026-10-03 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-03 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-03 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-04 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-04 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-03 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-03 |
 | RTX | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-03 |
 | Dropbox | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-02 |
 | Citi | Banking - Young Apprentice - C00 | Summer 2027 | 2026-10-02 |
@@ -88,6 +86,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | R1 RCM | Apprentice | Summer 2027 | 2026-10-01 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-01 |
 | S&P Global | Apprentice | Summer 2027 | 2026-10-01 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-01 |
+| TRUMPF | Apprentice Customer Care | Summer 2027 | 2026-10-01 |
 
 </details>
 
