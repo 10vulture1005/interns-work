@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-10-04T18:38:32Z</updated>
+  <updated>2026-10-04T21:17:27Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Datacor — Data Science Summer 2027 Internship Program</title>
@@ -66,12 +66,6 @@
     <id>workday:globalhr:job/US-CT-REMOTE/Digital-Technology-Vendor-Management-Co-op--REMOTE-_01878154</id>
     <updated>2026-10-01T15:51:38Z</updated>
     <summary>US-CT-REMOTE · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Marvell — Intern, Software QA Engineer</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer_2604244" rel="alternate"/>
-    <id>workday:marvell:job/Bangalore/Intern--Software-QA-Engineer_2604244</id>
-    <updated>2026-10-01T15:51:38Z</updated>
-    <summary>Bangalore · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Intel — Research Scientist Intern - Graphics, ML</title>
     <link href="https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525" rel="alternate"/>
@@ -138,12 +132,6 @@
     <id>workday:veteransunited:job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249</id>
     <updated>2026-09-28T16:54:01Z</updated>
     <summary>Remote MO · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Jones Lang LaSalle (JLL) — Apprentice</title>
-    <link href="https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ538293" rel="alternate"/>
-    <id>workday:jll:job/Gurugram-HR/Apprentice_REQ538293</id>
-    <updated>2026-09-25T15:30:41Z</updated>
-    <summary>Gurugram, HR · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Qumulo — Software Development Engineer (Seattle) - Internship 2027</title>
     <link href="https://jobs.ashbyhq.com/qumulo/43855947-3a85-4d1c-8b8e-e0c0ddcaf183" rel="alternate"/>
@@ -306,5 +294,17 @@
     <id>workday:corteva:job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W</id>
     <updated>2026-09-11T20:51:01Z</updated>
     <summary>Indianapolis, Indiana, United States · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Corteva — Data Science Summer Intern</title>
+    <link href="https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W" rel="alternate"/>
+    <id>workday:corteva:job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W</id>
+    <updated>2026-09-11T20:51:01Z</updated>
+    <summary>Indianapolis, Indiana, United States · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Swarm Aero — Software Engineer Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6" rel="alternate"/>
+    <id>ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6</id>
+    <updated>2026-09-11T18:05:39Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
   </entry>
 </feed>

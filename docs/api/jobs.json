@@ -72,18 +72,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:marvell:job/Bangalore/Intern--Software-QA-Engineer_2604244",
-    "company": "Marvell",
-    "title": "Intern, Software QA Engineer",
-    "location": "Bangalore",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/Intern--Software-QA-Engineer_2604244",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:intel:job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
     "company": "Intel",
     "title": "Research Scientist Intern - Graphics, ML",
@@ -176,18 +164,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://veteransunited.wd1.myworkdayjobs.com/en-US/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:jll:job/Gurugram-HR/Apprentice_REQ538293",
-    "company": "Jones Lang LaSalle (JLL)",
-    "title": "Apprentice",
-    "location": "Gurugram, HR",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ538293",
     "salary": null,
     "source": "workday"
   },
@@ -740,18 +716,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
