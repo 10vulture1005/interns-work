@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 04, 2026 at 14:15 UTC</em></p>
+  <p><em>Last updated: Oct 04, 2026 at 18:38 UTC</em></p>
 </div>
 
 ---
@@ -68,11 +68,9 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| CACI | Software Development/Engineer Intern - Summer 2027 | Summer 2027 | 2026-10-04 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-04 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-04 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-04 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-04 |
 | Synchrony Financial | Apprentice - Universal Fraud (04) | Summer 2027 | 2026-10-04 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-03 |
 | RTX | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-03 |
@@ -88,6 +86,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-01 |
 | Marvell | Intern, Software QA Engineer | Summer 2027 | 2026-10-01 |
 | R1 RCM | Apprentice | Summer 2027 | 2026-10-01 |
+| AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-01 |
+| S&P Global | Apprentice | Summer 2027 | 2026-10-01 |
 
 </details>
 
