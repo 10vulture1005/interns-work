@@ -4,7 +4,7 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-10-04T00:52:35Z</updated>
+  <updated>2026-10-04T08:12:14Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
     <title>Datacor — Data Science Summer 2027 Internship Program</title>
@@ -96,12 +96,6 @@
     <id>instahyre:algouniversity:444755</id>
     <updated>2026-09-30T08:22:43Z</updated>
     <summary>Bangalore · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Synchrony Financial — Apprentice - Universal Fraud (04)</title>
-    <link href="https://synchronyfinancial.wd5.myworkdayjobs.com/en-US/careers/job/Hyderabad-IN/Apprentice---Universal-Fraud--04-_2602769-1" rel="alternate"/>
-    <id>workday:synchronyfinancial:job/Hyderabad-IN/Apprentice---Universal-Fraud--04-_2602769-1</id>
-    <updated>2026-09-30T08:22:43Z</updated>
-    <summary>Hyderabad IN · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Procter &amp; Gamble (P&amp;G) — Information Technology Intern</title>
     <link href="https://pg.wd5.myworkdayjobs.com/en-US/1000/job/MUMBAI-GENERAL-OFFICE/Information-Technology-Intern_R000160029" rel="alternate"/>
@@ -306,5 +300,11 @@
     <id>workday:amgen:job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745</id>
     <updated>2026-09-11T20:51:01Z</updated>
     <summary>United States - Remote · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Corteva — Agentic AI Engineer Intern</title>
+    <link href="https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W" rel="alternate"/>
+    <id>workday:corteva:job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W</id>
+    <updated>2026-09-11T20:51:01Z</updated>
+    <summary>Indianapolis, Indiana, United States · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
