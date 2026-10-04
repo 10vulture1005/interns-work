@@ -2761,6 +2761,11 @@
     "site": "uni"
   },
   {
+    "name": "Automat",
+    "slug": "automat",
+    "ats": "ashby"
+  },
+  {
     "name": "Automated Media",
     "slug": "dealertire",
     "ats": "workday",
@@ -6877,6 +6882,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "CRG Defense",
+    "slug": "cornerstone-research-group-inc",
+    "ats": "workable"
+  },
+  {
     "name": "Cribl",
     "slug": "cribl",
     "ats": "greenhouse"
@@ -10126,6 +10136,11 @@
     "site": "F1"
   },
   {
+    "name": "Fortell",
+    "slug": "fortell",
+    "ats": "ashby"
+  },
+  {
     "name": "Fortera",
     "slug": "forteracorporation",
     "ats": "greenhouse"
@@ -12124,6 +12139,16 @@
     "name": "Higher Logic",
     "slug": "higherlogic",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Highlight AI",
+    "slug": "highlightai",
+    "ats": "ashby"
+  },
+  {
+    "name": "HighlightTA",
+    "slug": "highlightta",
+    "ats": "ashby"
   },
   {
     "name": "Highmark Health",
@@ -14479,6 +14504,11 @@
     "name": "Kraken Robotics",
     "slug": "kraken-robotics-inc",
     "ats": "rippling"
+  },
+  {
+    "name": "Krew",
+    "slug": "krew",
+    "ats": "ashby"
   },
   {
     "name": "KRG Technologies",
@@ -19190,6 +19220,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Pangram Labs",
+    "slug": "pangramlabs",
+    "ats": "ashby"
+  },
+  {
     "name": "Panthalassa",
     "slug": "panthalassa",
     "ats": "greenhouse"
@@ -19287,6 +19322,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "PMS_Careers"
+  },
+  {
+    "name": "Patch",
+    "slug": "patch",
+    "ats": "ashby"
   },
   {
     "name": "Patch My PC",
@@ -20433,6 +20473,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Prosper AI",
+    "slug": "prosper-ai",
+    "ats": "ashby"
+  },
+  {
     "name": "Prosper Funding",
     "slug": "prosper",
     "ats": "lever"
@@ -21126,6 +21171,11 @@
   {
     "name": "Reflect Orbital",
     "slug": "reflect-orbital",
+    "ats": "ashby"
+  },
+  {
+    "name": "Reflex Robotics",
+    "slug": "reflexrobotics",
     "ats": "ashby"
   },
   {
@@ -23801,6 +23851,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "search"
+  },
+  {
+    "name": "Standard Subsea",
+    "slug": "standardsubsea",
+    "ats": "ashby"
   },
   {
     "name": "Stanford Health Care",
