@@ -170,8 +170,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/kos?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
   "ashby:latitude": {
-    "consecutive_failures": 18,
-    "last_attempt_at": "2026-10-02T01:53:47Z",
+    "consecutive_failures": 19,
+    "last_attempt_at": "2026-10-05T08:31:49Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/latitude?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:lindy": {
@@ -235,8 +235,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/par?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/docs/"
   },
   "ashby:patch": {
-    "consecutive_failures": 3,
-    "last_attempt_at": "2026-10-05T00:57:17Z",
+    "consecutive_failures": 4,
+    "last_attempt_at": "2026-10-05T08:31:49Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/patch?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:remedy": {
@@ -315,8 +315,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/two-dots?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:veeda-labs": {
-    "consecutive_failures": 15,
-    "last_attempt_at": "2026-10-02T01:53:47Z",
+    "consecutive_failures": 16,
+    "last_attempt_at": "2026-10-05T08:31:49Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/veeda-labs?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:verne": {
@@ -770,8 +770,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/seamlessai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:shyftsolutionsllc": {
-    "consecutive_failures": 25,
-    "last_attempt_at": "2026-10-02T01:53:47Z",
+    "consecutive_failures": 26,
+    "last_attempt_at": "2026-10-05T08:31:49Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/shyftsolutionsllc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "greenhouse:sixthstreet": {
@@ -1415,8 +1415,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/etg/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status"
   },
   "rippling:gitar-careers": {
-    "consecutive_failures": 6,
-    "last_attempt_at": "2026-10-03T01:26:53Z",
+    "consecutive_failures": 7,
+    "last_attempt_at": "2026-10-05T08:31:49Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/gitar-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
   "rippling:sennos": {
@@ -1458,16 +1458,6 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-10-04T21:17:27Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/focusrite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
-  },
-  "workable:oxford-quantum-circuits-8": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-05T00:57:17Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/oxford-quantum-circuits-8/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
-  },
-  "workable:paxton-access": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-05T00:57:17Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/paxton-access/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
   "workable:perryhomes": {
     "consecutive_failures": 5,
