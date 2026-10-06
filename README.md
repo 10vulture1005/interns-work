@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-26-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 05, 2026 at 17:14 UTC</em></p>
+  <p><em>Last updated: Oct 06, 2026 at 00:00 UTC</em></p>
 </div>
 
 ---
@@ -71,15 +71,8 @@ _~ = the title doesn't state a year; bucketed here from its posting date (23 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Amgen | Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-10-05 |
-| Amgen | Grad Intern – Digital Product – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-10-05 |
-| Amgen | Grad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-10-05 |
-| Amgen | Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-10-05 |
-| Amgen | Undergrad Intern – Data Scientist – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-10-05 |
-| Amgen | Undergrad Intern – Digital Product – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-10-05 |
-| Amgen | Undergrad Intern – Machine Learning Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-10-05 |
-| Amgen | Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027) | Summer 2027 | 2026-10-05 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-05 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-06 |
+| GE Aerospace | Data Science -Intern | Summer 2027 | 2026-10-06 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-05 |
 | Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-05 |
 | Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-05 |
@@ -91,6 +84,13 @@ _~ = the title doesn't state a year; bucketed here from its posting date (23 of 
 | Marvell | Intern, Software QA Engineer | Summer 2027 | 2026-10-04 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-04 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-04 |
+| Synchrony Financial | Apprentice - Universal Fraud (04) | Summer 2027 | 2026-10-04 |
+| RTX | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-03 |
+| Dropbox | Software Engineering Intern (Summer 2027) | Summer 2027 | 2026-10-02 |
+| Citi | Banking - Young Apprentice - C00 | Summer 2027 | 2026-10-02 |
+| GE Healthcare | Surgery Field Engineer Apprentice (Chattanooga, TN) | Summer 2027 | 2026-10-02 |
+| Marvell | Intern, Software Engineer | Summer 2027 | 2026-10-02 |
+| Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-01 |
 
 </details>
 
