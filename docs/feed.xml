@@ -4,9 +4,21 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-10-06T00:00:08Z</updated>
+  <updated>2026-10-06T04:25:00Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Baxter International — Apprentice, Trainee -Instructional Design &amp; E-Learning Development</title>
+    <link href="https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286" rel="alternate"/>
+    <id>workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286</id>
+    <updated>2026-10-06T04:25:00Z</updated>
+    <summary>Gurgaon, Haryana · Other · Summer 2027</summary>
+  </entry>  <entry>
+    <title>State Street — Apprentice - Data Analysis</title>
+    <link href="https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Hyderabad-India/Apprentice---Data-Analysis_R-797532" rel="alternate"/>
+    <id>workday:statestreet:job/Hyderabad-India/Apprentice---Data-Analysis_R-797532</id>
+    <updated>2026-10-06T04:25:00Z</updated>
+    <summary>Hyderabad, India · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
     <title>Mitel Networks — R&amp;D Intern (student) - iOS development</title>
     <link href="https://mitel.wd3.myworkdayjobs.com/en-US/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162" rel="alternate"/>
     <id>workday:mitel:job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162</id>
@@ -42,12 +54,6 @@
     <id>greenhouse:datacor:5242412007</id>
     <updated>2026-10-02T20:43:14Z</updated>
     <summary>Remote, US · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Natera — Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/natera/jobs/6188497004" rel="alternate"/>
-    <id>greenhouse:natera:6188497004</id>
-    <updated>2026-10-02T20:43:14Z</updated>
-    <summary>US Remote · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Pradrix — AI / ML Engineer - Intern</title>
     <link href="https://www.instahyre.com/job-445445-ai-ml-engineer-intern-internship-at-pradrix-work-from-home/" rel="alternate"/>
@@ -300,11 +306,5 @@
     <id>workday:wexinc:job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494</id>
     <updated>2026-09-15T00:46:36Z</updated>
     <summary>US - Remote · Software · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Wex — Backend Software Engineer Intern - C#, Cloud Security &amp; AI (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589" rel="alternate"/>
-    <id>workday:wexinc:job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589</id>
-    <updated>2026-09-14T21:44:48Z</updated>
-    <summary>US - Remote · Data &amp; ML/AI · Summer 2027</summary>
   </entry>
 </feed>
