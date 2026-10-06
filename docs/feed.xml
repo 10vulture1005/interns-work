@@ -4,32 +4,20 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-10-06T18:15:30Z</updated>
+  <updated>2026-10-06T22:42:33Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
-    <title>American Express — Apprentice</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014635" rel="alternate"/>
-    <id>oracle:egug.fa.us2.oraclecloud.com:26014635</id>
-    <updated>2026-10-06T18:15:30Z</updated>
-    <summary>Gurugram, HR, India · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Biogen — Co-op, Machine Learning Engineering</title>
-    <link href="https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310" rel="alternate"/>
-    <id>workday:biibhr:job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310</id>
-    <updated>2026-10-06T18:15:30Z</updated>
-    <summary>Remote, USA · Data &amp; ML/AI · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Cadence Solutions — Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/solutions/jobs/4711210006" rel="alternate"/>
-    <id>greenhouse:solutions:4711210006</id>
-    <updated>2026-10-06T18:15:30Z</updated>
+    <title>KnowBe4 — Software Engineer Intern (Remote)</title>
+    <link href="https://job-boards.greenhouse.io/knowbe4/jobs/8870749002" rel="alternate"/>
+    <id>greenhouse:knowbe4:8870749002</id>
+    <updated>2026-10-06T22:42:33Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Deutsche Bank — HR Apprentice</title>
-    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934" rel="alternate"/>
-    <id>workday:db:job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934</id>
-    <updated>2026-10-06T18:15:30Z</updated>
-    <summary>(do not use) Bangalore, Velankani Tech Park · Other · Summer 2027</summary>
+    <title>Leidos — Business Systems AI Intern</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327" rel="alternate"/>
+    <id>workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327</id>
+    <updated>2026-10-06T22:42:33Z</updated>
+    <summary>6314 Remote/Teleworker US · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Khan Academy — Software Engineer Intern (Summer 2027)</title>
     <link href="https://job-boards.greenhouse.io/khanacademy/jobs/8250259" rel="alternate"/>
@@ -37,17 +25,35 @@
     <updated>2026-10-06T18:15:30Z</updated>
     <summary>Remote (US + Canada Only) · Software · Summer 2027</summary>
   </entry>  <entry>
+    <title>Cadence Solutions — Software Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/solutions/jobs/4711210006" rel="alternate"/>
+    <id>greenhouse:solutions:4711210006</id>
+    <updated>2026-10-06T18:15:30Z</updated>
+    <summary>Remote · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>American Express — Apprentice</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014635" rel="alternate"/>
+    <id>oracle:egug.fa.us2.oraclecloud.com:26014635</id>
+    <updated>2026-10-06T18:15:30Z</updated>
+    <summary>Gurugram, HR, India · Other · Summer 2027</summary>
+  </entry>  <entry>
     <title>Robert Bosch Venture Capital — ETAS - Thesis Project Internship – Generative AI for Automotive Safety</title>
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000153799209" rel="alternate"/>
     <id>smartrecruiters:BoschGroup:744000153799209</id>
     <updated>2026-10-06T18:15:30Z</updated>
     <summary>Torino, Piemonte, IT (Remote) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
-    <title>Cushman &amp; Wakefield — EIC Apprentice</title>
-    <link href="https://cw.wd1.myworkdayjobs.com/en-US/external/job/Gurgaon-India/EIC-Apprentice_R-INDINT-042" rel="alternate"/>
-    <id>workday:cw:job/Gurgaon-India/EIC-Apprentice_R-INDINT-042</id>
-    <updated>2026-10-06T11:35:45Z</updated>
-    <summary>Gurgaon, India · Other · Summer 2027</summary>
+    <title>Biogen — Co-op, Machine Learning Engineering</title>
+    <link href="https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310" rel="alternate"/>
+    <id>workday:biibhr:job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310</id>
+    <updated>2026-10-06T18:15:30Z</updated>
+    <summary>Remote, USA · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Deutsche Bank — HR Apprentice</title>
+    <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934" rel="alternate"/>
+    <id>workday:db:job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934</id>
+    <updated>2026-10-06T18:15:30Z</updated>
+    <summary>(do not use) Bangalore, Velankani Tech Park · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Jones Lang LaSalle (JLL) — Apprentice</title>
     <link href="https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ538290" rel="alternate"/>
@@ -73,12 +79,6 @@
     <updated>2026-10-06T00:00:08Z</updated>
     <summary>Curitiba (Remote) · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>Valeo — Intern - Software</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899" rel="alternate"/>
-    <id>workday:valeo:job/Chennai/Intern---Software_REQ2026070899</id>
-    <updated>2026-10-05T17:14:27Z</updated>
-    <summary>Chennai · Software · Summer 2027</summary>
-  </entry>  <entry>
     <title>Thoughtworks — Software Procurement Intern</title>
     <link href="https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673" rel="alternate"/>
     <id>greenhouse:thoughtworks:8236673</id>
@@ -102,12 +102,6 @@
     <id>workday:centene:job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1</id>
     <updated>2026-10-02T20:43:14Z</updated>
     <summary>Remote-FL · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Leidos — Business Systems AI Intern</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770" rel="alternate"/>
-    <id>workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770</id>
-    <updated>2026-10-02T20:43:14Z</updated>
-    <summary>6314 Remote/Teleworker US · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>Pinterest — Software Engineer Intern 2027 (USA)</title>
     <link href="https://www.pinterestcareers.com/jobs/?gh_jid=7838577" rel="alternate"/>
@@ -234,6 +228,12 @@
     <id>workday:intel:job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862</id>
     <updated>2026-09-23T15:12:56Z</updated>
     <summary>Virtual Canada · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Vantor — AI Engineer Intern</title>
+    <link href="https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605" rel="alternate"/>
+    <id>workday:maxar:job/Remote-United-States/AI-Engineer-Intern_R24605</id>
+    <updated>2026-09-22T21:17:47Z</updated>
+    <summary>Remote (United States) · Data &amp; ML/AI · Summer 2027</summary>
   </entry>  <entry>
     <title>ibotta — Information Security Intern</title>
     <link href="https://jobs.ashbyhq.com/ibotta/bc7c532d-931a-40fb-8c6c-b6939dd98582" rel="alternate"/>

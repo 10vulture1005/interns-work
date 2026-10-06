@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+    "company": "Leidos",
+    "title": "Business Systems AI Intern",
+    "location": "6314 Remote/Teleworker US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:biibhr:job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310",
     "company": "Biogen",
     "title": "Co-op, Machine Learning Engineering",
@@ -8,18 +20,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Gurgaon-India/EIC-Apprentice_R-INDINT-042",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Gurgaon, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Gurgaon-India/EIC-Apprentice_R-INDINT-042",
     "salary": null,
     "source": "workday"
   },
@@ -72,18 +72,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:valeo:job/Chennai/Intern---Software_REQ2026070899",
-    "company": "Valeo",
-    "title": "Intern - Software",
-    "location": "Chennai",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:centene:job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1",
     "company": "Centene",
     "title": "Medical Economics Analyst Intern (Undergraduate - Summer 2027)",
@@ -92,18 +80,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-FL/Medical-Economics-Analyst-Intern--Undergraduate---Summer-2027-_1662248-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
-    "company": "Leidos",
-    "title": "Business Systems AI Intern",
-    "location": "6314 Remote/Teleworker US",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
     "salary": null,
     "source": "workday"
   },
@@ -240,6 +216,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:maxar:job/Remote-United-States/AI-Engineer-Intern_R24605",
+    "company": "Vantor",
+    "title": "AI Engineer Intern",
+    "location": "Remote (United States)",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://maxar.wd1.myworkdayjobs.com/en-US/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:mufgub:job/Mumbai-Office-MGS/Apprentice-Global-Operations_10079688-WD-1",
     "company": "Mitsubishi UFG",
     "title": "Apprentice Global Operations",
@@ -260,6 +248,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
     "salary": null,
     "source": "workday"
   },
@@ -816,26 +816,14 @@
     "source": "workday"
   },
   {
-    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914",
-    "company": "Campbellsoup",
-    "title": "Business Analyst (Co-op), DA&AI",
-    "location": "USA - Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
-    "company": "R1 RCM",
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-3474",
+    "company": "Vishay Intertechnology",
     "title": "Apprentice",
-    "location": "Noida, India",
+    "location": "Mumbai, IN",
     "category": "Other",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-3474",
     "salary": null,
     "source": "workday"
   },
@@ -852,18 +840,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "company": "Campbellsoup",
     "title": "Agentic AI Engineer Co-Op",
@@ -872,6 +848,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
+    "company": "Campbellsoup",
+    "title": "Business Analyst (Co-op), DA&AI",
+    "location": "USA - Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65915",
     "salary": null,
     "source": "workday"
   },
@@ -924,6 +912,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000008522",
+    "company": "R1 RCM",
+    "title": "Apprentice",
+    "location": "Noida, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000008522",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Associate-Analyst---Apprentice_R250000006505",
     "company": "R1 RCM",
     "title": "Associate Analyst - Apprentice",
@@ -968,18 +968,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
@@ -1032,6 +1020,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:gehc:job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
+    "company": "GE Healthcare",
+    "title": "Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area)",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted 2 Days Ago",
+    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:ensemblehp:job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "company": "Ensemble Health Partners",
     "title": "Data Scientist Intern",
@@ -1042,6 +1042,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "greenhouse:knowbe4:8870749002",
+    "company": "KnowBe4",
+    "title": "Software Engineer Intern (Remote)",
+    "location": "Remote",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-06T16:08:53-04:00",
+    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002",
+    "salary": null,
+    "source": "greenhouse"
   },
   {
     "id": "oracle:egug.fa.us2.oraclecloud.com:26014635",

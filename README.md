@@ -13,24 +13,23 @@
     <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 06, 2026 at 18:15 UTC</em></p>
+  <p><em>Last updated: Oct 06, 2026 at 22:42 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>7 open</kbd>
+## Summer 2027 (India) <kbd>6 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
 | **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Gurgaon, Haryana, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575) |
-| **Valeo** | Intern - Software <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Chennai | Posted Tod | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Thoughtworks** | Software Procurement Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Gurgaon, India; Pune, India | 2026-09-28 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
 | **Fampay** | Security Engineer Intern <sup>~</sup> | `Software` | Bengaluru | 2026-09-23 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
 | **Thoughtworks** | Developer (Vapasi) - Intern <sup>~</sup> | `Software` | Bangalore, India | 2026-09-17 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
 
-## Summer 2027 (Remote) <kbd>14 open</kbd>
+## Summer 2027 (Remote) <kbd>15 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
@@ -38,6 +37,7 @@
 | **Intel** | Firmware Development Undergraduate Engineering Co-op <sup>~</sup> | `Software` | Virtual Canada | Posted Tod | [Apply ↗](https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862) |
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice -San Francisco Bay Area <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
+| **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
 | **Pinterest** | Software Engineer Intern 2027 (USA) | `Software` | San Francisco, CA, US; Remote, US | 2026-10-01 | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
 | **Tanium** | Cloud Security Intern <sup>~</sup> | `Software` | Durham, NC (Hybrid) | 2026-09-22 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8176398) |
 | **Upstart** | Applied Scientist Intern <sup>~</sup> | `Data & ML/AI` | United States | Remote | 2026-09-18 | [Apply ↗](https://careers.upstart.com/jobs?gh_jid=8213476) |
@@ -69,26 +69,26 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| American Express | Apprentice | Summer 2027 | 2026-10-06 |
+| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-06 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-06 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-06 |
+| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-06 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-10-06 |
+| Valeo | Intern - Software | Summer 2027 | 2026-10-06 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-06 |
+| American Express | Apprentice | Summer 2027 | 2026-10-06 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-06 |
 | Deutsche Bank | HR Apprentice | Summer 2027 | 2026-10-06 |
 | State Street | Apprentice - Data Analysis | Summer 2027 | 2026-10-06 |
 | Airbus | Apprentice - Digital Cybersecurity | Summer 2027 | 2026-10-06 |
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-10-06 |
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-06 |
 | Marvell | Software QA Automation Intern | Summer 2027 | 2026-10-06 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-06 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-06 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-06 |
 | Natera | Software Engineering Intern | Summer 2027 | 2026-10-06 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-10-06 |
 | GE Aerospace | Data Science -Intern | Summer 2027 | 2026-10-06 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-05 |
-| Cushman & Wakefield | EIC - Apprentice | Summer 2027 | 2026-10-05 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-05 |
-| Procter & Gamble (P&G) | Information Technology Intern | Summer 2027 | 2026-10-05 |
-| Deutsche Bank | Apprentice Hiring for 2026- 2027 | Summer 2027 | 2026-10-05 |
 
 </details>
 
