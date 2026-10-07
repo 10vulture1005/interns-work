@@ -1,13 +1,25 @@
 [
   {
-    "id": "workday:gehc:job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Data-Analyst_R4039422-1",
-    "company": "GE Healthcare",
-    "title": "Intern Data Analyst",
-    "location": "IND19-01-Bengaluru-EPIP 122 (Phase II)",
-    "category": "Data & ML/AI",
+    "id": "workday:echo:job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
+    "company": "Echo Global Logistics",
+    "title": "Software Engineering Intern- Chicago",
+    "location": "Remote",
+    "category": "Software",
     "season": "Summer 2027",
     "posted_at": "Posted Today",
-    "url": "https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Intern-Data-Analyst_R4039422-1",
+    "url": "https://echo.wd1.myworkdayjobs.com/en-US/Echo_Logistics/job/Remote/Software-Engineering-Intern--Chicago_R4645-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:sailpoint:job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
+    "company": "SailPoint",
+    "title": "Software Engineer Intern - Platform Engines",
+    "location": "Remote (United Kingdom)",
+    "category": "Software",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164",
     "salary": null,
     "source": "workday"
   },
@@ -72,18 +84,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:biibhr:job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310",
-    "company": "Biogen",
-    "title": "Co-op, Machine Learning Engineering",
-    "location": "Remote, USA",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://biibhr.wd3.myworkdayjobs.com/en-US/external/job/Remote-USA/Co-op--Machine-Learning-Engineering_REQ24310",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575",
     "company": "Medtronic",
     "title": "Co-op/Apprentice (Non-Tech)",
@@ -96,18 +96,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee -Instructional Design & E-Learning Development",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:mitel:job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
     "company": "Mitel Networks",
     "title": "R&D Intern (student) - iOS development",
@@ -116,18 +104,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mitel.wd3.myworkdayjobs.com/en-US/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:valeo:job/Chennai/Intern---Software_REQ2026070899",
-    "company": "Valeo",
-    "title": "Intern - Software",
-    "location": "Chennai",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
     "salary": null,
     "source": "workday"
   },
@@ -756,18 +732,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-796069",
-    "company": "State Street",
-    "title": "Apprentice",
-    "location": "Bangalore, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-796069",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:cox:job/Indianapolis-IN/Inspector-Apprentice--Manheim-_R202681416",
     "company": "Cox",
     "title": "Inspector Apprentice (Manheim)",
@@ -852,14 +816,26 @@
     "source": "workday"
   },
   {
-    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914",
+    "id": "workday:campbellsoup:job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
     "company": "Campbellsoup",
     "title": "Business Analyst (Co-op), DA&AI",
     "location": "USA - Remote",
     "category": "Data & ML/AI",
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
-    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65914",
+    "url": "https://campbellsoup.wd5.myworkdayjobs.com/en-US/externalcareers_globalsite/job/USA---Remote/Business-Analyst--Co-op---DA-AI_Req-65913",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
     "salary": null,
     "source": "workday"
   },
@@ -884,18 +860,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://astreya.wd5.myworkdayjobs.com/en-US/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0015746",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -1008,18 +972,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -1100,18 +1052,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-07T03:27:45-04:00",
     "url": "https://job-boards.greenhouse.io/fourkites/jobs/8232702",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
-    "id": "greenhouse:knowbe4:8870749002",
-    "company": "KnowBe4",
-    "title": "Software Engineer Intern (Remote)",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-06T16:08:53-04:00",
-    "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8870749002",
     "salary": null,
     "source": "greenhouse"
   },
