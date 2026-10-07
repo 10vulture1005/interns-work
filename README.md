@@ -10,22 +10,23 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 07, 2026 at 01:49 UTC</em></p>
+  <p><em>Last updated: Oct 07, 2026 at 08:31 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>6 open</kbd>
+## Summer 2027 (India) <kbd>7 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Gurgaon, Haryana, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R68969) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
-| **Thoughtworks** | Software Procurement Intern <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Gurgaon, India; Pune, India | 2026-09-28 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
+| **FourKites** | Intern - Project Analyst , Network Growth <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Chennai | 2026-10-07 | [Apply ↗](https://job-boards.greenhouse.io/fourkites/jobs/8232702) |
+| **Thoughtworks** | Software Procurement Intern <sup>~</sup> | `Software` | Gurgaon, India; Pune, India | 2026-09-28 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
 | **Fampay** | Security Engineer Intern <sup>~</sup> | `Software` | Bengaluru | 2026-09-23 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
 | **Thoughtworks** | Developer (Vapasi) - Intern <sup>~</sup> | `Software` | Bangalore, India | 2026-09-17 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
 
@@ -62,13 +63,17 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (21 of 24)._
+_~ = the title doesn't state a year; bucketed here from its posting date (22 of 25)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-07 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-07 |
+| R1 RCM | Apprentice | Summer 2027 | 2026-10-07 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-07 |
 | Fable | Software Engineering Intern | Summer 2027 | 2026-10-07 |
 | Baxter International | Apprentice, Trainee -Instructional Design & E-Learning Development | Summer 2027 | 2026-10-07 |
 | Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-07 |
@@ -76,9 +81,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-06 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-06 |
 | Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-06 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-10-06 |
 | Valeo | Intern - Software | Summer 2027 | 2026-10-06 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-06 |
 | American Express | Apprentice | Summer 2027 | 2026-10-06 |
 | Citi | Young Apprentice - C00 - MUMBAI | Summer 2027 | 2026-10-06 |
 | Deutsche Bank | HR Apprentice | Summer 2027 | 2026-10-06 |
@@ -87,8 +90,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Citi | Young Apprentice - C00 - PUNE | Summer 2027 | 2026-10-06 |
 | Marvell | Software QA Automation Intern | Summer 2027 | 2026-10-06 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-06 |
-| AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-06 |
-| Natera | Software Engineering Intern | Summer 2027 | 2026-10-06 |
 
 </details>
 
