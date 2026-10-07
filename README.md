@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 06, 2026 at 22:42 UTC</em></p>
+  <p><em>Last updated: Oct 07, 2026 at 01:49 UTC</em></p>
 </div>
 
 ---
@@ -69,7 +69,10 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-06 |
+| Fable | Software Engineering Intern | Summer 2027 | 2026-10-07 |
+| Baxter International | Apprentice, Trainee -Instructional Design & E-Learning Development | Summer 2027 | 2026-10-07 |
+| Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-07 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-07 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-06 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-06 |
 | Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-06 |
@@ -85,10 +88,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (21 of 
 | Marvell | Software QA Automation Intern | Summer 2027 | 2026-10-06 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-06 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-06 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-06 |
 | Natera | Software Engineering Intern | Summer 2027 | 2026-10-06 |
-| GE Aerospace | Data Science -Intern | Summer 2027 | 2026-10-06 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-05 |
 
 </details>
 
