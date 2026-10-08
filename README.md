@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 07, 2026 at 21:30 UTC</em></p>
+  <p><em>Last updated: Oct 08, 2026 at 02:08 UTC</em></p>
 </div>
 
 ---
@@ -70,17 +70,16 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-08 |
+| Echo Global Logistics | Software Engineering Intern- Chicago | Summer 2027 | 2026-10-08 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-08 |
 | KnowBe4 | Software Engineer Intern (Remote) | Summer 2027 | 2026-10-07 |
-| Baxter International | Apprentice, Trainee -Instructional Design & E-Learning Development | Summer 2027 | 2026-10-07 |
 | Biogen | Co-op, Machine Learning Engineering | Summer 2027 | 2026-10-07 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-07 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-07 |
 | GE Healthcare | Intern Data Analyst | Summer 2027 | 2026-10-07 |
 | State Street | Apprentice | Summer 2027 | 2026-10-07 |
 | Valeo | Intern - Software | Summer 2027 | 2026-10-07 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-07 |
 | Robert Bosch Venture Capital | ETAS - Thesis Project Internship – Generative AI for Automotive Safety | Summer 2027 | 2026-10-07 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-07 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-07 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-07 |
 | Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-07 |
@@ -90,6 +89,7 @@ _~ = the title doesn't state a year; bucketed here from its posting date (22 of 
 | R1 RCM | Apprentice | Summer 2027 | 2026-10-07 |
 | Fable | Software Engineering Intern | Summer 2027 | 2026-10-07 |
 | Centene | Medical Economics Analyst Intern (Undergraduate - Summer 2027) | Summer 2027 | 2026-10-07 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-07 |
 
 </details>
 
