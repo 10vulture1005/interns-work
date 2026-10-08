@@ -5275,6 +5275,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Chalk",
+    "slug": "chalk",
+    "ats": "ashby"
+  },
+  {
     "name": "Chalo",
     "slug": "chalo-careers",
     "ats": "smartrecruiters"
@@ -11266,6 +11271,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Goodfire",
+    "slug": "goodfire",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Goodnotes",
     "slug": "goodnotes",
     "ats": "greenhouse"
@@ -11791,6 +11801,11 @@
     "name": "Hanna Andersson",
     "slug": "hannaandersson",
     "ats": "lever"
+  },
+  {
+    "name": "Happyrobot",
+    "slug": "happyrobot",
+    "ats": "ashby"
   },
   {
     "name": "Harbinger Motors",
@@ -23819,6 +23834,11 @@
     "name": "SpruceID",
     "slug": "sprucesystems",
     "ats": "lever"
+  },
+  {
+    "name": "SpruceID",
+    "slug": "spruceid",
+    "ats": "ashby"
   },
   {
     "name": "Spry Methods",
