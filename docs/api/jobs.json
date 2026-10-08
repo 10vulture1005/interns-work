@@ -1,5 +1,29 @@
 [
   {
+    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R68969",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Gurgaon, Haryana, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Yesterday",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R68969",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:msd:job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762",
+    "company": "Merck",
+    "title": "Information Technology Intern",
+    "location": "IND - Telangana - Hyderabad (Hitec City Raidurg)",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/IND---Telangana---Hyderabad-Hitec-City-Raidurg/Information-Technology-Intern_R414762",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:globalhr:job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596",
     "company": "RTX",
     "title": "AI Engineering Intern (Summer 2027)",
@@ -32,6 +56,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ538524",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
+    "company": "Leidos",
+    "title": "Business Systems AI Intern",
+    "location": "6314 Remote/Teleworker US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
     "salary": null,
     "source": "workday"
   },
@@ -72,30 +108,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
-    "company": "Leidos",
-    "title": "Business Systems AI Intern",
-    "location": "6314 Remote/Teleworker US",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "Gurgaon, Haryana, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
     "company": "Baxter International",
     "title": "Apprentice, Trainee -Instructional Design & E-Learning Development",
@@ -120,18 +132,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:valeo:job/Chennai/Intern---Software_REQ2026070899",
-    "company": "Valeo",
-    "title": "Intern - Software",
-    "location": "Chennai",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:caci:job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
     "company": "CACI",
     "title": "Software Development/Engineer Intern - Summer 2027",
@@ -140,6 +140,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Remote-Any-State/Software-Development-Engineer-Intern---Summer-2027_332894-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:clearesult:job/Remote---Oklahoma/HVAC-Apprentice_R0018192",
+    "company": "CLEAResult",
+    "title": "HVAC Apprentice",
+    "location": "Remote - Oklahoma",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://clearesult.wd1.myworkdayjobs.com/en-US/CLEAResult_External_Careers/job/Remote---Oklahoma/HVAC-Apprentice_R0018192",
     "salary": null,
     "source": "workday"
   },
@@ -224,18 +236,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:intel:job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862",
-    "company": "Intel",
-    "title": "Firmware Development Undergraduate Engineering Co-op",
-    "location": "Virtual Canada",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/Virtual-Canada/Firmware-Development-Undergraduate-Engineering-Co-op_JR0286862",
     "salary": null,
     "source": "workday"
   },
@@ -552,6 +552,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:aksteel:job/Indiana-Harbor/Information-Technology-Intern_R13501",
+    "company": "Cleveland-Cliffs",
+    "title": "Information Technology Intern",
+    "location": "Indiana Harbor",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://aksteel.wd1.myworkdayjobs.com/en-US/careers/job/Indiana-Harbor/Information-Technology-Intern_R13501",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:allegion:job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1",
     "company": "Allegion",
     "title": "Summer Intern - Firmware Engineer",
@@ -572,18 +584,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://trustage.wd1.myworkdayjobs.com/en-US/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:acxiomllc:job/RemoteHomebased/Intern---Data-Scientist_JR014459",
-    "company": "Acxiom",
-    "title": "Intern - Data Scientist",
-    "location": "Remote/Homebased",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://acxiomllc.wd5.myworkdayjobs.com/en-US/AcxiomUSA/job/RemoteHomebased/Intern---Data-Scientist_JR014459",
     "salary": null,
     "source": "workday"
   },
@@ -852,18 +852,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:campbellsoup:job/USA---Remote/Agentic-AI-Engineer-Co-Op_Req-66015",
     "company": "Campbellsoup",
     "title": "Agentic AI Engineer Co-Op",
@@ -1056,18 +1044,6 @@
     "source": "workday"
   },
   {
-    "id": "greenhouse:guidepointsecurity:6218650004",
-    "company": "GuidePoint Security",
-    "title": "AI & Data Science Intern - GPSU/NE",
-    "location": "Remote",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-10-08T12:54:28-04:00",
-    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004",
-    "salary": null,
-    "source": "greenhouse"
-  },
-  {
     "id": "greenhouse:guidepointsecurity:6218639004",
     "company": "GuidePoint Security",
     "title": "Application Security Intern - GPSU/NE",
@@ -1076,6 +1052,18 @@
     "season": "Summer 2027",
     "posted_at": "2026-10-08T12:54:38-04:00",
     "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218639004?gh_jid=6218639004",
+    "salary": null,
+    "source": "greenhouse"
+  },
+  {
+    "id": "greenhouse:guidepointsecurity:6218650004",
+    "company": "GuidePoint Security",
+    "title": "AI & Data Science Intern - GPSU/NE",
+    "location": "Remote",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T12:54:28-04:00",
+    "url": "https://boards.greenhouse.io/guidepointsecurity/jobs/6218650004?gh_jid=6218650004",
     "salary": null,
     "source": "greenhouse"
   },
@@ -1340,18 +1328,6 @@
     "season": "Summer 2027",
     "posted_at": "2026-09-09T20:13:23.469+00:00",
     "url": "https://jobs.ashbyhq.com/barnes/1881dbc0-846e-4805-968f-4e27d663f7b0",
-    "salary": null,
-    "source": "ashby"
-  },
-  {
-    "id": "ashby:barnes:af9258a6-b6e6-4714-92dc-a9952c0590a7",
-    "company": "Barnes & Thornburg",
-    "title": "2027 BT RISE Internship - Information Technology AI Intern",
-    "location": "Indianapolis",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-09T20:11:43.072+00:00",
-    "url": "https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7",
     "salary": null,
     "source": "ashby"
   },

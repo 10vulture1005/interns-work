@@ -125,8 +125,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/goodship?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:happyrobot": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-08T17:45:33Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/happyrobot?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:heidihealth": {
@@ -135,8 +135,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/heidihealth?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "ashby:hiive": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-10-07T21:30:01Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/hiive?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/doc"
   },
   "ashby:hippocratic": {
@@ -325,8 +325,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/tuesday-lab?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-"
   },
   "ashby:two-dots": {
-    "consecutive_failures": 10,
-    "last_attempt_at": "2026-10-05T17:14:27Z",
+    "consecutive_failures": 11,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/two-dots?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/"
   },
   "ashby:veeda-labs": {
@@ -555,8 +555,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/clickhouse/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:climateai": {
-    "consecutive_failures": 27,
-    "last_attempt_at": "2026-10-05T17:14:27Z",
+    "consecutive_failures": 28,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/climateai/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:cred-club": {
@@ -635,8 +635,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/hightouch/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:hubspot": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-10-07T21:30:01Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/hubspot/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:ibkr": {
@@ -660,8 +660,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/innovaccer/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:instabase": {
-    "consecutive_failures": 11,
-    "last_attempt_at": "2026-10-05T17:14:27Z",
+    "consecutive_failures": 12,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/instabase/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/4"
   },
   "greenhouse:job-boards": {
@@ -740,8 +740,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/optirtc/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:ottoaviation": {
-    "consecutive_failures": 24,
-    "last_attempt_at": "2026-10-05T17:14:27Z",
+    "consecutive_failures": 25,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/ottoaviation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Statu"
   },
   "greenhouse:oyo": {
@@ -765,8 +765,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/qualifiedhealth/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:radiantsecurity": {
-    "consecutive_failures": 25,
-    "last_attempt_at": "2026-10-05T17:14:27Z",
+    "consecutive_failures": 26,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/radiantsecurity/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:razorpay": {
@@ -845,8 +845,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/udaan/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "greenhouse:underdogfantasy": {
-    "consecutive_failures": 21,
-    "last_attempt_at": "2026-10-05T17:14:27Z",
+    "consecutive_failures": 22,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/underdogfantasy/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/St"
   },
   "greenhouse:uplifter": {
@@ -1095,8 +1095,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/grid?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:inductiveautomation": {
-    "consecutive_failures": 10,
-    "last_attempt_at": "2026-10-05T17:14:27Z",
+    "consecutive_failures": 11,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/inductiveautomation?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "lever:istaridigital": {
@@ -1260,8 +1260,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/talentwerx?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:thea": {
-    "consecutive_failures": 17,
-    "last_attempt_at": "2026-10-05T17:14:27Z",
+    "consecutive_failures": 18,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.lever.co/v0/postings/thea?mode=json'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/404"
   },
   "lever:trend-health-partners": {
@@ -1430,8 +1430,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/acretrader-jobs/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "rippling:elevationcapital": {
-    "consecutive_failures": 9,
-    "last_attempt_at": "2026-10-05T17:14:27Z",
+    "consecutive_failures": 10,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/elevationcapital/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/We"
   },
   "rippling:etg": {
@@ -1445,8 +1445,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/gitar-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
   "rippling:sennos": {
-    "consecutive_failures": 9,
-    "last_attempt_at": "2026-10-05T17:14:27Z",
+    "consecutive_failures": 10,
+    "last_attempt_at": "2026-10-08T23:07:16Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/sennos/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Sta"
   },
   "unstop:cybersecurity": {
