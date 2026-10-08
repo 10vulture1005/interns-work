@@ -10,21 +10,19 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-27-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-25-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 08, 2026 at 08:50 UTC</em></p>
+  <p><em>Last updated: Oct 08, 2026 at 17:45 UTC</em></p>
 </div>
 
 ---
 
-## Summer 2027 (India) <kbd>9 open</kbd>
+## Summer 2027 (India) <kbd>7 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Philips** | Intern – Data Science and AI Engineering <sup>~</sup> <span title='New within 48h'>✨</span> | `Data & ML/AI` | Bangalore | Posted Tod | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503) |
-| **Philips** | Apprentice Trainee (Software Developer Level 1) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Bangalore | Posted Tod | [Apply ↗](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732) |
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Gurgaon, Haryana, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> | `Other` | Gurgaon, Haryana, India | Posted Tod | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575) |
 | **Valeo** | Intern - Software <sup>~</sup> | `Software` | Chennai | Posted Tod | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
@@ -65,33 +63,33 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (24 of 27)._
+_~ = the title doesn't state a year; bucketed here from its posting date (22 of 25)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Cleveland-Cliffs | Information Technology Intern | Summer 2027 | 2026-10-08 |
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-08 |
+| CLEAResult | HVAC Apprentice | Summer 2027 | 2026-10-08 |
+| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-08 |
+| Philips | Apprentice Trainee (Software Developer Level 1) | Summer 2027 | 2026-10-08 |
+| Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-08 |
 | FourKites | Intern - Project Analyst , Network Growth | Summer 2027 | 2026-10-08 |
 | American Express | Apprentice | Summer 2027 | 2026-10-08 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-08 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-08 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-08 |
 | Echo Global Logistics | Software Engineering Intern- Chicago | Summer 2027 | 2026-10-08 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-08 |
 | KnowBe4 | Software Engineer Intern (Remote) | Summer 2027 | 2026-10-07 |
 | Biogen | Co-op, Machine Learning Engineering | Summer 2027 | 2026-10-07 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-07 |
 | GE Healthcare | Intern Data Analyst | Summer 2027 | 2026-10-07 |
 | State Street | Apprentice | Summer 2027 | 2026-10-07 |
 | Robert Bosch Venture Capital | ETAS - Thesis Project Internship – Generative AI for Automotive Safety | Summer 2027 | 2026-10-07 |
 | Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-07 |
-| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-07 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-07 |
 | AtkinsRéalis | Apprentice | Summer 2027 | 2026-10-07 |
-| Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-07 |
-| R1 RCM | Apprentice | Summer 2027 | 2026-10-07 |
-| Fable | Software Engineering Intern | Summer 2027 | 2026-10-07 |
 
 </details>
 
