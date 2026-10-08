@@ -4,9 +4,21 @@
   <link href="https://10vulture1005.github.io/interns-work/feed.xml" rel="self"/>
   <link href="https://10vulture1005.github.io/interns-work/" rel="alternate"/>
   <id>https://10vulture1005.github.io/interns-work/</id>
-  <updated>2026-10-08T02:08:29Z</updated>
+  <updated>2026-10-08T08:50:55Z</updated>
   <author><name>Intern Engine India</name></author>
   <entry>
+    <title>Philips — Intern – Data Science and AI Engineering</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503" rel="alternate"/>
+    <id>workday:philips:job/Bangalore/Intern---Data-Science-and-AI-Engineering_590503</id>
+    <updated>2026-10-08T08:50:55Z</updated>
+    <summary>Bangalore · Data &amp; ML/AI · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Philips — Apprentice Trainee (Software Developer Level 1)</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732" rel="alternate"/>
+    <id>workday:philips:job/Bangalore/Apprentice-Trainee--Software-Developer-Level-1-_590732</id>
+    <updated>2026-10-08T08:50:55Z</updated>
+    <summary>Bangalore · Software · Summer 2027</summary>
+  </entry>  <entry>
     <title>SailPoint — Software Engineer Intern - Platform Engines</title>
     <link href="https://sailpoint.wd1.myworkdayjobs.com/en-US/SailPoint/job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164" rel="alternate"/>
     <id>workday:sailpoint:job/Remote-United-Kingdom/Software-Engineer-Intern---Platform-Engines_R014164</id>
@@ -30,12 +42,6 @@
     <id>workday:republic:job/Indianapolis-IN-USA/Diesel-Technician-Apprentice-Paid-Training_R-186029</id>
     <updated>2026-10-07T15:38:24Z</updated>
     <summary>Indianapolis, IN, USA · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>FourKites — Intern - Project Analyst , Network Growth</title>
-    <link href="https://job-boards.greenhouse.io/fourkites/jobs/8232702" rel="alternate"/>
-    <id>greenhouse:fourkites:8232702</id>
-    <updated>2026-10-07T08:31:53Z</updated>
-    <summary>Chennai · Other · Summer 2027</summary>
   </entry>  <entry>
     <title>Caterpillar Inc. — India Production Apprentice</title>
     <link href="https://cat.wd5.myworkdayjobs.com/en-US/CaterpillarCareers/job/Thiruvallur-Tamil-Nadu/India-Production-Apprentice_R0000398480" rel="alternate"/>
@@ -61,12 +67,6 @@
     <updated>2026-10-06T18:15:30Z</updated>
     <summary>Remote · Software · Summer 2027</summary>
   </entry>  <entry>
-    <title>American Express — Apprentice</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014635" rel="alternate"/>
-    <id>oracle:egug.fa.us2.oraclecloud.com:26014635</id>
-    <updated>2026-10-06T18:15:30Z</updated>
-    <summary>Gurugram, HR, India · Other · Summer 2027</summary>
-  </entry>  <entry>
     <title>Deutsche Bank — HR Apprentice</title>
     <link href="https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934" rel="alternate"/>
     <id>workday:db:job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934</id>
@@ -90,6 +90,12 @@
     <id>workday:mitel:job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162</id>
     <updated>2026-10-06T00:00:08Z</updated>
     <summary>Curitiba (Remote) · Software · Summer 2027</summary>
+  </entry>  <entry>
+    <title>Valeo — Intern - Software</title>
+    <link href="https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899" rel="alternate"/>
+    <id>workday:valeo:job/Chennai/Intern---Software_REQ2026070899</id>
+    <updated>2026-10-05T17:14:27Z</updated>
+    <summary>Chennai · Software · Summer 2027</summary>
   </entry>  <entry>
     <title>Thoughtworks — Software Procurement Intern</title>
     <link href="https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673" rel="alternate"/>
@@ -300,11 +306,5 @@
     <id>smartrecruiters:WabashValleyPowerAlliance:744000149875759</id>
     <updated>2026-09-16T15:09:51Z</updated>
     <summary>Indianapolis, IN, United States · Other · Summer 2027</summary>
-  </entry>  <entry>
-    <title>Itron — Apprentice</title>
-    <link href="https://itron.wd5.myworkdayjobs.com/en-US/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2" rel="alternate"/>
-    <id>workday:itron:job/India-Bangalore/Apprentice_JR102702-2</id>
-    <updated>2026-09-16T15:09:51Z</updated>
-    <summary>India, Bangalore · Other · Summer 2027</summary>
   </entry>
 </feed>
