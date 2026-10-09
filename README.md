@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 08, 2026 at 23:07 UTC</em></p>
+  <p><em>Last updated: Oct 09, 2026 at 04:16 UTC</em></p>
 </div>
 
 ---
@@ -22,8 +22,8 @@
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
-| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | Gurgaon, Haryana, India | Posted Yes | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R68969) |
 | **Valeo** | Intern - AI <sup>~</sup> | `Data & ML/AI` | Chennai | Posted 30+ | [Apply ↗](https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319) |
+| **Medtronic** | Co-op/Apprentice (Non-Tech) <sup>~</sup> <span title='New within 48h'>✨</span> | `Other` | New Delhi, Delhi, India | Posted 2 D | [Apply ↗](https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685) |
 | **GE Healthcare** | Research Intern - AI <sup>~</sup> | `Data & ML/AI` | IND19-01-Bengaluru-EPIP 122 (Phase II) | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/IND19-01-Bengaluru-EPIP-122-Phase-II/Research-Intern---AI_R4043882-1) |
 | **Thoughtworks** | Software Procurement Intern <sup>~</sup> | `Software` | Gurgaon, India; Pune, India | 2026-09-28 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8236673?gh_jid=8236673) |
 | **Fampay** | Security Engineer Intern <sup>~</sup> | `Software` | Bengaluru | 2026-09-23 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
@@ -68,9 +68,11 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
+| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-09 |
+| RTX | Digital Technology Vendor Management Co-op (REMOTE) | Summer 2027 | 2026-10-09 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-09 |
 | Barnes & Thornburg | 2027 BT RISE Internship - Information Technology AI Intern | Summer 2027 | 2026-10-08 |
 | Acxiom | Intern - Data Scientist | Summer 2027 | 2026-10-08 |
-| Bloom Energy | Field Service Apprentice - Fixed Term | Summer 2027 | 2026-10-08 |
 | Intel | Firmware Development Undergraduate Engineering Co-op | Summer 2027 | 2026-10-08 |
 | Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-08 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-08 |
@@ -80,14 +82,12 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-08 |
 | FourKites | Intern - Project Analyst , Network Growth | Summer 2027 | 2026-10-08 |
 | American Express | Apprentice | Summer 2027 | 2026-10-08 |
-| Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-08 |
 | Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-08 |
 | Echo Global Logistics | Software Engineering Intern- Chicago | Summer 2027 | 2026-10-08 |
 | Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-08 |
 | KnowBe4 | Software Engineer Intern (Remote) | Summer 2027 | 2026-10-07 |
 | Biogen | Co-op, Machine Learning Engineering | Summer 2027 | 2026-10-07 |
 | GE Healthcare | Intern Data Analyst | Summer 2027 | 2026-10-07 |
-| State Street | Apprentice | Summer 2027 | 2026-10-07 |
 
 </details>
 
