@@ -10,10 +10,10 @@
     </a>
   </p>
   <p>
-    <img src="https://img.shields.io/badge/Open%20Roles-23-6366f1?style=for-the-badge" alt="Open Roles" />
+    <img src="https://img.shields.io/badge/Open%20Roles-24-6366f1?style=for-the-badge" alt="Open Roles" />
     <img src="https://img.shields.io/badge/Updates-Every%20Hour-22c55e?style=for-the-badge" alt="Updates" />
   </p>
-  <p><em>Last updated: Oct 09, 2026 at 11:40 UTC</em></p>
+  <p><em>Last updated: Oct 09, 2026 at 18:17 UTC</em></p>
 </div>
 
 ---
@@ -29,7 +29,7 @@
 | **Fampay** | Security Engineer Intern <sup>~</sup> | `Software` | Bengaluru | 2026-09-23 | [Apply ↗](https://jobs.lever.co/fampay/bbbbbfd2-1855-4991-82d5-84ef57607c24) |
 | **Thoughtworks** | Developer (Vapasi) - Intern <sup>~</sup> | `Software` | Bangalore, India | 2026-09-17 | [Apply ↗](https://www.thoughtworks.com/careers/jobs/8210384?gh_jid=8210384) |
 
-## Summer 2027 (Remote) <kbd>14 open</kbd>
+## Summer 2027 (Remote) <kbd>15 open</kbd>
 
 | 🏢 Company | 💼 Role | 🏷️ Category | 📍 Location | 📅 Posted | 🔗 Apply |
 |---|---|---|---|---|:---:|
@@ -37,6 +37,7 @@
 | **GE Healthcare** | Information Technology Development Program - Internship <sup>~</sup> | `Other` | Remote | Posted Tod | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Information-Technology-Development-Program---Internship_R4043927-1) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice -San Francisco Bay Area <sup>~</sup> | `Software` | Remote | Posted 5 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice---Northern-California_R4035260) |
 | **GE Healthcare** | Surgery Field Engineer Apprentice (Lower CT: Stamford/Fairfield area) <sup>~</sup> | `Software` | Remote | Posted 2 D | [Apply ↗](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Remote/Surgery-Field-Engineer-Apprentice--Lower-CT--Stamford-Fairfield-area-_R4039861-1) |
+| **Coinbase** | Forward Deployed Engineer Intern (HR Technology) <sup>~</sup> <span title='New within 48h'>✨</span> | `Software` | Hybrid - New York, NY | 2026-10-09 | [Apply ↗](https://www.coinbase.com/careers/positions/8175510?gh_jid=8175510) |
 | **Pinterest** | Software Engineer Intern 2027 (USA) | `Software` | San Francisco, CA, US; Remote, US | 2026-10-01 | [Apply ↗](https://www.pinterestcareers.com/jobs/?gh_jid=7838577) |
 | **Tanium** | Cloud Security Intern <sup>~</sup> | `Software` | Durham, NC (Hybrid) | 2026-09-22 | [Apply ↗](https://job-boards.greenhouse.io/tanium/jobs/8176398) |
 | **Upstart** | Applied Scientist Intern <sup>~</sup> | `Data & ML/AI` | United States | Remote | 2026-09-18 | [Apply ↗](https://careers.upstart.com/jobs?gh_jid=8213476) |
@@ -61,19 +62,22 @@
 | **Rubrik** | Software Engineer - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523) |
 | **Rubrik** | Software Engineer (CPD) - Winter Intern <sup>~</sup> | `Software` | Bangalore | 2026-09-06 | [Apply ↗](https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537) |
 
-_~ = the title doesn't state a year; bucketed here from its posting date (20 of 23)._
+_~ = the title doesn't state a year; bucketed here from its posting date (21 of 24)._
 
 <details>
 <summary><strong>Recently closed</strong> — 20 roles taken down</summary>
 
 | Company | Role | Cycle | Closed |
 |---|---|---|---|
-| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-09 |
-| Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-09 |
-| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-09 |
-| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-09 |
-| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-09 |
 | Campbellsoup | Business Analyst (Co-op), DA&AI | Summer 2027 | 2026-10-09 |
+| Centific | AI Research Intern -  Physical AI | Summer 2027 | 2026-10-09 |
+| Cox | Inspector Apprentice (Manheim) | Summer 2027 | 2026-10-09 |
+| Cushman & Wakefield | EIC Apprentice | Summer 2027 | 2026-10-09 |
+| Leidos | Business Systems AI Intern | Summer 2027 | 2026-10-09 |
+| State Street | Apprentice | Summer 2027 | 2026-10-09 |
+| Vishay Intertechnology | Apprentice | Summer 2027 | 2026-10-09 |
+| Jones Lang LaSalle (JLL) | Apprentice | Summer 2027 | 2026-10-09 |
+| Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-09 |
 | RTX | Digital Technology Vendor Management Co-op (REMOTE) | Summer 2027 | 2026-10-09 |
 | Medtronic | Co-op/Apprentice (Non-Tech) | Summer 2027 | 2026-10-09 |
 | Barnes & Thornburg | 2027 BT RISE Internship - Information Technology AI Intern | Summer 2027 | 2026-10-08 |
@@ -85,9 +89,6 @@ _~ = the title doesn't state a year; bucketed here from its posting date (20 of 
 | Philips | Intern – Data Science and AI Engineering | Summer 2027 | 2026-10-08 |
 | FourKites | Intern - Project Analyst , Network Growth | Summer 2027 | 2026-10-08 |
 | American Express | Apprentice | Summer 2027 | 2026-10-08 |
-| Echo Global Logistics | Software Engineering Intern- Chicago | Summer 2027 | 2026-10-08 |
-| KnowBe4 | Software Engineer Intern (Remote) | Summer 2027 | 2026-10-07 |
-| Biogen | Co-op, Machine Learning Engineering | Summer 2027 | 2026-10-07 |
 
 </details>
 
