@@ -1,5 +1,17 @@
 [
   {
+    "id": "workday:ag:job/Bangalore-Area/Internship---India-Innovation-Center----Data-Analyst-Intern_JR10446611",
+    "company": "Airbus",
+    "title": "Internship - India Innovation Center  - Data Analyst Intern",
+    "location": "Bangalore Area",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Bangalore-Area/Internship---India-Innovation-Center----Data-Analyst-Intern_JR10446611",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:centific:job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1",
     "company": "Centific",
     "title": "AI Research Intern -  Physical AI",
@@ -48,30 +60,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:jll:job/Gurugram-HR/Apprentice_REQ538524",
-    "company": "Jones Lang LaSalle (JLL)",
-    "title": "Apprentice",
-    "location": "Gurugram, HR",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://jll.wd1.myworkdayjobs.com/en-US/jllcareers/job/Gurugram-HR/Apprentice_REQ538524",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
-    "company": "Leidos",
-    "title": "Business Systems AI Intern",
-    "location": "6314 Remote/Teleworker US",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:republic:job/Indianapolis-IN-USA/Diesel-Technician-Apprentice-Paid-Training_R-186029",
     "company": "Republic Services",
     "title": "Diesel Technician Apprentice-Paid Training",
@@ -104,6 +92,30 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Medical-Economics-Intern--Undergraduate---Summer-2027-_1662091",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+    "company": "Leidos",
+    "title": "Business Systems AI Intern",
+    "location": "6314 Remote/Teleworker US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575",
+    "company": "Medtronic",
+    "title": "Co-op/Apprentice (Non-Tech)",
+    "location": "Gurgaon, Haryana, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575",
     "salary": null,
     "source": "workday"
   },
@@ -216,6 +228,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:fortrea:job/Bangalore/Apprentice---Employer-Branding_264572",
+    "company": "Fortrea",
+    "title": "Apprentice - Employer Branding",
+    "location": "Bangalore",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://fortrea.wd1.myworkdayjobs.com/en-US/Fortrea/job/Bangalore/Apprentice---Employer-Branding_264572",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:wexinc:job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543",
     "company": "Wex",
     "title": "Software Engineering Intern - Enterprise Data & Systems (Salesforce & Snowflake) (Graduate/Master's)",
@@ -264,18 +288,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Chennai, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:itron:job/India-Bangalore/Apprentice_JR102702-2",
     "company": "Itron",
     "title": "Apprentice",
@@ -284,6 +296,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://itron.wd5.myworkdayjobs.com/en-US/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-019",
     "salary": null,
     "source": "workday"
   },
@@ -588,6 +612,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:statestreet:job/Bangalore-India/Apprentice_R-797519",
+    "company": "State Street",
+    "title": "Apprentice",
+    "location": "Bangalore, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://statestreet.wd1.myworkdayjobs.com/en-US/Global/job/Bangalore-India/Apprentice_R-797519",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:db:job/Pune---Business-Bay/Apprentice-Role-for-Non-Technology-hiring--NCT_R0449404",
     "company": "Deutsche Bank",
     "title": "Apprentice Role for Non-Technology hiring, NCT",
@@ -804,6 +840,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -960,18 +1008,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:talentmanagementsolution:job/India-Jonas-Collections-and-Recovery-Inc/Cybersecurity-GRC-Intern_R47560",
     "company": "Member Solutions",
     "title": "Cybersecurity GRC Intern",
@@ -1004,18 +1040,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 26 Days Ago",
     "url": "https://db.wd3.myworkdayjobs.com/en-US/DBWebsite/job/do-not-use-Bangalore-Velankani-Tech-Park/HR-Apprentice_R0441934",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:medtronic:job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685",
-    "company": "Medtronic",
-    "title": "Co-op/Apprentice (Non-Tech)",
-    "location": "New Delhi, Delhi, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 2 Days Ago",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/New-Delhi-Delhi-India/Co-op-Apprentice--Non-Tech-_R68685",
     "salary": null,
     "source": "workday"
   },
@@ -1054,6 +1078,18 @@
     "url": "https://ensemblehp.wd5.myworkdayjobs.com/en-US/ensemblehealthpartnerscareers/job/Remote---Nationwide/Data-Scientist--AI_R048077",
     "salary": null,
     "source": "workday"
+  },
+  {
+    "id": "lever:dnb:d6f935d0-5fdd-4f07-8dab-96b49dcce2a7",
+    "company": "Dun & Bradstreet",
+    "title": "Apprentice (R-19971)",
+    "location": "Mumbai - India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "2026-10-08T06:12:31Z",
+    "url": "https://jobs.lever.co/dnb/d6f935d0-5fdd-4f07-8dab-96b49dcce2a7",
+    "salary": null,
+    "source": "lever"
   },
   {
     "id": "greenhouse:guidepointsecurity:6212490004",
