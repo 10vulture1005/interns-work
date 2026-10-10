@@ -579,6 +579,11 @@
     "site": "CX_1"
   },
   {
+    "name": "Adyen",
+    "slug": "adyen",
+    "ats": "greenhouse"
+  },
+  {
     "name": "AECOM",
     "slug": "AECOM2",
     "ats": "smartrecruiters"
@@ -5579,6 +5584,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "circlekstorejobs"
+  },
+  {
+    "name": "Circle Logistics",
+    "slug": "CircleLogistics1",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Circleback",
@@ -15057,6 +15067,11 @@
     "site": "CX_1"
   },
   {
+    "name": "Lifted Solutions",
+    "slug": "LiftedanUpworkCompany",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Liftoff",
     "slug": "liftoff",
     "ats": "greenhouse"
@@ -16571,6 +16586,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Meter",
+    "slug": "meter",
+    "ats": "ashby"
+  },
+  {
     "name": "Metergy Solutions",
     "slug": "metergysolutions",
     "ats": "lever"
@@ -17715,6 +17735,11 @@
     "ats": "workday",
     "wd": "wd1",
     "site": "neighborly"
+  },
+  {
+    "name": "Neko Health",
+    "slug": "neko-health",
+    "ats": "ashby"
   },
   {
     "name": "Nelnet",
@@ -19738,6 +19763,11 @@
     "name": "Perplexity AI",
     "slug": "perplexity",
     "ats": "ashby"
+  },
+  {
+    "name": "Perr&Knight",
+    "slug": "perrknight",
+    "ats": "lever"
   },
   {
     "name": "Perry Ellis International",
@@ -24995,6 +25025,11 @@
     "name": "Tenergy",
     "slug": "Tenergy",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Tenet3",
+    "slug": "tenet3",
+    "ats": "greenhouse"
   },
   {
     "name": "Tenon",
