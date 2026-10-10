@@ -60,18 +60,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
-    "company": "Leidos",
-    "title": "Business Systems AI Intern",
-    "location": "6314 Remote/Teleworker US",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:republic:job/Indianapolis-IN-USA/Diesel-Technician-Apprentice-Paid-Training_R-186029",
     "company": "Republic Services",
     "title": "Diesel Technician Apprentice-Paid Training",
@@ -120,18 +108,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
-    "company": "Baxter International",
-    "title": "Apprentice, Trainee -Instructional Design & E-Learning Development",
-    "location": "Gurgaon, Haryana",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:mitel:job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
     "company": "Mitel Networks",
     "title": "R&D Intern (student) - iOS development",
@@ -140,6 +116,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://mitel.wd3.myworkdayjobs.com/en-US/mitelcareers/job/Curitiba-Remote/R-D-Intern--student----iOS-development_R013162",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
+    "company": "Leidos",
+    "title": "Business Systems AI Intern",
+    "location": "6314 Remote/Teleworker US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
     "salary": null,
     "source": "workday"
   },
@@ -284,18 +272,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://altera.wd1.myworkdayjobs.com/en-US/altera/job/Bengaluru-Karnataka-India/AI-Automation-Intern_R03117",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "Chennai, India",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
     "salary": null,
     "source": "workday"
   },
@@ -468,30 +444,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
-    "company": "Corteva",
-    "title": "Agentic AI Engineer Intern",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Agentic-AI-Engineer-Intern_248210W",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
-    "company": "Corteva",
-    "title": "Data Science Summer Intern",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/Data-Science-Summer-Intern_248208W",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:amgen:job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
     "company": "Amgen",
     "title": "Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027)",
@@ -624,6 +576,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Hyderabad, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Hyderabad-India/EIC-Apprentice_R-INDINT-010",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:magna:job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
     "company": "Magna International",
     "title": "Maintenance Apprentice-2",
@@ -632,18 +596,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Muncie-Indiana-US/Maintenance-Apprentice-2_R00252165",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:corteva:job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
-    "company": "Corteva",
-    "title": "R&D Internship – Computer & Data Science",
-    "location": "Indianapolis, Indiana, United States",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://corteva.wd5.myworkdayjobs.com/en-US/corteva/job/Indianapolis-Indiana-United-States/R-D-Internship---Computer---Data-Science-_248130W",
     "salary": null,
     "source": "workday"
   },
@@ -744,6 +696,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:citi:job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "company": "Citi",
+    "title": "Services – Summer Analyst, India, 2027",
+    "location": "Mumbai Maharashtra India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Services---Summer-Analyst--India--2027_26980901",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:allstate:job/USA---IL-Remote/Pricing-Actuarial-Analyst-Intern_R33433-1",
     "company": "Allstate Insurance Company",
     "title": "Pricing Actuarial Analyst Intern",
@@ -828,18 +792,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -848,18 +800,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://r1rcm.wd1.myworkdayjobs.com/en-US/R1RCM/job/Noida-India/Apprentice_R250000011967",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:bloomenergy:job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
-    "company": "Bloom Energy",
-    "title": "Field Service Apprentice - Fixed Term",
-    "location": "Remote - Santa Teresa, New Mexico",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://bloomenergy.wd1.myworkdayjobs.com/en-US/bloomenergycareers/job/Remote---Santa-Teresa-New-Mexico/Field-Service-Apprentice---Fixed-Term_JR-22069",
     "salary": null,
     "source": "workday"
   },
@@ -980,6 +920,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
@@ -1342,18 +1294,6 @@
     "url": "https://jobs.smartrecruiters.com/AristaNetworks/744000149101159",
     "salary": null,
     "source": "smartrecruiters"
-  },
-  {
-    "id": "ashby:swarmaero:04cff1f6-c790-4773-8568-e487a03626f6",
-    "company": "Swarm Aero",
-    "title": "Software Engineer Intern (Summer 2027)",
-    "location": "Remote",
-    "category": "Software",
-    "season": "Summer 2027",
-    "posted_at": "2026-09-10T18:52:20.927+00:00",
-    "url": "https://jobs.ashbyhq.com/swarmaero/04cff1f6-c790-4773-8568-e487a03626f6",
-    "salary": "$35 per hour",
-    "source": "ashby"
   },
   {
     "id": "greenhouse:tanium:8181017",
