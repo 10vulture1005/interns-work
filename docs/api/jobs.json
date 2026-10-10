@@ -60,6 +60,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
+    "company": "Leidos",
+    "title": "Business Systems AI Intern",
+    "location": "6314 Remote/Teleworker US",
+    "category": "Data & ML/AI",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:republic:job/Indianapolis-IN-USA/Diesel-Technician-Apprentice-Paid-Training_R-186029",
     "company": "Republic Services",
     "title": "Diesel Technician Apprentice-Paid Training",
@@ -96,18 +108,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:leidos:job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
-    "company": "Leidos",
-    "title": "Business Systems AI Intern",
-    "location": "6314 Remote/Teleworker US",
-    "category": "Data & ML/AI",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:medtronic:job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575",
     "company": "Medtronic",
     "title": "Co-op/Apprentice (Non-Tech)",
@@ -116,6 +116,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Gurgaon-Haryana-India/Co-op-Apprentice--Non-Tech-_R73575",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:baxter:job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
+    "company": "Baxter International",
+    "title": "Apprentice, Trainee -Instructional Design & E-Learning Development",
+    "location": "Gurgaon, Haryana",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://baxter.wd1.myworkdayjobs.com/en-US/baxter/job/Gurgaon-Haryana/Apprentice--Trainee--Instructional-Design---E-Learning-Development_JR-210286",
     "salary": null,
     "source": "workday"
   },
@@ -276,6 +288,18 @@
     "source": "workday"
   },
   {
+    "id": "workday:cw:job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "company": "Cushman & Wakefield",
+    "title": "EIC Apprentice",
+    "location": "Chennai, India",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted Today",
+    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/Chennai-India/EIC-Apprentice_R-INDINT-002",
+    "salary": null,
+    "source": "workday"
+  },
+  {
     "id": "workday:itron:job/India-Bangalore/Apprentice_JR102702-2",
     "company": "Itron",
     "title": "Apprentice",
@@ -284,18 +308,6 @@
     "season": "Summer 2027",
     "posted_at": "Posted Today",
     "url": "https://itron.wd5.myworkdayjobs.com/en-US/Early_Careers/job/India-Bangalore/Apprentice_JR102702-2",
-    "salary": null,
-    "source": "workday"
-  },
-  {
-    "id": "workday:cw:job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-004",
-    "company": "Cushman & Wakefield",
-    "title": "EIC Apprentice",
-    "location": "CW Site - IND - Ahmedabad - B Wings, 601 Mondeal Heights Nr Novotel Hotel, S G Highway",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted Today",
-    "url": "https://cw.wd1.myworkdayjobs.com/en-US/external/job/CW-Site---IND---Ahmedabad---B-Wings-601-Mondeal-Heights-Nr-Novotel-Hotel-S-G-Highway/EIC-Apprentice_R-INDINT-004",
     "salary": null,
     "source": "workday"
   },
@@ -780,18 +792,6 @@
     "source": "workday"
   },
   {
-    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-12330-1",
-    "company": "Vishay Intertechnology",
-    "title": "Apprentice",
-    "location": "Mumbai, IN",
-    "category": "Other",
-    "season": "Summer 2027",
-    "posted_at": "Posted 30+ Days Ago",
-    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-12330-1",
-    "salary": null,
-    "source": "workday"
-  },
-  {
     "id": "workday:r1rcm:job/Noida-India/Apprentice_R250000011967",
     "company": "R1 RCM",
     "title": "Apprentice",
@@ -944,6 +944,18 @@
     "season": "Summer 2027",
     "posted_at": "Posted 30+ Days Ago",
     "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---AI_REQ2025061319",
+    "salary": null,
+    "source": "workday"
+  },
+  {
+    "id": "workday:vishay:job/Mumbai-IN/Apprentice_JR-13858",
+    "company": "Vishay Intertechnology",
+    "title": "Apprentice",
+    "location": "Mumbai, IN",
+    "category": "Other",
+    "season": "Summer 2027",
+    "posted_at": "Posted 30+ Days Ago",
+    "url": "https://vishay.wd3.myworkdayjobs.com/en-US/VishayCareers/job/Mumbai-IN/Apprentice_JR-13858",
     "salary": null,
     "source": "workday"
   },
