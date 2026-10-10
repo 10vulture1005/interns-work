@@ -175,8 +175,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/kikoff?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "ashby:klarity-ai": {
-    "consecutive_failures": 5,
-    "last_attempt_at": "2026-10-09T11:40:00Z",
+    "consecutive_failures": 6,
+    "last_attempt_at": "2026-10-10T14:32:34Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.ashbyhq.com/posting-api/job-board/klarity-ai?includeCompensation=true'\nFor more information check: https://developer.mozilla.org/en-U"
   },
   "ashby:kos": {
@@ -775,8 +775,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/razorpay/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/40"
   },
   "greenhouse:rdccareers": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-10T08:27:04Z",
+    "consecutive_failures": 2,
+    "last_attempt_at": "2026-10-10T14:32:34Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://boards-api.greenhouse.io/v1/boards/rdccareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/"
   },
   "greenhouse:reach": {
@@ -1419,16 +1419,6 @@
     "last_attempt_at": "2026-10-10T02:08:20Z",
     "last_error": "no connector for naukri"
   },
-  "oracle:fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-10T08:27:04Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Unavailable' for url 'https://fa-etvl-saasfaprod1.fa.ocs.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisi"
-  },
-  "oracle:jpmc.fa.oraclecloud.com": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-10-10T08:27:04Z",
-    "last_error": "HTTPStatusError: Server error '503 Service Temporarily Unavailable' for url 'https://jpmc.fa.oraclecloud.com/hcmRestApi/resources/latest/recruitingCEJobRequisitions?onlyData=true&expand=requisitionLis"
-  },
   "recruitee:1x": {
     "consecutive_failures": 29,
     "last_attempt_at": "2026-10-10T02:08:20Z",
@@ -1460,8 +1450,8 @@
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/gitar-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/H"
   },
   "rippling:harness-careers": {
-    "consecutive_failures": 2,
-    "last_attempt_at": "2026-10-10T08:27:04Z",
+    "consecutive_failures": 3,
+    "last_attempt_at": "2026-10-10T14:32:34Z",
     "last_error": "HTTPStatusError: Client error '404 Not Found' for url 'https://api.rippling.com/platform/api/ats/v1/board/harness-careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
   },
   "rippling:sennos": {
@@ -1503,6 +1493,11 @@
     "consecutive_failures": 5,
     "last_attempt_at": "2026-10-09T18:17:45Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/focusrite/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
+  },
+  "workable:optitrack": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-10T14:32:34Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/optitrack/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/"
   },
   "workable:oxford-quantum-circuits-8": {
     "consecutive_failures": 4,
@@ -1863,6 +1858,11 @@
     "consecutive_failures": 12,
     "last_attempt_at": "2026-10-08T02:08:29Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/willis-aviation/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web"
+  },
+  "workable:xodus-group": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-10-10T14:32:34Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://apply.workable.com/api/v3/accounts/xodus-group/jobs'\nFor more information check: https://developer.mozilla.org/en-US/docs/Web/HTT"
   },
   "workable:zaber": {
     "consecutive_failures": 8,
